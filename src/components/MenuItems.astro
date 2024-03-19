@@ -1,0 +1,10 @@
+---
+interface Props {
+  class?: string;
+}
+const { class: className } = Astro.props;
+---
+
+<nav class:list={["menu-items menu-toggle group", className]}>
+  <slot />
+</nav>

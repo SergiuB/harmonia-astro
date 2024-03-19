@@ -1,0 +1,33 @@
+---
+
+---
+
+<slot />
+
+<script>
+  ["DOMContentLoaded", "astro:after-swap"].forEach((event) => {
+    document.addEventListener(event, addListeners);
+  });
+
+  // Function to clone and replace elements
+  function cloneAndReplace(element: Element) {
+    const clone = element.cloneNode(true);
+    element.parentNode && element.parentNode.replaceChild(clone, element);
+  }
+
+  function addListeners() {
+    const oldMenuButton = document.querySelector(".menu-button");
+    if (oldMenuButton) {
+      cloneAndReplace(oldMenuButton);
+    }
+
+    const menuButton = document.querySelector(".menu-button");
+    menuButton &&
+      menuButton.addEventListener("click", function () {
+        document.body.classList.toggle("overflow-hidden");
+        [...document.querySelectorAll(".menu-toggle")].forEach((el) => {
+          el.classList.toggle("open");
+        });
+      });
+  }
+</script>

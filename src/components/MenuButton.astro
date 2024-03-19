@@ -1,0 +1,26 @@
+---
+interface Props {
+  class?: string;
+}
+const { class: className } = Astro.props;
+---
+
+<button
+  class:list={[
+    "menu-button menu-toggle w-12 h-9 flex flex-col justify-between group",
+    className,
+  ]}
+>
+  <div
+    class="bg-primary h-1.5 w-full rounded-full transition-transform group-[.open]:translate-y-[15px] group-[.open]:rotate-45"
+  >
+  </div>
+  <div
+    class="bg-primary h-1.5 w-full rounded-full transition-opacity group-[.open]:opacity-0"
+  >
+  </div>
+  <div
+    class="bg-primary h-1.5 w-full rounded-full transition-transform group-[.open]:-translate-y-[15px] group-[.open]:-rotate-45"
+  >
+  </div>
+</button>

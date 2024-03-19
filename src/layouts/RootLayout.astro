@@ -1,0 +1,23 @@
+---
+import { ViewTransitions } from "astro:transitions";
+import "@fontsource/jost";
+import Navigation from "../components/Navigation.astro";
+const { title } = Astro.props;
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+    <ViewTransitions />
+  </head>
+  <body class="bg-white text-white w-screen">
+    <Navigation />
+    <div class="relative h-full">
+      <slot />
+    </div>
+  </body>
+</html>
