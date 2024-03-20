@@ -40,57 +40,55 @@ const buttonText = "Devino membru";
   }
 </style>
 <header
-  class="z-20 sticky top-0 my-8 py-2 px-4 h-16 flex justify-between gap-5 bg-white items-center"
+  class="z-20 sticky top-0 my-8 py-2 px-4 h-16 flex justify-between gap-5 bg-white items-center container mx-auto"
 >
-  <div class="container mx-auto flex justify-between gap-5">
-    <div class="flex gap-2">
-      <div id="logo-container">
-        <Svg file="logo-small" />
-      </div>
-      <Svg file="harmonia-text" />
+  <div class="flex gap-2">
+    <div id="logo-container">
+      <Svg file="logo-small" />
     </div>
-    <Menu>
-      <MenuItems class="z-10">
-        <div
-          class="bg-white fixed top-0 left-0 w-full h-full transition-transform -translate-y-full group-[.open]:translate-y-0 flex flex-col justify-center items-center"
-        >
-          <div
-            class="absolute -top-36 -left-64 group-[.open]:scale-75 opacity-50 scale-0 transition-transform delay-100"
-          >
-            <Svg file="logo" />
-          </div>
-          <ul
-            class="w-full h-full z-10 flex flex-col justify-center items-center backdrop-blur-md lg:gap-5 uppercase"
-          >
-            {
-              links.map(({ title, url }) => (
-                <li class="m-8">
-                  <a
-                    class="hover:text-secondary-blue text-dark transition-colors"
-                    href={url}
-                  >
-                    {title}
-                  </a>
-                </li>
-              ))
-            }
-            <li
-              class="mt-8 opacity-0 -translate-x-20 group-[.open]:translate-x-0 group-[.open]:opacity-100 group-[.open]:delay-150 transition-all"
-            >
-              <button
-                class="bg-primary rounded-full px-10 py-2 text-white uppercase hover:bg-secondary-blue hover:text-primary transition-colors"
-                >{buttonText}</button
-              >
-            </li>
-          </ul>
-        </div>
-      </MenuItems>
-      <MenuButton class="z-20" />
-    </Menu>
+    <Svg file="harmonia-text" />
   </div>
+  <Menu>
+    <MenuItems class="z-10">
+      <div
+        class="bg-white fixed top-0 left-0 w-full h-full transition-transform -translate-y-full group-[.open]:translate-y-0 flex flex-col justify-center items-center"
+      >
+        <div
+          class="absolute -top-36 -left-64 group-[.open]:scale-75 opacity-50 scale-0 transition-transform delay-100"
+        >
+          <Svg file="logo" />
+        </div>
+        <ul
+          class="w-full h-full z-10 flex flex-col justify-center items-center backdrop-blur-md lg:gap-5 uppercase"
+        >
+          {
+            links.map(({ title, url }) => (
+              <li class="m-8">
+                <a
+                  class="hover:text-secondary-blue text-dark transition-colors"
+                  href={url}
+                >
+                  {title}
+                </a>
+              </li>
+            ))
+          }
+          <li
+            class="mt-8 opacity-0 -translate-x-20 group-[.open]:translate-x-0 group-[.open]:opacity-100 group-[.open]:delay-150 transition-all"
+          >
+            <button
+              class="bg-primary rounded-full px-10 py-2 text-white uppercase hover:bg-secondary-blue hover:text-primary transition-colors"
+              >{buttonText}</button
+            >
+          </li>
+        </ul>
+      </div>
+    </MenuItems>
+    <MenuButton class="z-20" />
+  </Menu>
 </header>
 
-<div class="header-shadow z-10 fixed top-0 h-16 w-full"></div>
+<div class="header-shadow z-10 fixed top-0 h-16 w-full bg-white"></div>
 <!--
 <a href="/">Home</a>
 <a href="/about/">About</a>
@@ -116,14 +114,28 @@ const buttonText = "Devino membru";
     };
   };
 
-  window.addEventListener("scroll", debounce(setScrollPosition));
+  window.addEventListener("scroll", debounce(handleScroll));
 
-  function setScrollPosition() {
+  function handleScroll() {
     const htmlEl = document.documentElement;
+
+    // Add shadow to header
+    const headerShadowEl = document.querySelector(".header-shadow");
+    if (!headerShadowEl) throw new Error("Header shadow element not found");
+
+    if (htmlEl.scrollTop > 60) {
+      headerShadowEl.classList.add("shadow-lg");
+    } else {
+      headerShadowEl.classList.remove("shadow-lg");
+    }
+
+    // Rotate logo based on scroll position
     const logoEl = document.getElementById("logo-container");
+    if (!logoEl) throw new Error("Logo element not found");
+
     const percentage =
       htmlEl.scrollTop / (htmlEl.scrollHeight - htmlEl.clientHeight);
 
-    logoEl!.style.setProperty("--logo-rotation", `${percentage * 720}deg`);
+    logoEl.style.setProperty("--logo-rotation", `${percentage * 720}deg`);
   }
 </script>

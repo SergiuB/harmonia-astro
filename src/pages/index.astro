@@ -11,7 +11,7 @@ const pageTitle = "My Astro site";
 ---
 
 <RootLayout title={pageTitle}>
-  <section class="relative h-[50vh]">
+  <section class="relative hero-section h-[50vh]">
     <Image
       class="absolute h-full object-cover"
       src={heroImage}
@@ -20,7 +20,7 @@ const pageTitle = "My Astro site";
     <div
       class="absolute inset-0 bg-black bg-opacity-50 flex flex-col items-center justify-center gap-10 text-center"
     >
-      <h1 class="text-7xl font-bold text-center">Harmonic Reborn</h1>
+      <h1 class="text-7xl font-bold">Harmonic Reborn</h1>
       <p class="uppercase text-lg text-center w-10/12 max-w-xl">
         Un masaj holistic complet, complex si intuitiv bazat pe principii
         fondate si pe cumulul de experienta dobandit pana in prezent.
@@ -67,25 +67,3 @@ const pageTitle = "My Astro site";
   </section>
   {new Array(100).fill(0).map((_, i) => <TestDiv id={i} client:visible />)}
 </RootLayout>
-
-<script>
-  const headerShadowEl = document.querySelector(".header-shadow")!;
-  const heroEl = document.querySelector(".hero-section")!;
-  const observer = new IntersectionObserver(
-    (entries) => {
-      entries &&
-        entries.forEach((entry) => {
-          if (entry.intersectionRatio < 0.5) {
-            headerShadowEl.classList.add("shadow-lg");
-          } else {
-            headerShadowEl.classList.remove("shadow-lg");
-          }
-        });
-    },
-    {
-      threshold: [0, 0.5, 1],
-    },
-  );
-
-  heroEl && observer.observe(heroEl);
-</script>
