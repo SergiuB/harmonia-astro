@@ -1,69 +1,107 @@
 ---
 import TestDiv from "../components/TestDiv.astro";
-import LogoMission from "../components/LogoMission.astro";
+import LogoMVV from "../components/LogoMVV.astro";
 import LogoVision from "../components/LogoVision.astro";
 import LogoValues from "../components/LogoValues.astro";
 import RootLayout from "../layouts/RootLayout.astro";
-import { Image } from "astro:assets";
+import { Image, getImage } from "astro:assets";
 import heroImage from "../assets/hero-2.png";
+const optimizedBackgroundImage = await getImage({ src: heroImage });
 import Svg from "../components/Svg.astro";
 const pageTitle = "My Astro site";
 ---
 
 <RootLayout title={pageTitle}>
-  <section class="relative hero-section h-[50vh]">
-    <Image
-      class="absolute h-full object-cover"
-      src={heroImage}
-      alt="A bird sitting on a nest of eggs."
-    />
-    <div
-      class="absolute inset-0 bg-black bg-opacity-50 flex flex-col items-center justify-center gap-10 text-center"
-    >
-      <h1 class="text-7xl font-bold">Harmonic Reborn</h1>
-      <p class="uppercase text-lg text-center w-10/12 max-w-xl">
-        Un masaj holistic complet, complex si intuitiv bazat pe principii
-        fondate si pe cumulul de experienta dobandit pana in prezent.
-      </p>
-      <div class="flex gap-4">
-        <button
-          class="bg-dark border-2 border-white bg-opacity-50 text-white uppercase px-4 py-2 rounded-full w-48 hover:bg-opacity-100 hover:bg-secondary-blue hover:text-dark"
-        >
-          Afla mai multe
-        </button>
-        <button
-          class="bg-primary text-white uppercase px-4 py-2 rounded-full w-48 hover:bg-opacity-100 hover:bg-secondary-blue hover:text-dark"
-        >
-          Rezerva
-        </button>
-      </div>
+  <section
+    class="relative hero-section h-[50vh] flex flex-col items-center justify-center gap-10 text-center bg-cover bg-center"
+    style={`background-image: url('${optimizedBackgroundImage.src}')`}
+  >
+    <h1 class="text-7xl font-bold">Harmonic Reborn</h1>
+    <p class="uppercase text-lg text-center w-10/12 max-w-xl">
+      Un masaj holistic complet, complex si intuitiv bazat pe principii fondate
+      si pe cumulul de experienta dobandit pana in prezent.
+    </p>
+    <div class="flex gap-4">
+      <button
+        class="bg-dark border-2 border-white bg-opacity-50 text-white uppercase px-4 py-2 rounded-full w-44 hover:bg-opacity-100 hover:bg-secondary-blue hover:text-dark"
+      >
+        Afla mai multe
+      </button>
+      <button
+        class="bg-primary text-white uppercase px-4 py-2 rounded-full w-44 hover:bg-opacity-100 hover:bg-secondary-blue hover:text-dark"
+      >
+        Rezerva
+      </button>
     </div>
+    <!-- </div> -->
   </section>
-  <section class="flex flex-col items-center justify-center">
-    <LogoMission class="w-32 h-32 mt-24" />
-    <h1 class="text-primary text-5xl text-center mt-6">Misiune</h1>
-    <p class="text-dark text-lg text-center mt-6">
-      Prin colaborare, inovație și respect reciproc, avem misiunea de a construi
-      lumea Harmonia un loc în care fiecare persoană poate prospera, contribuind
-      activ la binele comun și la bunăstarea planetei.
-    </p>
-    <LogoValues class="w-32 h-32 mt-24" />
-    <h1 class="text-primary text-5xl text-center mt-6">Valori</h1>
-    <p class="text-dark text-lg text-center mt-6">
-      Îmbrățișăm un viitor unde respectul față de natură, colaborarea strânsă și
-      împuternicirea fiecărei persoane să strălucească individual sunt
-      esențiale. Ne dedicăm să creăm un spațiu unde fiecare acțiune reflectă
-      grijă pentru planeta noastră, unde solidaritatea întărește legăturile
-      comunitare, și unde fiecare voce are puterea de a inspira schimbare.
-    </p>
-    <LogoVision class="w-32 h-32 mt-24" />
-    <h1 class="text-primary text-5xl text-center mt-6">Viziune</h1>
-    <p class="text-dark text-lg text-center mt-6">
-      Să devenim un model de coexistență echitabilă și durabilă, unde progresul
-      și bunăstarea sunt accesibile tuturor. Suntem dedicați în a hrăni o lume
-      în care indivizii se unesc pentru a deschide calea către un viitor mai
-      strălucit și mai armonios.
-    </p>
+  <section class="container mx-auto">
+    <div class="flex flex-col items-center justify-center">
+      <LogoMVV
+        class="logo-mvv w-32 h-32 mt-20 opacity-0 translate-x-full rotate-180 transition delay-300"
+        accentFill="#0FCBFF"
+      />
+      <h1 class="text-primary text-5xl text-center mt-6">Misiune</h1>
+      <p class="text-dark text-lg text-center mt-6">
+        Prin colaborare, inovație și respect reciproc, avem misiunea de a
+        construi lumea Harmonia un loc în care fiecare persoană poate prospera,
+        contribuind activ la binele comun și la bunăstarea planetei.
+      </p>
+    </div>
+    <div class="flex flex-col items-center justify-center">
+      <LogoMVV
+        class="logo-mvv from-right values w-32 h-32 mt-20 opacity-0 -translate-x-full -rotate-180 transition delay-300"
+        accentFill="#FF969F"
+      />
+      <h1 class="text-primary text-5xl text-center mt-6">Valori</h1>
+      <p class="text-dark text-lg text-center mt-6">
+        Îmbrățișăm un viitor unde respectul față de natură, colaborarea strânsă
+        și împuternicirea fiecărei persoane să strălucească individual sunt
+        esențiale. Ne dedicăm să creăm un spațiu unde fiecare acțiune reflectă
+        grijă pentru planeta noastră, unde solidaritatea întărește legăturile
+        comunitare, și unde fiecare voce are puterea de a inspira schimbare.
+      </p>
+    </div>
+    <div class="flex flex-col items-center justify-center">
+      <LogoMVV
+        class="logo-mvv vision w-32 h-32 mt-20 opacity-0 translate-x-full rotate-180 transition delay-300"
+        accentFill="#00C3CD"
+      />
+      <h1 class="text-primary text-5xl text-center mt-6">Viziune</h1>
+      <p class="text-dark text-lg text-center mt-6">
+        Să devenim un model de coexistență echitabilă și durabilă, unde
+        progresul și bunăstarea sunt accesibile tuturor. Suntem dedicați în a
+        hrăni o lume în care indivizii se unesc pentru a deschide calea către un
+        viitor mai strălucit și mai armonios.
+      </p>
+    </div>
   </section>
   {new Array(100).fill(0).map((_, i) => <TestDiv id={i} client:visible />)}
 </RootLayout>
+
+<script>
+  const logoMVVObserver = new IntersectionObserver((entries) => {
+    entries &&
+      entries.forEach((entry) => {
+        const isFromRight = entry.target.classList.contains("from-right");
+        if (entry.isIntersecting) {
+          entry.target.classList.remove(
+            "opacity-0",
+            isFromRight ? "-translate-x-full" : "translate-x-full",
+            isFromRight ? "-rotate-180" : "rotate-180",
+          );
+          entry.target.classList.add("opacity-100");
+        } else {
+          entry.target.classList.remove("opacity-100");
+          entry.target.classList.add(
+            "opacity-0",
+            isFromRight ? "-translate-x-full" : "translate-x-full",
+            isFromRight ? "-rotate-180" : "rotate-180",
+          );
+        }
+      });
+  }, {});
+  document.querySelectorAll(".logo-mvv").forEach((el) => {
+    logoMVVObserver.observe(el);
+  });
+</script>
