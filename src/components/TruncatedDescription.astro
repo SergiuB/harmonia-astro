@@ -1,0 +1,24 @@
+---
+interface Props {
+  text: string;
+}
+const { text } = Astro.props;
+---
+
+<style>
+  .truncated-description {
+    max-height: 100px;
+    max-width: 300px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+  }
+</style>
+
+<div>
+  <p class="truncated-description">{text}</p>
+  <a class="text-secondary-blue font-bold underline" href="/authors/sonali/"
+    >Citeste mai mult</a
+  >
+</div>

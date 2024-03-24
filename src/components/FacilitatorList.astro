@@ -1,0 +1,59 @@
+---
+import TruncatedDescription from "../components/TruncatedDescription.astro";
+const facilitators = [
+  {
+    name: "Tiberiu Bozi",
+    description:
+      "După ani în care a experimentat pe propria piele diverse metode în procesul lui de vindecare, a studiat cu ardoare și a acumulat experiență în domeniul masajului holistic, al terapiilor energetice și al terapiilor complementare. Acesta este unul dintre facilitatorii care își dedică întreaga atenție și energie pentru a crea un spațiu sigur și plin de iubire, unde fiecare persoană se simte încurajată să își descopere și să își împărtășească adevărata strălucire.",
+    image: "/src/assets/facilitator1.png",
+  },
+  {
+    name: "Tiberiu Bozi",
+    description:
+      "După ani în care a experimentat pe propria piele diverse metode în procesul lui de vindecare, a studiat cu ardoare și a acumulat experiență în domeniul masajului holistic, al terapiilor energetice și al terapiilor complementare. Acesta este unul dintre facilitatorii care își dedică întreaga atenție și energie pentru a crea un spațiu sigur și plin de iubire, unde fiecare persoană se simte încurajată să își descopere și să își împărtășească adevărata strălucire.",
+    image: "/src/assets/facilitator2.png",
+  },
+];
+---
+
+<>
+  {
+    facilitators.map((facilitator, idx) => (
+      <div
+        class:list={[
+          "animate__animated animate__faster facilitator-card flex flex-row items-center justify-center gap-10 text-white",
+          { "from-right": idx % 2 },
+        ]}
+      >
+        <img
+          src={facilitator.image}
+          alt={facilitator.name}
+          class="rounded-3xl"
+        />
+        <div class="flex flex-col gap-2 py-2">
+          <h2 class="text-xl">{facilitator.name}</h2>
+          <TruncatedDescription text={facilitator.description} />
+        </div>
+      </div>
+    ))
+  }
+</>
+
+<script>
+  const facilitatorObserver = new IntersectionObserver((entries) => {
+    entries &&
+      entries.forEach((entry) => {
+        const fadeClass = entry.target.classList.contains("from-right")
+          ? "animate__fadeInRight"
+          : "animate__fadeInLeft";
+        if (entry.isIntersecting) {
+          entry.target.classList.add(fadeClass);
+        } else {
+          entry.target.classList.remove(fadeClass);
+        }
+      });
+  }, {});
+  document.querySelectorAll(".facilitator-card").forEach((el) => {
+    facilitatorObserver.observe(el);
+  });
+</script>
