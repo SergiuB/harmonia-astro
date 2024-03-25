@@ -55,8 +55,6 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
           : "animate__fadeInUp";
         if (entry.isIntersecting) {
           entry.target.classList.add(fadeClass);
-        } else {
-          // entry.target.classList.remove(fadeClass);
         }
       });
   }, {});

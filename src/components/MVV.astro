@@ -47,13 +47,6 @@ const {
             isFromRight ? "-rotate-180" : "rotate-180",
           );
           entry.target.classList.add("opacity-100");
-        } else {
-          entry.target.classList.remove("opacity-100");
-          entry.target.classList.add(
-            "opacity-0",
-            isFromRight ? "-translate-x-full" : "translate-x-full",
-            isFromRight ? "-rotate-180" : "rotate-180",
-          );
         }
       });
   }, {});
