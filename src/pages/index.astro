@@ -2,7 +2,7 @@
 import MVV from "../components/MVV.astro";
 import FacilitatorList from "../components/FacilitatorList.astro";
 import HarmoniaText from "../components/HarmoniaText.astro";
-import LogoMVV from "../components/LogoMVV.astro";
+import LogoMVV, { DarkBlue } from "../components/LogoMVV.astro";
 import RootLayout from "../layouts/RootLayout.astro";
 import { getImage } from "astro:assets";
 import heroImage from "/src/assets/hero-2.png";
@@ -35,15 +35,17 @@ const pageTitle = "My Astro site";
     </div>
     <!-- </div> -->
   </section>
-  <section class="container mx-auto py-24 flex flex-col gap-10">
-    <div class="flex flex-col items-center justify-center">
+  <section
+    class="container mx-auto py-24 flex flex-col items-center justify-center gap-10"
+  >
+    <div class="flex flex-col items-center justify-center max-w-lg">
       <MVV
         colorAccent="#0FCBFF"
         title="Misiune"
         description="Prin colaborare, inovație și respect reciproc, avem misiunea de a crea un spațiu în care fiecare persoană se simte încurajată să își descopere și să își împărtășească adevărata strălucire."
       />
     </div>
-    <div class="flex flex-col items-center justify-center">
+    <div class="flex flex-col items-center justify-center max-w-lg">
       <MVV
         colorAccent="#FF969F"
         title="Valori"
@@ -51,7 +53,7 @@ const pageTitle = "My Astro site";
         appearsFromRight
       />
     </div>
-    <div class="flex flex-col items-center justify-center">
+    <div class="flex flex-col items-center justify-center max-w-lg">
       <MVV
         colorAccent="#00C3CD"
         title="Viziune"
@@ -88,7 +90,13 @@ const pageTitle = "My Astro site";
       }
     </ul>
     <div class="flex items-center justify-center gap-2 py-16 pl-16">
-      <LogoMVV accentFill="#224884" class="h-14 w-14" />
+      <LogoMVV
+        accentFill1={DarkBlue}
+        accentFill2={DarkBlue}
+        accentFill3={DarkBlue}
+        accentFill4={DarkBlue}
+        class="h-14 w-14"
+      />
       <HarmoniaText class="h-14" />
     </div>
     <div>

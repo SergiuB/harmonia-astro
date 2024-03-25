@@ -2,8 +2,9 @@
 import Menu from "./Menu.astro";
 import MenuButton from "./MenuButton.astro";
 import MenuItems from "./MenuItems.astro";
-import Svg from "./Svg.astro";
 import { links } from "../content/links";
+import LogoMVV from "./LogoMVV.astro";
+import HarmoniaText from "./HarmoniaText.astro";
 
 const buttonText = "Devino membru";
 ---
@@ -18,9 +19,9 @@ const buttonText = "Devino membru";
 >
   <div class="flex gap-2">
     <div id="logo-container">
-      <Svg file="logo-small" />
+      <LogoMVV class="w-9 h-9" />
     </div>
-    <Svg file="harmonia-text" />
+    <HarmoniaText class="h-9" />
   </div>
   <Menu>
     <MenuItems class="z-10">
@@ -30,7 +31,7 @@ const buttonText = "Devino membru";
         <div
           class="absolute -top-36 -left-64 group-[.open]:scale-75 opacity-50 scale-0 transition-transform delay-100"
         >
-          <Svg file="logo" />
+          <LogoMVV class="w-[513px] h-[485px]" />
         </div>
         <ul
           class="w-full h-full z-10 flex flex-col justify-center items-center backdrop-blur-md lg:gap-5 uppercase"
