@@ -24,7 +24,12 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
 <>
   {
     facilitators.map((facilitator, idx) => (
-      <div class:list={["flex flex-row items-center justify-center gap-4"]}>
+      <div
+        class:list={[
+          "animate__animated animate__faster facilitator-card flex flex-row items-center justify-center gap-4",
+          { "from-right": idx % 2 },
+        ]}
+      >
         <Image
           src={images[facilitator.image]()}
           alt={facilitator.name}
@@ -40,3 +45,22 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
     ))
   }
 </>
+
+<script>
+  const facilitatorObserver = new IntersectionObserver((entries) => {
+    entries &&
+      entries.forEach((entry) => {
+        const fadeClass = entry.target.classList.contains("from-right")
+          ? "animate__fadeIn"
+          : "animate__fadeIn";
+        if (entry.isIntersecting) {
+          entry.target.classList.add(fadeClass);
+        } else {
+          entry.target.classList.remove(fadeClass);
+        }
+      });
+  }, {});
+  document.querySelectorAll(".facilitator-card").forEach((el) => {
+    facilitatorObserver.observe(el);
+  });
+</script>
