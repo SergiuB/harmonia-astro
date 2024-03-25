@@ -51,8 +51,8 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
     entries &&
       entries.forEach((entry) => {
         const fadeClass = entry.target.classList.contains("from-right")
-          ? "animate__fadeIn"
-          : "animate__fadeIn";
+          ? "animate__fadeInUp"
+          : "animate__fadeInUp";
         if (entry.isIntersecting) {
           entry.target.classList.add(fadeClass);
         } else {
