@@ -19,12 +19,7 @@ const facilitators = [
 <>
   {
     facilitators.map((facilitator, idx) => (
-      <div
-        class:list={[
-          "animate__animated animate__faster facilitator-card flex flex-row items-center justify-center gap-4",
-          { "from-right": idx % 2 },
-        ]}
-      >
+      <div class:list={["flex flex-row items-center justify-center gap-4"]}>
         <img
           src={facilitator.image}
           alt={facilitator.name}
@@ -38,22 +33,3 @@ const facilitators = [
     ))
   }
 </>
-
-<script>
-  const facilitatorObserver = new IntersectionObserver((entries) => {
-    entries &&
-      entries.forEach((entry) => {
-        const fadeClass = entry.target.classList.contains("from-right")
-          ? "animate__fadeInRight"
-          : "animate__fadeInLeft";
-        if (entry.isIntersecting) {
-          entry.target.classList.add(fadeClass);
-        } else {
-          entry.target.classList.remove(fadeClass);
-        }
-      });
-  }, {});
-  document.querySelectorAll(".facilitator-card").forEach((el) => {
-    facilitatorObserver.observe(el);
-  });
-</script>
