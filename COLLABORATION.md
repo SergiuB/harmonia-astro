@@ -1,3 +1,22 @@
+#Prima pagina + Meniu 
+
+Am adaugat imaginea asta pentru pagina de bun venit in care am pus tagline-ul de la logo direct in photoshop ca sa arate estetic:
+![alt text](src/assets/PRIMAPOZAHarmoniaWebsite.jpg)
+- la poza vom pune butoanele care vor duce catre: "Activitati" si "Spatiu"  care sa aibe aceeasi culoare.
+- in meniu sa inlocuim "HUB" cu "Spatiu"
+- Scoatem "MEMBERSHIP" din meniu si lasam doar " DEVINO MEMBRU" (nu are sens sa lasam doua butoane in meniu. unul e de ajuns). iar aici, cand apasa pe "DEVINO MEMBRU" sa ne duca catre o pagina noua in care momentan sa avem ceva de genul " WORK IN PROGRES. STAY TUNED, MORE TO COME."
+-  Meniul sa aibe urmatoarea ordine: ACTIVITATI, EVENIMENTE, FACILITATORI, SPATIU, CONTACT, DEVINO MEMBRU . LA fel si in josul Paginii principale.
+- Legat de Social Media din josul paginii principale, vom lasa doar FACEBOOK, INSTAGRAM si vom adauga si WHATSAPP. si aici sa punem si link-urile lor.
+-  Cat Despre MISIUNE, VALORI, VIZIUNE le pastram exact in aceeasi ordine in care sunt acum pe website. nu le mai sucim. Tot aici las mai jos textele lor care vor fi:
+-  Misiune: Să conectăm oameni cu experiențe și perspective unice care împreună să construiască o lume în care mintea, corpul, sufletul și mama pământ să trăiască în armonie.   
+- Valori: * Solidaritatea întărește comunitatea. * Omul sfințește locul. * Binele reprezintă scopul, pentru ca în vederea lui se fac toate celelalte. (aici as vrea sa le vad una dedesuptul celeilalte) 
+- Viziune: Să creăm spații unde oamenii se hrănesc cu sănătate fizică, echilibru emoțional și împăcare spirituală.
+
+Cam atat deocamdata <3 
+
+[title](https://www.example.com)
+
+
 # Asta e un titlu mare de tot
 ## Un titlu mare
 ### Un titlu mai mic
@@ -6,8 +25,3 @@ Ideile mele:
 - First item
 - Second item
 - Third item
-
-Am adugat imaginea asta pentru hero section:
-![alt text](src/assets/DSC01345.jpg)
-
-[title](https://www.example.com)
