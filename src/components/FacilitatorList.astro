@@ -25,7 +25,7 @@ const facilitators = (await getCollection("facilitators")).slice(
       <div
         data-aos={idx % 2 ? "fade-up" : "fade-down"}
         class:list={[
-          "facilitator-card flex flex-row items-center justify-center gap-4 inlibe-block float-left",
+          "css-animation facilitator-card flex flex-row items-center justify-center gap-4 inlibe-block float-left",
           { "from-right": idx % 2 },
         ]}
         transition:name={`facilitator-${idx}`}
