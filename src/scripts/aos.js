@@ -1,5 +1,7 @@
 import AOS from "aos";
 
-export function aosInit() {
-  AOS.init();
+export function aosInit(disable = false) {
+  AOS.init({
+    disable,
+  });
 }
