@@ -33,13 +33,13 @@ const { title } = Astro.props;
       // on IOS Chrome CSS animations are not working so we use this class to disable them
       if (navigator.userAgent.match("CriOS")) {
         document.body.classList.add("ios-chrome");
+      } else {
+        // runs on initial page load
+        aosInit();
+
+        // runs on view transitions navigation
+        document.addEventListener("astro:after-swap", aosInit);
       }
-
-      // runs on initial page load
-      aosInit();
-
-      // runs on view transitions navigation
-      document.addEventListener("astro:after-swap", aosInit);
     </script>
   </body>
 </html>
