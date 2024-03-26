@@ -10,7 +10,7 @@ const facilitators = (await getCollection("facilitators")).slice(0, 2);
   {
     facilitators.map((facilitator, idx) => (
       <div
-        data-aos={idx % 2 ? "fade-left" : "fade-right"}
+        data-aos={idx % 2 ? "fade-up" : "fade-down"}
         class:list={[
           "facilitator-card flex flex-row items-center justify-center gap-4 inlibe-block float-left",
           { "from-right": idx % 2 },
