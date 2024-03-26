@@ -3,38 +3,16 @@ import { getCollection } from "astro:content";
 import TruncatedDescription from "../components/TruncatedDescription.astro";
 import { Image } from "astro:assets";
 
-// const facilitators = [
-//   {
-//     name: "Tiberiu Bozi",
-//     description:
-//       "După ani în care a experimentat pe propria piele diverse metode în procesul lui de vindecare, a studiat cu ardoare și a acumulat experiență în domeniul masajului holistic, al terapiilor energetice și al terapiilor complementare. Acesta este unul dintre facilitatorii care își dedică întreaga atenție și energie pentru a crea un spațiu sigur și plin de iubire, unde fiecare persoană se simte încurajată să își descopere și să își împărtășească adevărata strălucire.",
-//     image: "/src/assets/facilitators/facilitator1.png",
-//   },
-//   {
-//     name: "Tiberiu Bozi",
-//     description:
-//       "După ani în care a experimentat pe propria piele diverse metode în procesul lui de vindecare, a studiat cu ardoare și a acumulat experiență în domeniul masajului holistic, al terapiilor energetice și al terapiilor complementare. Acesta este unul dintre facilitatorii care își dedică întreaga atenție și energie pentru a crea un spațiu sigur și plin de iubire, unde fiecare persoană se simte încurajată să își descopere și să își împărtășească adevărata strălucire.",
-//     image: "/src/assets/facilitators/facilitator2.png",
-//   },
-// ];
-
-// const images = import.meta.glob<{ default: ImageMetadata }>(
-//   "/src/assets/facilitators/*.{jpeg,jpg,png,gif}",
-// );
-
-// Get all entries from a collection.
-// Requires the name of the collection as an argument.
-// Example: retrieve `src/content/blog/**`
-const facilitators = await getCollection("facilitators");
-console.log(facilitators);
+const facilitators = (await getCollection("facilitators")).slice(0, 2);
 ---
 
 <>
   {
     facilitators.map((facilitator, idx) => (
       <div
+        data-aos={idx % 2 ? "fade-left" : "fade-right"}
         class:list={[
-          "animate__animated animate__faster facilitator-card flex flex-row items-center justify-center gap-4",
+          "facilitator-card flex flex-row items-center justify-center gap-4 inlibe-block float-left",
           { "from-right": idx % 2 },
         ]}
       >
@@ -45,6 +23,7 @@ console.log(facilitators);
           width={150}
           height={150}
         />
+
         <div class="flex flex-col gap-2 py-2">
           <h2 class="text-xl">{facilitator.data.name}</h2>
           <TruncatedDescription text={facilitator.data.description} />
@@ -53,20 +32,3 @@ console.log(facilitators);
     ))
   }
 </>
-
-<script>
-  const facilitatorObserver = new IntersectionObserver((entries) => {
-    entries &&
-      entries.forEach((entry) => {
-        const fadeClass = entry.target.classList.contains("from-right")
-          ? "animate__fadeInUp"
-          : "animate__fadeInUp";
-        if (entry.isIntersecting) {
-          entry.target.classList.add(fadeClass);
-        }
-      });
-  }, {});
-  document.querySelectorAll(".facilitator-card").forEach((el) => {
-    facilitatorObserver.observe(el);
-  });
-</script>

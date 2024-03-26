@@ -1,5 +1,6 @@
 ---
 import { ViewTransitions } from "astro:transitions";
+import "aos/dist/aos.css"; // You can also use <link> for styles
 import "@fontsource/jost";
 import Navigation from "../components/Navigation.astro";
 const { title } = Astro.props;
@@ -23,5 +24,11 @@ const { title } = Astro.props;
     <div class="relative h-full">
       <slot />
     </div>
+    <script>
+      import { aosInit } from "../scripts/aos";
+
+      // runs on initial page load
+      aosInit();
+    </script>
   </body>
 </html>
