@@ -31,6 +31,9 @@ const { title } = Astro.props;
 
       // runs on initial page load
       aosInit();
+
+      // runs on view transitions navigation
+      document.addEventListener("astro:after-swap", aosInit);
     </script>
   </body>
 </html>

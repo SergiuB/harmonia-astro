@@ -1,0 +1,20 @@
+---
+import MVV from "../components/MVV.astro";
+import FacilitatorList from "../components/FacilitatorList.astro";
+import RootLayout from "../layouts/RootLayout.astro";
+import { getImage } from "astro:assets";
+import heroImage from "/src/assets/facilitatori-hero.webp";
+const optimizedBackgroundImage = await getImage({ src: heroImage });
+const pageTitle = "Facilitatori";
+---
+
+<RootLayout title={pageTitle}>
+  <section
+    class="flex flex-col items-center justify-center bg-primary py-24 text-white"
+  >
+    <h1 class="text-6xl">Facilitatori</h1>
+    <div class="flex flex-col items-center justify-center gap-10 py-16 px-4">
+      <FacilitatorList />
+    </div>
+  </section>
+</RootLayout>

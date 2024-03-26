@@ -3,7 +3,20 @@ import { getCollection } from "astro:content";
 import TruncatedDescription from "../components/TruncatedDescription.astro";
 import { Image } from "astro:assets";
 
-const facilitators = (await getCollection("facilitators")).slice(0, 2);
+interface Props {
+  displayCount?: number;
+}
+export const DarkBlue = "#224884";
+export const LightBlue = "#0FCBFF";
+export const Teal = "#00C3CD";
+export const Pink = "#FF969F";
+
+const { displayCount } = Astro.props;
+
+const facilitators = (await getCollection("facilitators")).slice(
+  0,
+  displayCount,
+);
 ---
 
 <>
