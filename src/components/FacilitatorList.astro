@@ -28,6 +28,8 @@ const facilitators = (await getCollection("facilitators")).slice(
           "facilitator-card flex flex-row items-center justify-center gap-4 inlibe-block float-left",
           { "from-right": idx % 2 },
         ]}
+        transition:name={`facilitator-${idx}`}
+        transition:animate="slide"
       >
         <Image
           src={facilitator.data.image}
