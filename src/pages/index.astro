@@ -3,14 +3,14 @@ import MVV from "../components/MVV.astro";
 import FacilitatorList from "../components/FacilitatorList.astro";
 import RootLayout from "../layouts/RootLayout.astro";
 import { getImage } from "astro:assets";
-import heroImage from "/src/assets/hero-2.png";
+import heroImage from "/src/assets/hero-3.jpg";
 const optimizedBackgroundImage = await getImage({ src: heroImage });
 const pageTitle = "Harmonia";
 ---
 
 <RootLayout title={pageTitle}>
   <section
-    class="relative hero-section h-[66vh] flex flex-col items-center justify-center gap-10 text-center bg-cover bg-center"
+    class="relative hero-section h-screen flex flex-col items-center justify-center gap-10 text-center bg-cover bg-center"
     style={`background-image: url('${optimizedBackgroundImage.src}')`}
   >
     <h1 class="text-7xl font-bold">Harmonic Reborn</h1>
