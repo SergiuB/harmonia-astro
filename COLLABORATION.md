@@ -1,7 +1,7 @@
 ## Prima pagina + Meniu
 
 Am adaugat imaginea asta pentru pagina de bun venit in care am pus tagline-ul de la logo direct in photoshop ca sa arate estetic:
-![alt text](src/assets/facilitators/hero-3.jpeg)
+![alt text](src/assets/hero-3.jpeg)
 
 - ~~la poza vom pune butoanele care vor duce catre: "Activitati" si "Spatiu" care sa aibe aceeasi culoare.~~ **DONE**
 - ~~in meniu sa inlocuim "HUB" cu "Spatiu"~~ **DONE**
