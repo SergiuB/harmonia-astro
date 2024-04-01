@@ -1,9 +1,5 @@
 export const links = [
   {
-    title: "Facilitatori",
-    url: "/",
-  },
-  {
     title: "Activitati",
     url: "/",
   },
@@ -12,11 +8,11 @@ export const links = [
     url: "/",
   },
   {
-    title: "Membership",
-    url: "/",
+    title: "Facilitatori",
+    url: "facilitators",
   },
   {
-    title: "Hub",
+    title: "Spatiu",
     url: "/",
   },
   {
