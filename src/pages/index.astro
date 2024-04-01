@@ -3,31 +3,28 @@ import MVV from "../components/MVV.astro";
 import FacilitatorList from "../components/FacilitatorList.astro";
 import RootLayout from "../layouts/RootLayout.astro";
 import { getImage } from "astro:assets";
-import heroImage from "/src/assets/hero-3.jpg";
+import heroImage from "/src/assets/hero-3.jpeg";
 const optimizedBackgroundImage = await getImage({ src: heroImage });
 const pageTitle = "Harmonia";
 ---
 
 <RootLayout title={pageTitle}>
   <section
-    class="relative hero-section h-screen flex flex-col items-center justify-center gap-10 text-center bg-cover bg-center"
+    class="relative hero-section h-[calc(100vh-8rem)] flex flex-col items-center justify-between pb-20 pt-32 text-center bg-cover bg-center"
     style={`background-image: url('${optimizedBackgroundImage.src}')`}
   >
-    <h1 class="text-7xl font-bold">Harmonic Reborn</h1>
-    <p class="uppercase text-lg text-center w-10/12 max-w-xl">
-      Un masaj holistic complet, complex si intuitiv bazat pe principii fondate
-      si pe cumulul de experienta dobandit pana in prezent.
-    </p>
-    <div class="flex gap-4">
+    <h1 class="text-6xl font-bold uppercase">Healing in oneness</h1>
+
+    <div class="flex gap-2">
       <button
-        class="bg-dark border-2 border-white bg-opacity-50 text-white uppercase px-4 py-2 rounded-full w-44 hover:bg-opacity-100 hover:bg-secondary-blue hover:text-dark"
+        class="bg-dark border-2 border-white bg-opacity-50 text-white uppercase px-4 py-2 rounded-full w-40 hover:bg-opacity-100 hover:bg-secondary-blue hover:text-dark"
       >
-        Afla mai multe
+        Activități
       </button>
       <button
-        class="bg-primary text-white uppercase px-4 py-2 rounded-full w-44 hover:bg-opacity-100 hover:bg-secondary-blue hover:text-dark"
+        class="bg-dark border-2 border-white bg-opacity-50 text-white uppercase px-4 py-2 rounded-full w-40 hover:bg-opacity-100 hover:bg-secondary-blue hover:text-dark"
       >
-        Rezerva
+        Spațiu
       </button>
     </div>
     <!-- </div> -->
