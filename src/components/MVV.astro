@@ -6,12 +6,16 @@ interface Props {
   appearsFromRight?: boolean;
   title: string;
   description: string;
+  descriptionSecond?: string;
+  descriptionThird?: string;
 }
 const {
   appearsFromRight = false,
   colorAccent,
   title,
   description,
+  descriptionSecond,
+  descriptionThird,
 } = Astro.props;
 ---
 
@@ -30,9 +34,21 @@ const {
     accentFill4={colorAccent}
   />
   <h1 class="text-primary text-5xl text-center mt-6">{title}</h1>
-  <p class="text-dark text-lg text-center mt-6 px-4">
-    {description}
-  </p>
+  <div>
+    <p class="text-dark text-lg text-center mt-6 px-4">
+      {description}
+    </p>
+    {
+      descriptionSecond ? (
+        <p class="text-dark text-lg text-center px-4">{descriptionSecond}</p>
+      ) : null
+    }
+    {
+      descriptionThird ? (
+        <p class="text-dark text-lg text-center px-4">{descriptionThird}</p>
+      ) : null
+    }
+  </div>
 </>
 
 <script>
