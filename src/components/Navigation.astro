@@ -5,8 +5,6 @@ import MenuItems from "./MenuItems.astro";
 import { links } from "../content/links";
 import LogoMVV from "./LogoMVV.astro";
 import HarmoniaText from "./HarmoniaText.astro";
-
-const buttonText = "Devino membru";
 ---
 
 <style>
@@ -51,10 +49,12 @@ const buttonText = "Devino membru";
           <li
             class="css-animation mt-8 opacity-0 -translate-x-20 group-[.open]:translate-x-0 group-[.open]:opacity-100 group-[.open]:delay-150 transition-all"
           >
-            <button
+            <a
               class="css-animation bg-primary rounded-full px-10 py-2 text-white uppercase hover:bg-secondary-blue hover:text-primary transition-colors"
-              >{buttonText}</button
+              href="new-facilitator"
             >
+              Devino facilitator Harmonia
+            </a>
           </li>
         </ul>
       </div>
