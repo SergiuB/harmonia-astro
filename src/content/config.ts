@@ -5,8 +5,8 @@ const facilitatorCollection = defineCollection({
   schema: ({ image }) =>
     z.object({
       name: z.string(),
-      description: z.string(),
       image: image(),
+      tags: z.array(z.string()),
     }),
 });
 
