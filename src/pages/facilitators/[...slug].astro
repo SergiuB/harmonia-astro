@@ -29,19 +29,24 @@ const { Content } = await entry.render();
     class="flex flex-col items-center justify-center bg-primary py-10 text-white"
   >
     <div class="flex flex-col items-center justify-center max-w-screen-sm px-4">
-      <h1 class="text-6xl pt-10 my-3" transition:name="facilitators-title">
+      <h1 class="text-5xl pt-8 pb-3" transition:name="facilitators-title">
         {entry.data.name}
       </h1>
       <div class="flex flex-row gap-1">
         {
           entry.data.tags.map((tag) => (
-            <p class="bg-secondary-teal rounded-xl  text-xs font-semibold text-red  text-center p-2 uppercase">
+            <p
+              transition:name={`facilitators-tag-${tag}`}
+              class="bg-secondary-teal rounded-xl  text-xs font-semibold text-red  text-center p-2 uppercase"
+            >
               {tag}
             </p>
           ))
         }
       </div>
-      <div class="prose dark:prose-invert mt-5">
+      <div
+        class="prose text-white mt-5 prose-headings:text-white prose-a:text-secondary-blue"
+      >
         <Content />
       </div>
     </div>
