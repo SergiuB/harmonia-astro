@@ -9,7 +9,7 @@ export const links = [
   },
   {
     title: "Facilitatori",
-    url: "facilitators",
+    url: "/facilitators",
   },
   {
     title: "Spatiu",

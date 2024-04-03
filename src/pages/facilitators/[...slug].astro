@@ -1,0 +1,40 @@
+---
+import { Image } from "astro:assets";
+import { getCollection } from "astro:content";
+import RootLayout from "../../layouts/RootLayout.astro";
+
+// 1. Generate a new path for every collection entry
+export async function getStaticPaths() {
+  const blogEntries = await getCollection("facilitators");
+  return blogEntries.map((entry) => ({
+    params: { slug: entry.slug },
+    props: { entry },
+  }));
+}
+// 2. For your template, you can get the entry directly from the prop
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+---
+
+<RootLayout title={entry.data.name}>
+  <!-- <section
+    class="relative hero-section h-96 flex flex-col items-center justify-between pb-32 pt-32 text-center bg-cover bg-center"
+    style={`background-image: url('${entry.data.image.src}')`}
+  >
+  </section> -->
+  <section class="container mx-auto flex items-center justify-center">
+    <Image src={entry.data.image} alt={entry.data.name} />
+  </section>
+  <section
+    class="flex flex-col items-center justify-center bg-primary py-10 text-white"
+  >
+    <div class="flex flex-col items-center justify-center max-w-screen-sm px-4">
+      <h1 class="text-6xl py-10 my-3" transition:name="facilitators-title">
+        {entry.data.name}
+      </h1>
+      <div class="prose dark:prose-invert">
+        <Content />
+      </div>
+    </div>
+  </section>
+</RootLayout>

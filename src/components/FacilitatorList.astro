@@ -22,7 +22,7 @@ const facilitators = (await getCollection("facilitators")).slice(
 <>
   {
     facilitators.map((facilitator, idx) => (
-      <div
+      <a
         data-aos={idx % 2 ? "fade-up" : "fade-down"}
         class:list={[
           "css-animation facilitator-card flex flex-row justify-center gap-4 inlibe-block float-left",
@@ -30,6 +30,7 @@ const facilitators = (await getCollection("facilitators")).slice(
         ]}
         transition:name={`facilitator-${idx}`}
         transition:animate="slide"
+        href={`/facilitators/${facilitator.slug}`}
       >
         <Image
           src={facilitator.data.image}
@@ -49,7 +50,7 @@ const facilitators = (await getCollection("facilitators")).slice(
             ))}
           </div>
         </div>
-      </div>
+      </a>
     ))
   }
 </>
