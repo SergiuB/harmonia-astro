@@ -17,6 +17,9 @@ export default {
       fontFamily: {
         sans: ["Jost", ...defaultTheme.fontFamily.sans],
       },
+      fontSize: {
+        xxs: ["10px", "12px"],
+      },
     },
   },
   plugins: [require("@tailwindcss/typography")],
