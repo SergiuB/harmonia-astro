@@ -129,7 +129,11 @@ const individualServices = entry.data.services.filter(
       {
         entry.data.contact.website && (
           <a
-            href={`https://${entry.data.contact.website}`}
+            href={
+              entry.data.contact.website.startsWith("http")
+                ? entry.data.contact.website
+                : `https://${entry.data.contact.website}`
+            }
             class="text-white underline"
           >
             {entry.data.contact.website}
