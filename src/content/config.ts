@@ -19,10 +19,10 @@ const facilitatorCollection = defineCollection({
       images: z.array(image()),
       tags: z.array(z.string()),
       services: z.array(getServiceSchema(image)),
-      location: z.string(),
+      location: z.string().optional(),
       locationUrl: z.string().optional(),
       contact: z.object({
-        email: z.string().email(),
+        email: z.string().email().optional(),
         phone: z.string(),
         instagram: z.string().optional(),
         facebook: z.string().optional(),

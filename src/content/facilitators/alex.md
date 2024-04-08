@@ -31,6 +31,7 @@ contact:
     instagram: "https://www.instagram.com/_harmoniaworld_",
     facebook: "https://www.facebook.com/harmoniaworld",
     whatsapp: "https://chat.whatsapp.com/BtRMPGKWZpTCgrAxk60LHA",
+    website: "www.alex.io",
   }
 ---
 

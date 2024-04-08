@@ -96,5 +96,60 @@ const individualServices = entry.data.services.filter(
         )
       }
     </div>
+    <div class="flex flex-col items-center justify-center mt-4">
+      <h2 class="text-3xl py-4">Contact</h2>
+      {
+        entry.data.location &&
+          (entry.data.locationUrl ? (
+            <a href={entry.data.locationUrl} class="text-white underline">
+              {entry.data.location}
+            </a>
+          ) : (
+            <p>{entry.data.location}</p>
+          ))
+      }
+
+      <a
+        href={`tel:${entry.data.contact.phone}`}
+        class="text-white
+          underline"
+      >
+        {entry.data.contact.phone}
+      </a>
+      {
+        entry.data.contact.email && (
+          <a
+            href={`mailto:${entry.data.contact.email}`}
+            class="text-white underline"
+          >
+            {entry.data.contact.email}
+          </a>
+        )
+      }
+      {
+        entry.data.contact.website && (
+          <a href={entry.data.contact.website} class="text-white underline">
+            {entry.data.contact.website}
+          </a>
+        )
+      }
+
+      <div class="flex flex-row gap-2">
+        {
+          entry.data.contact.facebook && (
+            <a href={entry.data.contact.facebook} class="text-white underline">
+              Facebook
+            </a>
+          )
+        }
+        {
+          entry.data.contact.instagram && (
+            <a href={entry.data.contact.instagram} class="text-white underline">
+              Instagram
+            </a>
+          )
+        }
+      </div>
+    </div>
   </section>
 </RootLayout>
