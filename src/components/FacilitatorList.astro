@@ -1,6 +1,5 @@
 ---
 import { getCollection } from "astro:content";
-import TruncatedDescription from "../components/TruncatedDescription.astro";
 import { Image } from "astro:assets";
 
 interface Props {
@@ -33,7 +32,7 @@ const facilitators = (await getCollection("facilitators")).slice(
         href={`/facilitators/${facilitator.slug}`}
       >
         <Image
-          src={facilitator.data.image}
+          src={facilitator.data.images[0]}
           alt={facilitator.data.name}
           class="rounded-3xl"
           width={150}
