@@ -2,12 +2,11 @@
 name: "Alex Ionescu"
 images: ["./images/alex/alex.webp"]
 tags: ["acupunctura", "medicina chineza"]
-services:
-  [
+services: [
     {
       name: "Harmonic Reborn",
       summary: "Masaj terapeutic pentru intregul corp",
-      image: "./images/alex/massage.webp",
+      image: "./images/alex/massage.webp", #optional
       description: "The massage itself involves the manipulation of the body's soft tissues, including muscles, connective tissues, tendons, and ligaments, using different pressures and movements. Techniques may include Swedish massage for relaxation and increased circulation, deep tissue massage to target deep layers of muscle and connective tissue, or specialized modalities like sports massage for athletes, reflexology, or acupressure.",
       price: "525lei",
       duration: "120min",
@@ -22,16 +21,15 @@ services:
       duration: "75min",
     },
   ]
-location: "Strada Ion Heliade Rădulescu 27, Bucuresti"
-locationUrl: "https://maps.app.goo.gl/N7p1ArmhWqVrgBf17"
-contact:
-  {
-    email: "alex.ionescu@gmail.com",
+location: "Strada Ion Heliade Rădulescu 27, Bucuresti" #optional
+locationUrl: "https://maps.app.goo.gl/N7p1ArmhWqVrgBf17" #optional
+contact: {
+    email: "alex.ionescu@gmail.com", #optional
     phone: "0724274434",
-    instagram: "https://www.instagram.com/_harmoniaworld_",
-    facebook: "https://www.facebook.com/harmoniaworld",
-    whatsapp: "https://chat.whatsapp.com/BtRMPGKWZpTCgrAxk60LHA",
-    website: "www.alex.io",
+    instagram: "https://www.instagram.com/_harmoniaworld_", #optional
+    facebook: "https://www.facebook.com/harmoniaworld", #optional
+    whatsapp: "https://chat.whatsapp.com/BtRMPGKWZpTCgrAxk60LHA", #optional
+    website: "www.alex.io", #optional
   }
 ---
 
