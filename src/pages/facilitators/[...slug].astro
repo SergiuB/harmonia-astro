@@ -128,7 +128,10 @@ const individualServices = entry.data.services.filter(
       }
       {
         entry.data.contact.website && (
-          <a href={entry.data.contact.website} class="text-white underline">
+          <a
+            href={`https://${entry.data.contact.website}`}
+            class="text-white underline"
+          >
             {entry.data.contact.website}
           </a>
         )
