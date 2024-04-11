@@ -157,6 +157,41 @@ const individualServices = entry.data.services.filter(
           )
         }
       </div>
+      <div
+        id="gallery"
+        class="container mx-auto px-2 pb-2 grid grid-cols-2 md:grid-cols-3 gap-2"
+      >
+        {
+          entry.data.images.map((image) => (
+            <a
+              href={image.src}
+              data-pswp-width={image.width}
+              data-pswp-height={image.height}
+              target="_blank"
+              class="overflow-hidden rounded-md border-[1px] border-primary hover:border-secondary"
+            >
+              <Image
+                src={image}
+                alt={entry.data.name}
+                class="object-cover w-full grayscale-[80%] hover:grayscale-0 transition duration-300 ease-in-out aspect-[3/2]"
+                width="525"
+                height="350"
+              />
+            </a>
+          ))
+        }
+      </div>
     </div>
   </section>
 </RootLayout>
+
+<script>
+  import PhotoSwipeLightbox from "photoswipe/lightbox";
+  import "photoswipe/style.css";
+  const lightbox = new PhotoSwipeLightbox({
+    gallery: "#gallery",
+    children: "a",
+    pswpModule: () => import("photoswipe"),
+  });
+  lightbox.init();
+</script>

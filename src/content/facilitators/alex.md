@@ -1,6 +1,11 @@
 ---
 name: "Alex Ionescu"
-images: ["./images/alex/alex.webp"]
+images:
+  [
+    "./images/alex/alex.webp",
+    "./images/alex/massage.webp",
+    "./images/alex/yoga.webp",
+  ]
 tags: ["acupunctura", "medicina chineza"]
 services: [
     {
