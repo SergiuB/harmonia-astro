@@ -15,26 +15,13 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await entry.render();
 
-const groupServices = entry.data.services.filter((service) => service.isGroup);
-const individualServices = entry.data.services.filter(
-  (service) => !service.isGroup,
-);
+const oddNumberImages = entry.data.images.length % 2 !== 0;
 ---
 
 <RootLayout title={entry.data.name}>
-  <!-- <section
-    class="relative hero-section h-96 flex flex-col items-center justify-between pb-32 pt-32 text-center bg-cover bg-center"
-    style={`background-image: url('${entry.data.image.src}')`}
-  >
-  </section> -->
-  <section class="container mx-auto flex items-center justify-center">
-    <Image src={entry.data.images[0]} alt={entry.data.name} />
-  </section>
-  <section
-    class="flex flex-col items-center justify-center bg-primary py-10 text-white"
-  >
-    <div class="flex flex-col items-center justify-center max-w-screen-sm px-4">
-      <h1 class="text-5xl pt-8 pb-3" transition:name="facilitators-title">
+  <section class="bg-primary py-10 text-white">
+    <div class="container mx-auto max-w-screen-sm px-4">
+      <h1 class="text-5xl pt-4 pb-3" transition:name="facilitators-title">
         {entry.data.name}
       </h1>
       <div class="flex flex-row gap-1.5">
@@ -49,21 +36,19 @@ const individualServices = entry.data.services.filter(
           ))
         }
       </div>
-    </div>
-    <div class="px-4">
       <div
         class="prose text-white mt-5 prose-headings:text-white prose-a:text-secondary-blue"
       >
         <Content />
       </div>
       {
-        individualServices.length && (
-          <div class="flex flex-col items-center justify-center mt-4">
-            <h2 class="text-3xl py-4">Servicii individuale</h2>
+        entry.data.services.length && (
+          <div class="mt-4">
+            <h2 class="text-2xl pt-4">Servicii</h2>
             <ul>
-              {individualServices.map((service) => (
-                <li class="flex flex-col items-center justify-center">
-                  <h3 class="text-2xl text-secondary-blue underline p-1">
+              {entry.data.services.map((service) => (
+                <li class="my-2">
+                  <h3 class="text-xl text-secondary-blue underline py-1">
                     {service.name}
                   </h3>
                   <p class="text-xs">
@@ -76,99 +61,18 @@ const individualServices = entry.data.services.filter(
         )
       }
 
-      {
-        groupServices.length && (
-          <div class="flex flex-col items-center justify-center mt-4">
-            <h2 class="text-3xl py-4">Servicii de grup</h2>
-            <ul>
-              {groupServices.map((service) => (
-                <li class="flex flex-col items-center justify-center">
-                  <h3 class="text-2xl text-secondary-blue underline p-1">
-                    {service.name}
-                  </h3>
-                  <p class="text-xs">
-                    {service.price} | {service.duration} | {service.summary}
-                  </p>
-                </li>
-              ))}
-            </ul>
-          </div>
-        )
-      }
-    </div>
-    <div class="flex flex-col items-center justify-center mt-4">
-      <h2 class="text-3xl py-4">Contact</h2>
-      {
-        entry.data.location &&
-          (entry.data.locationUrl ? (
-            <a href={entry.data.locationUrl} class="text-white underline">
-              {entry.data.location}
-            </a>
-          ) : (
-            <p>{entry.data.location}</p>
-          ))
-      }
-
-      <a
-        href={`tel:${entry.data.contact.phone}`}
-        class="text-white
-          underline"
-      >
-        {entry.data.contact.phone}
-      </a>
-      {
-        entry.data.contact.email && (
-          <a
-            href={`mailto:${entry.data.contact.email}`}
-            class="text-white underline"
-          >
-            {entry.data.contact.email}
-          </a>
-        )
-      }
-      {
-        entry.data.contact.website && (
-          <a
-            href={
-              entry.data.contact.website.startsWith("http")
-                ? entry.data.contact.website
-                : `https://${entry.data.contact.website}`
-            }
-            class="text-white underline"
-          >
-            {entry.data.contact.website}
-          </a>
-        )
-      }
-
-      <div class="flex flex-row gap-2">
+      <div id="gallery" class="mt-6 grid grid-cols-2 gap-2">
         {
-          entry.data.contact.facebook && (
-            <a href={entry.data.contact.facebook} class="text-white underline">
-              Facebook
-            </a>
-          )
-        }
-        {
-          entry.data.contact.instagram && (
-            <a href={entry.data.contact.instagram} class="text-white underline">
-              Instagram
-            </a>
-          )
-        }
-      </div>
-      <div
-        id="gallery"
-        class="container mx-auto px-2 pb-2 grid grid-cols-2 md:grid-cols-3 gap-2"
-      >
-        {
-          entry.data.images.map((image) => (
+          entry.data.images.map((image, idx, imageArr) => (
             <a
               href={image.src}
               data-pswp-width={image.width}
               data-pswp-height={image.height}
               target="_blank"
-              class="overflow-hidden rounded-md border-[1px] border-primary hover:border-secondary"
+              class:list={[
+                "overflow-hidden rounded-3xl border-[1px] border-primary hover:border-secondary",
+                { "col-span-2 ": imageArr.length % 2 && idx === 0 },
+              ]}
             >
               <Image
                 src={image}
@@ -180,6 +84,89 @@ const individualServices = entry.data.services.filter(
             </a>
           ))
         }
+      </div>
+      <div class="flex flex-col mt-4">
+        <h2 class="text-2xl pt-4 mb-2">Contact</h2>
+        {
+          entry.data.location && (
+            <div class="flex">
+              <p class="text-white ">Locație:</p>
+              {entry.data.locationUrl ? (
+                <a
+                  href={entry.data.locationUrl}
+                  class="text-white underline  pl-2"
+                >
+                  {entry.data.location}
+                </a>
+              ) : (
+                <p>{entry.data.location}</p>
+              )}
+            </div>
+          )
+        }
+
+        <div class="flex">
+          <p class="text-white">Telefon:</p>
+          <a
+            href={`tel:${entry.data.contact.phone}`}
+            class="text-white underline pl-2"
+          >
+            {entry.data.contact.phone}
+          </a>
+        </div>
+        {
+          entry.data.contact.email && (
+            <div class="flex">
+              <p class="text-white">Email:</p>
+              <a
+                href={`mailto:${entry.data.contact.email}`}
+                class="text-white underline pl-2"
+              >
+                {entry.data.contact.email}
+              </a>
+            </div>
+          )
+        }
+        {
+          entry.data.contact.website && (
+            <div class="flex">
+              <p class="text-white">Email:</p>
+              <a
+                href={
+                  entry.data.contact.website.startsWith("http")
+                    ? entry.data.contact.website
+                    : `https://${entry.data.contact.website}`
+                }
+                class="text-white underline pl-2"
+              >
+                {entry.data.contact.website}
+              </a>
+            </div>
+          )
+        }
+
+        <div class="flex flex-row gap-2">
+          {
+            entry.data.contact.facebook && (
+              <a
+                href={entry.data.contact.facebook}
+                class="text-white underline"
+              >
+                Facebook
+              </a>
+            )
+          }
+          {
+            entry.data.contact.instagram && (
+              <a
+                href={entry.data.contact.instagram}
+                class="text-white underline"
+              >
+                Instagram
+              </a>
+            )
+          }
+        </div>
       </div>
     </div>
   </section>
