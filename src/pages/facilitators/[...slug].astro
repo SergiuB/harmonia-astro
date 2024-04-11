@@ -87,85 +87,86 @@ const oddNumberImages = entry.data.images.length % 2 !== 0;
       </div>
       <div class="flex flex-col mt-4">
         <h2 class="text-2xl pt-4 mb-2">Contact</h2>
-        {
-          entry.data.location && (
-            <div class="flex">
-              <p class="text-white ">Locație:</p>
-              {entry.data.locationUrl ? (
-                <a
-                  href={entry.data.locationUrl}
-                  class="text-white underline  pl-2"
-                >
-                  {entry.data.location}
-                </a>
-              ) : (
-                <p>{entry.data.location}</p>
-              )}
-            </div>
-          )
-        }
+        <div class="grid grid-cols-6 gap-2">
+          {
+            entry.data.location && (
+              <>
+                <p class="text-white ">Locație:</p>
+                {entry.data.locationUrl ? (
+                  <a
+                    href={entry.data.locationUrl}
+                    class="text-white underline  col-span-5"
+                  >
+                    {entry.data.location}
+                  </a>
+                ) : (
+                  <p>{entry.data.location}</p>
+                )}
+              </>
+            )
+          }
 
-        <div class="flex">
           <p class="text-white">Telefon:</p>
           <a
             href={`tel:${entry.data.contact.phone}`}
-            class="text-white underline pl-2"
+            class="text-white underline col-span-5"
           >
             {entry.data.contact.phone}
           </a>
-        </div>
-        {
-          entry.data.contact.email && (
-            <div class="flex">
-              <p class="text-white">Email:</p>
-              <a
-                href={`mailto:${entry.data.contact.email}`}
-                class="text-white underline pl-2"
-              >
-                {entry.data.contact.email}
-              </a>
-            </div>
-          )
-        }
-        {
-          entry.data.contact.website && (
-            <div class="flex">
-              <p class="text-white">Email:</p>
-              <a
-                href={
-                  entry.data.contact.website.startsWith("http")
-                    ? entry.data.contact.website
-                    : `https://${entry.data.contact.website}`
-                }
-                class="text-white underline pl-2"
-              >
-                {entry.data.contact.website}
-              </a>
-            </div>
-          )
-        }
+          {
+            entry.data.contact.email && (
+              <>
+                <p class="text-white">Email:</p>
+                <a
+                  href={`mailto:${entry.data.contact.email}`}
+                  class="text-white underline col-span-5"
+                >
+                  {entry.data.contact.email}
+                </a>
+              </>
+            )
+          }
+          {
+            entry.data.contact.website && (
+              <>
+                <p class="text-white">Web:</p>
+                <a
+                  href={
+                    entry.data.contact.website.startsWith("http")
+                      ? entry.data.contact.website
+                      : `https://${entry.data.contact.website}`
+                  }
+                  class="text-white underline col-span-5"
+                >
+                  {entry.data.contact.website}
+                </a>
+              </>
+            )
+          }
 
-        <div class="flex flex-row gap-2">
-          {
-            entry.data.contact.facebook && (
-              <a
-                href={entry.data.contact.facebook}
-                class="text-white underline"
-              >
-                Facebook
-              </a>
-            )
-          }
-          {
-            entry.data.contact.instagram && (
-              <a
-                href={entry.data.contact.instagram}
-                class="text-white underline"
-              >
-                Instagram
-              </a>
-            )
-          }
+          <p class="text-white">Social:</p>
+          <div class="flex gap-2 col-span-5">
+            {
+              entry.data.contact.facebook && (
+                <a
+                  href={entry.data.contact.facebook}
+                  class="text-white underline"
+                >
+                  Facebook
+                </a>
+              )
+            }
+            {
+              entry.data.contact.instagram && (
+                <a
+                  href={entry.data.contact.instagram}
+                  class="text-white underline"
+                >
+                  Instagram
+                </a>
+              )
+            }
+          </div>
         </div>
       </div>
     </div>
