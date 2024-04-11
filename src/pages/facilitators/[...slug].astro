@@ -18,6 +18,12 @@ const { Content } = await entry.render();
 const oddNumberImages = entry.data.images.length % 2 !== 0;
 ---
 
+<style is:global>
+  .pswp__img {
+    border-radius: 1.5rem;
+  }
+</style>
+
 <RootLayout title={entry.data.name}>
   <section class="bg-primary py-10 text-white">
     <div class="container mx-auto max-w-screen-sm px-4">
@@ -70,14 +76,14 @@ const oddNumberImages = entry.data.images.length % 2 !== 0;
               data-pswp-height={image.height}
               target="_blank"
               class:list={[
-                "overflow-hidden rounded-3xl border-[1px] border-primary hover:border-secondary",
+                "overflow-hidden border-[1px] border-primary hover:border-secondary",
                 { "col-span-2 ": imageArr.length % 2 && idx === 0 },
               ]}
             >
               <Image
                 src={image}
                 alt={entry.data.name}
-                class="object-cover w-full grayscale-[80%] hover:grayscale-0 transition duration-300 ease-in-out aspect-[3/2]"
+                class="object-cover w-full grayscale-[80%] hover:grayscale-0 transition duration-300 ease-in-out aspect-[3/2] rounded-3xl "
                 width="525"
                 height="350"
               />
