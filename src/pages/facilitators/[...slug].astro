@@ -66,7 +66,7 @@ const { Content } = await entry.render();
                     </div>
                     {service.reserveLink && (
                       <a
-                        href={`tel:${entry.data.contact.phone}`}
+                        href={service.reserveLink}
                         class="rounded-xl bg-secondary-blue uppercase h-7 px-2 pt-1 mt-2"
                       >
                         Rezervă
