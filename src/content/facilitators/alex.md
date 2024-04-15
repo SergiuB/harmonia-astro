@@ -15,6 +15,7 @@ services: [
       description: "The massage itself involves the manipulation of the body's soft tissues, including muscles, connective tissues, tendons, and ligaments, using different pressures and movements. Techniques may include Swedish massage for relaxation and increased circulation, deep tissue massage to target deep layers of muscle and connective tissue, or specialized modalities like sports massage for athletes, reflexology, or acupressure.",
       price: "525lei",
       duration: "120min",
+      reserveLink: "https://wa.me/0724274434",
     },
     {
       name: "Yoga class",
@@ -24,6 +25,7 @@ services: [
       isGroup: true,
       price: "60lei",
       duration: "75min",
+      reserveLink: "https://wa.me/0724274434",
     },
   ]
 location: "Strada Ion Heliade Rădulescu 27, Bucuresti" #optional

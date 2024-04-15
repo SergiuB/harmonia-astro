@@ -9,6 +9,7 @@ const getServiceSchema = (image: ImageFunction) =>
     price: z.string(),
     duration: z.string(),
     isGroup: z.boolean().default(false),
+    reserveLink: z.string().optional(),
   });
 
 const facilitatorCollection = defineCollection({
