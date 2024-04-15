@@ -10,9 +10,13 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@alpinejs/collapse": "^3.13.8",
+    "@astrojs/alpinejs": "^0.4.0",
     "@astrojs/check": "^0.5.5",
     "@astrojs/tailwind": "^5.1.0",
     "@fontsource/jost": "^5.0.16",
+    "@types/alpinejs": "^3.13.10",
+    "alpinejs": "^3.13.8",
     "aos": "^3.0.0-beta.6",
     "astro": "^4.4.2",
     "photoswipe": "^5.4.3",
