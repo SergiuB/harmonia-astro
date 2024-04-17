@@ -21,7 +21,7 @@ Pe lângă asta, cu timpul am învățat să ascult tot ceea ce îmi spune clien
       reserveLink: "https://app.simplymeet.me/harmoniaoptima",
     },
     {
-      name: "(E)Motion Somatic release",
+      name: "(E)Motion Somatic Release",
       summary: "Terapie Holistica : Întregul corp",
       image: "./images/alex/yoga.webp",
       description: "Vibrațiile corporale sunt denumite și tremurături neurogenice. Ele sunt o experiență corporală primordială care își au originea în procesele memoriei procedurale ale creierului. Ca atare, ele sunt un aspect natural al compoziției genetice a organismului uman.
