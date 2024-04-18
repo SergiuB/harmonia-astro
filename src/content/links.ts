@@ -1,7 +1,7 @@
 export const links = [
   {
     title: "Activitati",
-    url: "/",
+    url: "/activities",
   },
   {
     title: "Evenimente",

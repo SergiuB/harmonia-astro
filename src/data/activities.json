@@ -1,0 +1,194 @@
+{
+  "individual": [
+    {
+      "id": "access-bars",
+      "name": "Access Bars"
+    },
+    {
+      "id": "acupunctura",
+      "name": "Acupunctura"
+    },
+    {
+      "id": "aromaterapie",
+      "name": "Aromaterapie"
+    },
+    {
+      "id": "arta",
+      "name": "Arta"
+    },
+    {
+      "id": "astrologie",
+      "name": "Astrologie"
+    },
+    {
+      "id": "ayurveda",
+      "name": "Ayurveda"
+    },
+    {
+      "id": "breathwork",
+      "name": "Breathwork"
+    },
+    {
+      "id": "chiropractor",
+      "name": "Chiropractor"
+    },
+    {
+      "id": "coaching",
+      "name": "Coaching"
+    },
+    {
+      "id": "cupping",
+      "name": "Cupping"
+    },
+    {
+      "id": "face-body-paint",
+      "name": "Face & Body Paint"
+    },
+    {
+      "id": "fitness",
+      "name": "Fitness"
+    },
+    {
+      "id": "fizioterapie",
+      "name": "Fizioterapie"
+    },
+    {
+      "id": "hipnoza",
+      "name": "Hipnoza"
+    },
+    {
+      "id": "kinetoterapie",
+      "name": "Kinetoterapie"
+    },
+    {
+      "id": "masaj",
+      "name": "Masaj"
+    },
+    {
+      "id": "medicina-traditionala-chineza",
+      "name": "Medicina Traditionala Chineza"
+    },
+    {
+      "id": "meditatie-ghidata",
+      "name": "Meditatie ghidata"
+    },
+    {
+      "id": "miscare-constienta",
+      "name": "Miscare Constienta"
+    },
+    {
+      "id": "muzica",
+      "name": "Muzica"
+    },
+    {
+      "id": "nutritie",
+      "name": "Nutritie"
+    },
+    {
+      "id": "pilates",
+      "name": "Pilates"
+    },
+    {
+      "id": "psihoterapie",
+      "name": "Psihoterapie"
+    },
+    {
+      "id": "regresie",
+      "name": "Regresie"
+    },
+    {
+      "id": "reiki",
+      "name": "Reiki"
+    },
+    {
+      "id": "scanare-zvto",
+      "name": "Scanare Zvto"
+    },
+    {
+      "id": "sound-healing",
+      "name": "Sound healing"
+    },
+    {
+      "id": "tarot",
+      "name": "Tarot"
+    },
+    {
+      "id": "terapia-sphere",
+      "name": "Terapia Sphere"
+    },
+    {
+      "id": "terapii-shamanice",
+      "name": "Terapii Shamanice"
+    },
+    {
+      "id": "tetha-healing",
+      "name": "Tetha Healing"
+    },
+    {
+      "id": "yoga",
+      "name": "Yoga"
+    }
+  ],
+  "group": [
+    {
+      "id": "actorie",
+      "name": "Actorie"
+    },
+    {
+      "id": "breathwork",
+      "name": "Breathwork"
+    },
+    {
+      "id": "cursuri",
+      "name": "Cursuri"
+    },
+    {
+      "id": "dans",
+      "name": "Dans"
+    },
+    {
+      "id": "ecstatic-dance",
+      "name": "Ecstatic Dance"
+    },
+    {
+      "id": "fitness",
+      "name": "Fitness"
+    },
+    {
+      "id": "meditatii-ghidate",
+      "name": "Meditatii ghidate"
+    },
+    {
+      "id": "miscare-constienta",
+      "name": "Miscare Constienta"
+    },
+    {
+      "id": "muzica",
+      "name": "Muzica"
+    },
+    {
+      "id": "pilates",
+      "name": "Pilates"
+    },
+    {
+      "id": "sound-healing",
+      "name": "Sound Healing"
+    },
+    {
+      "id": "terapie-prin-arta",
+      "name": "Terapie prin Arta"
+    },
+    {
+      "id": "terapii-shamanice",
+      "name": "Terapii Shamanice"
+    },
+    {
+      "id": "workshops",
+      "name": "Workshops"
+    },
+    {
+      "id": "yoga",
+      "name": "Yoga"
+    }
+  ]
+}

@@ -7,6 +7,7 @@ images:
     "./images/alex/yoga.webp",
   ]
 tags: ["acupunctura", "medicina chineza"]
+activities: ""
 services: [
     {
       name: "Harmonic Reborn",

@@ -1,0 +1,56 @@
+---
+import FacilitatorList from "../components/FacilitatorList.astro";
+import RootLayout from "../layouts/RootLayout.astro";
+const pageTitle = "Activități";
+import activities from "../data/activities.json";
+---
+
+<RootLayout title={pageTitle}>
+  <section
+    class="flex flex-col items-center justify-center bg-primary py-24 text-white"
+  >
+    <h1 class="text-6xl mb-8" transition:name="facilitators-title">
+      Activități
+    </h1>
+    <div class="flex flex-row gap-2">
+      <div class="max-w-36">
+        <h2 class="text-2xl pt-4 text-center" transition:name="facilitator-0">
+          Individuale
+        </h2>
+        <ul>
+          {
+            activities.individual.map((activity) => (
+              <li class="py-2 text-center">
+                <a
+                  href={`/facilitators?activity=${activity.id}`}
+                  class=" text-secondary-blue py-1"
+                >
+                  {activity.name}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+      <div class="max-w-36">
+        <h2 class="text-2xl pt-4 text-center" transition:name="facilitator-1">
+          De grup
+        </h2>
+        <ul>
+          {
+            activities.group.map((activity) => (
+              <li class="py-2  text-center">
+                <a
+                  href={`/facilitators?activity=${activity.id}`}
+                  class=" text-secondary-blue py-1"
+                >
+                  {activity.name}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+    </div>
+  </section>
+</RootLayout>
