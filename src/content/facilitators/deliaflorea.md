@@ -6,16 +6,19 @@ images:
     "./images/alex/massage.webp",
     "./images/alex/yoga.webp",
   ]
-tags: ["acupunctura", "medicina chineza"]
+tags: ["terapeut", "medicină alternativă"]
 activities: ""
 services: [
     {
-      name: "Harmonic Reborn",
+      name: "Scanare Zyto și interpretare",
       summary: "Masaj terapeutic pentru intregul corp",
       image: "./images/alex/massage.webp", #optional
-      description: "The massage itself involves the manipulation of the body's soft tissues, including muscles, connective tissues, tendons, and ligaments, using different pressures and movements. Techniques may include Swedish massage for relaxation and increased circulation, deep tissue massage to target deep layers of muscle and connective tissue, or specialized modalities like sports massage for athletes, reflexology, or acupressure.",
-      price: "525lei",
-      duration: "120min",
+      description: "Scanarea Zyto implică prezentarea întrebărilor sub formă de semnături digitale către organism, care răspunde direct la acestea. dispozitivul zyto măsoară răspunsul galvanic al pielii la fiecare impuls unic și transmite datele direct către software-ul pentru analiză.
+Cum funcționează? Un raport ușor de citit prezintă un clasament al articolelor ale căror semnături digitale au generat coerență biologică sau preferințe. observarea tiparelor, relațiilor și tendințelor din datele raportului poate oferi o perspectivă valoroasă asupra stării de bine a clientului. 
+Ia decizii mai bune pentru starea ta de bine. o simplă scanare a markerilor biologici te poate ajuta să iei decizii mai informate privind starea ta de bine.
+Fiecare sesiune include atât scanarea, cât și interpretarea rezultatelor pentru a oferi o înțelegere comprehensivă.",
+      price: "250lei",
+      duration: "60min",
       reserveLink: "https://wa.me/40724274434",
     },
     {
@@ -41,4 +44,6 @@ contact: {
   }
 ---
 
-As an acupuncturist with a passion for traditional Chinese medicine, I am dedicated to fostering holistic health and well-being through the ancient art of acupuncture. With years of specialized training and hands-on experience, I have honed my skills in identifying and treating a wide range of physical and emotional imbalances. My approach is patient-centered, focusing on understanding each individual's unique health needs and creating personalized treatment plans that promote healing, balance, and vitality.
+Pornește pe drumul ei către terapiile din medicina alternativă acum mai bine de 7 ani, la cunoscuta Școală de Masaj Tradițional Thailandez Loi Kroh din Chiangmai. Aici, a absolvit un program intensiv, devenind practicant de masaj thailandez.
+Ulterior, captivată proprietățile uleiurilor esențiale, ea și-a dedicat timpul explorând beneficiile aromaterapiei alături de experți, dezvoltându-și abilitățile pentru a oferi tratamente exceptionale celor în căutarea stării de bine. 
+Acum, Delia oferă oamenilor propriile ei terapii holistice care îmbină diverse tehnici și instrumente pentru a aduce echilibru și armonie pe întregul organism uman. 
