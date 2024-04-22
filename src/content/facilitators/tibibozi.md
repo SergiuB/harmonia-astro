@@ -3,9 +3,6 @@ name: "Tiberiu Bozi"
 images:
   [
     "./images/tibibozi/tibibozi3.PNG",
-    "./images/tibibozi/DSC08316.jpg",
-    "./images/tibibozi/DSC01860.jpg",
-    "./images/tibibozi/DSC01825.jpg",
   ]
 tags: ["Terapeut", "Coach", "Holistic Approach"]
 services: [
