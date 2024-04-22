@@ -2,9 +2,7 @@
 name: "Delia Florea"
 images:
   [
-    "./images/alex/alex.webp",
-    "./images/alex/massage.webp",
-    "./images/alex/yoga.webp",
+    "./images/alex/DSC01389-2.jpg",
   ]
 tags: ["terapeut", "medicină alternativă"]
 activities: ""
