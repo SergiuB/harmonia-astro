@@ -2,7 +2,7 @@
 name: "Tiberiu Bozi"
 images:
   [
-    "./images/tibibozi/tibibozi2.PNG",
+    "./images/tibibozi/tibibozi3.PNG",
     "./images/tibibozi/DSC08316.jpg",
     "./images/tibibozi/DSC01860.jpg",
     "./images/tibibozi/DSC01825.jpg",
