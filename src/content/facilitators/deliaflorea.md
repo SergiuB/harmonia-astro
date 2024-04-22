@@ -8,8 +8,8 @@ tags: ["terapeut", "medicină alternativă"]
 activities: ""
 services: [
     {
-      name: "Scanare Zyto și interpretare",
-      summary: "Medicina Alternativă | Interpretare rezultate",
+      name: "Scanare Zyto",
+      summary: "Med. Alternativă | Interpretare rezultate",
       image: "./images/alex/massage.webp", #optional
       description: "Scanarea Zyto implică prezentarea întrebărilor sub formă de semnături digitale către organism, care răspunde direct la acestea. dispozitivul zyto măsoară răspunsul galvanic al pielii la fiecare impuls unic și transmite datele direct către software-ul pentru analiză.
 Cum funcționează? Un raport ușor de citit prezintă un clasament al articolelor ale căror semnături digitale au generat coerență biologică sau preferințe. observarea tiparelor, relațiilor și tendințelor din datele raportului poate oferi o perspectivă valoroasă asupra stării de bine a clientului. 
