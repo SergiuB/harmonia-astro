@@ -31,8 +31,7 @@ Fiecare sesiune este o promisiune a excelenței, concepută să vă ofere nu doa
     {
       name: "Harmonic Spa",
       summary: "Masaj : Întregul corp",
-      description: "Intră într-un univers de liniște serenă și rejuvenare cu ajutor-ul terapiei  "Călătoria Spa - Armonie ". Îmbibă-te într-o oază holistică unde tradițiile de vindecare străvechi se întâlnesc cu tehnici moderne de wellness pentru a-ți alina corpul, mintea și spiritul.
-Ear Candling (Curățarea urechilor cu lumânare): Experimentează căldura delicată și beneficiile terapeutice ale curățării urechii cu lumânare, o practică veche de secole, ce se crede că curăță canalul urechii și promovează relaxarea. Lasă-ți tensiunea să se elibereze în timp ce aromele delicate te învăluie, transportându-te într-o stare de pace interioară.
+      description: "Intră într-un univers de liniște serenă și rejuvenare cu ajutor-ul terapiei  "Călătoria Spa - Armonie ". Îmbibă-te într-o oază holistică unde tradițiile de vindecare străvechi se întâlnesc cu tehnici moderne de wellness pentru a-ți alina corpul, mintea și spiritul. Ear Candling (Curățarea urechilor cu lumânare): Experimentează căldura delicată și beneficiile terapeutice ale curățării urechii cu lumânare, o practică veche de secole, ce se crede că curăță canalul urechii și promovează relaxarea. Lasă-ți tensiunea să se elibereze în timp ce aromele delicate te învăluie, transportându-te într-o stare de pace interioară.
 Gua Sha: Redescoperă echilibrul și vitalitatea cu arta străveche a Gua Sha. Voi folosi unelte netede și terapeutice pentru a masa ușor și a stimula punctele cheie de energie, eliberând tensiunea și promovând un flux armonios de Qi în întregul corp.
 Dry Brushing (Perierea uscată a pielii): Trezește-ți simțurile și revitalizează-ți pielea cu practica revigorantă a perierii uscate. Simte cum stresul se topește în timp ce periile moi exfoliază ușor, îmbunătățesc circulația și îți lasă pielea radiantă și revigorată.
 Head Massage (Masajul capului): Plutește într-o stare de fericire în timp ce mâinile experte își fac magia cu masajul  liniștitor al capului. Eliberează tensiunea acumulată din scalp, gât și umeri, topind stresul și lăsându-te să te simți complet relaxat și rejuvenat.
@@ -91,7 +90,6 @@ contact: {
     email: "delixirelia@gmail.com", #optional
     phone: "0765765455",
     instagram: "https://www.instagram.com/delia.heals", #optional
-    facebook: "https://www.facebook.com/DeliaFlo", #optional
     whatsapp: "https://alvo.chat/4luw", #optional
   }
 ---
