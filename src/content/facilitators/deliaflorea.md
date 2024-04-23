@@ -10,7 +10,6 @@ services: [
     {
       name: "Scanare Zyto",
       summary: "Med. Alternativă | Interpretare rezultate",
-      image: "./images/alex/massage.webp", #optional
       description: "Scanarea Zyto implică prezentarea întrebărilor sub formă de semnături digitale către organism, care răspunde direct la acestea. dispozitivul zyto măsoară răspunsul galvanic al pielii la fiecare impuls unic și transmite datele direct către software-ul pentru analiză.
 Cum funcționează? Un raport ușor de citit prezintă un clasament al articolelor ale căror semnături digitale au generat coerență biologică sau preferințe. observarea tiparelor, relațiilor și tendințelor din datele raportului poate oferi o perspectivă valoroasă asupra stării de bine a clientului. 
 Ia decizii mai bune pentru starea ta de bine. o simplă scanare a markerilor biologici te poate ajuta să iei decizii mai informate privind starea ta de bine.
@@ -22,18 +21,16 @@ Fiecare sesiune include atât scanarea, cât și interpretarea rezultatelor pent
     {
       name: "Harmonic Fusion",
       summary: "Masaj : Întregul corp",
-      image: "./images/alex/yoga.webp",
       description: "Având o abordare holistică, Harmonic Fusion integrează tehnicile de întindere specifice masajului thailandez, precizia shiatsu, intensitatea terapiei deep tissue, fluiditatea masajului suedez, alături de tehnici somatice și limfatice. Reflexologia picioarelor și  masajul capilar pot completa acest spectru, asigurând un echilibru între corp și minte. Acest masaj exclusivist este o artă a atingerii ce combină metode tradiționale și moderne pentru a crea o experiență profund personalizată. Utilizând o selecție rafinată de uleiuri esențiale, terapia noastră este adaptată nevoilor dumneavoastră unice, oferind o evadare perfectă din stresul cotidian.
 Fiecare sesiune este o promisiune a excelenței, concepută să vă ofere nu doar relaxare, ci și o regenerare profundă. Redefiniți-vă binele cu Harmonic Fusion, unde fiecare detaliu este gândit pentru confortul și satisfacția dumneavoastră supremă.",
       isGroup: true,
-      price: "250lei, 500lei",
-      duration: "60min, 150min",
+      price: "250lei/500lei",
+      duration: "60min/150min",
       reserveLink: "https://alvo.chat/4luw",
     },
-        {
+    {
       name: "Harmonic Spa",
       summary: "Masaj : Întregul corp",
-      image: "./images/alex/yoga.webp",
       description: "Intră într-un univers de liniște serenă și rejuvenare cu ajutor-ul terapiei  "Călătoria Spa - Armonie ". Îmbibă-te într-o oază holistică unde tradițiile de vindecare străvechi se întâlnesc cu tehnici moderne de wellness pentru a-ți alina corpul, mintea și spiritul.
 Ear Candling (Curățarea urechilor cu lumânare): Experimentează căldura delicată și beneficiile terapeutice ale curățării urechii cu lumânare, o practică veche de secole, ce se crede că curăță canalul urechii și promovează relaxarea. Lasă-ți tensiunea să se elibereze în timp ce aromele delicate te învăluie, transportându-te într-o stare de pace interioară.
 Gua Sha: Redescoperă echilibrul și vitalitatea cu arta străveche a Gua Sha. Voi folosi unelte netede și terapeutice pentru a masa ușor și a stimula punctele cheie de energie, eliberând tensiunea și promovând un flux armonios de Qi în întregul corp.
@@ -41,8 +38,8 @@ Dry Brushing (Perierea uscată a pielii): Trezește-ți simțurile și revitaliz
 Head Massage (Masajul capului): Plutește într-o stare de fericire în timp ce mâinile experte își fac magia cu masajul  liniștitor al capului. Eliberează tensiunea acumulată din scalp, gât și umeri, topind stresul și lăsându-te să te simți complet relaxat și rejuvenat.
 Se recomandă ședința completă de 2 ore unde la final veți primi și un cadou, dar dacă timpul nu va este favorabil, atunci acest serviciu poate fi adaptat la o oră, minim două, maxim trei  dintre servicii care vor fi stabilite încă de la început.",
       isGroup: true,
-      price: "250lei, 450lei",
-      duration: "60min, 120min",
+      price: "250lei/450lei",
+      duration: "60min/120min",
       reserveLink: "https://alvo.chat/4luw",
     },
                 {
@@ -58,7 +55,6 @@ Se recomandă ședința completă de 2 ore unde la final veți primi și un cado
                 {
       name: "Simfonia Celulelor",
       summary: "Masaj : Zona spatelui",
-      image: "./images/alex/yoga.webp",
       description: "Simfonia Celulelor reprezintă o colecție de aplicații de uleiuri esențiale. Protocoale create cu grijă pentru a instaura armonie fizică, emoțională și spirituală în întregul corp. fiecare aplicație se concentrează asupra unui sistem specific al corpului, oferind o abordare focalizată pentru diverse afecțiuni.
 La ce să vă așteptați? Această terapie se adresează atât doamnelor, cât și domnilor, bazându-se pe aplicarea de până la 10 uleiuri esențiale diferite. In această combinație bine gândită, aceste uleiuri vizează sisteme specifice ale corpului, contribuind la gestionarea durerii, îmbunătățirea calității somnului, reducerea stresului, agitației și anxietății, calmarea articulațiilor, tratarea durerilor de cap și a migrenelor. De asemenea, acestea pot ameliora efectele secundare ale chimioterapiei, diminua disconfortul travaliului, lupta împotriva bacteriilor, virușilor sau ciupercilor, îmbunătăți digestia și întări imunitatea, oferind o soluție completă și personalizată pentru o varietate de nevoi de sănătate.
 Pentru a completa acest ritual deosebit, un masaj al spatelui are loc înainte de aplicarea uleiurilor.",
@@ -70,7 +66,6 @@ Pentru a completa acest ritual deosebit, un masaj al spatelui are loc înainte d
                 {
       name: "Aromatouch",
       summary: "Terapie : Meridiane",
-      image: "./images/alex/yoga.webp",
       description: "Prin tehnica aromatouch voi aplica uleiurile esențiale de-a lungul meridianelor energetice și a punctelor de contact viscerale ale spatelui și picioarelor pentru a ajută la o bună functionare a sistemelor nervoase principale ale corpului: simpatic și parasimpatic.
 Aromatouch nu este un masaj, ci o tehnică care stimulează meridianele corpului, zonele de energie și provoacă un efect profund asupra sistemelor corpului și viscerelor prin aplicarea ritmică a atingerii și a aromei specifice pentru a stimula o stare de echilibru cunoscută în mod obișnuit sub numele de homeostazie.
 Pentru aceasta terapie se folosesc opt uleiuri esențiale împărțite în patru categorii: 1. Calmare emoțională și împământare
@@ -83,7 +78,6 @@ Pentru aceasta terapie se folosesc opt uleiuri esențiale împărțite în patru
             {
       name: "Access Bars",
       summary: "Terapie : Zona capilară",
-      image: "./images/alex/yoga.webp",
       description: "Access bars este un set de 32 de puncte pe cap care, atunci când sunt ușor atinse, stimulează schimbarea pozitivă a creierului și defragmentează componente electromagnetilor stresului, gândirii și emoțiilor. această tehnică blândă, non-invazivă funcționează la eliberarea atât a blocurilor fizice, cât și a celor mentale stocate în corp și ajută la facilitarea unei mai mari ușurințe în toate domeniile diferite ale vieții. O sesiune de access bars poate ajuta cu următoarele: claritate mentală mai mare, motivație, creștere semnificativă a bucuriei și fericirii, relaxare mai profundă, ameliorează insomnia, anxietatea și depresia.",
       isGroup: true,
       price: "300lei",
