@@ -7,13 +7,29 @@ images:
     "./images/alex/yoga.webp",
   ]
 tags: ["acupunctura", "medicina chineza"]
-activities: ""
+activities:
+  [
+    "access-bars",
+    "acupunctura",
+    "astrologie",
+    "breathwork",
+    "hipnoza",
+    "kinetoterapie",
+    "pilates",
+    "fitness",
+    "yoga",
+  ]
 services: [
     {
       name: "Harmonic Reborn",
       summary: "Masaj terapeutic pentru intregul corp",
       image: "./images/alex/massage.webp", #optional
-      description: "The massage itself involves the manipulation of the body's soft tissues, including muscles, connective tissues, tendons, and ligaments, using different pressures and movements. Techniques may include Swedish massage for relaxation and increased circulation, deep tissue massage to target deep layers of muscle and connective tissue, or specialized modalities like sports massage for athletes, reflexology, or acupressure.",
+      description:
+        [
+          "The massage itself involves the manipulation of the body's soft tissues, including muscles, connective tissues, tendons, and ligaments, using different pressures and movements. Techniques may include Swedish massage for relaxation and increased circulation, deep tissue massage to target deep layers of muscle and connective tissue, or specialized modalities like sports massage for athletes, reflexology, or acupressure.",
+
+          "Another paragraph here.",
+        ],
       price: "525lei",
       duration: "120min",
       reserveLink: "https://wa.me/40724274434",
@@ -22,7 +38,10 @@ services: [
       name: "Yoga class",
       summary: "Clasa de yoga personalizata",
       image: "./images/alex/yoga.webp",
-      description: "Start your free trial today and get one-on-one training from the world's top instructors. Break a sweat at home or download & take on the go. Start free today for endless options.",
+      description:
+        [
+          "Start your free trial today and get one-on-one training from the world's top instructors. Break a sweat at home or download & take on the go. Start free today for endless options.",
+        ],
       isGroup: true,
       price: "60lei",
       duration: "75min",
