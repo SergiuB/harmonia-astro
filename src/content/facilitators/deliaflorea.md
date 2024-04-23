@@ -17,28 +17,28 @@ Ia decizii mai bune pentru starea ta de bine. o simplă scanare a markerilor bio
 Fiecare sesiune include atât scanarea, cât și interpretarea rezultatelor pentru a oferi o înțelegere comprehensivă.",
       price: "250lei",
       duration: "60min",
-      reserveLink: "https://wa.me/40724274434",
+      reserveLink: "https://alvo.chat/4luw",
     },
     {
-      name: "Yoga class",
-      summary: "Clasa de yoga personalizata",
+      name: "Harmonic Fusion",
+      summary: "Masaj : Întregul corp",
       image: "./images/alex/yoga.webp",
-      description: "Start your free trial today and get one-on-one training from the world's top instructors. Break a sweat at home or download & take on the go. Start free today for endless options.",
+      description: "Având o abordare holistică, Harmonic Fusion integrează tehnicile de întindere specifice masajului thailandez, precizia shiatsu, intensitatea terapiei deep tissue, fluiditatea masajului suedez, alături de tehnici somatice și limfatice. Reflexologia picioarelor și  masajul capilar pot completa acest spectru, asigurând un echilibru între corp și minte. Acest masaj exclusivist este o artă a atingerii ce combină metode tradiționale și moderne pentru a crea o experiență profund personalizată. Utilizând o selecție rafinată de uleiuri esențiale, terapia noastră este adaptată nevoilor dumneavoastră unice, oferind o evadare perfectă din stresul cotidian.
+Fiecare sesiune este o promisiune a excelenței, concepută să vă ofere nu doar relaxare, ci și o regenerare profundă. Redefiniți-vă binele cu Harmonic Fusion, unde fiecare detaliu este gândit pentru confortul și satisfacția dumneavoastră supremă.",
       isGroup: true,
-      price: "60lei",
-      duration: "75min",
-      reserveLink: "https://wa.me/40724274434",
+      price: "250lei / 500lei",
+      duration: "60min / 150min",
+      reserveLink: "https://alvo.chat/4luw",
     },
   ]
-location: "Strada Ion Heliade Rădulescu 27, Bucuresti" #optional
+location: "Strada Cercului 18, Bucuresti" #optional
 locationUrl: "https://maps.app.goo.gl/N7p1ArmhWqVrgBf17" #optional
 contact: {
-    email: "alex.ionescu@gmail.com", #optional
-    phone: "0724274434",
-    instagram: "https://www.instagram.com/_harmoniaworld_", #optional
-    facebook: "https://www.facebook.com/harmoniaworld", #optional
-    whatsapp: "https://chat.whatsapp.com/BtRMPGKWZpTCgrAxk60LHA", #optional
-    website: "www.alex.io", #optional
+    email: "delixirelia@gmail.com", #optional
+    phone: "0765765455",
+    instagram: "https://www.instagram.com/delia.heals", #optional
+    facebook: "https://www.facebook.com/DeliaFlo", #optional
+    whatsapp: "https://alvo.chat/4luw", #optional
   }
 ---
 
