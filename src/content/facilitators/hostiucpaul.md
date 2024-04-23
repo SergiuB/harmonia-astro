@@ -2,7 +2,7 @@
 name: "Paul Hostiuc"
 images:
   [
-    "./images/tibibozi/tibibozi3.PNG",
+    "./images/hostiucpaul/paul.jpeg",
   ]
 tags: ["Terapeut", "Medicina Chineză", "Acupunctură"]
 services: [
