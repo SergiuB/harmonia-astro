@@ -9,7 +9,6 @@ services: [
       description: [
           "Masajul de relaxare reprezintă una dintre cele mai simple, plăcute si delicate forme de masaj. Acesta este cunoscut pentru mișcările sale lente si superficiale dar ferme. Este recomandat tuturor persoanelor care au avut o perioadă mai grea.",
           "Masajul de relaxare ajută la eliberarea de endorfine si serotonina, având astfel un impact puternic la nivel psihologic. Nu doar partea psihică simte atingerea vindecatoare a masajului ci și sistemul osteo-muscular-articular beneficiază de deblocare, relaxare, eliberare si aliniere.",
-          "
         ],
       price: "250lei / 310lei / 360lei",
       duration: "75min / 105min / 135min",
