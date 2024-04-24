@@ -41,9 +41,8 @@ services: [
       name: "Masajul Deep Tissue",
       summary: "Masaj : Întregul corp",
       description: [
-          "Acest tip de masaj țintește țesutul muscular si fascia, în scopul de a detensiona și de a reda mobilitatea întregului corp. Contracturile musculare împiedică alimentarea cu nutrienți și oxigen, cauzând inflamație și permițând acumularea de toxine în țesuturi."
+          "Acest tip de masaj țintește țesutul muscular si fascia, în scopul de a detensiona și de a reda mobilitatea întregului corp. Contracturile musculare împiedică alimentarea cu nutrienți și oxigen, cauzând inflamație și permițând acumularea de toxine în țesuturi.",
           "Se remarcă prin manevrele sale lente si profunde ce includ și lucrul pe punctele energetice folosind falangele, nodozitățile, cotul și antebrațul.",
-          "
           Se spune că fascia are propria memorie si înmagazinează fiecare trăire a noastra indiferent că este de natură fizică, energetică, emotională sau spirituală. Folosind manevrele specifice putem elibera aceste trăiri captive.",
         ],
       price: "280lei / 340lei / 390lei",
