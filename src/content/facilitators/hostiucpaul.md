@@ -18,7 +18,7 @@ services: [
       name: "Masaj Terapeutic",
       summary: "Masaj : Întregul corp",
       description: [
-          "Masajul terapeutic este forma de masaj în care clientul are nevoie de un diagnostic, de aceea la prima întâlnire va avea loc o anamneză pentru a cunoaște dezechilibrul. Se remarcă prin manevrele sale viguroase si profunde, dar conține si tehnici de încălzire si relaxare pentru a putea pătrunde în interiorul organismului.",,
+          "Masajul terapeutic este forma de masaj în care clientul are nevoie de un diagnostic, de aceea la prima întâlnire va avea loc o anamneză pentru a cunoaște dezechilibrul. Se remarcă prin manevrele sale viguroase si profunde, dar conține si tehnici de încălzire si relaxare pentru a putea pătrunde în interiorul organismului.",
           'Are ca scop eliminarea si decongestionarea punctelor de declanșare a durerii, decontracturarea mușchilor, restabilirea poziției corpului, ajustarea articulațiilor si rezolvarea problemelor circulatorii. Beneficiile masajului terapeutic constau in efectul antalgic, stimularea metabolismului si senzația de “ușor ca un fulg de nea”.',
         ],
       isGroup: true,
@@ -30,7 +30,7 @@ services: [
       name: "Masajul Deep Tissue",
       summary: "Masaj : Întregul corp",
       description: [
-          "Acest tip de masaj țintește țesutul muscular si fascia, în scopul de a detensiona și de a reda mobilitatea întregului corp. Contracturile musculare împiedică alimentarea cu nutrienți și oxigen, cauzând inflamație și permițând acumularea de toxine în țesuturi."
+          "Acest tip de masaj țintește țesutul muscular si fascia, în scopul de a detensiona și de a reda mobilitatea întregului corp. Contracturile musculare împiedică alimentarea cu nutrienți și oxigen, cauzând inflamație și permițând acumularea de toxine în țesuturi.",
           "Se remarcă prin manevrele sale lente si profunde ce includ și lucrul pe punctele energetice folosind falangele, nodozitățile, cotul și antebrațul.",
           "
           Se spune că fascia are propria memorie si înmagazinează fiecare trăire a noastra indiferent că este de natură fizică, energetică, emotională sau spirituală. Folosind manevrele specifice putem elibera aceste trăiri captive.",
