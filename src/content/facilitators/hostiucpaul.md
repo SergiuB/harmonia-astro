@@ -12,7 +12,7 @@ services: [
         ],
       price: "250lei / 310lei / 360lei",
       duration: "75min / 105min / 135min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima",
+      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
     },
     {
       name: "Masaj Terapeutic",
@@ -32,30 +32,7 @@ services: [
       description: [
           "Acest tip de masaj țintește țesutul muscular si fascia, în scopul de a detensiona și de a reda mobilitatea întregului corp. Contracturile musculare împiedică alimentarea cu nutrienți și oxigen, cauzând inflamație și permițând acumularea de toxine în țesuturi.",
           "Se remarcă prin manevrele sale lente si profunde ce includ și lucrul pe punctele energetice folosind falangele, nodozitățile, cotul și antebrațul.",
-          "
-          Se spune că fascia are propria memorie si înmagazinează fiecare trăire a noastra indiferent că este de natură fizică, energetică, emotională sau spirituală. Folosind manevrele specifice putem elibera aceste trăiri captive.",
-        ],
-      price: "280lei / 340lei / 390lei",
-      duration: "75min / 105min / 135min",
-      reserveLink: "  {
-      name: "Masajul Deep Tissue",
-      summary: "Masaj : Întregul corp",
-      description: [
-          "Acest tip de masaj țintește țesutul muscular si fascia, în scopul de a detensiona și de a reda mobilitatea întregului corp. Contracturile musculare împiedică alimentarea cu nutrienți și oxigen, cauzând inflamație și permițând acumularea de toxine în țesuturi.",
-          "Se remarcă prin manevrele sale lente si profunde ce includ și lucrul pe punctele energetice folosind falangele, nodozitățile, cotul și antebrațul.",
-          Se spune că fascia are propria memorie si înmagazinează fiecare trăire a noastra indiferent că este de natură fizică, energetică, emotională sau spirituală. Folosind manevrele specifice putem elibera aceste trăiri captive.",
-        ],
-      price: "280lei / 340lei / 390lei",
-      duration: "75min / 105min / 135min",
-      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
-    },  {
-      name: "Masajul Deep Tissue",
-      summary: "Masaj : Întregul corp",
-      description: [
-          "Acest tip de masaj țintește țesutul muscular si fascia, în scopul de a detensiona și de a reda mobilitatea întregului corp. Contracturile musculare împiedică alimentarea cu nutrienți și oxigen, cauzând inflamație și permițând acumularea de toxine în țesuturi."
-          "Se remarcă prin manevrele sale lente si profunde ce includ și lucrul pe punctele energetice folosind falangele, nodozitățile, cotul și antebrațul.",
-          "
-          Se spune că fascia are propria memorie si înmagazinează fiecare trăire a noastra indiferent că este de natură fizică, energetică, emotională sau spirituală. Folosind manevrele specifice putem elibera aceste trăiri captive.",
+          "Se spune că fascia are propria memorie si înmagazinează fiecare trăire a noastra indiferent că este de natură fizică, energetică, emotională sau spirituală. Folosind manevrele specifice putem elibera aceste trăiri captive.",
         ],
       price: "280lei / 340lei / 390lei",
       duration: "75min / 105min / 135min",
