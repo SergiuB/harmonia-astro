@@ -180,8 +180,9 @@ locationUrl: "https://maps.app.goo.gl/Qo9Fo6nnMFngebAW7" #optional
 contact: {
     email: "tianfutherapy@gmail.com", #optional
     phone: "0748086894",
-    instagram: "https://www.instagram.com/tianfu_heavenly_healing", #optional
     website: "www.tianfutherapy.com", #optional
+    facebook: "https://www.facebook.com/harmoniaworld", #optional
+    instagram: "https://www.instagram.com/tianfu_heavenly_healing", #optional
   }
 ---
 
