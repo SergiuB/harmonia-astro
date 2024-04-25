@@ -64,7 +64,7 @@ services: [
           "Pentru ca acest ritual sa aibă rezultate benefice, este important ca relația dintre terapeut și client să fie una cât mai deschisă. Terapeutul nu se va limita doar la starea corpului, ci va avea in vedere și restul părților(mental, emoțional, spiritual) ce țin de sănătatea clientului. Acest lucru îl va ajuta pe terapeut să își dea seama de resursele pe care clientul le are sau disfuncțiile care il pot împiedica în procesul de vindecare.",
         ],
       price: "500lei",
-      duration: "90min",
+      duration: "100min",
       reserveLink: "https://app.simplymeet.me/harmoniaoptima",
     },
     {
