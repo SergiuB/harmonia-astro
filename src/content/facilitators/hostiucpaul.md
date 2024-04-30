@@ -250,7 +250,7 @@ de dulce, stăpânesc pofta de mâncare în exces și ajută la echilibrarea cor
       name: "Ascending and tonification of yang",
       summary: "Medicina Chineză : Întregul corp ",
       description: [
-          "Ritual ce are la bază manevre din stilul TuiNa Yang și moxibustie care vor tonifia și învigora energia pacientului. Destinate persoanelor cu o deficiență de yang sau un exces de rece în organism, aceste sindromuri se pot manifesta prin frisoane, extremități/zone reci, dureri de cap, balonare, flatulență, diaree, dureri surde/înțepatoare, stări depresive, tensiune scăzută, somnolență, lipsa poftei de mâncare, afecțiuni circulatorii, renale, digestive și reproductive."
+          "Ritual ce are la bază manevre din stilul TuiNa Yang și moxibustie care vor tonifia și învigora energia pacientului. Destinate persoanelor cu o deficiență de yang sau un exces de rece în organism, aceste sindromuri se pot manifesta prin frisoane, extremități/zone reci, dureri de cap, balonare, flatulență, diaree, dureri surde/înțepatoare, stări depresive, tensiune scăzută, somnolență, lipsa poftei de mâncare, afecțiuni circulatorii, renale, digestive și reproductive.",
       price: "380lei",
       duration: "105min",
       reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
@@ -259,7 +259,7 @@ de dulce, stăpânesc pofta de mâncare în exces și ajută la echilibrarea cor
       name: "Flow restoration",
       summary: "Medicina Chineză : Întregul corp ",
       description: [
-          "Terapie ce va debuta cu analiza energetică după care vom începe sesiunea de acupunctură pentru a stimula sistemul de meridiane până în cele mai profunde straturi ale organismului. Continuăm cu masaj tailandez la saltea care are ca manevre de baza stretching ul, manipulările și presiunile, efectul acestora fiind de relaxare ș i eliberare. Spre finalul ritualului vei simți atingerea caldă și blândă a moxibustiei (terapie prin căldura utilizând/arzând pelinul) care va avea efectul de a tonifia energia și care va umple golurile lăsate de către eliminarea energiei negative ."
+          "Terapie ce va debuta cu analiza energetică după care vom începe sesiunea de acupunctură pentru a stimula sistemul de meridiane până în cele mai profunde straturi ale organismului. Continuăm cu masaj tailandez la saltea care are ca manevre de baza stretching ul, manipulările și presiunile, efectul acestora fiind de relaxare ș i eliberare. Spre finalul ritualului vei simți atingerea caldă și blândă a moxibustiei (terapie prin căldura utilizând/arzând pelinul) care va avea efectul de a tonifia energia și care va umple golurile lăsate de către eliminarea energiei negative .",
       price: "550lei",
       duration: "165min",
       reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
@@ -271,7 +271,7 @@ de dulce, stăpânesc pofta de mâncare în exces și ajută la echilibrarea cor
           "Acest ritual vrea să îmbine ș i să armonizeze tehnici din Medicina Tradițională Chineză.
 Terapia va debuta cu o scurtă sesiune de sound healing și de aplicarea bolurilor tibetane pe fiecare chakră. Urmează aplicarea de ventuze pentru a ajuta î n continuare la eliberarea
 blocajelor indiferent de natura acestora(fizice, energetice, emoționale sau spirituale) și stimularea profund ă a sistemului de organe. Masajul chinezesc TuiNa/Reflexoterapia va fi
-urmatoarea oprire și se va efectua intermitent cu terapia GuaSha. Acupunctura va fi în centrul acestui ritual deoarece o vom folosi în funcție de nevoile clientului. În urma diagnozei voi stabili dacă vom folosi acupunctura la început(împreună cu ventuzele) sau la sfârșitul terapiei."
+urmatoarea oprire și se va efectua intermitent cu terapia GuaSha. Acupunctura va fi în centrul acestui ritual deoarece o vom folosi în funcție de nevoile clientului. În urma diagnozei voi stabili dacă vom folosi acupunctura la început(împreună cu ventuzele) sau la sfârșitul terapiei.",
       price: "590lei",
       duration: "180min",
       reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
@@ -280,7 +280,7 @@ urmatoarea oprire și se va efectua intermitent cu terapia GuaSha. Acupunctura v
       name: "Revive the hidden essence",
       summary: "Terapie : Întregul corp ",
       description: [
-          "Terapia va debuta cu o scurtă sesiune de sound healing și de aplicarea bolurilor tibetane pe fiecare chakră. Va urma o sesiune de masaj TuiNa yin acompaniat de Acupunctură moxibustie/Acupunctură caldă , prin care se va stimula producerea de substanțe vitale, și anume qi, sânge, spirit și esență."
+          "Terapia va debuta cu o scurtă sesiune de sound healing și de aplicarea bolurilor tibetane pe fiecare chakră. Va urma o sesiune de masaj TuiNa yin acompaniat de Acupunctură moxibustie/Acupunctură caldă , prin care se va stimula producerea de substanțe vitale, și anume qi, sânge, spirit și esență.",
       price: "530lei",
       duration: "165min",
       reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
@@ -290,7 +290,7 @@ urmatoarea oprire și se va efectua intermitent cu terapia GuaSha. Acupunctura v
       summary: "Terapie : Întregul corp ",
       description: [
           "Diagnoza va fi cheia acestei terapii deoarece trebuie sa descoperim unde
-și dacă există căldură/foc în organism. Ventuzele vor iniția această terapie pentru că în urma lor putem depista intensitatea și cantitatea de patogeni, astfel terapeutul poate selecta punctele specifice dezechilibrului actual. Masajul Herbal Thai Compress cu săculeți reci își va face apariția in acest ritual, ei fiind alcătuiți din plante și uleiuri care liniștesc căldura in exces, scad inflamația și tonifiază elementul apă."
+și dacă există căldură/foc în organism. Ventuzele vor iniția această terapie pentru că în urma lor putem depista intensitatea și cantitatea de patogeni, astfel terapeutul poate selecta punctele specifice dezechilibrului actual. Masajul Herbal Thai Compress cu săculeți reci își va face apariția in acest ritual, ei fiind alcătuiți din plante și uleiuri care liniștesc căldura in exces, scad inflamația și tonifiază elementul apă.",
       price: "430lei",
       duration: "135min",
       reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
@@ -299,7 +299,7 @@ urmatoarea oprire și se va efectua intermitent cu terapia GuaSha. Acupunctura v
       name: "Cold’s foe",
       summary: "Terapie : Întregul corp ",
       description: [
-          "Acest ritual iți va dedica toată căldura de care ai nevoie sufletește și fizic. Moxibustia sau ventuzele vor rămâne la alegerea terapeutului deoarece un exces de rece va avea prima dată nevoie de ventuze dar o deficiență de yang va fi mai compatibilă cu o sesiune de moxibustie. Masajul Herbal Thai Compress cu săculeți cu plante și uleiuri fierbinți vor ajuta la eliminarea patogenilor și eliberarea exteriorului ceea ce se va manifesta printr o stare de bine incă de la prima ședință. După acest rasfăț, presopunctura/acupunctura va ajuta la tonifierea organelor afectate de patogenul rece ceea ce va fortifica și pregăti sistemu l imunitar pentru o posibilă următoare invazie."
+          "Acest ritual iți va dedica toată căldura de care ai nevoie sufletește și fizic. Moxibustia sau ventuzele vor rămâne la alegerea terapeutului deoarece un exces de rece va avea prima dată nevoie de ventuze dar o deficiență de yang va fi mai compatibilă cu o sesiune de moxibustie. Masajul Herbal Thai Compress cu săculeți cu plante și uleiuri fierbinți vor ajuta la eliminarea patogenilor și eliberarea exteriorului ceea ce se va manifesta printr o stare de bine incă de la prima ședință. După acest rasfăț, presopunctura/acupunctura va ajuta la tonifierea organelor afectate de patogenul rece ceea ce va fortifica și pregăti sistemu l imunitar pentru o posibilă următoare invazie.",
       price: "440lei",
       duration: "135min",
       reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
@@ -308,7 +308,7 @@ urmatoarea oprire și se va efectua intermitent cu terapia GuaSha. Acupunctura v
       name: "Pacify the interior wind and calm the spirit",
       summary: "Terapie : Întregul corp ",
       description: [
-          "Terapia este destinată persoanelor cu tulburări de spirit: depresie, anxietate, episoade de bipolaritate, manie și delir. Aceste afecțiuni se pot manifesta cu grade diferite de intensitate, pot fi doar fluctuații de energie sau stări de spirit. Ambientul v a fi creat de către mirosuri care îți sting neliniștea și aprind calmul, sunete îmbietoare ale bolului tibetan îți vor aminti că facem parte dintr un tot și că nu ești singur pe calea de vindecare. Masajul chinezesc TuiNa, acupunctura și ventuzele te vor a juta să conștientizezi zonele afectate astfel încât corpul și spiritul tău vor ajunge în echilibru."
+          "Terapia este destinată persoanelor cu tulburări de spirit: depresie, anxietate, episoade de bipolaritate, manie și delir. Aceste afecțiuni se pot manifesta cu grade diferite de intensitate, pot fi doar fluctuații de energie sau stări de spirit. Ambientul v a fi creat de către mirosuri care îți sting neliniștea și aprind calmul, sunete îmbietoare ale bolului tibetan îți vor aminti că facem parte dintr un tot și că nu ești singur pe calea de vindecare. Masajul chinezesc TuiNa, acupunctura și ventuzele te vor a juta să conștientizezi zonele afectate astfel încât corpul și spiritul tău vor ajunge în echilibru.",
       price: "440lei",
       duration: "135min",
       reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
