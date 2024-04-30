@@ -241,7 +241,7 @@ de dulce, stăpânesc pofta de mâncare în exces și ajută la echilibrarea cor
       name: "Five elements reflexology",
       summary: "Masaj : Picioare ",
       description: [
-          "Aceast ritual implică diagnoza tip medicină chineză, reflexoterapie și presopunctură bazată pe teoria celor 5 elemente."
+          "Aceast ritual implică diagnoza tip medicină chineză, reflexoterapie și presopunctură bazată pe teoria celor 5 elemente.",
       price: "380lei",
       duration: "105min",
       reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
