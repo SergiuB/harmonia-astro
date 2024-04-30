@@ -280,8 +280,7 @@ urmatoarea oprire și se va efectua intermitent cu terapia GuaSha. Acupunctura v
       name: "Revive the hidden essence",
       summary: "Terapie : Întregul corp ",
       description: [
-          "Terapia va debuta cu o scurtă sesiune de sound healing și de aplicarea bolurilor tibetane pe
-fiecare chakră. Va urma o sesiune de masaj TuiNa yin acompaniat de Acupunctură moxibustie/Acupunctură caldă , prin care se va stimula producerea de substanțe vitale, și anume qi, sânge, spirit și esență."
+          "Terapia va debuta cu o scurtă sesiune de sound healing și de aplicarea bolurilor tibetane pe fiecare chakră. Va urma o sesiune de masaj TuiNa yin acompaniat de Acupunctură moxibustie/Acupunctură caldă , prin care se va stimula producerea de substanțe vitale, și anume qi, sânge, spirit și esență."
       price: "530lei",
       duration: "165min",
       reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
@@ -291,10 +290,42 @@ fiecare chakră. Va urma o sesiune de masaj TuiNa yin acompaniat de Acupunctură
       summary: "Terapie : Întregul corp ",
       description: [
           "Diagnoza va fi cheia acestei terapii deoarece trebuie sa descoperim unde
-ș i dac ă exist ă căldură/foc în organism. Ventuzele vor iniția această terapie pentru că î n urma lor putem
-depista intensitatea și cantitatea de patogeni, astfel terapeutul poate selecta punctele specifice dezechilibrului actual. Masajul Herbal Thai Compress cu săculeți reci își va face apariția in acest ritual, ei fiind alcătuiți din plante și uleiuri care liniștesc căldura in exces, scad inflamația și tonifiază elementul apă."
+și dacă există căldură/foc în organism. Ventuzele vor iniția această terapie pentru că în urma lor putem depista intensitatea și cantitatea de patogeni, astfel terapeutul poate selecta punctele specifice dezechilibrului actual. Masajul Herbal Thai Compress cu săculeți reci își va face apariția in acest ritual, ei fiind alcătuiți din plante și uleiuri care liniștesc căldura in exces, scad inflamația și tonifiază elementul apă."
       price: "430lei",
       duration: "135min",
+      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
+      },
+            {
+      name: "Cold’s foe",
+      summary: "Terapie : Întregul corp ",
+      description: [
+          "Acest ritual iți va dedica toată căldura de care ai nevoie sufletește și fizic. Moxibustia sau ventuzele vor rămâne la alegerea terapeutului deoarece un exces de rece va avea prima dată nevoie de ventuze dar o deficiență de yang va fi mai compatibilă cu o sesiune de moxibustie. Masajul Herbal Thai Compress cu săculeți cu plante și uleiuri fierbinți vor ajuta la eliminarea patogenilor și eliberarea exteriorului ceea ce se va manifesta printr o stare de bine incă de la prima ședință. După acest rasfăț, presopunctura/acupunctura va ajuta la tonifierea organelor afectate de patogenul rece ceea ce va fortifica și pregăti sistemu l imunitar pentru o posibilă următoare invazie."
+      price: "440lei",
+      duration: "135min",
+      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
+      },
+        {
+      name: "Pacify the interior wind and calm the spirit",
+      summary: "Terapie : Întregul corp ",
+      description: [
+          "Terapia este destinată persoanelor cu tulburări de spirit: depresie, anxietate, episoade de bipolaritate, manie și delir. Aceste afecțiuni se pot manifesta cu grade diferite de intensitate, pot fi doar fluctuații de energie sau stări de spirit. Ambientul v a fi creat de către mirosuri care îți sting neliniștea și aprind calmul, sunete îmbietoare ale bolului tibetan îți vor aminti că facem parte dintr un tot și că nu ești singur pe calea de vindecare. Masajul chinezesc TuiNa, acupunctura și ventuzele te vor a juta să conștientizezi zonele afectate astfel încât corpul și spiritul tău vor ajunge în echilibru."
+      price: "440lei",
+      duration: "135min",
+      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
+      },
+             {
+      name: "Asian delight and healing",
+      summary: "Terapie : Întregul corp ",
+      description: [
+          'Te invităm să faci cunoștință cu Asia, tărâmul cunoașterii holistice, prin intermediul acestui ritual care constă într-o combinație de tehnici chinezești, indiene și tibetane, bine cunoscute în arta vindecării, acestea având locul lor bine stabilit pe harta terapiilor ce aduc trupului și
+sufletului conștientizare și echilibru, ghidându-se după zicala chinezească " Dacă qi-ul și esența sunt abundente, mintea va înflori", qi-ul, esența și mintea fiind cele trei comori ale ființei noastre.',
+         "Ritualul va debuta cu o scurtă sesiune de sound healing și de aplicarea bolurilor tibetane pe fiecare chakră. Sinergiile de uleiuri pentru fiecare doșă vor fi nelipsite, astfel beneficiind de o relaxare profundă a corpului și spiritului, încât călătoria să înceapă de acum.
+Urmează prima oprire, China, unde vei fi tratat timp de 70 de minute cu masajul abdominal QiNeiZang, în traducere liberă mișcarea sau activitatea organelor interne care are scopul de a elimina blocajele, îmbunătățește funcțiile digestive și nu în ultimul rând curăță blocajele din sfera emoțional-spirituală. Se va folosi uleiul Udara special pentru masajul abdominal împreună cu uleiul esențial de salvie care este un tonifiant excelent pentru ficat și rinichi, lucru care ajută la eliminarea toxinelor din organism și cel de sâmbure de morcov care are în componenta beta caroten ce contribuie la fortificarea sistemului imunitar. Acest masaj include terapia prin sunete, clientul rostind împreună cu terapeutul cele 6 sunete vindecătoare ce duc la o echilibrare dintre Yin și Yang împreună cu masajul QiNeiZang.",
+         "Urmează stația India-Tibet unde te vei relaxa timp de 75 de minute cu ajutorul reflexoterapiei tibetane, bolului tibetan, uleiurilor și cristalelor pentru chakre. Pentru început îți vei încânta din nou auzul cu sunetele produse de bolul tibetan asemănătoare sunetelor universului, după care urmează să acordăm atenție chakrelor folosind uleiurile și cristalele specifice, urmând reflexoterapia tibetana ce implică activarea chakrelor, masajul zonelor reflexogene și presiunea asupra punctelor marma, folosind o combinație de uleiuri esențiale de ghimbir, rozmarin și lavandă, care scad inflamația, energizează, calmează spiritul și fortifică sistemul imunitar.
+În ultima ta jumătate de oră din această călătorie te vei răsfăța cu masajul feței, scalpului și decolteului, utilizând tehnici de masaj blânde împreună cu tehnica Gua Sha ce implică detensionarea mușchilor feței folosind o piatra de jad, toate având un efect de întinerire, iar mirosul de Ylang Ylang te va menține plutind deasupra Asiei chiar și după finalul călătoriei.
+Vă garantăm o experiență orietală, asiatică și holistică de neuitat!",
+      price: "580lei",
+      duration: "180min",
       reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
       },
   ]
