@@ -50,6 +50,7 @@ locationUrl: "https://maps.app.goo.gl/Qo9Fo6nnMFngebAW7" #optional
 contact: {
     email: "andreea.popescu08@gmail.com", #optional
     phone: "0729342383",
+    facebook: "https://www.facebook.com/harmoniaworld", #optional
     instagram: "https://www.instagram.com/andreea.cristina.popescu", #optional
     whatsapp: "https://api.whatsapp.com/send?phone=40734693145&text=Hello!", #optional
   }
