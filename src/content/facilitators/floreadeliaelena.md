@@ -17,7 +17,7 @@ services:
         ],
       price: "250lei",
       duration: "60min",
-      reserveLink: "https://alvo.chat/4luw",
+      reserveLink: "https://app.simplymeet.me/deliaheals",
     },
     {
       name: "Harmonic Fusion",
@@ -30,7 +30,7 @@ services:
       isGroup: true,
       price: "250lei/500lei",
       duration: "60min/150min",
-      reserveLink: "https://alvo.chat/4luw",
+      reserveLink: "https://app.simplymeet.me/deliaheals",
     },
     {
       name: "Harmonic Spa",
@@ -46,7 +46,7 @@ services:
       isGroup: true,
       price: "250lei/450lei",
       duration: "60min/120min",
-      reserveLink: "https://alvo.chat/4luw",
+      reserveLink: "https://app.simplymeet.me/deliaheals",
     },
     {
       name: "Aromaterapie",
@@ -59,7 +59,7 @@ services:
       isGroup: true,
       price: "250lei",
       duration: "60min",
-      reserveLink: "https://alvo.chat/4luw",
+      reserveLink: "https://app.simplymeet.me/deliaheals",
     },
     {
       name: "Simfonia Celulelor",
@@ -73,7 +73,7 @@ services:
       isGroup: true,
       price: "250lei",
       duration: "30min",
-      reserveLink: "https://alvo.chat/4luw",
+      reserveLink: "https://app.simplymeet.me/deliaheals",
     },
     {
       name: "Aromatouch",
@@ -91,7 +91,7 @@ services:
       isGroup: true,
       price: "250lei",
       duration: "60min",
-      reserveLink: "https://alvo.chat/4luw",
+      reserveLink: "https://app.simplymeet.me/deliaheals",
     },
     {
       name: "Access Bars",
@@ -104,7 +104,7 @@ services:
       isGroup: true,
       price: "300lei",
       duration: "60min",
-      reserveLink: "https://alvo.chat/4luw",
+      reserveLink: "https://app.simplymeet.me/deliaheals",
     },
   ]
 location: "Strada Cercului 18, Bucuresti" #optional
@@ -113,7 +113,6 @@ contact: {
     email: "delixirelia@gmail.com", #optional
     phone: "0765765455",
     instagram: "https://www.instagram.com/delia.heals", #optional
-    whatsapp: "https://alvo.chat/4luw", #optional
   }
 ---
 
