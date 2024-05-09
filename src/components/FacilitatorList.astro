@@ -24,7 +24,7 @@ const facilitators = (await getCollection("facilitators")).slice(
       <a
         data-aos={idx % 2 ? "fade-up" : "fade-down"}
         class:list={[
-          "css-animation facilitator-card flex flex-row justify-center gap-4 inlibe-block float-left",
+          "css-animation facilitator-card flex flex-row justify-center gap-4 inlibe-block float-left max-h-36",
           { "from-right": idx % 2 },
         ]}
         transition:name={`facilitator-${idx}`}
@@ -34,12 +34,12 @@ const facilitators = (await getCollection("facilitators")).slice(
         <Image
           src={facilitator.data.images[0]}
           alt={facilitator.data.name}
-          class="rounded-3xl"
+          class="rounded-3xl object-cover"
           width={150}
           height={150}
         />
 
-        <div class="flex flex-col  gap-4 py-2">
+        <div class="flex flex-col  gap-4 py-2 w-36">
           <h2 class="text-xl">{facilitator.data.name}</h2>
           <div class="flex flex-col gap-1.5">
             {facilitator.data.tags.map((tag) => (
