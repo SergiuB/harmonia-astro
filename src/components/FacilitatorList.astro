@@ -15,7 +15,9 @@ const { displayCount, activityId } = Astro.props;
 
 const facilitators = (await getCollection("facilitators"))
   .filter((facilitator) =>
-    activityId ? facilitator.data.activities.includes(activityId) : true,
+    activityId
+      ? (facilitator.data.activities ?? []).includes(activityId)
+      : true,
   )
   .slice(0, displayCount);
 ---

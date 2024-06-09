@@ -19,7 +19,7 @@ const facilitatorCollection = defineCollection({
       name: z.string(),
       images: z.array(image()),
       tags: z.array(z.string()),
-      activities: z.array(z.string()),
+      activities: z.array(z.string()).optional(),
       services: z.array(getServiceSchema(image)),
       location: z.string().optional(),
       locationUrl: z.string().optional(),
