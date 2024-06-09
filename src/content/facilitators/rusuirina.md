@@ -1,8 +1,8 @@
 ---
 name: "Irina Rusu"
 images: ["./images/rusuirina/file - Irina Rusu.jpg"]
-tags: ["Coach"]
-activities: ["coaching", "humandesign", "cheilegenelor"]
+tags: ["Terapeut"]
+activities: ["masaj"]
 services: [
     {
       name: "Terapie de eliberare mio-fasciala",
