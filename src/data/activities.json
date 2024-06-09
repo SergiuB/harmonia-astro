@@ -143,6 +143,10 @@
     "id": "tre",
     "name": "Trauma Release Exercises"
   },
+   {
+    "id": "throat-singing",
+    "name": "Throat Singing"
+  },
   {
     "id": "yoga",
     "name": "Yoga"
@@ -202,6 +206,10 @@
   {
     "id": "group-terapii-shamanice",
     "name": "Terapii Shamanice"
+  },
+  {
+    "id": "group-throat-singing",
+    "name": "Throat Singing"
   },
   {
     "id": "group-workshops",
