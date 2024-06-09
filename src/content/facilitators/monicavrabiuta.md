@@ -48,8 +48,7 @@ auto-vindecare); - îmbunătățește vederea; - îmbunătățește funcționare
           "Pe partea emoțională și spirituală introduc Cheile Genelor care aduc profunzime prin înțelegerea Umbrelor și Darurilor omului. Aici folosesc un limbaj simplu și ajut la înțelegerea conceptelor si principiilor de bază umane și universale.",
           "Ambele instrumente (Human design si Cheile Genelor) necesită o inițiere blândă, pentru ca scopul lor, acela de a ne bucura de viața noastră, liberi, să fie atins prin forțe proprii.",
           "Pe partea de relații susțin: - atingerea unor subiecte care țin de conștientizarea rănilor noastre moștenite prin ADN; - asumarea celui mai important Dar din profilul cheilor genelor care are legătură cu zona ombilicului, centrul puterii emoționale; - înțelegerea vocației și activarea Darului vocației în corp (prin coloana vertebrală); - parcurgerea Căii karmice, Căii Inteligenței și Căii iubirii.",
-          "Inițierea în sistemele Human Design și Cheile Genelor: strategie și autoritate, secvența de
-activare, secvența Venus.";
+          "Inițierea în sistemele Human Design și Cheile Genelor: strategie și autoritate, secvența de activare, secvența Venus.",
         ],
       isGroup: true,
       price: "50lei",
