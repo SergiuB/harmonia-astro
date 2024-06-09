@@ -196,6 +196,14 @@
     "name": "Alte Servicii"
   },
   {
+    "id": "group-cheilegenelor",
+    "name": "Cheile Genelor"
+  },
+   {
+    "id": "group-humandesign",
+    "name": "Human Design"
+  },
+  {
     "id": "group-sound-healing",
     "name": "Sound Healing"
   },
