@@ -2,6 +2,7 @@
 name: "Paul Hostiuc"
 images: ["./images/hostiucpaul/paul.jpeg"]
 tags: ["Terapeut", "Medicina Chineză", "Acupunctură"]
+activities: ["masaj", "medicina-traditionala-chineza", "acupunctura"]
 services:
   [
     {
