@@ -2,7 +2,7 @@
 name: "Mariana Stoian"
 images: ["./images/stoianmariana/IMG_0633 - Mariana Stoian.jpeg"]
 tags: ["Terapeut", "Consilier"]
-activities: ["masaj", ""access-bars", "alte-servicii", "aromaterapie",  ]
+activities: ["masaj", "access-bars", "alte-servicii", "aromaterapie"]
 services: [
     {
       name: "Access Bars- eliberare credinte limitative",
