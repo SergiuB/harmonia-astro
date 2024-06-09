@@ -92,7 +92,7 @@ contact: {
     email: "bozitiberiu@gmail.com", #optional
     phone: "0734693145",
     instagram: "https://www.instagram.com/harmoniaoptima", #optional
-    whatsapp: "https://api.whatsapp.com/send?phone=40734693145&text=Hello!", #optional
+    whatsapp: "https://wa.link/0y6cpq", #optional
   }
 ---
 
