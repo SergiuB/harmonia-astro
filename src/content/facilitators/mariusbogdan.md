@@ -2,7 +2,7 @@
 name: "Bogdan Cochior"
 images: ["./images/cochiorbogdan/Screenshot 2024-04-30 at 15.09.16 - Bogdan Marius.png"]
 tags: ["Terapeut"]
-activities: ["masaj", "aromaterapie"]
+activities: ["masaj", "aromaterapie", "cupping"]
 services: [
     {
       name: "Relaxare",
