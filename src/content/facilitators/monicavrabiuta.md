@@ -30,7 +30,7 @@ auto-vindecare); - îmbunătățește vederea; - îmbunătățește funcționare
           "Eu le folosesc pentru a stimula oamenii să treacă de la deciziile luate exclusiv din minte la deciziile luate în mod integru din tot corpul. Strict pentru acest scop interpretez profilul de Human design si ghidez blând pașii care sunt importanți pentru o viață sănătoasă într-un corp cu un design unic.",
           "Pe partea emoțională și spirituală introduc Cheile Genelor care aduc profunzime prin înțelegerea Umbrelor și Darurilor omului. Aici folosesc un limbaj simplu și ajut la înțelegerea conceptelor si principiilor de bază umane și universale.",
           "Ambele instrumente (Human design si Cheile Genelor) necesită o inițiere blândă, pentru ca scopul lor, acela de a ne bucura de viața noastră, liberi, să fie atins prin forțe proprii.",
-          "Pe partea de relații susțin: - atingerea unor subiecte care țin de conștientizarea rănilor noastre moștenite prin ADN; - asumarea celui mai important Dar din profilul cheilor genelor care are legătură cu zona ombilicului, centrul puterii emoționale; - înțelegerea vocației și activarea Darului vocației în corp (prin coloana vertebrală); - parcurgerea Căii karmice, Căii Inteligenței și Căii iubirii.
+          "Pe partea de relații susțin: - atingerea unor subiecte care țin de conștientizarea rănilor noastre moștenite prin ADN; - asumarea celui mai important Dar din profilul cheilor genelor care are legătură cu zona ombilicului, centrul puterii emoționale; - înțelegerea vocației și activarea Darului vocației în corp (prin coloana vertebrală); - parcurgerea Căii karmice, Căii Inteligenței și Căii iubirii.",
         ],
       isGroup: true,
       price: "300lei",
