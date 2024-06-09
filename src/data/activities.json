@@ -7,6 +7,10 @@
     "id": "acupunctura",
     "name": "Acupunctura"
   },
+    {
+    "id": "alte-servicii",
+    "name": "ALte Servicii"
+  },
   {
     "id": "aromaterapie",
     "name": "Aromaterapie"
@@ -166,6 +170,10 @@
   {
     "id": "group-pilates",
     "name": "Pilates"
+  },
+    {
+    "id": "group-alteservicii",
+    "name": "Alte Servicii"
   },
   {
     "id": "group-sound-healing",
