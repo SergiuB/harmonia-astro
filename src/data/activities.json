@@ -155,9 +155,17 @@
     "id": "group-actorie",
     "name": "Actorie"
   },
+     {
+    "id": "group-alteservicii",
+    "name": "Alte Servicii"
+  },
   {
     "id": "group-breathwork",
     "name": "Breathwork"
+  },
+    {
+    "id": "group-cheilegenelor",
+    "name": "Cheile Genelor"
   },
   {
     "id": "group-cursuri",
@@ -175,6 +183,10 @@
     "id": "group-fitness",
     "name": "Fitness"
   },
+   {
+    "id": "group-humandesign",
+    "name": "Human Design"
+  },
   {
     "id": "group-meditatii-ghidate",
     "name": "Meditatii ghidate"
@@ -191,18 +203,7 @@
     "id": "group-pilates",
     "name": "Pilates"
   },
-    {
-    "id": "group-alteservicii",
-    "name": "Alte Servicii"
-  },
-  {
-    "id": "group-cheilegenelor",
-    "name": "Cheile Genelor"
-  },
-   {
-    "id": "group-humandesign",
-    "name": "Human Design"
-  },
+
   {
     "id": "group-sound-healing",
     "name": "Sound Healing"
