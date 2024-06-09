@@ -4,18 +4,20 @@ import { Image } from "astro:assets";
 
 interface Props {
   displayCount?: number;
+  activityId?: string;
 }
 export const DarkBlue = "#224884";
 export const LightBlue = "#0FCBFF";
 export const Teal = "#00C3CD";
 export const Pink = "#FF969F";
 
-const { displayCount } = Astro.props;
+const { displayCount, activityId } = Astro.props;
 
-const facilitators = (await getCollection("facilitators")).slice(
-  0,
-  displayCount,
-);
+const facilitators = (await getCollection("facilitators"))
+  .filter((facilitator) =>
+    activityId ? facilitator.data.activities.includes(activityId) : true,
+  )
+  .slice(0, displayCount);
 ---
 
 <>
