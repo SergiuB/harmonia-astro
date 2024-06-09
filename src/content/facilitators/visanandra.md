@@ -16,7 +16,7 @@ services: [
       isGroup: true,
       price: "260lei",
       duration: "120min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima",
+      reserveLink: "https://wa.link/q1kdla",
     },
     {
       name: "Aguahara - Shamanic Water Therapy ",
@@ -55,7 +55,7 @@ Apa actioneaza ca un conductor dintre constient si subconstient, permitandu-ne s
         ],
       price: "144lei",
       duration: "120min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima",
+      reserveLink: "https://wa.link/q1kdla",
     },
      {
       name: "Crystal Frequency Sound Bath ",
@@ -83,7 +83,7 @@ Apa actioneaza ca un conductor dintre constient si subconstient, permitandu-ne s
       isGroup: true,
       price: "133lei",
       duration: "60min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima",
+      reserveLink: "https://wa.link/q1kdla",
     },
   ]
 location: "Strada Cercului 18, Bucuresti" #optional
@@ -91,8 +91,9 @@ locationUrl: "https://maps.app.goo.gl/Qo9Fo6nnMFngebAW7" #optional
 contact: {
     email: "andra.visan.miu@gmail.com", #optional
     phone: "0721861338",
-    instagram: "https://www.instagram.com/harmoniaoptima", #optional
-    whatsapp: "https://api.whatsapp.com/send?phone=40734693145&text=Hello!", #optional
+    instagram: "https://www.instagram.com/dreamspelling", #optional
+    instagram: "https://www.instagram.com/aguaharawithandra", #optional
+    whatsapp: "https://wa.link/q1kdla", #optional
   }
 ---
 
