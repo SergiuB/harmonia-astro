@@ -4,12 +4,7 @@ images: ["./images/codrin/photo_2024-04-30_22-42-18 - Codrin Tro.jpg"]
 tags: ["Instructor"]
 activities: ["breathwork"]
 services: [
-    {
-      name: "BOF + Alcalină",
-      summary: "Breathwork : Sesiune de grup"
-      description:
-        [
-          " {
+          {
       name: "BOF + Alcalină",
       summary: "Breathwork : Sesiune de grup"
       description:
