@@ -87,7 +87,7 @@ atelier este perfect pentru tine.",
 - conectarea cu propria putere dinăuntru;
 - modelarea exemplului sănătos de a fi și a simți atât pentru noi însene cât și pentru copiii
 noștri;
-- îmbunătățirea relațiilor cu oamenii din viața noastră.";
+- îmbunătățirea relațiilor cu oamenii din viața noastră.",
       "Pentru practica de Tribal fusion nu este necesară experiența în vreo tehnică de dans.",
         ],
       isGroup: true,
