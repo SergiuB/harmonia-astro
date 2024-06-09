@@ -23,13 +23,11 @@ services: [
       description:
         [ 
         "Este oare posibil sã te simti si sã arti mai tânăr, FARA sã injectezi botox, sã folosesti ace de acupunctura sau sã creezi o alta traumă corpului tău?",
-"Procesul Facelift Access Consciousness este un proces uimitor, care inverseaza aparitia imbatrânirii pe fata si poate crea efecte similare pe întreg corpul. Dacã e făcut de mai multe ori (cel putin de 20 de ori), efectul pare a fi permanent.
-Faceliftul Access Consciousness este diferit de alte procese similare, find mai blând si mai usor pentru tine si pentru corpul tu.",
-"In aceast sedinta vei percepe diferite energii ce stimuleaza si reintinereste întregul corp, folosind o atingere blândă, reconfortanta, linistitoare si hrănitoare, aplicat pe fată si pe gât.",
-"Faceliftul Access Consciousness a fost folosit profesional în SPA-uri, practici de masaj, centre anti-îmbtrânire, cabinete de chirurgie plastic si centre de wellness, peste tot in lume.",
+        "Procesul Facelift Access Consciousness este un proces uimitor, care inverseaza aparitia imbatrânirii pe fata si poate crea efecte similare pe întreg corpul. Dacã e făcut de mai multe ori (cel putin de 20 de ori), efectul pare a fi permanent. Faceliftul Access Consciousness este diferit de alte procese similare, find mai blând si mai usor pentru tine si pentru corpul tu.",
+        "In aceast sedinta vei percepe diferite energii ce stimuleaza si reintinereste întregul corp, folosind o atingere blândă, reconfortanta, linistitoare si hrănitoare, aplicat pe fată si pe gât.",
+        "Faceliftul Access Consciousness a fost folosit profesional în SPA-uri, practici de masaj, centre anti-îmbtrânire, cabinete de chirurgie plastic si centre de wellness, peste tot in lume.",
         "Ce energie generativa, spatiu si constiinta puteti fi tu si corpul tãu, ca sã primesti, sã ai si sã fii energia tineretii?",
         "Faceliftul Access Conciousness este un proces de corp. Corpurilor le place sã fie atinse. Atunci când un corp il atinge pe altul, exista o interactiune energetica uimitoare si hrănitoare. Unul dintre darurile Faceliftului Access Consciousness este sã fii atins fara judecata. Când cineva atinge corpul fară judecata, corpul se usureazã si schimbarea poate incepe.",
-",
         ],
       isGroup: true,
       price: "350lei",
