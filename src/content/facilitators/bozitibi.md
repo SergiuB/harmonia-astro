@@ -2,7 +2,7 @@
 name: "Tiberiu Bozi"
 images: ["./images/tibibozi/tibibozi3.PNG"]
 tags: ["Terapeut", "Coach", "Holistic Approach"]
-activities: ["masaj", "coaching", "terapii-shamanice", "alte-servicii"]
+activities: ["masaj", "coaching", "terapii-shamanice", "tre", "alte-servicii"]
 services: [
     {
       name: "(E)Motion Somatic Release",
