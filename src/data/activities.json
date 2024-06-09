@@ -31,6 +31,10 @@
     "id": "breathwork",
     "name": "Breathwork"
   },
+   {
+    "id": "cheilegenelor",
+    "name": "Cheile Genelor"
+  },
   {
     "id": "chiropractor",
     "name": "Chiropractor"
@@ -58,6 +62,10 @@
   {
     "id": "hipnoza",
     "name": "Hipnoza"
+  },
+   {
+    "id": "humandesign",
+    "name": "Human Design"
   },
   {
     "id": "kinetoterapie",
