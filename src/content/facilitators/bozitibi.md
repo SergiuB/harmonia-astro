@@ -2,8 +2,9 @@
 name: "Tiberiu Bozi"
 images: ["./images/tibibozi/tibibozi3.PNG"]
 tags: ["Terapeut", "Coach", "Holistic Approach"]
+activities: ["masaj", "coaching"]
 services: [
-     {
+    {
       name: "(E)Motion Somatic Release",
       summary: "Terapie Holistică : Întregul corp",
       image: "./images/tibibozi/DSC01860.jpg",
@@ -34,7 +35,7 @@ services: [
       duration: "135min",
       reserveLink: "https://app.simplymeet.me/harmoniaoptima",
     },
-     {
+    {
       name: "Harmonic Recharge",
       summary: "Masaj Holistic : Întregul corp",
       image: "./images/tibibozi/DSC08316.jpg",
@@ -59,7 +60,7 @@ services: [
       image: "./images/tibibozi/DSC01200-2.jpg", #optional
       description:
         [
-         'Harmonic Ritual, spus și ”Terapia mâinilor iubitoare”, are rădăcini Hawaiiene și se realizează prin utilizarea pălmilor, antebrațelor cât și a coatelor, fiind posibil executate în același moment pe două părți extinse ale corpului, creându-se sentimentul de îmbrățisare. Aceste mișcări fac în așa fel încât corpul să se relaxeze complet, să fie într-o stare de eliberare și să existe o armonie între partea fizică, mentală și spirituală.',
+          "Harmonic Ritual, spus și ”Terapia mâinilor iubitoare”, are rădăcini Hawaiiene și se realizează prin utilizarea pălmilor, antebrațelor cât și a coatelor, fiind posibil executate în același moment pe două părți extinse ale corpului, creându-se sentimentul de îmbrățisare. Aceste mișcări fac în așa fel încât corpul să se relaxeze complet, să fie într-o stare de eliberare și să existe o armonie între partea fizică, mentală și spirituală.",
           "Scopul acestei terapii este de a-ți celebra și vindeca întreaga ființă actionând cu armonie pe toate sistemele sale.",
           "Pentru ca acest ritual sa aibă rezultate benefice, este important ca relația dintre terapeut și client să fie una cât mai deschisă. Terapeutul nu se va limita doar la starea corpului, ci va avea in vedere și restul părților(mental, emoțional, spiritual) ce țin de sănătatea clientului. Acest lucru îl va ajuta pe terapeut să își dea seama de resursele pe care clientul le are sau disfuncțiile care il pot împiedica în procesul de vindecare.",
         ],
