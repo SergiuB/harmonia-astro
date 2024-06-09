@@ -9,10 +9,10 @@ services: [
       summary: "Terapie Holistica: Sesiune individuala ",
       description:
         [
-          "Etapele unei terapii:
-• informare și conștientizare; 
-• aliniere in meditație ghidata; 
-• timeline therapy / EFT; 
+          "Etapele unei terapii,
+• informare și conștientizare, 
+• aliniere in meditație ghidata, 
+• timeline therapy / EFT,
 • asimilare și relaxare.",
         ],
       isGroup: true,
@@ -25,12 +25,12 @@ services: [
       summary: "Masaj Aromaterapeutic ",
       description:
         [
-          "Etapele unui masaj SFE:
-• informare și conștientizare;
-• aliniere in meditație ghidata;
-• masaj aromaterapeutic;
-• Spinal Flow Energetics;
-• baie de sunet;
+          "Etapele unui masaj SFE,
+• informare și conștientizare,
+• aliniere in meditație ghidata,
+• masaj aromaterapeutic,
+• Spinal Flow Energetics,
+• baie de sunet,
 • asimilare și relaxare.",
         ],
       isGroup: true,
@@ -40,7 +40,7 @@ services: [
     },
      {
       name: "Ritual cu Rapé"
-      summary: "Terapie Shamanica" ",
+      summary: "Terapie Shamanica",
       description:
         [
           "Etapele unui ritual cu Rapé:
