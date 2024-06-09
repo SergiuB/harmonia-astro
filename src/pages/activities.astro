@@ -1,5 +1,4 @@
 ---
-import FacilitatorList from "../components/FacilitatorList.astro";
 import RootLayout from "../layouts/RootLayout.astro";
 const pageTitle = "Activități";
 import activities from "../data/activities.json";
@@ -12,51 +11,47 @@ import activities from "../data/activities.json";
     <h1 class="text-6xl mb-8" transition:name="facilitators-title">
       Activități
     </h1>
-    <div class="flex flex-row gap-2">
-      <div class="max-w-36">
-        <h2
-          class="text-2xl pt-4 text-center mb-2"
-          transition:name="facilitator-0"
-        >
-          Individuale
-        </h2>
-        <ul>
-          {
-            activities.individual.map((activity) => (
-              <li class="py-2 text-center">
-                <a
-                  href={`/facilitators?activity=${activity.id}`}
-                  class=" text-secondary-blue py-1"
-                >
-                  {activity.name}
-                </a>
-              </li>
-            ))
-          }
-        </ul>
-      </div>
-      <div class="max-w-36">
-        <h2
-          class="text-2xl pt-4 text-center mb-2"
-          transition:name="facilitator-1"
-        >
-          De grup
-        </h2>
-        <ul>
-          {
-            activities.group.map((activity) => (
-              <li class="py-2  text-center">
-                <a
-                  href={`/facilitators?activity=${activity.id}`}
-                  class=" text-secondary-blue py-1"
-                >
-                  {activity.name}
-                </a>
-              </li>
-            ))
-          }
-        </ul>
-      </div>
+    <div class="flex flex-col gap-2">
+      <h2
+        class="text-2xl pt-4 text-center mb-2"
+        transition:name="facilitator-0"
+      >
+        Individuale
+      </h2>
+      <ul class="flex flex-wrap w-80 place-items-center">
+        {
+          activities.individual.map((activity) => (
+            <li class="py-2 text-center w-1/2 box-border even:clear-left">
+              <a
+                href={`/activities/${activity.id}`}
+                class=" text-secondary-blue py-1"
+              >
+                {activity.name}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+      <h2
+        class="text-2xl pt-4 text-center mb-2"
+        transition:name="facilitator-1"
+      >
+        De grup
+      </h2>
+      <ul class="flex flex-wrap w-80 place-items-center">
+        {
+          activities.group.map((activity) => (
+            <li class="py-2  text-center w-1/2 box-border even:clear-left">
+              <a
+                href={`/activities/${activity.id}`}
+                class=" text-secondary-blue py-1"
+              >
+                {activity.name}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
     </div>
   </section>
 </RootLayout>
