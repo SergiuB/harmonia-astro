@@ -86,21 +86,24 @@ services: [
       reserveLink: "https://app.simplymeet.me/harmoniaoptima",
     },
        {
-      name: "5 Stars TERRApy",
+      name: "7 Stars TERRApy",
       summary: "Pachet Holistic : Personalizat",
       description:
         [
-          "Descoperă Vindecarea Completă a Corpului, Minții și Sufletului",
-          "Ne face plăcere să vă prezentăm pachetul nostru exclusiv de terapii holistice: 5 Stars TERRApy. Acest pachet unic combină expertiza a trei terapeuți, fiecare aducându-și contribuția unică pentru a crea o experiență de vindecare completă care te vor ajuta să îți aliniezi corpul, mintea și sufletul.",
+          "Experimentează Vindecarea Supremă a Corpului, Minții și Sufletului",
+          "Ne bucurăm să vă prezentăm pachetul nostru de terapii holistice premium: 7 Stars TERRApy. Acest pachet exclusiv combină tehnici tradiționale și moderne pentru a oferi o experiență de vindecare profundă și completă. Vei beneficia de 7 ore de tratamente specializate care îți vor aduce armonie și echilibru în toate aspectele vieții tale.",
           "Ce Include Pachetul",
-          "Zyto - Delia utilizează tehnologia Zyto pentru a oferi o diagnoză detaliată a stării tale de sănătate. Această metodă inovatoare analizează biofeedback-ul corpului tău, identificând dezechilibrele și oferind soluții personalizate pentru a-ți restabili sănătatea optimă.",
-          "(E)motion Somatic Release - Tiberiu te va ghida printr-o terapie puternică ce combină trauma release exercises cu medicina samanica si alte tehnici somatice pentru a elibera tensiunile și traumele acumulate în corp. Această terapie îți va oferi o stare profundă de relaxare și eliberare emoțională.",
-          "Sacred Pedi Pudja - Paul aduce in acest ritual ce are la baza reflexologia tibetana cu un masaj al scalpului pentru a-ți oferi o stare de bine profundă. Această terapie holistică stimulează punctele reflexogene, chackrele și scalpul pentru a aduce revitalizare, relaxare și vindecare pe întregul organism.",
+          "Diagnoza Energetică - Paul utilizează principiile medicinei tradiționale chineze pentru a realiza o diagnoză energetică detaliată, identificând dezechilibrele și oferind soluții personalizate pentru restabilirea fluxului energetic optim în corpul tău.",
+          "QiNeiZang - Paul foloseste o tehnică de masaj profundă, care se concentrează pe organele interne. Acest tratament ajută la detoxifierea organismului, îmbunătățirea funcționării organelor și eliberarea blocajelor energetice.",
+          "Ventuze - Terapia cu ventuze stimulează circulația sângelui și a energiei, ajutând la reducerea durerilor și a tensiunilor musculare. Paul folosește această metodă tradițională pentru a îmbunătăți starea generală de sănătate și bunăstare.",
+          "Harmonic Reborn - Tibi oferă un masaj holistic complet si complex ce integrează diverse tehnici pentru a aduce relaxare profundă și revitalizare. Harmonic Reborn este conceput pentru a echilibra corpul, mintea și spiritul, oferind o experiență de vindecare completă.",
+          "Harmonic Spa - Delia combină Gua Sha, masajul capului și EarCandling pentru a crea o sesiune armonizare. Aceste tehnici tradiționale ajută la eliberarea tensiunilor, stimularea circulației și detoxifierea organismului.",
+          "Simfonia Celulelor - Delia folosește uleiuri esențiale Doterra pentru a aplica această tehnică care este un tratament ce îmbunătățește sănătatea celulară și echilibrul energetic. Această terapie aduce beneficii profunde pentru sănătatea fizică și emoțională.";
           "Rezervă-ți acum locul pentru a experimenta o transformare holistică unică și profundă.",
           "Contactează-ne pentru a afla mai multe detalii și pentru a face o programare. Vindecarea ta completă este la un pas distanță!",
         ],
-      price: "999lei",
-      duration: "5ore",
+      price: "1240lei",
+      duration: "7ore",
       reserveLink: "https://wa.link/0y6cpq",
     },
   ]
