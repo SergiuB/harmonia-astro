@@ -350,6 +350,27 @@ services:
       duration: "5ore",
       reserveLink: "https://wa.link/dpnwpu",
     },
+        {
+      name: "7 Stars TERRApy",
+      summary: "Pachet Holistic : Personalizat",
+      description:
+        [
+          "Experimentează Vindecarea Supremă a Corpului, Minții și Sufletului",
+          "Ne bucurăm să vă prezentăm pachetul nostru de terapii holistice premium: 7 Stars TERRApy. Acest pachet exclusiv combină tehnici tradiționale și moderne pentru a oferi o experiență de vindecare profundă și completă. Vei beneficia de 7 ore de tratamente specializate care îți vor aduce armonie și echilibru în toate aspectele vieții tale.",
+          "Ce Include Pachetul",
+          "Diagnoza Energetică - Paul utilizează principiile medicinei tradiționale chineze pentru a realiza o diagnoză energetică detaliată, identificând dezechilibrele și oferind soluții personalizate pentru restabilirea fluxului energetic optim în corpul tău.",
+          "QiNeiZang - Paul foloseste o tehnică de masaj profundă, care se concentrează pe organele interne. Acest tratament ajută la detoxifierea organismului, îmbunătățirea funcționării organelor și eliberarea blocajelor energetice.",
+          "Ventuze - Terapia cu ventuze stimulează circulația sângelui și a energiei, ajutând la reducerea durerilor și a tensiunilor musculare. Paul folosește această metodă tradițională pentru a îmbunătăți starea generală de sănătate și bunăstare.",
+          "Harmonic Reborn - Tibi oferă un masaj holistic complet si complex ce integrează diverse tehnici pentru a aduce relaxare profundă și revitalizare. Harmonic Reborn este conceput pentru a echilibra corpul, mintea și spiritul, oferind o experiență de vindecare completă.",
+          "Harmonic Spa - Delia combină Gua Sha, masajul capului și EarCandling pentru a crea o sesiune armonizare. Aceste tehnici tradiționale ajută la eliberarea tensiunilor, stimularea circulației și detoxifierea organismului.",
+          "Simfonia Celulelor - Delia folosește uleiuri esențiale Doterra pentru a aplica această tehnică care este un tratament ce îmbunătățește sănătatea celulară și echilibrul energetic. Această terapie aduce beneficii profunde pentru sănătatea fizică și emoțională.",
+          "Rezervă-ți acum locul pentru a experimenta o transformare holistică unică și profundă.",
+          "Contactează-ne pentru a afla mai multe detalii și pentru a face o programare. Vindecarea ta completă este la un pas distanță!",
+        ],
+      price: "1240lei",
+      duration: "7ore",
+      reserveLink: "https://wa.link/dpnwpu",
+    },
   ]
 location: "Strada Cercului 18, Bucuresti" #optional
 locationUrl: "https://maps.app.goo.gl/Qo9Fo6nnMFngebAW7" #optional
