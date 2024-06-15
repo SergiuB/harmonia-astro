@@ -1,5 +1,5 @@
 ---
-name: "Andreea Cristina Popescu"
+name: "Andreea Cristina"
 images: ["./images/popescuandreea/acristina.jpg"]
 tags: ["Coach", "Playfight"]
 services: [
