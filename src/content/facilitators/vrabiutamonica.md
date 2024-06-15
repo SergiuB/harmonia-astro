@@ -1,6 +1,6 @@
 ---
 name: "Monica Vrabiuta"
-images: ["./images/vrabiutamonica/FB_IMG_1715867976363 - Monica Vrabiuta.jpg"]
+images: ["./images/vrabiutamonica/monicav.jpg"]
 tags: ["Terapeut", "Coach", "Dans Constient"]
 activities: ["masaj", "humandesign", "cheilegenelor", "group-cheilegenelor", "group-humandesign", "group-dans"]
 services: [
