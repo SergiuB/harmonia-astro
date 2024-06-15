@@ -167,6 +167,28 @@ services:
       duration: "7ore",
       reserveLink: "https://wa.link/pvs0d2",
     },
+      {
+      name: "Harmony GIFT Card",
+      summary: "Gift Card : Personalizat",
+      description:
+        [
+          "Descoperiți puterea de a dărui sănătate și armonie prin intermediul unui Harmony Gift Card. Perfect pentru orice ocazie specială, gift cardul permite beneficiarului să aleagă oricare dintre serviciile mele holistice, având valoarea pe care dumneavoastră ați achitat-o.",
+          "Beneficiile Harmony Gift Card",
+          "Flexibilitate Totală: Beneficiarul poate alege dintr-o gamă variată de terapii și pachete holistice, personalizând experiența în funcție de nevoile și preferințele sale.",
+          "Valabilitate Extinsă: Harmony Gift Card are o valabilitate de 3 luni de la data achiziționării, oferind destul timp pentru a programa și bucura de o sesiune de vindecare și relaxare.",
+          "Cum Funcționează",
+          "1. Achiziționați Gift Cardul: Direct printr-un mesaj pe whatsapp în care specificati valoarea dorită.",
+          "2. Personalizați Mesajul: Adăugați un mesaj personalizat pentru a face cadoul și mai special.",
+          "3. Expediere Imediată: Alegeți să trimiteți Harmony Gift Card prin email sau să-l imprimați pentru a-l dărui personal.",
+          "4. Bucurați-vă de Recunoștință: Oferiți cadoul perfect care aduce bucurie, sănătate și armonie celor dragi.",
+          "Indiferent de valoarea aleasă, Harmony Gift Card reprezintă un pas către o stare de bine profundă, echilibrul corpului, minții și sufletului. Beneficiarul va putea opta pentru terapii holistice, masaje revitalizante și pachete complete care transformă și vindecă.",
+          "Nu rata ocazia de a dărui un cadou de neprețuit. Achiziționează un Harmony Gift Card astăzi și oferă celor dragi o experiență de neuitat, plină de relaxare și vindecare.",
+          "Îți mulțumesc că alegi să dăruiești sănătate și armonie.",
+        ],
+      price: " 250lei <> 1240lei",
+      duration: "30min <> 7ore",
+      reserveLink: "https://wa.link/pvs0d2",
+    },
   ]
 location: "Strada Cercului 18, Bucuresti" #optional
 locationUrl: "https://maps.app.goo.gl/Qo9Fo6nnMFngebAW7" #optional
