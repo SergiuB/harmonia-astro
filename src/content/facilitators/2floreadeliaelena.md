@@ -37,7 +37,8 @@ services:
       summary: "Masaj : Întregul corp",
       description:
         [
-          'Intră într-un univers de liniște serenă și rejuvenare cu ajutor-ul terapiei  "Călătoria Spa - Armonie". Îmbibă-te într-o oază holistică unde tradițiile de vindecare străvechi se întâlnesc cu tehnici moderne de wellness pentru a-ți alina corpul, mintea și spiritul. Ear Candling (Curățarea urechilor cu lumânare): Experimentează căldura delicată și beneficiile terapeutice ale curățării urechii cu lumânare, o practică veche de secole, ce se crede că curăță canalul urechii și promovează relaxarea. Lasă-ți tensiunea să se elibereze în timp ce aromele delicate te învăluie, transportându-te într-o stare de pace interioară.',
+          'Intră într-un univers de liniște serenă și rejuvenare cu ajutor-ul terapiei  "Călătoria Spa - Armonie". Îmbibă-te într-o oază holistică unde tradițiile de vindecare străvechi se întâlnesc cu tehnici moderne de wellness pentru a-ți alina corpul, mintea și spiritul.',
+          "Ear Candling (Curățarea urechilor cu lumânare): Experimentează căldura delicată și beneficiile terapeutice ale curățării urechii cu lumânare, o practică veche de secole, ce se crede că curăță canalul urechii și promovează relaxarea. Lasă-ți tensiunea să se elibereze în timp ce aromele delicate te învăluie, transportându-te într-o stare de pace interioară.",
           "Gua Sha: Redescoperă echilibrul și vitalitatea cu arta străveche a Gua Sha. Voi folosi unelte netede și terapeutice pentru a masa ușor și a stimula punctele cheie de energie, eliberând tensiunea și promovând un flux armonios de Qi în întregul corp.",
           "Dry Brushing (Perierea uscată a pielii): Trezește-ți simțurile și revitalizează-ți pielea cu practica revigorantă a perierii uscate. Simte cum stresul se topește în timp ce periile moi exfoliază ușor, îmbunătățesc circulația și îți lasă pielea radiantă și revigorată.",
           "Head Massage (Masajul capului): Plutește într-o stare de fericire în timp ce mâinile experte își fac magia cu masajul  liniștitor al capului. Eliberează tensiunea acumulată din scalp, gât și umeri, topind stresul și lăsându-te să te simți complet relaxat și rejuvenat.",
@@ -122,6 +123,27 @@ services:
         ],
       price: "999lei",
       duration: "5ore",
+      reserveLink: "https://wa.link/pvs0d2",
+    },
+     {
+      name: "7 Stars TERRApy",
+      summary: "Pachet Holistic : Personalizat",
+      description:
+        [
+          "Experimentează Vindecarea Supremă a Corpului, Minții și Sufletului",
+          "Ne bucurăm să vă prezentăm pachetul nostru de terapii holistice premium: 7 Stars TERRApy. Acest pachet exclusiv combină tehnici tradiționale și moderne pentru a oferi o experiență de vindecare profundă și completă. Vei beneficia de 7 ore de tratamente specializate care îți vor aduce armonie și echilibru în toate aspectele vieții tale.",
+          "Ce Include Pachetul",
+          "Diagnoza Energetică - Paul utilizează principiile medicinei tradiționale chineze pentru a realiza o diagnoză energetică detaliată, identificând dezechilibrele și oferind soluții personalizate pentru restabilirea fluxului energetic optim în corpul tău.",
+          "QiNeiZang - Paul foloseste o tehnică de masaj profundă, care se concentrează pe organele interne. Acest tratament ajută la detoxifierea organismului, îmbunătățirea funcționării organelor și eliberarea blocajelor energetice.",
+          "Ventuze - Terapia cu ventuze stimulează circulația sângelui și a energiei, ajutând la reducerea durerilor și a tensiunilor musculare. Paul folosește această metodă tradițională pentru a îmbunătăți starea generală de sănătate și bunăstare.",
+          "Harmonic Reborn - Tibi oferă un masaj holistic complet si complex ce integrează diverse tehnici pentru a aduce relaxare profundă și revitalizare. Harmonic Reborn este conceput pentru a echilibra corpul, mintea și spiritul, oferind o experiență de vindecare completă.",
+          "Harmonic Spa - Delia combină Gua Sha, masajul capului și EarCandling pentru a crea o sesiune armonizare. Aceste tehnici tradiționale ajută la eliberarea tensiunilor, stimularea circulației și detoxifierea organismului.",
+          "Simfonia Celulelor - Delia folosește uleiuri esențiale Doterra pentru a aplica această tehnică care este un tratament ce îmbunătățește sănătatea celulară și echilibrul energetic. Această terapie aduce beneficii profunde pentru sănătatea fizică și emoțională.",
+          "Rezervă-ți acum locul pentru a experimenta o transformare holistică unică și profundă.",
+          "Contactează-ne pentru a afla mai multe detalii și pentru a face o programare. Vindecarea ta completă este la un pas distanță!",
+        ],
+      price: "1240lei",
+      duration: "7ore",
       reserveLink: "https://wa.link/pvs0d2",
     },
   ]
