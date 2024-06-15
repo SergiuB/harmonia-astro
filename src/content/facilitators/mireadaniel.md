@@ -1,6 +1,6 @@
 ---
 name: "Daniel Milea"
-images: ["./images/mileadaniel/Header Daniel Milea ro - Carpathian Dog.jpg"]
+images: ["./images/mileadaniel/danielmilea.jpg"]
 tags: ["Coach"]
 activities: ["coaching", "humandesign", "cheilegenelor"]
 services: [
