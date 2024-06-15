@@ -1,6 +1,6 @@
 ---
 name: "Bogdan Cochior"
-images: ["./images/cochiorbogdan/Screenshot 2024-04-30 at 15.09.16 - Bogdan Marius.png"]
+images: ["./images/cochiorbogdan/cochiorbogdan.png"]
 tags: ["Terapeut"]
 activities: ["masaj", "aromaterapie", "cupping"]
 services: [
