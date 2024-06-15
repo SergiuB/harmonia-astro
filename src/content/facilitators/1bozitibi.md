@@ -98,7 +98,7 @@ services: [
           "Ventuze - Terapia cu ventuze stimulează circulația sângelui și a energiei, ajutând la reducerea durerilor și a tensiunilor musculare. Paul folosește această metodă tradițională pentru a îmbunătăți starea generală de sănătate și bunăstare.",
           "Harmonic Reborn - Tibi oferă un masaj holistic complet si complex ce integrează diverse tehnici pentru a aduce relaxare profundă și revitalizare. Harmonic Reborn este conceput pentru a echilibra corpul, mintea și spiritul, oferind o experiență de vindecare completă.",
           "Harmonic Spa - Delia combină Gua Sha, masajul capului și EarCandling pentru a crea o sesiune armonizare. Aceste tehnici tradiționale ajută la eliberarea tensiunilor, stimularea circulației și detoxifierea organismului.",
-          "Simfonia Celulelor - Delia folosește uleiuri esențiale Doterra pentru a aplica această tehnică care este un tratament ce îmbunătățește sănătatea celulară și echilibrul energetic. Această terapie aduce beneficii profunde pentru sănătatea fizică și emoțională.";
+          "Simfonia Celulelor - Delia folosește uleiuri esențiale Doterra pentru a aplica această tehnică care este un tratament ce îmbunătățește sănătatea celulară și echilibrul energetic. Această terapie aduce beneficii profunde pentru sănătatea fizică și emoțională.",
           "Rezervă-ți acum locul pentru a experimenta o transformare holistică unică și profundă.",
           "Contactează-ne pentru a afla mai multe detalii și pentru a face o programare. Vindecarea ta completă este la un pas distanță!",
         ],
