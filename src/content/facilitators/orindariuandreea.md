@@ -1,6 +1,6 @@
 ---
 name: "Andreea Orîndariu"
-images: ["./images/orindariuandreea/a-66 - Andreea Orindaru.jpg"]
+images: ["./images/orindariuandreea/AndreeaO.jpg"]
 tags: ["Coach"]
 activities: ["coaching"]
 services: [
