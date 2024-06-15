@@ -1,6 +1,6 @@
 ---
 name: "Paul Hostiuc"
-images: ["./images/hostiucpaul/paul.jpeg"]
+images: ["./images/hostiucpaul/paulh.jpeg"]
 tags: ["Terapeut", "Medicina Chineză", "Acupunctură"]
 activities: ["masaj", "medicina-traditionala-chineza", "acupunctura", "cupping"]
 services:
@@ -159,7 +159,7 @@ services:
           sângerarea, încălzește splina și stomacul pentru a elimina blocaje , reglează menstruația și
           ușureaza nasterea.",
           "Yang qi poate fi activat de frunza Artemisi ei prin calitatea sa caldă . Mirosul înțepător al frunzei poate călători prin meridiane, reglează qi ul și sângele și expulzează frigul din meridiane. Natura amară rezolvă umezeala. În plus, lâna moxa poate produce o căldură ușoară, care poate pătrunde adânc în mușchi. Dacă este înlocuită cu alte materiale, o durere intolerabilă va rezulta având totodată și un efect semnificativ mai slab. Moxa lână, conuri moxa, bastoane moxa, un borcănel cu apă, foc și o tavă trebuie să fie pregătită în prealabil.",
-        ], price: "140lei", duration: "15min", reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o" },
+        ], price: "90lei", duration: "15min", reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o" },
     {
       name: "Ventuze",
       summary: "Cupping : Întregul corp ",
@@ -169,7 +169,7 @@ services:
           "Dacă acești patogeni nu sunt eliminați la timp, ei pot pătrunde în interiorul organismului cu riscul de a ataca stomacul, splina si rinichii, sursele noastre de energie, astfel simptomele devenind mai pronunțate si tratamentul mai costisitor si de lungă durată.",
           "Te ai întrebat vreodata cum de niște „borcane” pot ameliora aceaste dezechilibre? Ei bine explicația este că aplicarea de ventuze si crearea de vacuum fac ca această tehnică să elimine blocajele de la nivelul capilarelor și totodată să relaxeze fascia pentru un curs lin al sângelui, limfei și energiei, stimulând astfel producerea de celule noi care vor fortifica organismul.",
         ],
-      price: "140lei",
+      price: "90lei",
       duration: "15min",
       reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
     },
