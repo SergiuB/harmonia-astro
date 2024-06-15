@@ -154,6 +154,37 @@ contact: {
     instagram: "https://www.instagram.com/harmoniaoptima", #optional
     whatsapp: "https://wa.link/0y6cpq", #optional
   }
+    {
+      name: "Harmony GIFT Card",
+      summary: "Gift Card : Personalizat",
+      description:
+        [
+          "Descoperiți puterea de a dărui sănătate și armonie prin intermediul unui Harmony Gift Card. Perfect pentru orice ocazie specială, gift cardul permite beneficiarului să aleagă oricare dintre serviciile mele holistice, având valoarea pe care dumneavoastră ați achitat-o.",
+          "Beneficiile Harmony Gift Card",
+          "Flexibilitate Totală: Beneficiarul poate alege dintr-o gamă variată de terapii și pachete holistice, personalizând experiența în funcție de nevoile și preferințele sale.",
+          "Valabilitate Extinsă: Harmony Gift Card are o valabilitate de 3 luni de la data achiziționării, oferind destul timp pentru a programa și bucura de o sesiune de vindecare și relaxare.",
+          "Cum Funcționează",
+          "1. Achiziționați Gift Cardul: Direct printr-un mesaj pe whatsapp în care specificati valoarea dorită.",
+          "2. Personalizați Mesajul: Adăugați un mesaj personalizat pentru a face cadoul și mai special.",
+          "3. Expediere Imediată: Alegeți să trimiteți Harmony Gift Card prin email sau să-l imprimați pentru a-l dărui personal.",
+          "4. Bucurați-vă de Recunoștință: Oferiți cadoul perfect care aduce bucurie, sănătate și armonie celor dragi.",
+          "Indiferent de valoarea aleasă, Harmony Gift Card reprezintă un pas către o stare de bine profundă, echilibrul corpului, minții și sufletului. Beneficiarul va putea opta pentru terapii holistice, masaje revitalizante și pachete complete care transformă și vindecă.",
+          "Nu rata ocazia de a dărui un cadou de neprețuit. Achiziționează un Harmony Gift Card astăzi și oferă celor dragi o experiență de neuitat, plină de relaxare și vindecare.",
+          "Îți mulțumesc că alegi să dăruiești sănătate și armonie.
+        ],
+      price: " 500lei - 1240lei",
+      duration: "90min - 7ore",
+      reserveLink: "https://wa.link/0y6cpq",
+    },
+  ]
+location: "Strada Cercului 18, Bucuresti" #optional
+locationUrl: "https://maps.app.goo.gl/Qo9Fo6nnMFngebAW7" #optional
+contact: {
+    email: "bozitiberiu@gmail.com", #optional
+    phone: "0734693145",
+    instagram: "https://www.instagram.com/harmoniaoptima", #optional
+    whatsapp: "https://wa.link/0y6cpq", #optional
+  }
 ---
 
 După ani în care a experimentat pe propria piele diverse metode în procesul lui de vindecare, a studiat cu ardoare fiinta umană și a practicat cu pasiune masajul și alte terapii complementare, Tiberiu Bozi oferă oamenilor propriile lui servicii holistice create și semnate de el precum (E)Motion Somatic Release, Harmonic Reborn, Holistic Life Coach care îmbină diverse tehnici, instrumente, elemente și metode pentru a aduce armonie pe plan fizic, psiho-emoțional și spiritual.
