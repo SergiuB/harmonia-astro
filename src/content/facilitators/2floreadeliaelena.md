@@ -1,6 +1,6 @@
 ---
 name: "Delia Florea"
-images: ["./images/deliaflorea/DSC01389-2.jpg"]
+images: ["./images/deliaflorea/delia.jpg"]
 tags: ["terapeut", "medicină alternativă"]
 activities: ["masaj", "aromaterapie", "access-bars", "alte-servicii", "scanare-zvto"]
 services:
