@@ -122,7 +122,7 @@ services:
         ],
       price: "999lei",
       duration: "5ore",
-      reserveLink: "wa.link/pvs0d2",
+      reserveLink: "https://wa.link/pvs0d2",
     },
   ]
 location: "Strada Cercului 18, Bucuresti" #optional
@@ -130,6 +130,7 @@ locationUrl: "https://maps.app.goo.gl/Qo9Fo6nnMFngebAW7" #optional
 contact: {
     email: "delixirelia@gmail.com", #optional
     phone: "0765765455",
+    whatsapp: "https://wa.link/pvs0d2", #optional
     instagram: "https://www.instagram.com/delia.heals", #optional
   }
 ---
