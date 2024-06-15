@@ -1,6 +1,6 @@
 ---
 name: "Iunia Smeu"
-images: ["./images/iuniazmeu/IMG_20240512_231459 - Hij Iulia.jpg"]
+images: ["./images/iuniazmeu/iuniazmeu.jpg"]
 tags: ["Terapeut", "Medicina Shamanica"]
 activities: ["masaj", "terapii-shamanice", "alte-servicii"]
 services: [
