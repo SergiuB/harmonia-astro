@@ -91,7 +91,7 @@ services: [
       description:
         [
           "Descoperă Vindecarea Completă a Corpului, Minții și Sufletului",
-          "Ne face plăcere să vă prezentăm pachetul nostru exclusiv de terapii holistice: 5 Stars TERRApy. Acest pachet unic combină expertiza a trei terapeuți, fiecare aducându-și contribuția unică pentru a crea o experiență de vindecare completă care te vor ajuta să îți aliniezi corpul, mintea și sufletul.',
+          "Ne face plăcere să vă prezentăm pachetul nostru exclusiv de terapii holistice: 5 Stars TERRApy. Acest pachet unic combină expertiza a trei terapeuți, fiecare aducându-și contribuția unică pentru a crea o experiență de vindecare completă care te vor ajuta să îți aliniezi corpul, mintea și sufletul.",
           "Ce Include Pachetul",
           "Zyto - Delia utilizează tehnologia Zyto pentru a oferi o diagnoză detaliată a stării tale de sănătate. Această metodă inovatoare analizează biofeedback-ul corpului tău, identificând dezechilibrele și oferind soluții personalizate pentru a-ți restabili sănătatea optimă.",
           "(E)motion Somatic Release - Tiberiu te va ghida printr-o terapie puternică ce combină trauma release exercises cu medicina samanica si alte tehnici somatice pentru a elibera tensiunile și traumele acumulate în corp. Această terapie îți va oferi o stare profundă de relaxare și eliberare emoțională.",
