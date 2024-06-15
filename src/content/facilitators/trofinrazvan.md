@@ -1,6 +1,6 @@
 ---
 name: "Razvan Trofin"
-images: ["./images/codrin/photo_2024-04-30_22-42-18 - Codrin Tro.jpg"]
+images: ["./images/codrin/codrin.jpg"]
 tags: ["Instructor"]
 activities: ["breathwork"]
 services: [
