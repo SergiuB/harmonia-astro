@@ -170,7 +170,7 @@ contact: {
           "4. Bucurați-vă de Recunoștință: Oferiți cadoul perfect care aduce bucurie, sănătate și armonie celor dragi.",
           "Indiferent de valoarea aleasă, Harmony Gift Card reprezintă un pas către o stare de bine profundă, echilibrul corpului, minții și sufletului. Beneficiarul va putea opta pentru terapii holistice, masaje revitalizante și pachete complete care transformă și vindecă.",
           "Nu rata ocazia de a dărui un cadou de neprețuit. Achiziționează un Harmony Gift Card astăzi și oferă celor dragi o experiență de neuitat, plină de relaxare și vindecare.",
-          "Îți mulțumesc că alegi să dăruiești sănătate și armonie.
+          "Îți mulțumesc că alegi să dăruiești sănătate și armonie.",
         ],
       price: " 500lei - 1240lei",
       duration: "90min - 7ore",
