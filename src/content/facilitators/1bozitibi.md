@@ -172,8 +172,8 @@ contact: {
           "Nu rata ocazia de a dărui un cadou de neprețuit. Achiziționează un Harmony Gift Card astăzi și oferă celor dragi o experiență de neuitat, plină de relaxare și vindecare.",
           "Îți mulțumesc că alegi să dăruiești sănătate și armonie.",
         ],
-      price: " 500lei <> 1240lei",
-      duration: "90min <> 7ore",
+      price: " 500lei -> 1240lei",
+      duration: "90min -> 7ore",
       reserveLink: "https://wa.link/0y6cpq",
     },
   ]
