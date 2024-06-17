@@ -1,7 +1,7 @@
 ---
 name: "Cristina Vladu"
 images: ["./images/cristinavladu/cristinavladu.jpg"]
-tags: ["Therapist"]
+tags: ["Terapeut"]
 activities: ["masaj"]
 services: [
          {
