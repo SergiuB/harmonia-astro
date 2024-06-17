@@ -7,6 +7,7 @@ services: [
          {
       name: "Masaj Mixed Manual Therapy",
       summary: "Masaj terapeutic : Întregul corp",
+      image: "./images/tibibozi/DSC08316.jpg",
       description:
         [
           "Bună, sunt Cristina si practic masajul prin tehnica MMT (Mixed Manual Therapy) studiat la Fundația
