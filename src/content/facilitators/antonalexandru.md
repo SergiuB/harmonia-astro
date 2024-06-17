@@ -1,5 +1,5 @@
 ---
-name: "Tiberiu Bozi"
+name: "Alexandru Anton"
 images: ["./images/antonalexandru/antonalexandru.jpg"]
 tags: ["Coach", "Throat-singing", "Medicina Shamanica"]
 activities: ["coaching", "terapii-shamanice", "throat-singing", "group-throat-singing","group-alteservicii", "alte-servicii"]
