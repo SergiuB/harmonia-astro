@@ -5,7 +5,7 @@ const getServiceSchema = (image: ImageFunction) =>
     name: z.string(),
     image: image().optional(),
     summary: z.string(),
-    description: z.array(z.string()),
+    description: z.array(z.string()).optional(),
     price: z.string(),
     duration: z.string(),
     isGroup: z.boolean().default(false),
