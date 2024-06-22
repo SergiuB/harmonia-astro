@@ -3,14 +3,15 @@ name: "Razvan Trofin"
 images: ["./images/codrin/codrin.jpg"]
 tags: ["Instructor"]
 activities: ["breathwork"]
-services: [
-          {
+services:
+  [
+    {
       name: "BOF + Alcalină",
-      summary: "Breathwork : Sesiune de grup"
+      summary: "Breathwork : Sesiune de grup",
       description:
         [
-          "În cadrul sesiunilor de grup veți avea nevoie de o sticlă de apă, o agendă/caiet/jurnal, instrument de scris și un prosop.", 
-          "Beneficiile respritației de FOC/Kapalbhati🔥: -Eliberează toxine și depozite din plămâni, mucoase, vasele de sânge și alte celule, -Extinde capacitatea pulmonară și crește stamina (puterea vitală), -Întărește sistemul nervos pentru a rezista stresului, -Reface echilibrul dintre sistemul nervos simpatic și parasimpatic, -Reduce impulsurile de dependență pentru droguri, fumat și alimente proaste, -Întărește sistemul imunitar și poate ajuta la prevenirea multor boli."
+          "În cadrul sesiunilor de grup veți avea nevoie de o sticlă de apă, o agendă/caiet/jurnal, instrument de scris și un prosop.",
+          "Beneficiile respritației de FOC/Kapalbhati🔥: -Eliberează toxine și depozite din plămâni, mucoase, vasele de sânge și alte celule, -Extinde capacitatea pulmonară și crește stamina (puterea vitală), -Întărește sistemul nervos pentru a rezista stresului, -Reface echilibrul dintre sistemul nervos simpatic și parasimpatic, -Reduce impulsurile de dependență pentru droguri, fumat și alimente proaste, -Întărește sistemul imunitar și poate ajuta la prevenirea multor boli.",
           "Beneficiile respiratiei Alkaline 🧊: -Influența voluntară asupra sistemului nervos și a sistemului imunitar, -Efecte antiinflamatorii, -Scăderea simptomelor asemănătoare gripei, -Niveluri crescute de neurotransmițători ai sistemului nervos, -Reduceri ale răului de înălțime, -Livrarea îmbunătățită a oxigenului în timpul exercițiilor fizice",
         ],
       isGroup: true,
@@ -18,40 +19,40 @@ services: [
       duration: "30min",
       reserveLink: "https://wa.link/ygoxhy",
     },
-     {
+    {
       name: "BOF + Alcalină / Program scurt",
-      summary: "Breathwork : Sesiuni individuale"
+      summary: "Breathwork : Sesiuni individuale",
       description:
         [
           "Recomandat este ca sesiunile acestea să aibe loc în timpul dimineții pentru a vă crește exponențial energia pe parcursul zilei.",
           "În cadrul sesiunilor veți avea nevoie de o sticlă de apă, o agendă/caiet/jurnal, instrument de scris și un prosop.",
-             "Beneficiile respritației de FOC/Kapalbhati🔥: -Eliberează toxine și depozite din plămâni, mucoase, vasele de sânge și alte celule, -Extinde capacitatea pulmonară și crește stamina (puterea vitală), -Întărește sistemul nervos pentru a rezista stresului, -Reface echilibrul dintre sistemul nervos simpatic și parasimpatic, -Reduce impulsurile de dependență pentru droguri, fumat și alimente proaste, -Întărește sistemul imunitar și poate ajuta la prevenirea multor boli."
-"Beneficiile respritatiei Alkaline 🧊: -Influența voluntară asupra sistemului nervos și a sistemului imunitar, -Efecte antiinflamatorii, -Scăderea simptomelor asemănătoare gripei, -Niveluri crescute de neurotransmițători ai sistemului nervos, -Reduceri ale răului de înălțime, -Livrarea îmbunătățită a oxigenului în timpul exercițiilor fizice",
+          "Beneficiile respritației de FOC/Kapalbhati🔥: -Eliberează toxine și depozite din plămâni, mucoase, vasele de sânge și alte celule, -Extinde capacitatea pulmonară și crește stamina (puterea vitală), -Întărește sistemul nervos pentru a rezista stresului, -Reface echilibrul dintre sistemul nervos simpatic și parasimpatic, -Reduce impulsurile de dependență pentru droguri, fumat și alimente proaste, -Întărește sistemul imunitar și poate ajuta la prevenirea multor boli.",
+          "Beneficiile respritatiei Alkaline 🧊: -Influența voluntară asupra sistemului nervos și a sistemului imunitar, -Efecte antiinflamatorii, -Scăderea simptomelor asemănătoare gripei, -Niveluri crescute de neurotransmițători ai sistemului nervos, -Reduceri ale răului de înălțime, -Livrarea îmbunătățită a oxigenului în timpul exercițiilor fizice",
         ],
       isGroup: true,
       price: "111lei",
       duration: "7zile x 30min",
       reserveLink: "https://wa.link/ygoxhy",
     },
-     {
+    {
       name: "Fire & Ice Program",
-      summary: "Breathwork : Sesiuni individuale/grup"
+      summary: "Breathwork : Sesiuni individuale/grup",
       description:
         [
           "În acest caz există posibiltatea să se susțină programul individual sau în grup.",
           "Recomandat este ca sesiunile acestea să aibe loc în timpul dimineții pentru a vă crește exponențial energia pe parcursul zilei.",
           "În cadrul sesiunilor veți avea nevoie de o sticlă de apă, o agendă/caiet/jurnal, instrument de scris și un prosop.",
-             "Beneficiile respritației de FOC/Kapalbhati🔥: -Eliberează toxine și depozite din plămâni, mucoase, vasele de sânge și alte celule, -Extinde capacitatea pulmonară și crește stamina (puterea vitală), -Întărește sistemul nervos pentru a rezista stresului, -Reface echilibrul dintre sistemul nervos simpatic și parasimpatic, -Reduce impulsurile de dependență pentru droguri, fumat și alimente proaste, -Întărește sistemul imunitar și poate ajuta la prevenirea multor boli."
-"Beneficiile respritatiei Alkaline 🧊: -Influența voluntară asupra sistemului nervos și a sistemului imunitar, -Efecte antiinflamatorii, -Scăderea simptomelor asemănătoare gripei, -Niveluri crescute de neurotransmițători ai sistemului nervos, -Reduceri ale răului de înălțime, -Livrarea îmbunătățită a oxigenului în timpul exercițiilor fizice",
+          "Beneficiile respritației de FOC/Kapalbhati🔥: -Eliberează toxine și depozite din plămâni, mucoase, vasele de sânge și alte celule, -Extinde capacitatea pulmonară și crește stamina (puterea vitală), -Întărește sistemul nervos pentru a rezista stresului, -Reface echilibrul dintre sistemul nervos simpatic și parasimpatic, -Reduce impulsurile de dependență pentru droguri, fumat și alimente proaste, -Întărește sistemul imunitar și poate ajuta la prevenirea multor boli.",
+          "Beneficiile respritatiei Alkaline 🧊: -Influența voluntară asupra sistemului nervos și a sistemului imunitar, -Efecte antiinflamatorii, -Scăderea simptomelor asemănătoare gripei, -Niveluri crescute de neurotransmițători ai sistemului nervos, -Reduceri ale răului de înălțime, -Livrarea îmbunătățită a oxigenului în timpul exercițiilor fizice",
         ],
       isGroup: true,
       price: "333lei",
       duration: "31zile x 30min",
       reserveLink: "https://wa.link/ygoxhy",
     },
-      {
+    {
       name: "Program Personalizat",
-      summary: "Breathwork : Sesiuni individuale/grup"
+      summary: "Breathwork : Sesiuni individuale/grup",
       description:
         [
           "Înainte de a începe programul vom avea o sedința online/fizic și vom discuta nevoile și intenția cu care se intră în această călătorie",

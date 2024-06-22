@@ -1,6 +1,6 @@
 ---
 name: "Paul Hostiuc"
-images: ["./images/hostiucpaul/paulh.jpeg"]
+images: ["./images/hostiucpaul/paulh.jpg"]
 tags: ["Terapeut", "Medicina Chineză", "Acupunctură"]
 activities: ["masaj", "medicina-traditionala-chineza", "acupunctura", "cupping"]
 services:
@@ -332,7 +332,7 @@ services:
       duration: "180min",
       reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
     },
-         {
+    {
       name: "5 Stars TERRApy",
       summary: "Pachet Holistic : Personalizat",
       description:
@@ -350,7 +350,7 @@ services:
       duration: "5ore",
       reserveLink: "https://wa.link/dpnwpu",
     },
-        {
+    {
       name: "7 Stars TERRApy",
       summary: "Pachet Holistic : Personalizat",
       description:

@@ -68,7 +68,7 @@ services: [
       duration: "100min",
       reserveLink: "https://app.simplymeet.me/harmoniaoptima",
     },
-        {
+    {
       name: "Harmonic Union",
       summary: "Masaj Holistic : Dedicat Cuplurilor",
       description:
@@ -106,7 +106,7 @@ services: [
       duration: "90min",
       reserveLink: "https://app.simplymeet.me/harmoniaoptima",
     },
-       {
+    {
       name: "5 Stars TERRApy",
       summary: "Pachet Holistic : Personalizat",
       description:
@@ -124,7 +124,7 @@ services: [
       duration: "5ore",
       reserveLink: "https://wa.link/0y6cpq",
     },
-       {
+    {
       name: "7 Stars TERRApy",
       summary: "Pachet Holistic : Personalizat",
       description:
@@ -145,15 +145,6 @@ services: [
       duration: "7ore",
       reserveLink: "https://wa.link/0y6cpq",
     },
-  ]
-location: "Strada Cercului 18, Bucuresti" #optional
-locationUrl: "https://maps.app.goo.gl/Qo9Fo6nnMFngebAW7" #optional
-contact: {
-    email: "bozitiberiu@gmail.com", #optional
-    phone: "0734693145",
-    instagram: "https://www.instagram.com/harmoniaoptima", #optional
-    whatsapp: "https://wa.link/0y6cpq", #optional
-  }
     {
       name: "Harmony GIFT Card",
       summary: "Gift Card : Personalizat",
