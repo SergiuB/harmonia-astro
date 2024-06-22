@@ -1,5 +1,6 @@
 ---
 name: "Tiberiu Bozi"
+featuredIndex: 1
 images: ["./images/tibibozi/tibi.jpg"]
 tags: ["Terapeut", "Coach", "Holistic Approach"]
 activities: ["masaj", "coaching", "terapii-shamanice", "tre", "alte-servicii"]

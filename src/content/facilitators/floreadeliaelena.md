@@ -1,8 +1,10 @@
 ---
 name: "Delia Florea"
+featuredIndex: 2
 images: ["./images/deliaflorea/delia.jpg"]
 tags: ["terapeut", "medicină alternativă"]
-activities: ["masaj", "aromaterapie", "access-bars", "alte-servicii", "scanare-zvto"]
+activities:
+  ["masaj", "aromaterapie", "access-bars", "alte-servicii", "scanare-zvto"]
 services:
   [
     {
@@ -49,7 +51,7 @@ services:
       duration: "60min/120min",
       reserveLink: "https://app.simplymeet.me/deliaheals",
     },
-      {
+    {
       name: "Harmonic Union",
       summary: "Masaj Holistic : Dedicat Cuplurilor",
       description:
@@ -128,7 +130,7 @@ services:
       duration: "60min",
       reserveLink: "https://app.simplymeet.me/deliaheals",
     },
-           {
+    {
       name: "5 Stars TERRApy",
       summary: "Pachet Holistic : Personalizat",
       description:
@@ -146,7 +148,7 @@ services:
       duration: "5ore",
       reserveLink: "https://wa.link/pvs0d2",
     },
-     {
+    {
       name: "7 Stars TERRApy",
       summary: "Pachet Holistic : Personalizat",
       description:
@@ -167,7 +169,7 @@ services:
       duration: "7ore",
       reserveLink: "https://wa.link/pvs0d2",
     },
-      {
+    {
       name: "Harmony GIFT Card",
       summary: "Gift Card : Personalizat",
       description:

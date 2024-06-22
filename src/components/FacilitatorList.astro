@@ -2,6 +2,8 @@
 import { getCollection } from "astro:content";
 import { Image } from "astro:assets";
 
+const MAX_INDEX = 1000;
+
 interface Props {
   displayCount?: number;
   activityId?: string;
@@ -18,6 +20,10 @@ const facilitators = (await getCollection("facilitators"))
     activityId
       ? (facilitator.data.activities ?? []).includes(activityId)
       : true,
+  )
+  .sort(
+    (a, b) =>
+      (a.data.featuredIndex ?? MAX_INDEX) - (b.data.featuredIndex ?? MAX_INDEX),
   )
   .slice(0, displayCount);
 ---

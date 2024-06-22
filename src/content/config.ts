@@ -17,6 +17,7 @@ const facilitatorCollection = defineCollection({
   schema: ({ image }) =>
     z.object({
       name: z.string(),
+      featuredIndex: z.number().optional(),
       images: z.array(image()),
       tags: z.array(z.string()),
       activities: z.array(z.string()).optional(),
