@@ -1,7 +1,22 @@
 ---
+import { getCollection } from "astro:content";
 import RootLayout from "../layouts/RootLayout.astro";
 const pageTitle = "Activități";
 import activities from "../data/activities.json";
+
+const facilitatorEntries = await getCollection("facilitators");
+
+const activitySet = new Set();
+
+facilitatorEntries.forEach((entry, index) => {
+  (entry.data.activities ?? []).forEach((activity) => {
+    activitySet.add(activity);
+  });
+});
+
+const filteredActivities = activities.filter((activity) =>
+  activitySet.has(activity.id),
+);
 ---
 
 <RootLayout title={pageTitle}>
@@ -20,7 +35,7 @@ import activities from "../data/activities.json";
       </h2>
       <ul class="flex flex-wrap w-80 place-items-center">
         {
-          activities
+          filteredActivities
             .filter((activity) => !activity.id.startsWith("group"))
             .map((activity) => (
               <li class="py-2 text-center w-1/2 box-border even:clear-left">
@@ -43,7 +58,7 @@ import activities from "../data/activities.json";
       </h2>
       <ul class="flex flex-wrap w-80 place-items-center">
         {
-          activities
+          filteredActivities
             .filter((activity) => activity.id.startsWith("group"))
             .map((activity) => (
               <li class="py-2  text-center w-1/2 box-border even:clear-left">

@@ -7,9 +7,9 @@
     "id": "acupunctura",
     "name": "Acupunctura"
   },
-    {
+  {
     "id": "alte-servicii",
-    "name": "ALte Servicii"
+    "name": "Alte Servicii"
   },
   {
     "id": "aromaterapie",
@@ -31,7 +31,7 @@
     "id": "breathwork",
     "name": "Breathwork"
   },
-   {
+  {
     "id": "cheilegenelor",
     "name": "Cheile Genelor"
   },
@@ -63,7 +63,7 @@
     "id": "hipnoza",
     "name": "Hipnoza"
   },
-   {
+  {
     "id": "humandesign",
     "name": "Human Design"
   },
@@ -139,11 +139,11 @@
     "id": "tetha-healing",
     "name": "Tetha Healing"
   },
-    {
+  {
     "id": "tre",
     "name": "Trauma Release Exercises"
   },
-   {
+  {
     "id": "throat-singing",
     "name": "Throat Singing"
   },
@@ -155,7 +155,7 @@
     "id": "group-actorie",
     "name": "Actorie"
   },
-     {
+  {
     "id": "group-alteservicii",
     "name": "Alte Servicii"
   },
@@ -163,7 +163,7 @@
     "id": "group-breathwork",
     "name": "Breathwork"
   },
-    {
+  {
     "id": "group-cheilegenelor",
     "name": "Cheile Genelor"
   },
@@ -183,7 +183,7 @@
     "id": "group-fitness",
     "name": "Fitness"
   },
-   {
+  {
     "id": "group-humandesign",
     "name": "Human Design"
   },
