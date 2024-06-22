@@ -1,7 +1,7 @@
 ---
 name: "Razvan Trofin"
 images: ["./images/codrin/codrin.jpg"]
-tags: ["Instructor", "Breathwork]
+tags: ["Instructor", "Breathwork"]
 activities: ["breathwork"]
 services:
   [
