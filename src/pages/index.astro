@@ -4,6 +4,7 @@ import FacilitatorList from "../components/FacilitatorList.astro";
 import RootLayout from "../layouts/RootLayout.astro";
 import { getImage } from "astro:assets";
 import heroImage from "/src/assets/hero-5.jpg";
+import { spaceLink, activitiesLink } from "../content/links";
 const optimizedBackgroundImage = await getImage({ src: heroImage });
 const pageTitle = "Harmonia";
 ---
@@ -18,16 +19,18 @@ const pageTitle = "Harmonia";
     </h1>
 
     <div class="flex gap-2">
-      <button
-        class="bg-dark border-2 border-white bg-opacity-50 text-white uppercase px-4 py-2 rounded-full w-40 hover:bg-opacity-100 hover:bg-secondary-blue hover:text-dark"
+      <a
+        class="bg-dark border-2 border-white bg-opacity-50 text-white uppercase px-4 py-2 rounded-full w-40 hover:bg-opacity-100 hover:bg-secondary-blue hover:text-dark hover:cursor-pointer"
+        href={activitiesLink.url}
       >
         Activități
-      </button>
-      <button
+      </a>
+      <a
         class="bg-dark border-2 border-white bg-opacity-50 text-white uppercase px-4 py-2 rounded-full w-40 hover:bg-opacity-100 hover:bg-secondary-blue hover:text-dark"
+        href={spaceLink.url}
       >
         Spațiu
-      </button>
+      </a>
     </div>
     <!-- </div> -->
   </section>

@@ -1,18 +1,22 @@
+export const spaceLink = {
+  title: "Spatiu",
+  url: "/space",
+};
+
+export const activitiesLink = {
+  title: "Activitati",
+  url: "/activities",
+};
+
 export const links = [
-  {
-    title: "Activitati",
-    url: "/activities",
-  },
+  activitiesLink,
   {
     title: "Facilitatori",
     url: "/facilitators",
   },
-  {
-    title: "Spatiu",
-    url: "/",
-  },
+  spaceLink,
   {
     title: "Contact",
-    url: "/",
+    url: "/contact",
   },
 ];
