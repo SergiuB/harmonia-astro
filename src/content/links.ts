@@ -4,10 +4,6 @@ export const links = [
     url: "/activities",
   },
   {
-    title: "Evenimente",
-    url: "/",
-  },
-  {
     title: "Facilitatori",
     url: "/facilitators",
   },
