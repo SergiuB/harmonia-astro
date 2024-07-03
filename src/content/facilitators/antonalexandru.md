@@ -1,5 +1,6 @@
 ---
 name: "Alexandru Anton"
+featuredIndex: 5
 images: ["./images/antonalexandru/antonalexandru.jpg"]
 tags: ["Coach", "Throat-singing", "Medicina Shamanica"]
 activities: ["coaching", "terapii-shamanice", "throat-singing", "group-throat-singing","group-alteservicii", "alte-servicii"]
