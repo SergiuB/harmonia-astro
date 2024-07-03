@@ -1,3 +1,9 @@
+type Link = {
+  title: string;
+  url: string;
+  className?: string;
+};
+
 export const spaceLink = {
   title: "Spatiu",
   url: "/space",
@@ -8,7 +14,7 @@ export const activitiesLink = {
   url: "/activities",
 };
 
-export const links = [
+export const links: Link[] = [
   activitiesLink,
   {
     title: "Facilitatori",
@@ -17,6 +23,7 @@ export const links = [
   spaceLink,
   {
     title: "Contact",
-    url: "https://wa.me/40745255365",
+    url: "/space#contact",
+    className: "closable-link",
   },
 ];

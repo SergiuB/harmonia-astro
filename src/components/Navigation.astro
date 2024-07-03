@@ -37,10 +37,10 @@ import HarmoniaText from "./HarmoniaText.astro";
           class="w-full h-full z-10 flex flex-col justify-center items-center backdrop-blur-md lg:gap-5 uppercase"
         >
           {
-            links.map(({ title, url }) => (
+            links.map(({ title, url, className }) => (
               <li class="m-8">
                 <a
-                  class="hover:text-secondary-blue text-dark transition-colors"
+                  class={`hover:text-secondary-blue text-dark transition-colors ${className ? className : ""}`}
                   href={url}
                 >
                   {title}

@@ -29,5 +29,18 @@
           el.classList.toggle("open");
         });
       });
+
+    const oldClosableLink = document.querySelector(".closable-link");
+    if (oldClosableLink) {
+      cloneAndReplace(oldClosableLink);
+    }
+    const closableLink = document.querySelector(".closable-link");
+    closableLink &&
+      closableLink.addEventListener("click", function () {
+        document.body.classList.toggle("overflow-hidden");
+        [...document.querySelectorAll(".menu-toggle")].forEach((el) => {
+          el.classList.toggle("open");
+        });
+      });
   }
 </script>
