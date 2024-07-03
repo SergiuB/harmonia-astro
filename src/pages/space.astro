@@ -17,8 +17,26 @@ import hub5 from "/src/assets/hub/hub5.jpg";
 import hub6 from "/src/assets/hub/hub6.jpg";
 import hub7 from "/src/assets/hub/hub7.jpg";
 import hub8 from "/src/assets/hub/hub8.jpg";
+import hub9 from "/src/assets/hub/hub9.jpg";
+import hub10 from "/src/assets/hub/hub10.jpg";
+import hub11 from "/src/assets/hub/hub11.jpg";
+import hub12 from "/src/assets/hub/hub12.jpg";
 
-const images = [hub0, hub1, hub2, hub3, hub4, hub5, hub6, hub7, hub8];
+const images = [
+  hub0,
+  hub1,
+  hub2,
+  hub3,
+  hub4,
+  hub5,
+  hub6,
+  hub7,
+  hub8,
+  hub9,
+  hub10,
+  hub11,
+  hub12,
+];
 ---
 
 <RootLayout title={pageTitle}>
@@ -27,7 +45,7 @@ const images = [hub0, hub1, hub2, hub3, hub4, hub5, hub6, hub7, hub8];
     style={`background-image: url('${optimizedBackgroundImage.src}')`}
   >
     <h1
-      class="text-6xl font-black drop-shadow relative w-60 md:w-96"
+      class="text-5xl font-black drop-shadow-lg relative w-60 md:w-96"
       transition:name="facilitators-title"
     >
       Harmonia Terra
@@ -84,7 +102,7 @@ const images = [hub0, hub1, hub2, hub3, hub4, hub5, hub6, hub7, hub8];
       </div>
     </div>
 
-    <div class="w-full p-4">
+    <div class="w-full p-4 max-w-lg">
       <h2 class="text-3xl mb-4">Unde ne găsești</h2>
       <a
         href="https://www.instagram.com/harmonia_terra"
@@ -146,6 +164,7 @@ const images = [hub0, hub1, hub2, hub3, hub4, hub5, hub6, hub7, hub8];
   ["DOMContentLoaded", "astro:after-swap"].forEach((event) => {
     document.addEventListener(event, () => {
       const slider = new KeenSlider("#carousel", {
+        loop: true,
         slides: {
           origin: "center",
           perView: 1.2,
