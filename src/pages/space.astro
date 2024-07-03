@@ -66,12 +66,15 @@ const images = [hub0, hub1, hub2, hub3, hub4, hub5, hub6, hub7, hub8];
 
 <script>
   import KeenSlider from "keen-slider";
-
-  const slider = new KeenSlider("#carousel", {
-    slides: {
-      origin: "center",
-      perView: 1.2,
-      spacing: 15,
-    },
+  ["DOMContentLoaded", "astro:after-swap"].forEach((event) => {
+    document.addEventListener(event, () => {
+      const slider = new KeenSlider("#carousel", {
+        slides: {
+          origin: "center",
+          perView: 1.2,
+          spacing: 15,
+        },
+      });
+    });
   });
 </script>
