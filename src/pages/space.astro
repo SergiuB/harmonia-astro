@@ -22,19 +22,20 @@ const images = [hub0, hub1, hub2, hub3, hub4, hub5, hub6, hub7, hub8];
 
 <RootLayout title={pageTitle}>
   <section
-    class="relative hero-section h-[calc(50vh-8rem)] flex flex-col items-center justify-between pb-32 pt-32 text-center bg-cover bg-center"
+    class="relative hero-section h-[60vh] flex flex-col items-center justify-center text-center bg-cover bg-center"
     style={`background-image: url('${optimizedBackgroundImage.src}')`}
   >
     <h1
-      class="text-6xl md:text-9xl font-black drop-shadow relative w-60 md:w-96 place-self-center"
+      class="text-6xl font-black drop-shadow relative w-60 md:w-96"
       transition:name="facilitators-title"
     >
       Harmonia Terra
     </h1>
-    <!-- </div> -->
   </section>
-  <section class="flex flex-col justify-center bg-primary text-white">
-    <p class="px-4 pt-8 pb-4">
+  <section
+    class="flex flex-col items-center justify-center bg-primary text-white"
+  >
+    <p class="px-4 pt-8 pb-4 max-w-lg">
       Am creat un loc magic, plin de armonie de care te poti bucura și tu.
       Acesta poate fi închiriat pentru sesiuni individuale, ședințe foto, yoga,
       cercuri și multe alte activități de grup.
@@ -45,7 +46,7 @@ const images = [hub0, hub1, hub2, hub3, hub4, hub5, hub6, hub7, hub8];
     >
       CONTACTEAZĂ-NE
     </a>
-    <div id="carousel" class="keen-slider my-4">
+    <div id="carousel" class="keen-slider my-4 max-w-lg">
       {
         images.map((image) => (
           <div class="keen-slider__slide ">
@@ -53,7 +54,6 @@ const images = [hub0, hub1, hub2, hub3, hub4, hub5, hub6, hub7, hub8];
               class="rounded-2xl object-cover w-full h-96"
               src={image}
               alt={image.src}
-              densities={[1.5, 2]}
             />
           </div>
         ))
