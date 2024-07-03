@@ -147,12 +147,12 @@ services: [
       reserveLink: "https://wa.link/0y6cpq",
     },
     {
-      name: "Harmony GIFT Card",
+      name: "Harmonic GIFT Card",
       summary: "Gift Card : Personalizat",
       description:
         [
           "Descoperiți puterea de a dărui sănătate și armonie prin intermediul unui Harmony Gift Card. Perfect pentru orice ocazie specială, gift cardul permite beneficiarului să aleagă oricare dintre serviciile mele holistice, având valoarea pe care dumneavoastră ați achitat-o.",
-          "Beneficiile Harmony Gift Card",
+          "Beneficiile Harmonic Gift Card",
           "Flexibilitate Totală: Beneficiarul poate alege dintr-o gamă variată de terapii și pachete holistice, personalizând experiența în funcție de nevoile și preferințele sale.",
           "Valabilitate Extinsă: Harmony Gift Card are o valabilitate de 3 luni de la data achiziționării, oferind destul timp pentru a programa și bucura de o sesiune de vindecare și relaxare.",
           "Cum Funcționează",
