@@ -1,5 +1,6 @@
 ---
 name: "Andra Visan"
+featuredIndex: 6
 images: ["./images/visanandra/andravisan.jpg"]
 tags: ["Terapeut", "Dreamspell Reader", "Light Worker"]
 services:
