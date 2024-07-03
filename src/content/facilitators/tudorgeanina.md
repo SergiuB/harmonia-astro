@@ -1,5 +1,6 @@
 ---
 name: "Geanina Tudor"
+featuredIndex: 7
 images: ["./images/tudorgeanina/geaninat.jpg"]
 tags: ["Astrolog", "Terapeut"]
 activities: ["astrologie", "reiki", "tetha-healing"]
