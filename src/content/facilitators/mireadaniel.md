@@ -1,5 +1,6 @@
 ---
 name: "Daniel Milea"
+featuredIndex: 9
 images: ["./images/mileadaniel/danielmilea.jpg"]
 tags: ["Coach"]
 activities: ["coaching", "humandesign", "cheilegenelor"]
