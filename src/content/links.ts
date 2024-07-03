@@ -23,7 +23,7 @@ export const links: Link[] = [
   spaceLink,
   {
     title: "Contact",
-    url: "/space#contact",
+    url: "/space/#contact",
     className: "closable-link",
   },
 ];
