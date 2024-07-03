@@ -1,5 +1,6 @@
 ---
 name: "Andreea Orîndariu"
+featuredIndex: 10
 images: ["./images/orindariuandreea/AndreeaO.jpg"]
 tags: ["Coach"]
 activities: ["coaching"]
