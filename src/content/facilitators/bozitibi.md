@@ -87,7 +87,7 @@ services: [
           "Contactează-ne pentru a afla mai multe detalii și pentru a face o programare. Vindecarea și conexiunea profundă în cuplu sunt la un pas distanță!",
         ],
       price: "880lei",
-      duration: "135min",
+      duration: "120min",
       reserveLink: "https://wa.link/0y6cpq",
     },
     {
