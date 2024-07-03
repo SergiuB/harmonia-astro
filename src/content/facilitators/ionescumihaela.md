@@ -1,5 +1,6 @@
 ---
 name: "Mihaela Ionescu"
+featuredIndex: 8
 images: ["./images/mihaleaionescu/profil - Ionescu Mihaela.JPG"]
 tags: ["Coach", "Numerolog", "Reiki Therapist"]
 activities: ["coaching", "reiki", "numerologie"]
