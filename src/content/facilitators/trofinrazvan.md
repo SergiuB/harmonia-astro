@@ -1,5 +1,6 @@
 ---
 name: "Razvan Trofin"
+featuredIndex: 13
 images: ["./images/codrin/codrin.jpg"]
 tags: ["Instructor", "Breathwork"]
 activities: ["breathwork"]
