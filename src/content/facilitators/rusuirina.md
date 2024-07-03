@@ -1,5 +1,6 @@
 ---
 name: "Irina Rusu"
+featuredIndex: 11
 images: ["./images/rusuirina/irinarusu.jpg"]
 tags: ["Terapeut"]
 activities: ["masaj"]
