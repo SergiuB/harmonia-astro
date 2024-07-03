@@ -17,6 +17,6 @@ export const links = [
   spaceLink,
   {
     title: "Contact",
-    url: "https://wa.link/0y6cpq",
+    url: "https://wa.me/40745255365",
   },
 ];

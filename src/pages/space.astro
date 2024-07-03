@@ -36,17 +36,22 @@ const images = [hub0, hub1, hub2, hub3, hub4, hub5, hub6, hub7, hub8];
   <section
     class="flex flex-col items-center justify-center bg-primary text-white"
   >
-    <p class="px-4 pt-8 pb-4 max-w-lg">
-      Am creat un loc magic, plin de armonie de care te poti bucura și tu.
-      Acesta poate fi închiriat pentru sesiuni individuale, ședințe foto, yoga,
-      cercuri și multe alte activități de grup.
+    <p class="px-4 py-4 max-w-lg">
+      Un Sanctuar holistic creat cu grijă pentru a promova sănătatea și
+      bunăstarea ființei umane, oferind un refugiu perfect pentru cei care caută
+      echilibru între minte, corp și suflet.
     </p>
-    <a
-      class="bg-secondary-pink rounded-full px-10 py-4 m-4 text-white uppercase text-center"
-      href="https://wa.link/0y6cpq"
-    >
-      CONTACTEAZĂ-NE
-    </a>
+    <p class="px-4 max-w-lg">
+      Aici oamenii vor simți întotdeauna profesionalismul echipei noastre,
+      energia primitoare a spațiului și serviciile de calitate oferite de
+      facilitatori.
+    </p>
+    <p class="px-4 py-4 max-w-lg">
+      Te invităm într-o casă postbelică unde vei descoperi camerele noastre
+      deosebite, care permit desfășurarea unei game largi de activități, fie
+      individuale sau de grup, oferind o experiență unică fiecărui vizitator.
+    </p>
+
     <div id="carousel" class="keen-slider my-4 max-w-lg">
       {
         images.map((image) => (
@@ -61,17 +66,35 @@ const images = [hub0, hub1, hub2, hub3, hub4, hub5, hub6, hub7, hub8];
       }
     </div>
 
+    <div class="w-full p-4 max-w-lg">
+      <h2 class="text-3xl mb-4">Colaborare</h2>
+      <p>
+        Am creat un loc magic, plin de armonie de care te poți bucura și tu.
+        Acesta poate fi închiriat pentru sesiuni individuale (masaje, meditații,
+        psihoterapie, terapii corporale,energetice & altele) sau pentru sesiuni
+        de grup (cursuri, workshopuri, cercuri, yoga, sound healing & altele)
+      </p>
+      <div class="flex items-center justify-center">
+        <a
+          class="bg-secondary-pink rounded-full px-10 py-4 m-4 text-white uppercase text-center"
+          href="https://wa.link/0y6cpq"
+        >
+          CONTACTEAZĂ-NE
+        </a>
+      </div>
+    </div>
+
     <div class="w-full p-4">
       <h2 class="text-3xl mb-4">Unde ne găsești</h2>
       <a
+        href="https://www.instagram.com/harmonia_terra"
         class="flex flex-row gap-2 items-center py-2"
-        href="https://maps.app.goo.gl/WHitKPypjS4khZfN9"
       >
         <Icon
-          name="location"
+          name="instagram"
           class="w-8 h-8 fill-primary bg-white rounded-full p-1"
         />
-        <p>Strada Cercului 18, București</p>
+        <p>harmonia_terra</p>
       </a>
       <a
         href="mailto:office@harmonia.ro"
@@ -81,14 +104,27 @@ const images = [hub0, hub1, hub2, hub3, hub4, hub5, hub6, hub7, hub8];
           name="email"
           class="w-8 h-8 fill-primary bg-white rounded-full p-1"
         />
-        <p>office@harmonia.ro</p>
+        <p>contact.harmoniaterra@gmail.com</p>
       </a>
-      <a href="tel:+40745255365" class="flex flex-row gap-2 items-center py-2">
+      <a
+        href="https://wa.me/40745255365"
+        class="flex flex-row gap-2 items-center py-2"
+      >
         <Icon
           name="whatsapp"
           class="w-8 h-8 fill-primary bg-white rounded-full p-1"
         />
         <p>+40745255365</p>
+      </a>
+      <a
+        class="flex flex-row gap-2 items-center py-2"
+        href="https://maps.app.goo.gl/WHitKPypjS4khZfN9"
+      >
+        <Icon
+          name="location"
+          class="w-8 h-8 fill-primary bg-white rounded-full p-1"
+        />
+        <p>Strada Cercului 18, București</p>
       </a>
 
       <iframe
