@@ -1,6 +1,6 @@
 ---
 name: "Bogdan Cochior"
-images: ["./images/cochiorbogdan/cochiorbogdan.png"]
+images: ["./images/cochiorbogdan/bogdantruth.png"]
 tags: ["Terapeut"]
 activities: ["masaj", "aromaterapie", "cupping"]
 services: [
