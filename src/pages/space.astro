@@ -1,0 +1,76 @@
+---
+import { Image } from "astro:assets";
+import { getImage } from "astro:assets";
+import RootLayout from "../layouts/RootLayout.astro";
+const pageTitle = "Spatiu";
+import heroImage from "/src/assets/spatiu-hero.jpg";
+const optimizedBackgroundImage = await getImage({ src: heroImage });
+
+import hub0 from "/src/assets/hub/hub0.jpg";
+import hub1 from "/src/assets/hub/hub1.jpg";
+import hub2 from "/src/assets/hub/hub2.jpg";
+import hub3 from "/src/assets/hub/hub3.jpg";
+import hub4 from "/src/assets/hub/hub4.jpg";
+import hub5 from "/src/assets/hub/hub5.jpg";
+import hub6 from "/src/assets/hub/hub6.jpg";
+import hub7 from "/src/assets/hub/hub7.jpg";
+import hub8 from "/src/assets/hub/hub8.jpg";
+
+const images = [hub0, hub1, hub2, hub3, hub4, hub5, hub6, hub7, hub8];
+---
+
+<RootLayout title={pageTitle}>
+  <section
+    class="relative hero-section h-[calc(50vh-8rem)] flex flex-col items-center justify-between pb-32 pt-32 text-center bg-cover bg-center"
+    style={`background-image: url('${optimizedBackgroundImage.src}')`}
+  >
+    <h1
+      class="text-6xl md:text-9xl font-black drop-shadow relative w-60 md:w-96 place-self-center"
+      transition:name="facilitators-title"
+    >
+      Harmonia Terra
+    </h1>
+    <!-- </div> -->
+  </section>
+  <section class="flex flex-col justify-center bg-primary text-white">
+    <p class="px-4 pt-8 pb-4">
+      Am creat un loc magic, plin de armonie de care te poti bucura și tu.
+      Acesta poate fi închiriat pentru sesiuni individuale, ședințe foto, yoga,
+      cercuri și multe alte activități de grup.
+    </p>
+    <a
+      class="bg-secondary-pink rounded-full px-10 py-4 m-4 text-white uppercase text-center"
+      href="https://wa.link/0y6cpq"
+    >
+      CONTACTEAZĂ-NE
+    </a>
+    <div id="carousel" class="keen-slider my-4">
+      {
+        images.map((image) => (
+          <div class="keen-slider__slide  w-full">
+            <Image
+              class="rounded-2xl object-cover w-full h-96"
+              src={image}
+              alt={image.src}
+              densities={[1.5, 2]}
+            />
+          </div>
+        ))
+      }
+    </div>
+  </section>
+</RootLayout>
+
+<script src="@glidejs/glide/dist/glide.min.js"></script>
+
+<script>
+  import KeenSlider from "keen-slider";
+
+  const slider = new KeenSlider("#carousel", {
+    slides: {
+      origin: "center",
+      perView: 1.2,
+      spacing: 15,
+    },
+  });
+</script>
