@@ -2,7 +2,7 @@
 name: "Irina Rusu"
 featuredIndex: 11
 images: ["./images/rusuirina/irinarusu.jpg"]
-tags: ["Terapeut"]
+tags: ["Terapeut", "Masaj"]
 activities: ["masaj"]
 services: [
     {
