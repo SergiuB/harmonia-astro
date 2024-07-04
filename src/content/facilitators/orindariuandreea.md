@@ -2,7 +2,7 @@
 name: "Andreea Orîndariu"
 featuredIndex: 10
 images: ["./images/orindariuandreea/AndreeaO.jpg"]
-tags: ["Coach"]
+tags: ["Coach", "Trainer"]
 activities: ["coaching"]
 services: [
      {
