@@ -373,8 +373,8 @@ services:
       reserveLink: "https://wa.link/dpnwpu",
     },
   ]
-location: "Strada Cercului 18, Bucuresti" #optional
-locationUrl: "https://maps.app.goo.gl/Qo9Fo6nnMFngebAW7" #optional
+location: "Harmonia Terra, str. Cercului 18, Bucuresti" #optional
+locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
 contact: {
     email: "tianfutherapy@gmail.com", #optional
     phone: "0748086894",
