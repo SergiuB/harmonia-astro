@@ -192,7 +192,7 @@ services:
       reserveLink: "https://wa.link/pvs0d2",
     },
   ]
-location: "Strada Cercului 18, Bucuresti" #optional
+location: "Harmonia Terra, str. Cercului 18, Bucuresti" #optional
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
 contact: {
     email: "delixirelia@gmail.com", #optional
