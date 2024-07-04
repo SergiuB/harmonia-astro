@@ -1,5 +1,6 @@
 ---
 name: "Mariana Stoian"
+featuredIndex: 18
 images: ["./images/stoianmariana/stoian.jpeg"]
 tags: ["Terapeut", "Consilier"]
 activities: ["masaj", "access-bars", "alte-servicii", "aromaterapie"]
