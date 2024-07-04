@@ -2,7 +2,7 @@
 name: "Mihaela Dumitru"
 featuredIndex: 17
 images: ["./images/michelledmt/F7ECE2A6-473A-4B9C-A71B-A9DF3BC9F436 - michelle dmt.jpeg"]
-tags: ["Terapeut"]
+tags: ["Terapeut", "Masaj"]
 activities: ["masaj", "cupping"]
 services: [
     {
