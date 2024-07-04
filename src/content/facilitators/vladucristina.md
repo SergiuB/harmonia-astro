@@ -1,5 +1,6 @@
 ---
 name: "Cristina Vladu"
+featuredIndex: 14
 images: ["./images/cristinavladu/cristinavladu.jpg"]
 tags: ["Terapeut"]
 activities: ["masaj"]
