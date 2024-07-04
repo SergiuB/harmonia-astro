@@ -2,7 +2,7 @@
 name: "Daniel Milea"
 featuredIndex: 9
 images: ["./images/mileadaniel/danielmilea.jpg"]
-tags: ["Coach", "Human Desin", "Cheile Genelor"]
+tags: ["Coach", "Human Design", "Cheile Genelor"]
 activities: ["coaching", "humandesign", "cheilegenelor"]
 services: [
     {
