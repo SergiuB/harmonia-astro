@@ -2,7 +2,7 @@
 name: "Bogdan Cochior"
 featuredIndex: 15
 images: ["./images/cochiorbogdan/bogdantruth.png"]
-tags: ["Terapeut"]
+tags: ["Terapeut", "Masaj"]
 activities: ["masaj", "aromaterapie", "cupping"]
 services: [
     {
