@@ -88,7 +88,7 @@ services: [
         ],
       price: "880lei",
       duration: "120min",
-      reserveLink: "https://wa.link/0y6cpq",
+      reserveLink: "https://wa.link/b4f3ug",
     },
     {
       name: "Holistic Life Coach",
@@ -123,7 +123,7 @@ services: [
         ],
       price: "999lei",
       duration: "5ore",
-      reserveLink: "https://wa.link/0y6cpq",
+      reserveLink: "https://wa.link/b4f3ug",
     },
     {
       name: "7 Stars TERRApy",
@@ -144,7 +144,7 @@ services: [
         ],
       price: "1240lei",
       duration: "7ore",
-      reserveLink: "https://wa.link/0y6cpq",
+      reserveLink: "https://wa.link/b4f3ug",
     },
     {
       name: "Harmonic GIFT Card",
@@ -166,7 +166,7 @@ services: [
         ],
       price: " 500lei -> 1240lei",
       duration: "90min -> 7ore",
-      reserveLink: "https://wa.link/0y6cpq",
+      reserveLink: "https://wa.link/b4f3ug",
     },
   ]
 location: "Harmonia Terra, str. Cercului 18, Bucuresti" #optional
