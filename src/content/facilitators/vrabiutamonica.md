@@ -19,7 +19,7 @@ auto-vindecare); - îmbunătățește vederea; - îmbunătățește funcționare
       isGroup: true,
       price: "150lei",
       duration: "90min",
-      reserveLink: "https://wa.link/12cuec",
+      reserveLink: "https://wa.link/h6vb4s",
     },
  {
       name: "Human Design și Cheile Genelor pentru relații",
@@ -36,7 +36,7 @@ auto-vindecare); - îmbunătățește vederea; - îmbunătățește funcționare
       isGroup: true,
       price: "300lei",
       duration: "4 x 90min",
-      reserveLink: "https://wa.link/12cuec",
+      reserveLink: "https://wa.link/h6vb4s",
     },
      {
       name: "Human Design și Cheile Genelor pentru relații",
@@ -54,7 +54,7 @@ auto-vindecare); - îmbunătățește vederea; - îmbunătățește funcționare
       isGroup: true,
       price: "50lei",
       duration: "90min",
-      reserveLink: "https://wa.link/12cuec",
+      reserveLink: "https://wa.link/h6vb4s",
     },
     {
       name: "Dans conștient cu tehnică de tribal fusion bellydance - pentru femei",
@@ -94,7 +94,7 @@ noștri;
       isGroup: true,
       price: "90lei",
       duration: "90min",
-      reserveLink: "https://wa.link/12cuec",
+      reserveLink: "https://wa.link/h6vb4sc",
     },
   ]
 location: "Online / Podul lui Sfredeluș / Zen Float Spa / în natura " #optional
