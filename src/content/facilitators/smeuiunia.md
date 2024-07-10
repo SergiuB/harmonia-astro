@@ -4,7 +4,59 @@ featuredIndex: 16
 images: ["./images/iuniazmeu/iuniazmeu.jpg"]
 tags: ["Terapeut", "Medicina Shamanica"]
 activities: ["masaj", "terapii-shamanice", "alte-servicii"]
-services: []
+services: [
+    {
+      name: "Terapie 1:1",
+      summary: "Terapie : Personalizata",
+      description:
+        [ 
+        "Etapele unei terapii:",
+        "• informare și conștientizare",
+        "• aliniere in meditație ghidata",
+        "• timeline therapy / EFT",
+        "• asimilare și relaxare",
+        ],
+      isGroup: true,
+      price: "410lei",
+      duration: "150min",
+      reserveLink: "https://wa.link/hkqkxe",
+    },
+       {
+      name: "Masaj Spinal Flow Energetics",
+      summary: "Masaj : Personalizata",
+      description:
+        [ 
+        "Etapele unui masaj SFE:",
+        "• informare și conștientizare",
+        "• aliniere in meditație ghidata",
+        "• masaj aromaterapeutic",
+        "• Spinal Flow Energetics",
+        "• baie de sunet",
+        "• asimilare și relaxare",
+        ],
+      isGroup: true,
+      price: "550lei",
+      duration: "150min",
+      reserveLink: "https://wa.link/hkqkxe",
+    },
+           {
+      name: "Ritual cu Rapé",
+      summary: "Ritual : Personalizat",
+      description:
+        [ 
+        "Etapele unui ritual cu Rapé:",
+        "• informare și conștientizare",
+        "• aliniere in meditație ghidata",
+        "• ritual cu Rapé",
+        "• ETF",
+        "• asimilare și relaxare",
+        ],
+      isGroup: true,
+      price: "550lei",
+      duration: "150min",
+      reserveLink: "https://wa.link/hkqkxe",
+    },
+    ]
 location: "Fizic / Online, Bucuresti" #optional
 contact: {
     email: "Iulia.hij.awe@gmail.com", #optional
