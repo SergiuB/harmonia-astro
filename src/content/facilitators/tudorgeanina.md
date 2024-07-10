@@ -25,7 +25,7 @@ services:
       isGroup: true,
       price: "150lei",
       duration: "40min",
-      reserveLink: "https://wa.link/fx65k1",
+      reserveLink: "https://wa.link/zcde7k",
     },
     {
       name: "Conexiune cu tine",
@@ -38,7 +38,7 @@ services:
       isGroup: true,
       price: "200lei",
       duration: "60min",
-      reserveLink: "https://wa.link/fx65k1",
+      reserveLink: "https://wa.link/zcde7k",
     },
     {
       name: "Vitalitatea Corpului Fizic",
@@ -50,7 +50,7 @@ services:
       isGroup: true,
       price: "200lei",
       duration: "60min",
-      reserveLink: "https://wa.link/fx65k1",
+      reserveLink: "https://wa.link/zcde7k",
     },
     {
       name: "Astograma Natala",
@@ -63,7 +63,7 @@ services:
       isGroup: true,
       price: "250lei",
       duration: "3zile",
-      reserveLink: "https://wa.link/fx65k1",
+      reserveLink: "https://wa.link/zcde7k",
     },
     { name: "Astograma Previzionala", summary: "Astrologie", description: [
           "Acum ai la dispozitie o harta personalizată ce iti arata toate oportunitatile, pe care ti le va oferi anul 2024.",
@@ -72,7 +72,7 @@ services:
           perioade de consolidare a relațiilor; -Carieră și abilități profesionale: află indicii despre direcția pe care o ia cariera ta și despre
           oportunitățile care se pot deschide în plan profesional; -Sănătate și bunăstare: astrograma previzională aduce informații despre perioade în care este
           important să acorzi o atenție deosebită stării tale de sănătate și bunăstare; -Cicluri de viață Analizând configurația planetară, ca și astrolog, pot evidenția anumite cicluri de viață, cum ar fi cicluri de noroc, provocări sau schimbări majore.",
-        ], isGroup: true, price: "250lei / 350lei", duration: "3zile", reserveLink: "https://wa.link/fx65k1" },
+        ], isGroup: true, price: "250lei / 350lei", duration: "3zile", reserveLink: "https://wa.link/zcde7k" },
   ]
 location: "Online" #optional
 contact: {
