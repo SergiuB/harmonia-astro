@@ -19,7 +19,7 @@ services: [
       isGroup: true,
       price: "440lei",
       duration: "90min",
-      reserveLink: "https://wa.link/k5co47",
+      reserveLink: "https://wa.link/ktxbjo",
     },
   ]
 location: "Online /  Domiciliu / Giulesti, Bucuresti" #optional
