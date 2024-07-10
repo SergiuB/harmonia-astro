@@ -18,7 +18,7 @@ services:
       isGroup: true,
       price: "260lei",
       duration: "120min",
-      reserveLink: "https://wa.link/q1kdla",
+      reserveLink: "https://wa.link/prdfxg",
     },
     {
       name: "Aguahara - Shamanic Water Therapy ",
@@ -56,7 +56,7 @@ services:
         ],
       price: "144lei",
       duration: "120min",
-      reserveLink: "https://wa.link/q1kdla",
+      reserveLink: "https://wa.link/prdfxg",
     },
     {
       name: "Crystal Frequency Sound Bath ",
@@ -83,7 +83,7 @@ services:
       isGroup: true,
       price: "133lei",
       duration: "60min",
-      reserveLink: "https://wa.link/q1kdla",
+      reserveLink: "https://wa.link/prdfxg",
     },
   ]
 location: "Strada Cercului 18, Bucuresti" #optional
