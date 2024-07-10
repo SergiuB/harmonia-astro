@@ -22,7 +22,7 @@ tine va iesi la lumina atunci cand ai curajul sa privesti in fata adevarul tau."
       isGroup: true,
       price: "246lei",
       duration: "60min",
-      reserveLink: "https://wa.link/ip1hjd",
+      reserveLink: "https://wa.link/l3gx8j",
     },
     {
       name: "Curatare & Echilibrare energetica",
@@ -39,7 +39,7 @@ directionata energia Reiki.",
       isGroup: true,
       price: "210lei",
       duration: "60min",
-      reserveLink: "https://wa.link/ip1hjd",
+      reserveLink: "https://wa.link/l3gx8j",
     },
      {
       name: "Analiza numerologica a datei de nastere",
@@ -58,7 +58,7 @@ despre sine.",
       isGroup: true,
       price: "237lei",
       duration: "60min",
-      reserveLink: "https://wa.link/ip1hjd",
+      reserveLink: "https://wa.link/l3gx8j",
     },
   ]
 location: "Online / Cabinet, Bucuresti" #optional
