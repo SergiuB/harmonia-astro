@@ -17,7 +17,7 @@ services:
       isGroup: true,
       price: "400lei",
       duration: "90min",
-      reserveLink: "https://wa.link/fr6dyf",
+      reserveLink: "https://wa.link/gg05lb",
     },
     {
       name: "Access Facelift energetic- reinnoire celulara",
@@ -34,7 +34,7 @@ services:
       isGroup: true,
       price: "350lei",
       duration: "75min",
-      reserveLink: "https://wa.link/fr6dyf",
+      reserveLink: "https://wa.link/gg05lb",
     },
     {
       name: "Consiliere si Facilitare",
@@ -46,7 +46,7 @@ services:
       isGroup: true,
       price: "350lei",
       duration: "75min",
-      reserveLink: "https://wa.link/fr6dyf",
+      reserveLink: "https://wa.link/gg05lb",
     },
     {
       name: "Expanse Therapy",
@@ -69,7 +69,7 @@ services:
       isGroup: true,
       price: "460lei",
       duration: "75min",
-      reserveLink: "https://wa.link/fr6dyf",
+      reserveLink: "https://wa.link/gg05lb",
     },
     {
       name: "Masajul celor 5 Continente",
@@ -85,7 +85,7 @@ services:
       isGroup: true,
       price: "650lei",
       duration: "120min",
-      reserveLink: "https://wa.link/fr6dyf",
+      reserveLink: "https://wa.link/gg05lb",
     },
     {
       name: "Vibecodes- Vibreaza cu frecventa visurilor tale.",
@@ -100,7 +100,7 @@ services:
       isGroup: true,
       price: "600lei",
       duration: "90min",
-      reserveLink: "https://wa.link/fr6dyf",
+      reserveLink: "https://wa.link/gg05lb",
     },
     {
       name: "Gaiatouch- Creaza cu energiile Pamantului",
@@ -117,7 +117,7 @@ services:
       isGroup: true,
       price: "450lei",
       duration: "75min",
-      reserveLink: "https://wa.link/fr6dyf",
+      reserveLink: "https://wa.link/gg05lb",
     },
   ]
 
