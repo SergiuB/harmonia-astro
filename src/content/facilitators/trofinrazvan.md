@@ -18,7 +18,7 @@ services:
       isGroup: true,
       price: "60lei",
       duration: "30min",
-      reserveLink: "https://wa.link/ygoxhy",
+      reserveLink: "https://wa.link/obroc5",
     },
     {
       name: "BOF + Alcalină / Program scurt",
@@ -33,7 +33,7 @@ services:
       isGroup: true,
       price: "111lei",
       duration: "7zile x 30min",
-      reserveLink: "https://wa.link/ygoxhy",
+      reserveLink: "https://wa.link/obroc5",
     },
     {
       name: "Fire & Ice Program",
@@ -49,7 +49,7 @@ services:
       isGroup: true,
       price: "333lei",
       duration: "31zile x 30min",
-      reserveLink: "https://wa.link/ygoxhy",
+      reserveLink: "https://wa.link/obroc5",
     },
     {
       name: "Program Personalizat",
@@ -62,7 +62,7 @@ services:
       isGroup: true,
       price: "111eur",
       duration: "31zile x 30min",
-      reserveLink: "https://wa.link/ygoxhy",
+      reserveLink: "https://wa.link/obroc5",
     },
   ]
 location: "Online, offline și la domiciliu" #optional
