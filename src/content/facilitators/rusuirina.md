@@ -17,7 +17,7 @@ services: [
       isGroup: true,
       price: "250lei",
       duration: "90min",
-      reserveLink: "https://wa.link/l4ttug",
+      reserveLink: "https://wa.link/pctyux",
     },
      {
       name: "Masaj de relaxare",
@@ -31,7 +31,7 @@ reducerea stresului și anxietății, îmbunătățirea tonusului și aspectului
       isGroup: true,
       price: "150lei / 200lei",
       duration: "60min / 90min",
-      reserveLink: "https://wa.link/l4ttug",
+      reserveLink: "https://wa.link/pctyux",
     },
       {
       name: "Reflexoterapie",
@@ -45,7 +45,7 @@ picioarelor, stimularea sistemului imunitar, corectarea dezechilibrelor hormonal
       isGroup: true,
       price: "150lei",
       duration: "60min",
-      reserveLink: "https://wa.link/l4ttug",
+      reserveLink: "https://wa.link/pctyux",
     },
   ]
 location: "Deplasare la domiciliu / Studio, Bucuresti" #optional
