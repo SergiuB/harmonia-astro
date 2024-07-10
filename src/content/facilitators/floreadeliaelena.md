@@ -70,7 +70,7 @@ services:
         ],
       price: "880lei",
       duration: "120min",
-      reserveLink: "https://wa.link/pvs0d2",
+      reserveLink: "https://wa.link/v1ic5g",
     },
     {
       name: "Aromaterapie",
@@ -146,7 +146,7 @@ services:
         ],
       price: "999lei",
       duration: "5ore",
-      reserveLink: "https://wa.link/pvs0d2",
+      reserveLink: "https://wa.link/v1ic5g",
     },
     {
       name: "7 Stars TERRApy",
@@ -167,7 +167,7 @@ services:
         ],
       price: "1240lei",
       duration: "7ore",
-      reserveLink: "https://wa.link/pvs0d2",
+      reserveLink: "https://wa.link/v1ic5g",
     },
     {
       name: "Harmonic GIFT Card",
@@ -189,7 +189,7 @@ services:
         ],
       price: " 250lei -> 1240lei",
       duration: "30min -> 7ore",
-      reserveLink: "https://wa.link/pvs0d2",
+      reserveLink: "https://wa.link/v1ic5g",
     },
   ]
 location: "Harmonia Terra, str. Cercului 18, Bucuresti" #optional
