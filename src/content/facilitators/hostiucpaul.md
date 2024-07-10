@@ -16,7 +16,7 @@ services:
         ],
       price: "250lei / 310lei / 360lei",
       duration: "75min / 105min / 135min",
-      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
+      reserveLink: "https://wa.link/1by6y3",
     },
     {
       name: "Masaj Terapeutic",
@@ -29,7 +29,7 @@ services:
       isGroup: true,
       price: "280lei / 340lei / 390lei",
       duration: "75min / 105min / 135min",
-      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
+      reserveLink: "https://wa.link/1by6y3",
     },
     {
       name: "Masajul Deep Tissue",
@@ -42,14 +42,14 @@ services:
         ],
       price: "280lei / 340lei / 390lei",
       duration: "75min / 105min / 135min",
-      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
+      reserveLink: "https://wa.link/1by6y3",
     },
     { name: "Reflexoterapie", summary: "Masaj : Picioare", description: [
           "Reflexologia este o practică a medicinei tradiționale care constă în manipularea sau apăsarea zonelor/punctelor reflexogene de pe tălpi/mâini pentru a produce un efect in zonele viscerale si nu numai.",
           "Poate v-ați întrebat de ce tălpile sau palmele?, ei bine, ele fac, cunoștință cu mediul înconjurător și sunt începutul si sfârșitul fiecărui meridian energetic principal de pe corp(12 la numar).
           Reflexoterapia are rolul de a stimula neuronal, hormonal, circulator si psihologic.",
           "Beneficiile se pot simți chiar din timpul terapiei, acestea putând fi observate datorită unei descărcări emoționale, dispariția disconfortului pentru care pacientul a si venit la terapie, respirația schimbată brusc, nevoia de a urina des, schimbări de temperatură.",
-        ], price: "330lei", duration: "90min", reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o" },
+        ], price: "330lei", duration: "90min", reserveLink: "https://wa.link/1by6y3" },
     {
       name: "Masaj Ayurvedic",
       summary: "Masaj : Întregul corp",
@@ -60,7 +60,7 @@ services:
         ],
       price: "370lei / 430lei ",
       duration: "105min / 135min",
-      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
+      reserveLink: "https://wa.link/1by6y3,
     },
     {
       name: "Lomi-Lomi",
@@ -72,13 +72,13 @@ services:
         ],
       price: "370lei ",
       duration: "105min",
-      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
+      reserveLink: "https://wa.link/1by6y3",
     },
     { name: "Masaj Balinez", summary: "Masaj : Întregul corp", description: [
           "Originar din Indonezia reprezintă o combinație de tehnici asiatice din mai multe stiluri de masaj: ayurvedice, tailandeze si chinezești.
           Această combinație va crea armonie întregului corp si va readuce echilibrul corp-minte-suflet.",
           "Terapeutul va folosi tehnici ayurvedice pentru a debloca cursul energiei, tehnici tailandeze pentru a reda mobilitatea articulațiilor si totodată elimină blocajele și patogenii captivi și tehnici chinezești pentru a activa funcțiile meridianelor si punctelor energetice astfel încât efectul să fie atât de drenaj cât si de tonifiere a întregului corp.",
-        ], price: "370lei ", duration: "105min", reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o" },
+        ], price: "370lei ", duration: "105min", reserveLink: "https://wa.link/1by6y3" },
     {
       name: "Masaj Thailandez",
       summary: "Masaj : Întregul corp ",
@@ -91,7 +91,7 @@ services:
         ],
       price: "370lei / 440lei",
       duration: "105min / 135min",
-      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
+      reserveLink: "https://wa.link/1by6y3",
     },
     {
       name: "Masaj Herbal Thai",
@@ -104,7 +104,7 @@ services:
         ],
       price: "380lei",
       duration: "105min",
-      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
+      reserveLink: "https://wa.link/1by6y3",
     },
     {
       name: "Miofascial Release",
@@ -117,7 +117,7 @@ services:
         ],
       price: "440lei / 490lei",
       duration: "135min / 165min",
-      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
+      reserveLink: "https://wa.link/1by6y3",
     },
     {
       name: "Pedi Pudja Reflexologie Tibetana",
@@ -128,7 +128,7 @@ services:
         ],
       price: "440lei",
       duration: "135min",
-      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
+      reserveLink: "https://wa.link/1by6y3",
     },
     {
       name: "Kinetoterapie",
@@ -136,7 +136,7 @@ services:
       description: ["Fizioterapie : Întregul corp"],
       price: "130lei / 190lei",
       duration: "30min / 60min",
-      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
+      reserveLink: "https://wa.link/1by6y3",
     },
     {
       name: "Masaj Chinezesc",
@@ -149,7 +149,7 @@ services:
         ],
       price: "340lei",
       duration: "90min",
-      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
+      reserveLink: "https://wa.link/1by6y3",
     },
     { name: "Moxibustie", summary: "Terapie : Meridiane ", description: [
           "Moxibustia tratează și previne bolile prin aplicarea căldurii în punctele de acupunctură sau
@@ -160,7 +160,7 @@ services:
           sângerarea, încălzește splina și stomacul pentru a elimina blocaje , reglează menstruația și
           ușureaza nasterea.",
           "Yang qi poate fi activat de frunza Artemisi ei prin calitatea sa caldă . Mirosul înțepător al frunzei poate călători prin meridiane, reglează qi ul și sângele și expulzează frigul din meridiane. Natura amară rezolvă umezeala. În plus, lâna moxa poate produce o căldură ușoară, care poate pătrunde adânc în mușchi. Dacă este înlocuită cu alte materiale, o durere intolerabilă va rezulta având totodată și un efect semnificativ mai slab. Moxa lână, conuri moxa, bastoane moxa, un borcănel cu apă, foc și o tavă trebuie să fie pregătită în prealabil.",
-        ], price: "90lei", duration: "15min", reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o" },
+        ], price: "90lei", duration: "15min", reserveLink: "https://wa.link/1by6y3" },
     {
       name: "Ventuze",
       summary: "Cupping : Întregul corp ",
@@ -172,7 +172,7 @@ services:
         ],
       price: "90lei",
       duration: "15min",
-      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
+      reserveLink: "https://wa.link/1by6y3",
     },
     {
       name: "QiNeiZang",
@@ -190,7 +190,7 @@ services:
         ],
       price: "390lei",
       duration: "120min",
-      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
+      reserveLink: "https://wa.link/1by6y3",
     },
     {
       name: "Analiza Energetică",
@@ -201,7 +201,7 @@ services:
         ],
       price: "150lei",
       duration: "30min",
-      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
+      reserveLink: "https://wa.link/1by6y3",
     },
     {
       name: "Auriculoterapie",
@@ -212,7 +212,7 @@ services:
         ],
       price: "120lei",
       duration: "20min",
-      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
+      reserveLink: "https://wa.link/1by6y3",
     },
     {
       name: "GuaSha",
@@ -225,7 +225,7 @@ services:
         ],
       price: "340lei",
       duration: "90min",
-      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
+      reserveLink: "https://wa.link/1by6y3",
     },
     {
       name: "Five elements reflexology",
@@ -236,8 +236,7 @@ services:
         ],
       price: "380lei",
       duration: "105min",
-      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
-    },
+      reserveLink: "https://wa.link/1by6y3
     {
       name: "Ascending and tonification of yang",
       summary: "Medicina Chineză : Întregul corp ",
@@ -247,7 +246,7 @@ services:
         ],
       price: "380lei",
       duration: "105min",
-      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
+      reserveLink: "https://wa.link/1by6y3",
     },
     {
       name: "Flow restoration",
@@ -258,7 +257,7 @@ services:
         ],
       price: "550lei",
       duration: "165min",
-      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
+      reserveLink: "https://wa.link/1by6y3",
     },
     {
       name: "Heavenly Healing Ritual",
@@ -271,7 +270,7 @@ services:
         ],
       price: "590lei",
       duration: "180min",
-      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
+      reserveLink: "https://wa.link/1by6y3",
     },
     {
       name: "Revive the hidden essence",
@@ -282,7 +281,7 @@ services:
         ],
       price: "530lei",
       duration: "165min",
-      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
+      reserveLink: "https://wa.link/1by6y3",
     },
     {
       name: "Extinguish the fire",
@@ -293,7 +292,7 @@ services:
         ],
       price: "430lei",
       duration: "135min",
-      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
+      reserveLink: "https://wa.link/1by6y3",
     },
     {
       name: "Cold’s foe",
@@ -304,7 +303,7 @@ services:
         ],
       price: "440lei",
       duration: "135min",
-      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
+      reserveLink: "https://wa.link/1by6y3",
     },
     {
       name: "Pacify the interior wind and calm the spirit",
@@ -315,7 +314,7 @@ services:
         ],
       price: "440lei",
       duration: "135min",
-      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
+      reserveLink: "https://wa.link/1by6y3",
     },
     {
       name: "Asian delight and healing",
@@ -331,7 +330,7 @@ services:
         ],
       price: "580lei",
       duration: "180min",
-      reserveLink: "https://linktr.ee/tianfutherapy?fbclid=PAZXh0bgNhZW0BMQABpikmcWdyv6cD9HxoaldX2OAUy9uwNesSIVEGycz9YIphGF4PB_QRVooiyg_aem_AWJjm0JaMidWDmkUN9iArK-kKJEpeYBJP78BcrX3m3Gp5pCAA9ZMt9mIu4PcoejqA-o",
+      reserveLink: "https://wa.link/1by6y3",
     },
     {
       name: "5 Stars TERRApy",
@@ -349,7 +348,7 @@ services:
         ],
       price: "999lei",
       duration: "5ore",
-      reserveLink: "https://wa.link/dpnwpu",
+      reserveLink: "https://wa.link/1by6y3",
     },
     {
       name: "7 Stars TERRApy",
@@ -370,7 +369,7 @@ services:
         ],
       price: "1240lei",
       duration: "7ore",
-      reserveLink: "https://wa.link/dpnwpu",
+      reserveLink: "https://wa.link/1by6y3",
     },
   ]
 location: "Harmonia Terra, str. Cercului 18, Bucuresti" #optional
