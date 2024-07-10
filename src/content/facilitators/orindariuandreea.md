@@ -28,7 +28,7 @@ services: [
       isGroup: true,
       price: "800eur",
       duration: "8 x 60min",
-      reserveLink: "https://wa.link/c11on6",
+      reserveLink: "https://wa.link/vnfz5m",
     },
   ]
 location: "Online" #optional
