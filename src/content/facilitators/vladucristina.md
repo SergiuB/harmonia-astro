@@ -23,7 +23,7 @@ pentru relaxarea sistemului nervos.",
       isGroup: true,
       price: "200lei",
       duration: "60min",
-      reserveLink: "https://wa.link/hzjfpb",
+      reserveLink: "https://wa.link/0l3h5j",
     },
   ]
 location: "Sat Chit Ananda Ashram Urban (Bulevardul Regina Elisabeta nr 25,București) / Sambodhi Studio (Str. Popa Rusu 16A, Bucuresti)" #optional
@@ -31,7 +31,7 @@ contact: {
     email: "crisvladu@yahoo.com", #optional
     phone: "0743767040",
     facebook: "https://www.facebook.com/profile.php?id=100001845904657", #optional
-    whatsapp: "https://wa.link/hzjfpb", #optional
+    whatsapp: "https://wa.link/0l3h5j", #optional
   }
 ---
 
