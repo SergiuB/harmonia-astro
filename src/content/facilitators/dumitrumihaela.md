@@ -11,7 +11,7 @@ services: [
       isGroup: true,
       price: "230lei / 270lei / 390lei",
       duration: "70min / 100min / 130min",
-      reserveLink: "https://wa.link/yl6xig",
+      reserveLink: "https://wa.link/emci4x",
     },
         {
       name: "ZEN",
@@ -19,7 +19,7 @@ services: [
       isGroup: true,
       price: "190lei / 230lei / 350lei",
       duration: "70min / 100min / 130min",
-      reserveLink: "https://wa.link/yl6xig",
+      reserveLink: "https://wa.link/emci4x",
     },
         {
       name: "Thai",
@@ -27,7 +27,7 @@ services: [
       isGroup: true,
       price: "450lei",
       duration: "135min",
-      reserveLink: "https://wa.link/yl6xig",
+      reserveLink: "https://wa.link/emci4x",
     },
        {
       name: "Cupping + Massage",
@@ -35,7 +35,7 @@ services: [
       isGroup: true,
       price: "190lei",
       duration: "60min",
-      reserveLink: "https://wa.link/yl6xig",
+      reserveLink: "https://wa.link/emci4x",
     },
        {
       name: "Crown",
@@ -43,7 +43,7 @@ services: [
       isGroup: true,
       price: "190lei",
       duration: "60min",
-      reserveLink: "https://wa.link/yl6xig",
+      reserveLink: "https://wa.link/emci4x",
     },
   ]
 location: "Adresa Stabilita, Bucuresti" #optional
