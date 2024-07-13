@@ -49,11 +49,7 @@ services:
           "Poate v-ați întrebat de ce tălpile sau palmele?, ei bine, ele fac, cunoștință cu mediul înconjurător și sunt începutul si sfârșitul fiecărui meridian energetic principal de pe corp(12 la numar).
           Reflexoterapia are rolul de a stimula neuronal, hormonal, circulator si psihologic.",
           "Beneficiile se pot simți chiar din timpul terapiei, acestea putând fi observate datorită unei descărcări emoționale, dispariția disconfortului pentru care pacientul a si venit la terapie, respirația schimbată brusc, nevoia de a urina des, schimbări de temperatură.",
-        ], 
-        price: "330lei", 
-        duration: "90min", 
-        reserveLink: "https://wa.link/1by6y3", 
-        },
+        ], price: "330lei", duration: "90min", reserveLink: "https://wa.link/1by6y3" },
     {
       name: "Masaj Ayurvedic",
       summary: "Masaj : Întregul corp",
@@ -64,7 +60,7 @@ services:
         ],
       price: "370lei / 430lei ",
       duration: "105min / 135min",
-      reserveLink: "https://wa.link/1by6y3,
+      reserveLink: "https://wa.link/1by6y3",
     },
     {
       name: "Lomi-Lomi",
@@ -240,7 +236,8 @@ services:
         ],
       price: "380lei",
       duration: "105min",
-      reserveLink: "https://wa.link/1by6y3
+      reserveLink: "https://wa.link/1by6y3",
+    },
     {
       name: "Ascending and tonification of yang",
       summary: "Medicina Chineză : Întregul corp ",
