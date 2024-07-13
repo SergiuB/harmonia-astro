@@ -94,7 +94,7 @@ noștri;
       isGroup: true,
       price: "90lei",
       duration: "90min",
-      reserveLink: "https://wa.link/h6vb4sc",
+      reserveLink: "https://wa.link/h6vb4s",
     },
   ]
 location: "Online / Podul lui Sfredeluș / Zen Float Spa / în natura " #optional
@@ -102,7 +102,7 @@ contact: {
     email: "monica.dansconstient@gmail.com", #optional
     phone: "0726183753",
    facebook: "https://www.facebook.com/monica.vrabiuta", #optional
-    whatsapp: "https://wa.link/12cuec", #optional
+    whatsapp: "https://wa.link/h6vb4s", #optional
   }
 ---
 
