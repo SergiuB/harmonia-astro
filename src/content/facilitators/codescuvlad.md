@@ -18,7 +18,7 @@ scop si acela de a se misca natural, simtindu-se liberi in corp.",
       isGroup: true,
       price: "70lei",
       duration: "60min",
-      reserveLink: "https://wa.link/7ot6ua",
+      reserveLink: "https://wa.link/knge3b",
     },
     {
       name: "Sesiuni private 1:1",
@@ -38,7 +38,7 @@ greutatea corpului intr un mod eficient, fluid si organic.",
       isGroup: true,
       price: "300lei / 1600lei / 1800lei",
       duration: "90min / 8 x 90min / 12 x 90min",
-      reserveLink: "https://wa.link/7ot6ua",
+      reserveLink: "https://wa.link/knge3b",
     },
     {
       name: "Sesiuni private : Mini grupa",
@@ -58,7 +58,7 @@ greutatea corpului intr un mod eficient, fluid si organic.",
       isGroup: true,
       price: "150lei",
       duration: "90min",
-      reserveLink: "https://wa.link/7ot6ua",
+      reserveLink: "https://wa.link/knge3b",
     },
   ]
 location: "Origini Hub, Bucuresti / Groove Box, Bucuresti / Clase in Aer Liber" #optional
@@ -66,7 +66,7 @@ contact: {
     email: "vladcodescu@gmail.com", #optional
     phone: "0724830362",
     instagram: "https://www.instagram.com/vlad.codescu?igsh=MTg4eWZiNXR0b25x&utm_source=qr", #optional
-    whatsapp: "https://wa.link/grrh5n", #optional
+    whatsapp: "https://wa.link/knge3b", #optional
   }
 ---
 
