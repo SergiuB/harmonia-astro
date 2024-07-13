@@ -6,7 +6,9 @@ import { getImage } from "astro:assets";
 import RootLayout from "../layouts/RootLayout.astro";
 const pageTitle = "Spatiu";
 import heroImage from "/src/assets/spatiu-hero.jpg";
-const optimizedBackgroundImage = await getImage({ src: heroImage });
+import heroDesktopImage from "/src/assets/spatiu-hero-desktop.jpg";
+const optimizedHeroImage = await getImage({ src: heroImage });
+const optimizedHeroDesktopImage = await getImage({ src: heroDesktopImage });
 
 import hub0 from "/src/assets/hub/hub0.jpg";
 import hub1 from "/src/assets/hub/hub1.jpg";
@@ -41,11 +43,22 @@ const images = [
 
 <RootLayout title={pageTitle}>
   <section
-    class="relative hero-section h-[60vh] flex flex-col items-center justify-center text-center bg-cover bg-center"
-    style={`background-image: url('${optimizedBackgroundImage.src}')`}
+    class="relative hero-section h-[60vh] flex flex-col items-center justify-center text-center bg-cover bg-center lg:hidden"
+    style={`background-image: url('${optimizedHeroImage.src}')`}
   >
     <h1
-      class="text-5xl font-black drop-shadow-lg relative w-60 md:w-96 white-text-border"
+      class="text-5xl font-black drop-shadow-lg relative w-60 white-text-border"
+      transition:name="facilitators-title"
+    >
+      Harmonia Terra
+    </h1>
+  </section>
+  <section
+    class="relative hero-section h-[60vh] flex flex-col items-center justify-center text-center bg-cover bg-center max-lg:hidden"
+    style={`background-image: url('${optimizedHeroDesktopImage.src}')`}
+  >
+    <h1
+      class="text-5xl font-black drop-shadow-lg relative w-96 white-text-border"
       transition:name="facilitators-title"
     >
       Harmonia Terra
@@ -89,8 +102,8 @@ const images = [
       <p>
         Am creat un loc magic, plin de armonie de care te poți bucura și tu!
         Acesta poate fi închiriat pentru sesiuni individuale (masaje, meditații,
-        psihoterapie, terapii alternative, etc.) sau pentru sesiuni de
-        grup (cursuri, workshopuri, cercuri, yoga, sound healing, etc.).
+        psihoterapie, terapii alternative, etc.) sau pentru sesiuni de grup
+        (cursuri, workshopuri, cercuri, yoga, sound healing, etc.).
       </p>
       <div class="flex items-center justify-center">
         <a
