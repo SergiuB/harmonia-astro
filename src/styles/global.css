@@ -4,3 +4,11 @@
   -o-transition: none !important;
   transition: none !important;
 }
+
+.white-text-border {
+  text-shadow:
+    -1px -1px 0 #807e7e,
+    1px -1px 0 #807e7e,
+    -1px 1px 0 #807e7e,
+    1px 1px 0 #807e7e;
+}
