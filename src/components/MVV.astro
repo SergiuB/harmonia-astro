@@ -52,7 +52,7 @@ const {
 </>
 
 <script>
-  ["DOMContentLoaded", "astro:after-swap"].forEach((event) => {
+  ["astro:page-load"].forEach((event) => {
     document.addEventListener(event, () => {
       const logoMVVObserver = new IntersectionObserver((entries) => {
         entries &&
