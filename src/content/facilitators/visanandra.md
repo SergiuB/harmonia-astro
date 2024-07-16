@@ -2,7 +2,7 @@
 name: "Andra Visan"
 featuredIndex: 6
 images: ["./images/visanandra/andravisan.jpg"]
-tags: ["Terapeut", "Dreamspell Reader", "Light Worker"]
+tags: ["Terapeut", "Dreamspell Reader", "Medicine Woman"]
 services:
   [
     {
@@ -16,7 +16,7 @@ services:
           "Daca iti doresti sa pasesti mai aproape de esenta a cine esti, te astept sa exploram impreuna codurile semnaturii tale galactice.",
         ],
       isGroup: true,
-      price: "260lei",
+      price: "299lei",
       duration: "120min",
       reserveLink: "https://wa.link/prdfxg",
     },
@@ -54,7 +54,7 @@ services:
           ● tromboza",
           "Daca iti doresti sa te conectezi cu corpul tau, cu emotiile tale si cu elementul apei intr-un mod in care sigur nu ai mai facut-o pana acum, te astept sa exploram impreuna!",
         ],
-      price: "144lei",
+      price: "199lei",
       duration: "120min",
       reserveLink: "https://wa.link/prdfxg",
     },
@@ -81,7 +81,7 @@ services:
           "Te astept sa petrecem impreuna o ora intr-o baie de vibratii si sunete parca desprinse din dimensiunile cerurilor, la sfarsitul careia iti garantez ca te vei simti relaxat/a si revigorata!",
         ],
       isGroup: true,
-      price: "133lei",
+      price: "155lei",
       duration: "60min",
       reserveLink: "https://wa.link/prdfxg",
     },
