@@ -127,6 +127,10 @@
     "id": "tarot",
     "name": "Tarot"
   },
+   {
+    "id": "terapia-bach",
+    "name": "Terapia Bach"
+  },
   {
     "id": "terapia-sphere",
     "name": "Terapia Sphere"
