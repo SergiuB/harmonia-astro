@@ -12,11 +12,8 @@ services: [
         [
           "Bună, sunt Cristina si practic masajul prin tehnica MMT (Mixed Manual Therapy) studiat la Fundația
 Varuna asupra căruia mi-am pus amprenta personală, prin blândețea și atenția la simțuri.",
-          "MMT (Mixed Manual Therapy) – este un mix de tehnici manuale terapeutice puse la comun din
-diverse stiluri: masaj terapeutic thailandez, yumeiho, shiatsu, visceral, craniosacral, lucrul pe fascii
-musculare. Prin MMT, se lucrează aspura corpului pe mai multe planuri.",
-          "Beneficii: detensionarea musculaturii, contracturilor, eliberarea energiei stagnante din interior
-pentru relaxarea sistemului nervos.",
+          "MMT (Mixed Manual Therapy) – este un mix de tehnici manuale terapeutice puse la comun din diverse stiluri: masaj terapeutic thailandez, yumeiho, shiatsu, visceral, craniosacral, lucrul pe fascii musculare. Prin MMT, se lucrează aspura corpului pe mai multe planuri.",
+          "Beneficii: detensionarea musculaturii, contracturilor, eliberarea energiei stagnante din interior pentru relaxarea sistemului nervos.",
           "Se va lucra peste haine, pe saltea yumeiho, la sol.",
           "Te aștept cu drag! ☀",
         ],
@@ -42,8 +39,4 @@ Mult timp m-am întrebat ce e în neregulă cu mine, de ce sunt copleșită de e
 Am descoperit în timp că fac parte din categoria hipersensibililor care simt și haosul mai haos, dar și frumosul mai frumos și simțurile sunt deschise la un nivel mai extins.
 După mult timp de neacceptare și a simți ca un calvar acest “dar” am început să ma joc cu el și să explorez atuurile pe care le poate aduce și beneficiul în lucrul cu oamenii, dar să și echilibrez acest haos și frumos prin lucrul cu corpul și prin mișcare.
 Astfel, practic astăzi masajul prin tehnica MMT (Mixed Manual Therapy) studiat la Fundația Varuna asupra căruia mi-am pus amprenta personală, prin blândețea și atenția la ceea ce este celălalt.
-
-Am calatorit in Tuva, Yakutia, Altai si Mongolia si in urma acestor experiente mi-am descoperit pasiunea de a trezi viata prin cantec. 
-
-Din 2013 practic budismul tibetan si integrez in atelierele pe care le tin intelepciunea milenara a descoperirii adevaratei noastre naturi, care este prezenta in fiecare dintre noi, in fiecare moment.
 
