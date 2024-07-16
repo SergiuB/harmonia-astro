@@ -10,8 +10,6 @@ services: [
       summary: "Masaj terapeutic : Întregul corp",
       description:
         [
-          "Bună, sunt Cristina si practic masajul prin tehnica MMT (Mixed Manual Therapy) studiat la Fundația
-Varuna asupra căruia mi-am pus amprenta personală, prin blândețea și atenția la simțuri.",
           "MMT (Mixed Manual Therapy) – este un mix de tehnici manuale terapeutice puse la comun din diverse stiluri: masaj terapeutic thailandez, yumeiho, shiatsu, visceral, craniosacral, lucrul pe fascii musculare. Prin MMT, se lucrează aspura corpului pe mai multe planuri.",
           "Beneficii: detensionarea musculaturii, contracturilor, eliberarea energiei stagnante din interior pentru relaxarea sistemului nervos.",
           "Se va lucra peste haine, pe saltea yumeiho, la sol.",
