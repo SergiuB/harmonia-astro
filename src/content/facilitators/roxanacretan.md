@@ -1,7 +1,7 @@
 ---
 name: "Roxana Nechifor Cretan"
 featuredIndex: 19
-images: ["./images/roxanacretan/roxanacretan.jpg"]
+images: ["./images/roxanacretan/roxanacretan.JPG"]
 tags: ["Terapeut", "Bach"]
 activities: ["terapia-bach"]
 services:
