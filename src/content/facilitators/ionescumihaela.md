@@ -20,8 +20,8 @@ fara sa urmam vreo structura fixa sau plan, trebuie doar sa ai incredere ca tot 
 tine va iesi la lumina atunci cand ai curajul sa privesti in fata adevarul tau.",
         ],
       isGroup: true,
-      price: "246lei",
-      duration: "60min",
+      price: "390lei",
+      duration: "120min",
       reserveLink: "https://wa.link/l3gx8j",
     },
     {
