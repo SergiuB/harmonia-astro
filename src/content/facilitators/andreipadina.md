@@ -1,9 +1,9 @@
 ---
 name: "Andrei Padina"
-featuredIndex: 5
+featuredIndex: 7
 images: ["./images/andreipadina/andreipadina.jpeg"]
-tags: ["Terapeut", "Masaj"]
-activities: ["masaj", "cupping"]
+tags: ["neuroptimal", "nutritie", "coaching" , "human garage" , "miscare-constienta", "alte-servicii", "biohacking"]
+activities: ["NeuroTrainer", "Nutriționist", "Instructor"]
 services: [
     {
       name: "NeurOptimal",
