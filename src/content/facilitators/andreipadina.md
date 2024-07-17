@@ -3,7 +3,7 @@ name: "Andrei Padina"
 featuredIndex: 7
 images: ["./images/andreipadina/andreipadina.jpeg"]
 tags: ["NeuroTrainer", "Nutriționist", "Instructor"]
-activities: ["NeuroTrainer", "Nutriționist", "Instructor""neuroptimal", "nutritie", "coaching" , "human garage" , "miscare-constienta", "alte-servicii", "biohacking"]
+activities: ["neuroptimal", "nutritie", "coaching" , "human garage" , "miscare-constienta", "alte-servicii", "biohacking"]
 services: [
     {
       name: "NeurOptimal",
