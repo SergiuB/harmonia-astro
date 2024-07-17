@@ -1,5 +1,5 @@
 ---
-name: "Roxana Nechifor Cretan"
+name: "Roxana Cretan"
 featuredIndex: 19
 images: ["./images/roxanacretan/roxanacretan.JPG"]
 tags: ["Terapeut", "Bach"]
@@ -23,4 +23,5 @@ contact: {
   }
 ---
 
-Sunt Roxana și sunt specialist in terapia cu remedii florale Bach, acreditat de Centrul Edward Bach din Marea Britanie (Bach Center - https://www.bachcentre.com/)
+Sunt Roxana și sunt specialist in terapia cu remedii florale Bach, acreditat de Centrul Edward Bach din Marea Britanie
+(Bach Center - https://www.bachcentre.com/).
