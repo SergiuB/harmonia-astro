@@ -27,6 +27,10 @@
     "id": "ayurveda",
     "name": "Ayurveda"
   },
+    {
+    "id": "biohacking",
+    "name": "Biohacking"
+  },
   {
     "id": "breathwork",
     "name": "Breathwork"
@@ -67,6 +71,10 @@
     "id": "humandesign",
     "name": "Human Design"
   },
+    {
+    "id": "humangarage",
+    "name": "Human Garage"
+  },
   {
     "id": "kinetoterapie",
     "name": "Kinetoterapie"
@@ -90,6 +98,10 @@
   {
     "id": "muzica",
     "name": "Muzica"
+  },
+    {
+    "id": "neuroptimal",
+    "name": "NeurOptimal"
   },
   {
     "id": "numerologie",
