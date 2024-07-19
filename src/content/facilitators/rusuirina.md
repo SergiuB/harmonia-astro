@@ -10,8 +10,7 @@ services: [
       summary: "Masaj : Întregul corp",
       description:
         [ 
-        "Este un tip de masaj blând și constant care eliberează tensiunea durerea din țesuturile miofasciale - mușchii
-țesutul conjunctiv îi înconjoară. O terapie complexă, individualizată în funcție necesitățile fiecărui corp.",
+        "Este un tip de masaj blând și constant care eliberează tensiunea și durerea din țesuturile miofasciale - mușchii care sunt înconjurați de țesutul conjunctiv. O terapie complexă, individualizată în funcție necesitățile fiecărui corp.",
         "Beneficii: Îmbunătățește amplitudinea de mișcare, Reduce durerea, eficiență terapeutică sporită, Stimulează procesul natural de recuperare a corpului, Ajută la relaxarea generală, Îmbunătățește circulația, Eliberează stresul",
         ],
       isGroup: true,
