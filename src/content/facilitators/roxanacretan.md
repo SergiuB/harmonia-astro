@@ -1,5 +1,5 @@
 ---
-name: "Roxana Cretan"
+name: "Roxana Nechifor Cretan"
 featuredIndex: 19
 images: ["./images/roxanacretan/roxanacretan.JPG"]
 tags: ["Terapeut", "Bach"]
