@@ -25,7 +25,7 @@ services: [
         ],
       isGroup: true,
       price: "300lei",
-      duration: "60min",
+      duration: "75min",
       reserveLink: "https://wa.link/3fvz0a",
     },
   ]
@@ -54,7 +54,7 @@ Specializări:
 
 -Masaj: Ofer sesiuni de masaj terapeutic pentru a ajuta la relaxare și ameliorarea disconfortului fizic.
 
--Medicina Shamanică: Am urmat cursuri de medicină shamanică la Școala Roata Medicinei, aplicând aceste cunoștințe în ședințe de vindecare și ceremonii sacre.
+-Medicina Șamanică: Am urmat cursuri de medicină shamanică la Școala Roata Medicinei, aplicând aceste cunoștințe în ședințe de vindecare și ceremonii sacre.
 
 -Respirație Dinamică (breathwork): Facilitez sesiuni de respirație dinamică atât individuale, cât și de grup, pentru a elibera blocajele energetice și emoționale.
 
