@@ -13,7 +13,7 @@ services: [
           "Ședințele de vindecare șamanică sunt sesiuni individuale în care clientul este condus într-un Spațiu Sacru, iar șamanul servește ca intermediar între Suflet și forțele cosmice care guvernează viața.",
           "Uneori, o ceremonie sau o schimbare de perspectivă este suficientă pentru ca persoana să-și regăsească resursele interioare pentru vindecare. Alteori, șamanul folosește tehnici speciale pentru a elibera Corpul de Lumină de energiile grele acumulate.",
           "Clientul este ghidat cu grijă și respect, și sprijinit în integrarea noii energii în procesul de terapie.",
-          "Fiecare sesiune durează 60 de minute, și, în funcție de necesități, poate fi recomandat un ciclu de ședințe.",
+          "Fiecare sesiune durează 75 de minute, și, în funcție de necesități, poate fi recomandat un ciclu de ședințe.",
           "Beneficiile acestor terapii sunt variate: de la eliminarea blocajelor și disfuncțiilor fizice, la energizarea și armonizarea câmpului energetic subtil, clarificarea minții, și reconectarea cu Sufletul.",
           "Când este necesară o terapie energetică?",
           "- Când resimțim disconfort fizic, depresie, confuzie, anxietate
