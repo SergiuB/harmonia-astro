@@ -1,6 +1,6 @@
 ---
 name: "Andreea-Valentina Ganea"
-featuredIndex: 6
+featuredIndex: 5
 images: ["./images/andreeavalentina/andreeavalentina.jpg"]
 tags: ["Medicina Energetică", "Dans și poezie"]
 activities: ["masaj", "terapii-shamanice", "alte-servicii", "breathwork", "Dans"]
