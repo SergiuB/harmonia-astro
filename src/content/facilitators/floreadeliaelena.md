@@ -2,9 +2,9 @@
 name: "Delia Florea"
 featuredIndex: 2
 images: ["./images/deliaflorea/delia.jpg"]
-tags: ["terapeut", "medicină alternativă"]
+tags: ["terapeut", "medicină alternativă", "aromaterapie"]
 activities:
-  ["masaj", "aromaterapie", "access-bars", "alte-servicii", "scanare-zyto"]
+  ["masaj", "aromaterapie", "access-bars", "alte-servicii", "scanare-zyto", "terapii-shamanice]
 services:
   [
     {
@@ -71,6 +71,29 @@ services:
       price: "880lei",
       duration: "120min",
       reserveLink: "https://wa.link/v1ic5g",
+    },
+      {
+      name: "Harmonic Pamper",
+      summary: "Masaj Holistic : Dedicat Cuplurilor",
+      description:
+        [
+          "Harmonic Pamper este o terapie completă de răsfăț, concepută pentru a oferi relaxare totală și îngrijire blândă printr-o combinație de tehnici de vindecare și îngrijire holistică. Perfect pentru doamne și domnișoare, acest pachet poate fi, de asemenea, un cadou ideal pentru o femeie dragă din viața ta.",
+          "Servicii Incluse:",
+          "1. Scanare Zyto: Începem cu o scanare Zyto pentru a evalua starea generală de sănătate și a identifica nevoile energetice și fizice ale corpului tău.",
+          "2. Scrub cu Săpun Marocan sau Dry Brushing: Alege între un scrub revitalizant cu săpun marocan sau o exfoliere blândă cu periaj uscat pentru a stimula circulația și a îndepărta celulele moarte ale pielii.",
+          "3. Ear Candling: Oferă-ți o experiență de relaxare profundă și curățare a urechilor prin această tehnică tradițională, ajutând la reducerea stresului și îmbunătățirea clarității mentale.",
+          "4. Simfonia Celulelor: O terapie aromatică și de masaj, care utilizează uleiuri esențiale aplicate strategic pentru a echilibra și armoniza corpul la nivel celular.",
+          "5. Harmonic Fusion: Încheiem cu o sesiune de masaj Harmonic Fusion, combinând diverse tehnici din diferite culturi pentru a aduce un echilibru complet și o stare de bine totală.",
+          "Beneficiile Harmonic Pamper:",
+          "-Relaxare profundă și reducerea stresului",
+          "-Îmbunătățirea circulației și a sănătății pielii",
+          "-Claritate mentală și echilibru energetic",
+          "-Răsfăț și îngrijire completă pentru minte, corp și suflet",
+          "-Conectare cu energia feminină și iubire de sine",
+        ],
+      price: "899lei / 980lei",
+      duration: "3h 30min / 4h 30min",
+      reserveLink: "https://app.simplymeet.me/deliaheals",
     },
     {
       name: "Aromaterapie",
@@ -141,7 +164,7 @@ services:
           "Începem ceremonia cu o conversație deschisă, unde vom explora împreună provocările și blocajele cu care te confrunți. Această etapă este esențială pentru a seta o intenție clară și puternică, pregătindu-te pentru efectele vindecătoare ale amestecului sacru de plante medicinale și tutun.",
           "2. Ceremonia cu Amestecul Sacru (30 minute):",
           "În cadrul ceremoniei, amestecul sacru de plante medicinale și tutun, utilizat de șamanii indigeni din Amazon, va fi aplicat cu respect și grijă. Această practică ajută la eliberarea energiilor negative, purificarea minții și a corpului, și la aducerea unei clarități mentale și echilibrului energetic.",
-          "Integrare (15 minute):",
+          "3. Integrare (15 minute):",
           "Ultima parte a ceremoniei este dedicată integrării experienței. Vom discuta despre sentimentele și percepțiile tale, asigurându-ne că noile energii și înțelegeri sunt bine ancorate în ființa ta. Vei primi ghidare și suport pentru a integra beneficiile ceremoniei în viața ta de zi cu zi.",
           "Beneficiile Grounding Ceremony:",
           "-Eliberarea tensiunilor și blocajelor energetice/emotionale.",
@@ -185,7 +208,7 @@ services:
           "QiNeiZang - Paul foloseste o tehnică de masaj profundă, care se concentrează pe organele interne. Acest tratament ajută la detoxifierea organismului, îmbunătățirea funcționării organelor și eliberarea blocajelor energetice.",
           "Ventuze - Terapia cu ventuze stimulează circulația sângelui și a energiei, ajutând la reducerea durerilor și a tensiunilor musculare. Paul folosește această metodă tradițională pentru a îmbunătăți starea generală de sănătate și bunăstare.",
           "Harmonic Reborn - Tibi oferă un masaj holistic complet si complex ce integrează diverse tehnici pentru a aduce relaxare profundă și revitalizare. Harmonic Reborn este conceput pentru a echilibra corpul, mintea și spiritul, oferind o experiență de vindecare completă.",
-          "Harmonic Spa - Delia combină Gua Sha, masajul capului și EarCandling pentru a crea o sesiune armonizare. Aceste tehnici tradiționale ajută la eliberarea tensiunilor, stimularea circulației și detoxifierea organismului.",
+          "Harmonic Spa - Delia combină Gua Sha, masajul capilar, EarCandling și, la alegere intre Dry Brushing sau Maroccan Scrub pentru a crea o sesiune armonioasa. Aceste tehnici tradiționale ajută la eliberarea tensiunilor, stimularea circulației și detoxifierea organismului.",
           "Simfonia Celulelor - Delia folosește uleiuri esențiale Doterra pentru a aplica această tehnică care este un tratament ce îmbunătățește sănătatea celulară și echilibrul energetic. Această terapie aduce beneficii profunde pentru sănătatea fizică și emoțională.",
           "Rezervă-ți acum locul pentru a experimenta o transformare holistică unică și profundă.",
           "Contactează-ne pentru a afla mai multe detalii și pentru a face o programare. Vindecarea ta completă este la un pas distanță!",
