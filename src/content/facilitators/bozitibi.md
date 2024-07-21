@@ -118,7 +118,7 @@ services: [
           "Începem ceremonia cu o conversație deschisă, unde vom explora împreună provocările și blocajele cu care te confrunți. Această etapă este esențială pentru a seta o intenție clară și puternică, pregătindu-te pentru efectele vindecătoare ale amestecului sacru de plante medicinale și tutun.",
           "2. Ceremonia cu Amestecul Sacru (30 minute):",
           "În cadrul ceremoniei, amestecul sacru de plante medicinale și tutun, utilizat de șamanii indigeni din Amazon, va fi aplicat cu respect și grijă. Această practică ajută la eliberarea energiilor negative, purificarea minții și a corpului, și la aducerea unei clarități mentale și echilibrului energetic.",
-          "Integrare (15 minute):",
+          "3. Integrare (15 minute):",
           "Ultima parte a ceremoniei este dedicată integrării experienței. Vom discuta despre sentimentele și percepțiile tale, asigurându-ne că noile energii și înțelegeri sunt bine ancorate în ființa ta. Vei primi ghidare și suport pentru a integra beneficiile ceremoniei în viața ta de zi cu zi.",
           "Beneficiile Grounding Ceremony:",
           "-Eliberarea tensiunilor și blocajelor energetice/emotionale.",
