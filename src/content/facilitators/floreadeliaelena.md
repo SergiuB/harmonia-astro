@@ -70,7 +70,7 @@ services:
           "-Răsfăț și îngrijire completă pentru minte, corp și suflet",
           "-Conectare cu energia feminină și iubire de sine",
         ],
-      price: "899lei / 980lei",
+      price: "899lei/980lei",
       duration: "210min / 270min",
       reserveLink: "https://app.simplymeet.me/deliaheals",
     },
