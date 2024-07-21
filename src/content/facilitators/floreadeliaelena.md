@@ -4,7 +4,7 @@ featuredIndex: 2
 images: ["./images/deliaflorea/delia.jpg"]
 tags: ["terapeut", "medicină alternativă", "aromaterapie"]
 activities:
-  ["masaj", "aromaterapie", "access-bars", "alte-servicii", "scanare-zyto", "terapii-shamanice]
+  ["masaj", "aromaterapie", "access-bars", "alte-servicii", "scanare-zyto", "terapii-shamanice"]
 services:
   [
     {
