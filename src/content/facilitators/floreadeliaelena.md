@@ -71,7 +71,7 @@ services:
           "-Conectare cu energia feminină și iubire de sine",
         ],
       price: "899lei / 980lei",
-      duration: "3h 30min / 4h 30min",
+      duration: "210min / 270min",
       reserveLink: "https://app.simplymeet.me/deliaheals",
     },
     {
