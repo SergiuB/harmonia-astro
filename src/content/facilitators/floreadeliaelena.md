@@ -51,28 +51,7 @@ services:
       duration: "60min/120min",
       reserveLink: "https://app.simplymeet.me/deliaheals",
     },
-    {
-      name: "Harmonic Union",
-      summary: "Masaj Holistic : Dedicat Cuplurilor",
-      description:
-        [
-          "Descoperiți Echilibrul Energiilor Masculine și Feminine în Cuplu",
-          "Oferit de către doi terapeuți remarcabili: Tiberiu și Delia care vă prezintă Harmonic Union, pachetul de masaj pentru cupluri, creat special pentru a aduce armonie și echilibru între masculin și feminin.",
-          "Harmonic Union este o experiență transformatoare ce oferă masaj simultan pentru ambii parteneri, într-o atmosferă de relaxare profundă și conexiune.",
-          "Tiberiu, cu energia sa aparte și pasiunea pentru vindecare, va lucra pentru a relaxa și revitaliza corpul bărbatului. Abordarea sa holistică asigură echilibrul și armonizarea tuturor sistemelor din corp.",
-          "Delia, cunoscută pentru sensibilitatea și dedicarea sa, va oferi femeii un masaj complet și complex, concentrându-se pe echilibrul energetic și eliberarea tensiunilor acumulate.",
-          "Beneficiile Pachetului Harmonic Union",
-          "Echilibrarea Energiei Masculine și Feminine - Acest pachet este ideal pentru cuplurile care doresc să își echilibreze energiile yin și yang, promovând o conexiune mai profundă și armonioasă între parteneri.",
-          "Armonizarea Corpului, Minții și Sufletului - Masajele sunt concepute pentru a aduce echilibru și armonie în toate aspectele ființei voastre, oferind o experiență de vindecare holistică și completă.",
-          "Transformare și Conexiune Profundă - Tratamentele oferite de Tiberiu și Delia sunt nu doar masaje, ci experiențe de transformare care vă vor ajuta să vă conectați mai profund unul cu celălalt și să vă vindecați la nivel fizic, emoțional și spiritual.",
-          "Rezervă-ți acum locul pentru a experimenta această sesiune unică de echilibrare și armonizare a energiilor în cuplu.",
-          "Contactează-ne pentru a afla mai multe detalii și pentru a face o programare. Vindecarea și conexiunea profundă în cuplu sunt la un pas distanță!",
-        ],
-      price: "880lei",
-      duration: "120min",
-      reserveLink: "https://wa.link/v1ic5g",
-    },
-      {
+        {
       name: "Harmonic Pamper",
       summary: "Masaj Holistic : Dedicat Cuplurilor",
       description:
@@ -94,6 +73,27 @@ services:
       price: "899lei / 980lei",
       duration: "3h 30min / 4h 30min",
       reserveLink: "https://app.simplymeet.me/deliaheals",
+    },
+    {
+      name: "Harmonic Union",
+      summary: "Masaj Holistic : Dedicat Cuplurilor",
+      description:
+        [
+          "Descoperiți Echilibrul Energiilor Masculine și Feminine în Cuplu",
+          "Oferit de către doi terapeuți remarcabili: Tiberiu și Delia care vă prezintă Harmonic Union, pachetul de masaj pentru cupluri, creat special pentru a aduce armonie și echilibru între masculin și feminin.",
+          "Harmonic Union este o experiență transformatoare ce oferă masaj simultan pentru ambii parteneri, într-o atmosferă de relaxare profundă și conexiune.",
+          "Tiberiu, cu energia sa aparte și pasiunea pentru vindecare, va lucra pentru a relaxa și revitaliza corpul bărbatului. Abordarea sa holistică asigură echilibrul și armonizarea tuturor sistemelor din corp.",
+          "Delia, cunoscută pentru sensibilitatea și dedicarea sa, va oferi femeii un masaj complet și complex, concentrându-se pe echilibrul energetic și eliberarea tensiunilor acumulate.",
+          "Beneficiile Pachetului Harmonic Union",
+          "Echilibrarea Energiei Masculine și Feminine - Acest pachet este ideal pentru cuplurile care doresc să își echilibreze energiile yin și yang, promovând o conexiune mai profundă și armonioasă între parteneri.",
+          "Armonizarea Corpului, Minții și Sufletului - Masajele sunt concepute pentru a aduce echilibru și armonie în toate aspectele ființei voastre, oferind o experiență de vindecare holistică și completă.",
+          "Transformare și Conexiune Profundă - Tratamentele oferite de Tiberiu și Delia sunt nu doar masaje, ci experiențe de transformare care vă vor ajuta să vă conectați mai profund unul cu celălalt și să vă vindecați la nivel fizic, emoțional și spiritual.",
+          "Rezervă-ți acum locul pentru a experimenta această sesiune unică de echilibrare și armonizare a energiilor în cuplu.",
+          "Contactează-ne pentru a afla mai multe detalii și pentru a face o programare. Vindecarea și conexiunea profundă în cuplu sunt la un pas distanță!",
+        ],
+      price: "880lei",
+      duration: "120min",
+      reserveLink: "https://wa.link/v1ic5g",
     },
     {
       name: "Aromaterapie",
@@ -176,7 +176,7 @@ services:
         ],
       price: "300lei",
       duration: "75min",
-      reserveLink: "https://wa.link/v1ic5g",
+      reserveLink: "https://app.simplymeet.me/deliaheals",
     },
     {
       name: "5 Stars TERRApy",
