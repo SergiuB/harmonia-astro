@@ -88,7 +88,7 @@ services: [
         ],
       price: "880lei",
       duration: "120min",
-      reserveLink: "https://wa.link/b4f3ug",
+      reserveLink: "https://app.simplymeet.me/harmoniaoptima",
     },
     {
       name: "Holistic Life Coach",
