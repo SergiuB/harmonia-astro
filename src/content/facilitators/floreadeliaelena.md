@@ -53,7 +53,7 @@ services:
     },
         {
       name: "Harmonic Pamper",
-      summary: "Masaj Holistic : Dedicat Cuplurilor",
+      summary: "Răsfăț : Întregul corp",
       description:
         [
           "Harmonic Pamper este o terapie completă de răsfăț, concepută pentru a oferi relaxare totală și îngrijire blândă printr-o combinație de tehnici de vindecare și îngrijire holistică. Perfect pentru doamne și domnișoare, acest pachet poate fi, de asemenea, un cadou ideal pentru o femeie dragă din viața ta.",
@@ -93,7 +93,7 @@ services:
         ],
       price: "880lei",
       duration: "120min",
-      reserveLink: "https://wa.link/v1ic5g",
+      reserveLink: "https://app.simplymeet.me/deliaheals",
     },
     {
       name: "Aromaterapie",
