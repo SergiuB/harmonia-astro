@@ -75,6 +75,10 @@
     "id": "humangarage",
     "name": "Human Garage"
   },
+    {
+    "id": "innerdance",
+    "name": "innerdance"
+  },
   {
     "id": "kinetoterapie",
     "name": "Kinetoterapie"
@@ -202,6 +206,10 @@
   {
     "id": "group-humandesign",
     "name": "Human Design"
+  },
+   {
+    "id": "group-innerdance",
+    "name": "group-innerdance"
   },
   {
     "id": "group-meditatii-ghidate",
