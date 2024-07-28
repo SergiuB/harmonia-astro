@@ -23,7 +23,7 @@ services:
     },
     {
       name: "Harmonic Fusion",
-      summary: "Masaj : Întregul corp",
+      summary: "Masaj dedicat femeilor : Întregul corp",
       description:
         [
           "Având o abordare holistică, Harmonic Fusion integrează tehnicile de întindere specifice masajului thailandez, precizia shiatsu, intensitatea terapiei deep tissue, fluiditatea masajului suedez, alături de tehnici somatice și limfatice. Reflexologia picioarelor și  masajul capilar pot completa acest spectru, asigurând un echilibru între corp și minte. Acest masaj exclusivist este o artă a atingerii ce combină metode tradiționale și moderne pentru a crea o experiență profund personalizată. Utilizând o selecție rafinată de uleiuri esențiale, terapia noastră este adaptată nevoilor dumneavoastră unice, oferind o evadare perfectă din stresul cotidian.",
@@ -36,7 +36,7 @@ services:
     },
     {
       name: "Harmonic Spa",
-      summary: "Masaj : Întregul corp",
+      summary: "Masaj dedicat femeilor : Întregul corp",
       description:
         [
           'Intră într-un univers de liniște serenă și rejuvenare cu ajutor-ul terapiei  "Călătoria Spa - Armonie". Îmbibă-te într-o oază holistică unde tradițiile de vindecare străvechi se întâlnesc cu tehnici moderne de wellness pentru a-ți alina corpul, mintea și spiritul.',
@@ -53,7 +53,7 @@ services:
     },
         {
       name: "Harmonic Pamper",
-      summary: "Răsfăț : Întregul corp",
+      summary: "Răsfăț dedicat femeilor : Întregul corp",
       description:
         [
           "Harmonic Pamper este o terapie completă de răsfăț, concepută pentru a oferi relaxare totală și îngrijire blândă printr-o combinație de tehnici de vindecare și îngrijire holistică. Perfect pentru doamne și domnișoare, acest pachet poate fi, de asemenea, un cadou ideal pentru o femeie dragă din viața ta.",
