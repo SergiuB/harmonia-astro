@@ -28,7 +28,7 @@ services: [
           "Acest proces modelează ciclul de somn. Astfel, după ședințe, poți avea vise mai vii și mai multe, care îți dezvăluie anumite aspecte ce erau anterior neclare.",
           "În timpul ședinței, te întinzi și asculți o călătorie ghidată prin sunet.",
           "Procesul poate fi asistat cu tehnici corporale pentru a activa anumite zone ale creierului.",
-          "*A se lua la cunoștință faptul că sesiunile pe care le facilitez sunt ghidate în limba engleză."s
+          "*A se lua la cunoștință faptul că sesiunile pe care le facilitez sunt ghidate în limba engleză."
         ],
       isGroup: true,
       price: "300 Ron",
