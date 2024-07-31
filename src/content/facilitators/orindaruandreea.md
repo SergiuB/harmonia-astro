@@ -1,5 +1,5 @@
 ---
-name: "Andreea Orîndariu"
+name: "Andreea Orîndaru"
 featuredIndex: 10
 images: ["./images/orindariuandreea/AndreeaO.jpg"]
 tags: ["Coach", "Trainer"]
@@ -33,7 +33,7 @@ services: [
   ]
 location: "Online" #optional
 contact: {
-    email: "andreea.orindaru@gmail.com", #optional
+    email: "salut@andreeaorindaru.ro", #optional
     phone: "0721326957",
     instagram: "https://www.instagram.com/andreea_orindaru", #optional
     whatsapp: "https://wa.link/c11on6", #optional
