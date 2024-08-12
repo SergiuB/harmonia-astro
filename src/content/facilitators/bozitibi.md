@@ -91,7 +91,7 @@ services: [
       reserveLink: "https://app.simplymeet.me/harmoniaoptima",
     },
         {
-      name: "Abonament Harmonic Reborn,
+      name: "Abonament Harmonic Reborn",
       summary: "Pachet Masaj Holistic : 6 Sesiuni",
       description:
         [
