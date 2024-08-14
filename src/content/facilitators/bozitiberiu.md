@@ -96,15 +96,14 @@ services: [
       description:
         [
           "Detalii Abonament:",
-          "- Număr de Ședințe: 6 ședințe de Masaj Holistic - Harmonic Reborn",
+          "- Număr sesiuni: 6 sesiuni de Masaj Holistic - Harmonic Reborn",
           "- Reducere: Beneficiați de 20% reducere din prețul total al pachetului, ceea ce aduce prețul final la 2.640 lei (în loc de 3.300 lei).",
           "- Ore Disponibile: Programările pot fi făcute exclusiv în sloturile de dimineață (10:30) sau după-amiază (14:30). Sloturile de seară (18:30) nu sunt disponibile în cadrul acestui abonament.",
           "- Frecvența Programărilor: Puteți alege să participați la ședințe săptămânal, la două săptămâni, la trei săptămâni sau lunar, în funcție de preferințele și nevoile dumneavoastră.",
           "- Valabilitate: Abonamentul este valabil timp de 6 luni de la data achiziției",
-          "- Plata: Puteti opta pentru suma totală a abonamentului (2.640 lei) care va fi achitată integral înainte de prima programare. De altfel, puteți opta pentru plata în două tranșe egale: 50% din sumă (1.320 lei) înainte de prima programare și restul de 50% înainte de a patra ședință.",
+          "- Plata: Suma totală a abonamentului (2.640 lei) va fi achitată integral înainte de prima programare.",
           "Beneficiile Abonamentului:",
-          "Alegeți Abonamentul Harmonic Reborn pentru a vă bucura de experiențe unice, cu un preț redus și o flexibilitate adaptată nevoilor dumneavoastră. Acest abonament vă permite să experimentați masajul holistic într-un cadru liniștit și exclusiv, oferindu-vă posibilitatea de a atinge echilibrul perfect între trup, minte și suflet.",
-          "Rezervă-ți acum locul pentru a experimenta această sesiune unică de echilibrare și armonizare a energiilor în cuplu.",
+          "Alegeți Abonamentul Harmonic Reborn pentru a vă bucura de sesiuni unice, cu un preț redus și o flexibilitate adaptată nevoilor dumneavoastră. Acest abonament vă permite să experimentați masajul holistic într-un cadru liniștit și exclusiv, oferindu-vă posibilitatea de a atinge echilibrul perfect între trup, minte și suflet.",
           "Contactează-mă acum pentru a afla mai multe detalii și pentru a achizitiona acest abonament avantajos.",
         ],
       price: "2640lei",
