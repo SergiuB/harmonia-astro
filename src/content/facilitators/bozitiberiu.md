@@ -121,7 +121,7 @@ services: [
         [
           "Detalii Abonament:",
           "- Număr sesiuni: 6 sesiuni de Masaj Holistic - Harmonic Reborn",
-          "- Reducere: Beneficiați de 20% discount din prețul total al pachetului, ceea ce aduce prețul final la 2.640 lei (în loc de 3.300 lei).",
+          "- Reducere: Beneficiați de 20% discount din prețul total al serviciilor, ceea ce aduce prețul final la 2.640 lei ( în loc de 3.300 lei).",
           "- Frecvența Programărilor: Puteți alege să participați la ședințe săptămânal, la două săptămâni, la trei săptămâni sau lunar, în funcție de preferințele și nevoile dumneavoastră.",
           "- Valabilitate: Abonamentul este valabil timp de 6 luni de la data achiziției",
           "- Ore Disponibile: Programările pot fi făcute exclusiv în sloturile de dimineață (10:30) sau după-amiază (14:30). Sloturile de seară (18:30) nu sunt disponibile în cadrul acestui abonament.",
