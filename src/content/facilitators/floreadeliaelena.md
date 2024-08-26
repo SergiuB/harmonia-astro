@@ -74,6 +74,30 @@ services:
       duration: "210min / 270min",
       reserveLink: "https://app.simplymeet.me/deliaheals",
     },
+        {
+      name: "Harmonic²",
+      summary: "Masaj la 4 mâini : Întregul corp",
+      description:
+        [
+          "Experimentează Armonia Supremă cu Harmonic²",
+          "Dacă ai avut plăcerea de a experimenta masajele inovative oferite de Tiberiu și Delia, Harmonic² îți va aduce o nouă dimensiune de relaxare și echilibru interior. Dacă nu ai avut încă ocazia să descoperi serviciile lor, îți vom dezvălui ce face acest masaj la patru mâini atât de special.
+",
+          "Despre Terapeuții Noștri:",
+          "Tiberiu este creatorul unor servicii holistice unice precum (E) Motion Somatic Release și  Harmonic Reborn. Aceste terapii îmbină tehnici variate și metode inovatoare pentru a aduce armonie pe plan fizic, psiho-emoțional și spiritual. În sesiunea de Harmonic², Tiberiu se concentrează pe eliberările somatice, pătrunzând adânc în straturile emoționale și tensionate ale corpului, pentru a elimina stresul și a restabili echilibrul interior.",
+          "Delia, cu o experiență vastă în terapiile alternative, a început călătoria ei acum mai bine de 7 ani la renumita Școală de Masaj Tradițional Thailandez Loi Kroh din Chiang Mai. Aici a absolvit un program intensiv, devenind practicant de masaj thailandez. Fascinată de proprietățile uleiurilor esențiale, Delia și-a aprofundat cunoștințele în aromaterapie și a dezvoltat abilități deosebite în oferirea de tratamente care promovează starea de bine și relaxarea profundă. Astăzi, Delia combină diverse tehnici și instrumente pentru a aduce echilibru și armonie întregului organism uman.",
+          "Ce Este Harmonic²?",
+          "Harmonic² este o experiență deosebită de masaj în care Tiberiu și Delia colaborează perfect pentru a oferi o sesiune de 100 de minute cu tehnici din gama Harmonic Reborn și Harmonic Fusion.",
+          "Caracteristicile Unice ale Masajului la Patru Mâini:",
+          "Acoperire Sincronizată: Tiberiu și Delia lucrează simultan pentru a asigura o acoperire completă și uniformă a întregului corp.",
+          "Mișcări Coordinate: Prin mișcări sincronizate, terapeuții amplifică senzațiile de relaxare și stimulare, oferindu-ți o experiență multidimensională.",
+          "Stimularea Sistemului Nervos: Contribuie la relaxarea mentală și îmbunătățirea stării de spirit.",
+          "Permite-ți să descoperi Harmonic², un masaj care reflectă expertiza și dedicarea lui Tiberiu și Delia, și transformă-ți starea de bine într-o experiență holistică desăvârșită.",
+          "Rezervă acum și lasă-te răsfățat de armonia perfectă a masajului la patru mâini!",
+        ],
+      price: "819lei",
+      duration: "100min",
+      reserveLink: "https://app.simplymeet.me/deliaheals",
+    },
     {
       name: "Harmonic Union",
       summary: "Masaj Holistic : Dedicat Cuplurilor",
