@@ -116,18 +116,18 @@ services: [
     },
         {
       name: "Abonament Harmonic Reborn",
-      summary: "Pachet Masaj Holistic : 6 Sesiuni",
+      summary: "Pachet : 6 Sesiuni : Locuri limitate",
       description:
         [
           "Detalii Abonament:",
           "- Număr sesiuni: 6 sesiuni de Masaj Holistic - Harmonic Reborn",
-          "- Reducere: Beneficiați de 20% reducere din prețul total al pachetului, ceea ce aduce prețul final la 2.640 lei (în loc de 3.300 lei).",
-          "- Ore Disponibile: Programările pot fi făcute exclusiv în sloturile de dimineață (10:30) sau după-amiază (14:30). Sloturile de seară (18:30) nu sunt disponibile în cadrul acestui abonament.",
+          "- Reducere: Beneficiați de 20% discount din prețul total al pachetului, ceea ce aduce prețul final la 2.640 lei (în loc de 3.300 lei).",
           "- Frecvența Programărilor: Puteți alege să participați la ședințe săptămânal, la două săptămâni, la trei săptămâni sau lunar, în funcție de preferințele și nevoile dumneavoastră.",
           "- Valabilitate: Abonamentul este valabil timp de 6 luni de la data achiziției",
+          "- Ore Disponibile: Programările pot fi făcute exclusiv în sloturile de dimineață (10:30) sau după-amiază (14:30). Sloturile de seară (18:30) nu sunt disponibile în cadrul acestui abonament.",
           "- Plata: Suma totală a abonamentului (2.640 lei) va fi achitată integral înainte de prima programare.",
-          "Beneficiile Abonamentului:",
           "Alegeți Abonamentul Harmonic Reborn pentru a vă bucura de sesiuni unice, cu un preț redus și o flexibilitate adaptată nevoilor dumneavoastră. Acest abonament vă permite să experimentați masajul holistic într-un cadru liniștit și exclusiv, oferindu-vă posibilitatea de a atinge echilibrul perfect între trup, minte și suflet.",
+          "Locuri Limitate: În fiecare lună, sunt disponibile doar 3 abonamente Harmonic Reborn, așa că vă recomandăm să rezervați locul cât mai curând posibil pentru a beneficia de această ofertă exclusivă. Numărul limitat de abonamente asigură o experiență personalizată și dedicată fiecărui client, într-un cadru intim și relaxant.",
           "Contactează-mă acum pentru a afla mai multe detalii și pentru a achizitiona acest abonament avantajos.",
         ],
       price: "2640lei",
