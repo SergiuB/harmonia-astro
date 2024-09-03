@@ -127,4 +127,12 @@ contact: {
   }
 ---
 
-Persoana dinamica, deschisa spre nou, pasionata de arte si terapii, sociabila.
+Te salut! Eu sunt Bogdan, om pasionat de muzică, sport, nutriție, yoga, masaj, terapii alternative și cam tot ce are legătură cu un stil de viață sănătos printr-o abordare conștientă. Viața mi-a deschis noi orizonturi la 16 ani, când am auzit pentru prima dată de spiritualitate și tot atunci mi-am început călătoria spre autocunoaștere.
+
+După aproape 10 ani în care am activat în domeniul IT, am hotărât să mă dedic în totalitate domeniului holistic.
+
+Sunt terapeut masseur acreditat din 2020, dar căutările și studiul diferitelor tipuri de terapii alternative au început cu mult timp înainte. 
+
+Ca stiluri, abordez masajul: de relaxare, terapeutic, deep tissue, reflexogen, thai, lomi-lomi, iar în timpul terapiilor folosesc elemente din masajul energetic, presopunctură, tantra, tao, cupping, aromaterapie și soundhealing.
+
+Masajul a deschis pentru mine o lume fascinantă, în care prin combinarea tehnicii și a atingerii conștiente intuitive, comunicarea minte-corp-suflet ajunge la nivel de artă.
