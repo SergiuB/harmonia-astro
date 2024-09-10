@@ -110,7 +110,7 @@ services: [
           "Rezervă-ți acum locul pentru a experimenta această sesiune unică de echilibrare și armonizare a energiilor în cuplu.",
           "Contactează-ne pentru a afla mai multe detalii și pentru a face o programare. Vindecarea și conexiunea profundă în cuplu sunt la un pas distanță!",
         ],
-      price: "881lei",
+      price: "890lei",
       duration: "120min",
       reserveLink: "https://app.simplymeet.me/harmoniaoptima",
     },
