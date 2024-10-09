@@ -17,8 +17,8 @@ auto-vindecare); - îmbunătățește vederea; - îmbunătățește funcționare
           "O denumesc terapie pentru relații deoarece susțin conexiunile armonioase dintre oameni prin acest masaj. Indiferent dacă te afli sau nu într-o relație, relaxarea corpului este punctul de pornire spre atingerea relațiilor armonioase cu toți oamenii din viața ta.",
         ],
       isGroup: true,
-      price: "150lei",
-      duration: "90min",
+      price: "220lei",
+      duration: "60min",
       reserveLink: "https://wa.link/h6vb4s",
     },
  {
@@ -34,8 +34,8 @@ auto-vindecare); - îmbunătățește vederea; - îmbunătățește funcționare
           "Pe partea de relații susțin: - atingerea unor subiecte care țin de conștientizarea rănilor noastre moștenite prin ADN; - asumarea celui mai important Dar din profilul cheilor genelor care are legătură cu zona ombilicului, centrul puterii emoționale; - înțelegerea vocației și activarea Darului vocației în corp (prin coloana vertebrală); - parcurgerea Căii karmice, Căii Inteligenței și Căii iubirii.",
         ],
       isGroup: true,
-      price: "300lei",
-      duration: "4 x 90min",
+      price: "200lei",
+      duration: "60min",
       reserveLink: "https://wa.link/h6vb4s",
     },
      {
@@ -52,8 +52,8 @@ auto-vindecare); - îmbunătățește vederea; - îmbunătățește funcționare
           "Inițierea în sistemele Human Design și Cheile Genelor: strategie și autoritate, secvența de activare, secvența Venus.",
         ],
       isGroup: true,
-      price: "50lei",
-      duration: "90min",
+      price: "200lei",
+      duration: "60min",
       reserveLink: "https://wa.link/h6vb4s",
     },
     {
