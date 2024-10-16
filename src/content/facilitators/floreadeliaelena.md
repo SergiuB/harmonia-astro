@@ -218,7 +218,7 @@ services:
         ],
       price: "999lei",
       duration: "5ore",
-      reserveLink: "https://wa.link/v1ic5g",
+      reserveLink: "https://wa.link/hc8cvw",
     },
     {
       name: "7 Stars TERRApy",
@@ -239,7 +239,7 @@ services:
         ],
       price: "1240lei",
       duration: "7ore",
-      reserveLink: "https://wa.link/v1ic5g",
+      reserveLink: "https://wa.link/hc8cvw",
     },
     {
       name: "Harmonic GIFT Card",
@@ -261,14 +261,14 @@ services:
         ],
       price: " 250lei -> 1240lei",
       duration: "30min -> 7ore",
-      reserveLink: "https://wa.link/v1ic5g",
+      reserveLink: "https://wa.link/hc8cvw",
     },
   ]
 location: "Harmonia Terra, Bucuresti" #optional
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
 contact: {
     email: "delixirelia@gmail.com", #optional
-    phone: "0765765455",
+    phone: "0745255365",
     whatsapp: "https://wa.link/pvs0d2", #optional
     instagram: "https://www.instagram.com/delia.heals", #optional
   }
