@@ -1,6 +1,6 @@
 ---
 name: "Samira Sarah Natour"
-featuredIndex: 5
+featuredIndex: 6
 images: ["./images/samirah/_KW_8785 - Sarah Samira Natour.jpg"]
 tags: ["Sound Practitioner", "Terapie Vibrațională"]
 activities: ["arta", "alte-servicii", "alte-servicii", "sound-healing", "group-alteservicii", "group-sound-healing", "group-terapie-prin-arta"]
@@ -80,7 +80,7 @@ locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
 contact: {
     email: "samira.natour@gmail.com", #optional
     phone: "0742324954",
-    instagram: "www.instagram.com/semintecosmicedesunet",
+    instagram: "https://www.instagram.com/semintecosmicedesunet/",
     facebook: "https://www.facebook.com/cosmicseedsofsound/",
     website: "www.sunetecosmice.com", #optional
   }
