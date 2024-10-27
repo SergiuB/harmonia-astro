@@ -31,7 +31,7 @@ services:
         ],
       isGroup: true,
       price: "250lei/500lei",
-      duration: "60min/135min",
+      duration: "60min/120min",
       reserveLink: "https://app.simplymeet.me/deliaheals",
     },
     {
