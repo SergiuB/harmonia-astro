@@ -35,7 +35,7 @@ auto-vindecare); - îmbunătățește vederea; - îmbunătățește funcționare
         ],
       isGroup: true,
       price: "200lei",
-      duration: "60min",
+      duration: "60 min",
       reserveLink: "https://wa.link/h6vb4s",
     },
      {
@@ -53,7 +53,7 @@ auto-vindecare); - îmbunătățește vederea; - îmbunătățește funcționare
         ],
       isGroup: true,
       price: "200lei",
-      duration: "60min",
+      duration: "3 ore",
       reserveLink: "https://wa.link/h6vb4s",
     },
     {
