@@ -153,6 +153,23 @@ services: [
       duration: "6 x 135min",
       reserveLink: "https://wa.link/b4f3ug",
     },
+      {
+      name: "Holistic Life Coach",
+      summary: "Coaching : Personalizat",
+      image: "./images/tibibozi/DSC01825.jpg", #optional
+      description:
+        [
+          'Cu un stil "down-to-earth" ancorat în realitate, mă identific ca fiind un echilibru ingenios între Intuitive coaching și Holistic coaching.',
+          "Intuitive coaching urmează aceleași principii și învățături de bază ale coaching-ului, cum ar fi stabilirea obiectivelor, lucrul pe valori și obiceiuri, cu diferența că această abordare ghidează prin intuiție și încurajează clienții să se conecteze cu cele mai profunde părți ale lor.",
+          "Acest stil mă definește deoarece consider că pentru a ghida clienții să fie întregi și compleți, este necesar ca ei să-și acceseze resursele interioare. Odată ce clienții se conectează cu valorile lor interioare, își vor determina pasiunile și adevărata unicitate, ei vor fi capabili să primească prosperitate în toate aspectele vieții sale.",
+          "În acest sens, de fapt este vorba despre a-i ajuta să-și găsească propriul potențial cu resurse pe care să-l poată folosi oriunde pentru a avea o viață așa cum merită.",
+          "Holistic coaching se referă la crearea unui echilibru în toate părțile luării deciziilor. Acest stil mă definește deoarece cred că totul se conectează în viață, așa că, găsirea armoniei interioare a clienților mei este esențială pentru ca deciziile și acțiunile pe care ei le iau în viață să funcționeze.",
+          "Dacă simți că rezonezi cu stilul meu de lucru, te invit să explorăm împreună către o expandare sănătoasă a Sinelui tău.",
+        ],
+      price: "550lei",
+      duration: "90min",
+      reserveLink: "https://app.simplymeet.me/harmoniaoptima",
+    },
      {
       name: "Grounding Ceremony",
       summary: "Ceremonie : Împământare",
@@ -176,23 +193,6 @@ services: [
         ],
       price: "300lei",
       duration: "75min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima",
-    },
-    {
-      name: "Holistic Life Coach",
-      summary: "Coaching : Personalizat",
-      image: "./images/tibibozi/DSC01825.jpg", #optional
-      description:
-        [
-          'Cu un stil "down-to-earth" ancorat în realitate, mă identific ca fiind un echilibru ingenios între Intuitive coaching și Holistic coaching.',
-          "Intuitive coaching urmează aceleași principii și învățături de bază ale coaching-ului, cum ar fi stabilirea obiectivelor, lucrul pe valori și obiceiuri, cu diferența că această abordare ghidează prin intuiție și încurajează clienții să se conecteze cu cele mai profunde părți ale lor.",
-          "Acest stil mă definește deoarece consider că pentru a ghida clienții să fie întregi și compleți, este necesar ca ei să-și acceseze resursele interioare. Odată ce clienții se conectează cu valorile lor interioare, își vor determina pasiunile și adevărata unicitate, ei vor fi capabili să primească prosperitate în toate aspectele vieții sale.",
-          "În acest sens, de fapt este vorba despre a-i ajuta să-și găsească propriul potențial cu resurse pe care să-l poată folosi oriunde pentru a avea o viață așa cum merită.",
-          "Holistic coaching se referă la crearea unui echilibru în toate părțile luării deciziilor. Acest stil mă definește deoarece cred că totul se conectează în viață, așa că, găsirea armoniei interioare a clienților mei este esențială pentru ca deciziile și acțiunile pe care ei le iau în viață să funcționeze.",
-          "Dacă simți că rezonezi cu stilul meu de lucru, te invit să explorăm împreună către o expandare sănătoasă a Sinelui tău.",
-        ],
-      price: "550lei",
-      duration: "90min",
       reserveLink: "https://app.simplymeet.me/harmoniaoptima",
     },
     {
