@@ -41,7 +41,7 @@ services: [
       summary: "Masaj Holistic : Dedicat Gravidelor",
       description:
         [
-          "Un masaj holistic, creat special pentru viitoarele mame, care își doresc un moment de relaxare profundă, alinare și conexiune interioară. Acest masaj folosește diverse tehnici special adaptate pentru a susține confortul fizic și emoțional al mamei și al bebelușului.",
+          "Un masaj holistic, creat special pentru viitoarele mame, care își doresc un moment de relaxare profundă, alinare și conexiune interioară. Acest masaj folosește diverse tehnici care sunt special adaptate pentru a susține confortul fizic și emoțional al mamei și al bebelușului.",
           "Fiecare mișcare este gândită pentru a reduce tensiunile musculare, a îmbunătăți circulația și a oferi o senzație de ușurare în zonele care resimt cea mai mare presiune în timpul sarcinii.",
           "Beneficii:",
 "- Relaxare profundă și reducerea stresului.",
