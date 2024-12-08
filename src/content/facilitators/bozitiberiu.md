@@ -5,22 +5,7 @@ images: ["./images/tibibozi/harmonia.jpg"]
 tags: ["Terapeut", "Coach", "Holistic Approach"]
 activities: ["masaj", "coaching", "terapii-shamanice", "tre", "alte-servicii"]
 services: [
-    {
-      name: "Harmonic Reborn",
-      summary: "Masaj Holistic : Întregul corp",
-      image: "./images/tibibozi/IMS03711.jpg", #optional
-      description:
-        [
-          "Un masaj holistic complet, complex și intuitiv bazat pe principii fondate și pe cumulul de experiență dobândit cu care am evoluat ca terapeut și ca om de-a lungul anilor și până în prezent.",
-          "Încă de la începutul carierei am înteles că o atingere vindecătoare este mai mult decât o tehnică în sine. O atingere este vindecătoare atunci când are intenție, un sentiment de iubire și o stare de conștiință. De altfel, am înțeles că intuiția este îndrumătorul mâinilor mele care pot duce masajul peste așteptările beneficiarului.",
-          "Pe lângă asta, cu timpul am învățat să ascult tot ceea ce îmi spune clientul, tot ceea ce clientul nu poate pune în cuvinte, tot ceea ce simt prin mâinile mele și să adaptez tot ceea ce fac în functie de informațiile pe care le primesc în acest fel.",
-          "(*) După nevoile și preferințele clientului sau după cum voi considera că este mai benefic pentru sănătatea și bunăstarea beneficiarului, Harmonic Reborn poate utiliza o gamă largă de metode holistice și tehnici din diferite culturi precum: Thai, Miofascial, Deep Tissue, Lomi Lomi Hawaiian, Yumeiho, Shiatsu, Ashiatsu, Terapia CranioSacrală, Reflexoterapie, Suedez, Instrumente Shamanice, Sacred Pedi Pudja, Chavutti Thirumal, Barefoot, Drenaj Limfatic, Breathwork, Aromaterapie, Presopunctură, Senzorial, Tantric, Facial, Facial Intraoral, Boluri Tibetane, Stretching, Terapia cu Percuție & altele.",
-        ],
-      price: "550lei",
-      duration: "120min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima",
-    },
-      {
+ {
       name: "(E)Motion Somatic Release",
       summary: "Terapie Holistică : Întregul corp",
       image: "./images/tibibozi/DSC01860.jpg",
@@ -32,6 +17,21 @@ services: [
           "Dacă ești gata să profiți de mecanismul natural de vibrație al corpului tău și să experimentezi beneficiile transformatoare ale (E)Motion Somatic Release, ești invitat să explorezi această abordarea unică de vindecare.",
         ],
       isGroup: true,
+      price: "550lei",
+      duration: "120min",
+      reserveLink: "https://app.simplymeet.me/harmoniaoptima",
+    },
+    {
+      name: "Harmonic Reborn",
+      summary: "Masaj Holistic : Întregul corp",
+      image: "./images/tibibozi/IMS03711.jpg", #optional
+      description:
+        [
+          "Un masaj holistic complet, complex și intuitiv bazat pe principii fondate și pe cumulul de experiență dobândit cu care am evoluat ca terapeut și ca om de-a lungul anilor și până în prezent.",
+          "Încă de la începutul carierei am înteles că o atingere vindecătoare este mai mult decât o tehnică în sine. O atingere este vindecătoare atunci când are intenție, un sentiment de iubire și o stare de conștiință. De altfel, am înțeles că intuiția este îndrumătorul mâinilor mele care pot duce masajul peste așteptările beneficiarului.",
+          "Pe lângă asta, cu timpul am învățat să ascult tot ceea ce îmi spune clientul, tot ceea ce clientul nu poate pune în cuvinte, tot ceea ce simt prin mâinile mele și să adaptez tot ceea ce fac în functie de informațiile pe care le primesc în acest fel.",
+          "(*) După nevoile și preferințele clientului sau după cum voi considera că este mai benefic pentru sănătatea și bunăstarea beneficiarului, Harmonic Reborn poate utiliza o gamă largă de metode holistice și tehnici din diferite culturi precum: Thai, Miofascial, Deep Tissue, Lomi Lomi Hawaiian, Yumeiho, Shiatsu, Ashiatsu, Terapia CranioSacrală, Reflexoterapie, Suedez, Instrumente Shamanice, Sacred Pedi Pudja, Chavutti Thirumal, Barefoot, Drenaj Limfatic, Breathwork, Aromaterapie, Presopunctură, Senzorial, Tantric, Facial, Facial Intraoral, Boluri Tibetane, Stretching, Terapia cu Percuție & altele.",
+        ],
       price: "550lei",
       duration: "120min",
       reserveLink: "https://app.simplymeet.me/harmoniaoptima",
@@ -52,6 +52,27 @@ services: [
           "Programează-te și oferă-ți o experiență unică, creată special pentru tine și pentru această călătorie magică.",
         ],
       price: "550lei",
+      duration: "120min",
+      reserveLink: "https://app.simplymeet.me/harmoniaoptima",
+    },
+    {
+      name: "Harmonic Union",
+      summary: "Masaj Holistic : Dedicat Cuplurilor",
+      description:
+        [
+          "Descoperiți Echilibrul Energiilor Masculine și Feminine în Cuplu",
+          "Oferit de către doi terapeuți remarcabili: Tiberiu și Delia care vă prezintă Harmonic Union, pachetul de masaj pentru cupluri, creat special pentru a aduce armonie și echilibru între masculin și feminin.",
+          "Harmonic Union este o experiență transformatoare ce oferă masaj simultan pentru ambii parteneri, într-o atmosferă de relaxare profundă și conexiune.",
+          "Tiberiu, cu energia sa aparte și pasiunea pentru vindecare, va lucra pentru a relaxa și revitaliza corpul bărbatului. Abordarea sa holistică asigură echilibrul și armonizarea tuturor sistemelor din corp.",
+          "Delia, cunoscută pentru sensibilitatea și dedicarea sa, va oferi femeii un masaj complet și complex, concentrându-se pe echilibrul energetic și eliberarea tensiunilor acumulate.",
+          "Beneficiile Pachetului Harmonic Union",
+          "Echilibrarea Energiei Masculine și Feminine - Acest pachet este ideal pentru cuplurile care doresc să își echilibreze energiile yin și yang, promovând o conexiune mai profundă și armonioasă între parteneri.",
+          "Armonizarea Corpului, Minții și Sufletului - Masajele sunt concepute pentru a aduce echilibru și armonie în toate aspectele ființei voastre, oferind o experiență de vindecare holistică și completă.",
+          "Transformare și Conexiune Profundă - Tratamentele oferite de Tiberiu și Delia sunt nu doar masaje, ci experiențe de transformare care vă vor ajuta să vă conectați mai profund unul cu celălalt și să vă vindecați la nivel fizic, emoțional și spiritual.",
+          "Rezervă-ți acum locul pentru a experimenta această sesiune unică de echilibrare și armonizare a energiilor în cuplu.",
+          "Contactează-ne pentru a afla mai multe detalii și pentru a face o programare. Vindecarea și conexiunea profundă în cuplu sunt la un pas distanță!",
+        ],
+      price: "890lei",
       duration: "120min",
       reserveLink: "https://app.simplymeet.me/harmoniaoptima",
     },
@@ -110,27 +131,6 @@ services: [
         ],
       price: "818lei",
       duration: "100min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima",
-    },
-      {
-      name: "Harmonic Union",
-      summary: "Masaj Holistic : Dedicat Cuplurilor",
-      description:
-        [
-          "Descoperiți Echilibrul Energiilor Masculine și Feminine în Cuplu",
-          "Oferit de către doi terapeuți remarcabili: Tiberiu și Delia care vă prezintă Harmonic Union, pachetul de masaj pentru cupluri, creat special pentru a aduce armonie și echilibru între masculin și feminin.",
-          "Harmonic Union este o experiență transformatoare ce oferă masaj simultan pentru ambii parteneri, într-o atmosferă de relaxare profundă și conexiune.",
-          "Tiberiu, cu energia sa aparte și pasiunea pentru vindecare, va lucra pentru a relaxa și revitaliza corpul bărbatului. Abordarea sa holistică asigură echilibrul și armonizarea tuturor sistemelor din corp.",
-          "Delia, cunoscută pentru sensibilitatea și dedicarea sa, va oferi femeii un masaj complet și complex, concentrându-se pe echilibrul energetic și eliberarea tensiunilor acumulate.",
-          "Beneficiile Pachetului Harmonic Union",
-          "Echilibrarea Energiei Masculine și Feminine - Acest pachet este ideal pentru cuplurile care doresc să își echilibreze energiile yin și yang, promovând o conexiune mai profundă și armonioasă între parteneri.",
-          "Armonizarea Corpului, Minții și Sufletului - Masajele sunt concepute pentru a aduce echilibru și armonie în toate aspectele ființei voastre, oferind o experiență de vindecare holistică și completă.",
-          "Transformare și Conexiune Profundă - Tratamentele oferite de Tiberiu și Delia sunt nu doar masaje, ci experiențe de transformare care vă vor ajuta să vă conectați mai profund unul cu celălalt și să vă vindecați la nivel fizic, emoțional și spiritual.",
-          "Rezervă-ți acum locul pentru a experimenta această sesiune unică de echilibrare și armonizare a energiilor în cuplu.",
-          "Contactează-ne pentru a afla mai multe detalii și pentru a face o programare. Vindecarea și conexiunea profundă în cuplu sunt la un pas distanță!",
-        ],
-      price: "890lei",
-      duration: "120min",
       reserveLink: "https://app.simplymeet.me/harmoniaoptima",
     },
         {
