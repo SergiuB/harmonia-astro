@@ -114,6 +114,25 @@ services: [
       duration: "120min",
       reserveLink: "https://app.simplymeet.me/harmoniaoptima",
     },
+         {
+      name: "Harmonic Maternity Bliss",
+      summary: "Masaj Holistic : Dedicat Gravidelor",
+      description:
+        [
+          "Un masaj unic, creat special pentru viitoarele mame, care își doresc un moment de relaxare profundă, alinare și conexiune interioară. Acest masaj folosește diverse tehnici special adaptate pentru a susține confortul fizic și emoțional al mamei și al bebelușului.",
+          "Fiecare mișcare este gândită pentru a reduce tensiunile musculare, a îmbunătăți circulația și a oferi o senzație de ușurare în zonele care resimt cea mai mare presiune în timpul sarcinii.",
+          "Beneficii:",
+"- Relaxare profundă și reducerea stresului.",
+"- Ușurarea tensiunilor din spate, șolduri și picioare.",
+"- Susținerea circulației și reducerea edemelor.",
+"- Conexiune emoțională cu bebelușul.",
+"- Crearea unui echilibru între corp, minte și suflet.",
+          "Programează-te și oferă-ți o experiență unică, creată special pentru tine și pentru această călătorie magică.",
+        ],
+      price: "550lei",
+      duration: "120min",
+      reserveLink: "https://app.simplymeet.me/harmoniaoptima",
+    },
         {
       name: "Abonament Masaj Holistic",
       summary: "Pachet : 6 Sesiuni : Locuri limitate",
