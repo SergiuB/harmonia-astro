@@ -17,7 +17,7 @@ services: [
           "(*) După nevoile și preferințele clientului sau după cum voi considera că este mai benefic pentru sănătatea și bunăstarea beneficiarului, Harmonic Reborn poate utiliza o gamă largă de metode holistice și tehnici din diferite culturi precum: Thai, Miofascial, Deep Tissue, Lomi Lomi Hawaiian, Yumeiho, Shiatsu, Ashiatsu, Terapia CranioSacrală, Reflexoterapie, Suedez, Instrumente Shamanice, Sacred Pedi Pudja, Chavutti Thirumal, Barefoot, Drenaj Limfatic, Breathwork, Aromaterapie, Presopunctură, Senzorial, Tantric, Facial, Facial Intraoral, Boluri Tibetane, Stretching, Terapia cu Percuție & altele.",
         ],
       price: "550lei",
-      duration: "135min",
+      duration: "120min",
       reserveLink: "https://app.simplymeet.me/harmoniaoptima",
     },
       {
