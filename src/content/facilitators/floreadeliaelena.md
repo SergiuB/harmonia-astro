@@ -76,7 +76,7 @@ services:
     },
         {
       name: "Harmonic²",
-      summary: "Masaj la 4 mâini : Întregul corp",
+      summary: "Masaj cu 4 mâini : Întregul corp",
       description:
         [
           "Experimentează Armonia Supremă cu Harmonic²",
