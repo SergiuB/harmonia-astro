@@ -111,7 +111,7 @@ services: [
     },
       {
       name: "Harmonic²",
-      summary: "Masaj la 4 mâini : Întregul corp",
+      summary: "Masaj cu 4 mâini : Întregul corp",
       description:
         [
           "Experimentează Armonia Supremă cu Harmonic²",
@@ -150,7 +150,7 @@ services: [
           "Contactează-mă acum pentru a afla mai multe detalii și pentru a achizitiona acest abonament avantajos.",
         ],
       price: "2640lei",
-      duration: "6 x 135min",
+      duration: "6 x 120min",
       reserveLink: "https://wa.link/b4f3ug",
     },
       {
