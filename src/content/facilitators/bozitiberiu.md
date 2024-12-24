@@ -76,7 +76,7 @@ services: [
           "Armonizarea Corpului, Minții și Sufletului - Masajele sunt concepute pentru a aduce echilibru și armonie în toate aspectele ființei voastre, oferind o experiență de vindecare holistică și completă.",
           "Transformare și Conexiune Profundă - Tratamentele oferite de Tiberiu și Delia sunt nu doar masaje, ci experiențe de transformare care vă vor ajuta să vă conectați mai profund unul cu celălalt și să vă vindecați la nivel fizic, emoțional și spiritual.",
           "Rezervă-ți acum locul pentru a experimenta această sesiune unică de echilibrare și armonizare a energiilor în cuplu.",
-          "Contactează-ne pentru a afla mai multe detalii și pentru a face o programare. Vindecarea și conexiunea profundă în cuplu sunt la un pas distanță!"
+          "Contactează-ne pentru a afla mai multe detalii și pentru a face o programare. Vindecarea și conexiunea profundă în cuplu sunt la un pas distanță!",
                     "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
           "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
         ],
@@ -96,7 +96,7 @@ services: [
           "Shiatsu este o formă de masaj ce își are originea în Japonia, ce are la bază elemente de terapii occidentale și presiunea pe traseele meridianelor energetice preluate din medicina tradițională chineză.",
           "Suedez este una din cele mai cunoscute și practicate terapii de masaj care oferă o experiență placută de relaxare fizică și mentală.",
           'Terapia CranioSacrală, numită și "Terapia cu Eliberări SomatoEmoționale", este tratamentul care leagă tensiunile din suturile craniene, dinamica lichidului cefalo-rahidian, tiparele migrenoase ale clientului și atingerea foarte fină a terapeutului.',
-          "Reflexoterapia este o tehnică specială de masaj digital care se bazează pe principiul că există anumite zone și puncte, din tălpi și pălmi, care sunt conectate prin sistemul nervos la diferite părți corespunzătoare ale corpului."
+          "Reflexoterapia este o tehnică specială de masaj digital care se bazează pe principiul că există anumite zone și puncte, din tălpi și pălmi, care sunt conectate prin sistemul nervos la diferite părți corespunzătoare ale corpului.",
                     "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
           "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
         ],
