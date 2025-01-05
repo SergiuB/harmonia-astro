@@ -2,7 +2,7 @@
 name: "Alina Carmina"
 featuredIndex: 4
 images: ["./images/carmina/alinacarmina.png"]
-tags: ["Terapeut", "Ghid Transformational", "Holistic Approach"]
+tags: ["Terapeut", "Ghid de Transformare", "Holistic Approach"]
 activities: ["masaj", "group-yoga", "alte-servicii", "yoga", "miscare-constienta"]
 services: [
  {
