@@ -202,6 +202,46 @@ organizatorice.",
       duration: "105min",
       reserveLink: "https://wa.link/djgx8y",
     },
+     {
+      name: "Aliniament Postural ",
+      summary: "Ședința de evaluare : Ședința de
+antrenament",
+      description:
+        [
+          "Postural Alignment este un concept unic în România, creat de Tiberiu Vintiloiu, care integrează mișcări din Yoga, Pilates, Functional Training, Fitness și Animal Flow pentru a corecta postura, ameliora durerile musculare și articulare și preveni problemele de sănătate cauzate de stres și sedentarism.",
+          "Acest program eficient combină tehnici biomecanice pentru a obține o postură corectă, întărind musculatura specifică, alungind coloana vertebrală și favorizând starea de bine generală.",
+          "Ce tratează Postural Alignment:",
+          "• Hernia de disc",
+          "• Dureri de spate, gât, șold",
+          "• Stres și depresie",
+         "Beneficii principale:",
+          "• Eliminarea durerilor articulare",
+          "• Corectarea deficitului respirator",
+          "• Îmbunătățirea coordonării, echilibrului și flexibilității",
+          "• Reeducarea mersului și reconectarea legăturilor neuro-musculare",
+          "• Creșterea forței musculare și reducerea durerilor articulare.",
+                    "Cui se adresează programul?",
+          "• Persoanelor sedentare sau care petrec multe ore la birou",
+          "• Cei cu dureri articulare, musculare sau probleme de postură",
+          "• Persoanelor care suferă de depresie, stres sau probleme respiratorii",
+          "• Sportivilor care vor să-și optimizeze performanțele.",
+          "Ce include evaluarea posturală?",
+          "În cadrul primei ședințe de evaluare, se testează articulațiile și musculatura, identificându-se obiectivele individuale. Evaluarea biomecanică analizează plasamentul corpului și greșelile posturale, iar evaluarea emoțională explorează modul de gândire și emoțiile asociate poziționării incorecte. Aceasta permite înțelegerea și corectarea posturii greșite prin exerciții adaptate.",
+          "Programul de antrenament",
+          "Durata recomandată este de 10 ședințe (1/săptămână), fiecare sesiune de 90 de minute. Fiecare ședință aduce noi corectări, iar participantul primește exerciții pentru acasă, personalizate și actualizate pe parcurs. În final, o reevaluare identifică schimbările produse și stabilește metode de întreținere a rezultatelor pe termen lung.",
+          "Rezultatele obținute la finalul programului includ:",
+          "Flexibilitate și control mai bun al mișcării",
+          "Lipsa durerilor muscular-articulare",
+          "O poziție corectă și o mai bună conectare musculară",
+          "*Anularea programării:
+Anularea ședinței se poate face cu cel târziu de 42 ore înainte de programare, altfel se va plăti integral, iar în caz de urgențe medicale neprevăzute, se va plăti jumătate din cost, datorită cheltuielilor pentru rezervarea spațiului și timpul alocat care se pierde. Vă mulțumim pentru înțelegere!",
+        ],
+      isGroup: true,
+      price: "250lei / 300lei",
+      duration: "60min / 90min",
+      reserveLink: "https://wa.link/djgx8y",
+    },
+    
   ]
 location: "Harmonia Terra - Strada Cercului 18 / Sambodhi Studio - Strada Popa Rusu, București" #optional
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
