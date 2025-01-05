@@ -2,7 +2,7 @@
 name: "Alina Carmina"
 featuredIndex: 4
 images: ["./images/carmina/alinacarmina.png"]
-tags: ["Terapeut", "Instructor", "Holistic Approach"]
+tags: ["Terapeut", "Ghid Transformational", "Holistic Approach"]
 activities: ["masaj", "group-yoga", "alte-servicii", "yoga", "miscare-constienta"]
 services: [
  {
@@ -48,7 +48,7 @@ iar în caz de urgențe medicale neprevăzute, se va plăti jumătate din cost, 
 rezervarea spațiului și timpul alocat care se pierde. Vă mulțumim pentru înțelegere!",
         ],
       isGroup: true,
-      price: "250lei / 300min",
+      price: "250lei / 300lei",
       duration: "75min / 90min",
       reserveLink:  "https://wa.link/djgx8y",
     },
