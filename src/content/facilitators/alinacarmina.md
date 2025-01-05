@@ -173,7 +173,7 @@ rezervarea spațiului și timpul alocat care se pierde. Vă mulțumim pentru în
       reserveLink: "https://wa.link/djgx8y",
     },
       {
-      name: "Yoga (Yin, Hatha, Vinyasa)",
+      name: "Yoga Yin, Hatha, Vinyasa",
       summary: "Yoga : Clasă de grup",
       description:
         [
