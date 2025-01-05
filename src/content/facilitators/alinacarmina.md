@@ -170,10 +170,9 @@ iar în caz de urgențe medicale neprevăzute, se va plăti jumătate din cost, 
 rezervarea spațiului și timpul alocat care se pierde. Vă mulțumim pentru înțelegere!",     
       price: "230lei / 250lei",
       duration: "60min / 75min",
-      reserveLink: "https://wa.link/djgx8y",
     },
       {
-      name: "Yoga Yin, Hatha, Vinyasa",
+      name: "Yoga (Yin, Hatha, Vinyasa)",
       summary: "Yoga : Clasă de grup",
       description:
         [
