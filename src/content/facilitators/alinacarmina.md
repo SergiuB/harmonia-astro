@@ -167,9 +167,11 @@ afectate, stimulând și accelerând procesele de auto-vindecare ale organismulu
           "*Anularea programării:
 Anularea ședinței se poate face cu cel târziu de 42 ore înainte de programare, altfel se va plăti integral,
 iar în caz de urgențe medicale neprevăzute, se va plăti jumătate din cost, datorită cheltuielilor pentru
-rezervarea spațiului și timpul alocat care se pierde. Vă mulțumim pentru înțelegere!",     
+rezervarea spațiului și timpul alocat care se pierde. Vă mulțumim pentru înțelegere!",
+]
       price: "230lei / 250lei",
       duration: "60min / 75min",
+      reserveLink: "https://wa.link/djgx8y",
     },
       {
       name: "Yoga (Yin, Hatha, Vinyasa)",
