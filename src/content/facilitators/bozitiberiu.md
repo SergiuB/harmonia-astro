@@ -8,7 +8,6 @@ services: [
  {
       name: "(E)Motion Somatic Release",
       summary: "Terapie Holistică : Întregul corp",
-      image: "./images/tibibozi/DSC01860.jpg",
       description:
         [
           "De-a lungul timpului, am observat că tremurul este un mecanism natural al organismului, menit să relaxeze fascia, țesutul muscular și celular. Tremurul este codificat în ADN-ul nostru. Practic suntem codificați genetic pentru a tremura. Chiar dacă tremurul este generat din sistemul limbic al creierului, el nu este sub controlul nostru conștient. Cu alte cuvinte, tehnicile care produc tremur ocolesc creierul gânditor, oferindu-ne acces direct la creierul reptilian inconștient. Acest lucru ne permite să aducem schimbări pe care altfel nu le-am putea realiza.",
@@ -26,7 +25,6 @@ services: [
     {
       name: "Harmonic Reborn",
       summary: "Masaj Holistic : Întregul corp",
-      image: "./images/tibibozi/IMS03711.jpg", #optional
       description:
         [
           "Un masaj holistic complet, complex și intuitiv bazat pe principii fondate și pe cumulul de experiență dobândit cu care am evoluat ca terapeut și ca om de-a lungul anilor și până în prezent.",
@@ -87,7 +85,6 @@ services: [
       {
       name: "Harmonic Recharge",
       summary: "Masaj Holistic : Întregul corp",
-      image: "./images/tibibozi/DSC08316.jpg",
       description:
         [
           "O terapie prin masaj a cărei filozofie este bazată pe efectuarea de operațiuni cu specificitate înaltă pentru fiecare client, cu mare accent pe calitatea atingerii.",
@@ -108,7 +105,6 @@ services: [
       {
       name: "Harmonic Ritual",
       summary: "Masaj Holistic : Întregul corp",
-      image: "./images/tibibozi/DSC01200-2.jpg", #optional
       description:
         [
           "Harmonic Ritual, spus și ”Terapia mâinilor iubitoare”, are rădăcini Hawaiiene și se realizează prin utilizarea pălmilor, antebrațelor cât și a coatelor, fiind posibil executate în același moment pe două părți extinse ale corpului, creându-se sentimentul de îmbrățisare. Aceste mișcări fac în așa fel încât corpul să se relaxeze complet, să fie într-o stare de eliberare și să existe o armonie între partea fizică, mentală și spirituală.",
@@ -172,7 +168,6 @@ services: [
       {
       name: "Holistic Life Coach",
       summary: "Coaching : Personalizat",
-      image: "./images/tibibozi/DSC01825.jpg", #optional
       description:
         [
           'Cu un stil "down-to-earth" ancorat în realitate, mă identific ca fiind un echilibru ingenios între Intuitive coaching și Holistic coaching.',
