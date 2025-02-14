@@ -101,6 +101,7 @@ services:
           "Stimularea Sistemului Nervos: Contribuie la relaxarea mentală și îmbunătățirea stării de spirit.",
           "Permite-ți să descoperi Harmonic², un masaj care reflectă expertiza și dedicarea lui Tiberiu și Delia, și transformă-ți starea de bine într-o experiență holistică desăvârșită.",
           "Rezervă acum și lasă-te răsfățat de armonia perfectă a masajului la patru mâini!",
+            "*Programările realizate prin sistemul de rezervare pot suferi modificări în funcție de trei factori esențiali: disponibilitatea lui Tiberiu, a Deliei și a spațiului în care se desfășoară terapia. Vă asigurăm că, în cazul unor ajustări, vă vom informa în cel mai scurt timp posibil și vom face tot posibilul pentru a găsi cea mai potrivită soluție.",
                     "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
           "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
         ],
