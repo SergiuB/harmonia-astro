@@ -236,6 +236,10 @@
     "id": "group-sound-healing",
     "name": "Sound Healing"
   },
+    {
+    "id": "group-tai-chi",
+    "name": "Tai Chi"
+  },
   {
     "id": "group-terapie-prin-arta",
     "name": "Terapie prin Arta"
@@ -247,6 +251,10 @@
   {
     "id": "group-throat-singing",
     "name": "Throat Singing"
+  },
+   {
+    "id": "group-qigong",
+    "name": "Qigong"
   },
   {
     "id": "group-workshops",
