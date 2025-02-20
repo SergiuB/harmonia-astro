@@ -1,7 +1,7 @@
 ---
 name: "Andra-Maria Pătrașcu"
 featuredIndex: 11
-images: ["./images/carmina/andratarot.jpg"]
+images: ["./images/andramariapatrascu/andratarot.jpg"]
 tags: ["Tarolog", "Instructor", "Dans Energetic"]
 activities: ["dans", "tarot", "alte-servicii", "group-dans"]
 services: [
