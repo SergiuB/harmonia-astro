@@ -12,7 +12,7 @@ services:
       isGroup: true,
       price: "100lei",
       duration: "60min",
-      reserveLink: "https://wa.link/5i14l",
+      reserveLink: "https://wa.link/fxjx8j",
     },
     {
       name: "Dans Energetic",
@@ -20,7 +20,7 @@ services:
       isGroup: true,
       price: "150lei",
       duration: "60min",
-      reserveLink: "https://wa.link/5i14l",
+      reserveLink: "https://wa.link/fxjx8j",
     },
   ]
 location: "Online / în locul dorit/ în natură" #optional
@@ -29,7 +29,7 @@ contact: {
     phone: "0761791771",
     instagram: "https://www.instagram.com/andramariapatrascu", #optional
     facebook: "https://www.facebook.com/andrasax.tarot.9", #optional
-    whatsapp: "https://wa.link/5i14ls", #optional
+    whatsapp: "https://wa.link/fxjx8j", #optional
   }
 ---
 <p>Bună!</p>
