@@ -83,9 +83,10 @@ services: [
       reserveLink: "https://app.simplymeet.me/harmoniaoptima",
     },
  {
-  "name": "Harmonic Nest",
-  "summary": "Masaj Holistic : Părinte & Copil",
-  "description": [
+  name: "Harmonic Nest",
+  summary: "Masaj Holistic : Părinte & Copil",
+  description: 
+  [
     "Această experiență unică oferă părintelui posibilitatea de a se bucura de un masaj profund relaxant, în timp ce copilul său primește propriul său masaj adaptat nevoilor sale, fie în aceeași cameră, fie separat, în funcție de preferințe.",
     "Într-o lume în care timpul pentru sine este tot mai rar, Harmonic Nest creează un sanctuar în care părinții nu mai trebuie să aleagă între relaxarea personală și grija față de copil. Indiferent dacă este vorba despre un părinte care își crește singur copilul și nu are cu cine să-l lase sau pur și simplu despre dorința de a petrece un moment de bine împreună, această terapie este o invitație la echilibru și conexiune.",
     "Cum funcționează?",
@@ -107,11 +108,11 @@ services: [
     "Transformă un moment obișnuit într-o experiență memorabilă!",
     "*Programările realizate prin sistemul de rezervare pot suferi modificări în funcție de trei factori esențiali: disponibilitatea lui Tiberiu, a Deliei și a spațiului în care se desfășoară terapia. Vă asigurăm că, în cazul unor ajustări, vă vom informa în cel mai scurt timp posibil și vom face tot posibilul pentru a găsi cea mai potrivită soluție.",
     "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
-    "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat."
+    "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
   ],
-  "price": "700lei",
-  "duration": "90min",
-  "reserveLink": "https://app.simplymeet.me/harmoniaoptima"
+  price: "700lei",
+  duration: "90min",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima"
   }
         {
       name: "Harmonic²",
