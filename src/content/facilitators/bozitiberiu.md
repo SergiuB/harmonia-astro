@@ -112,7 +112,7 @@ services: [
   ],
   price: "700lei",
   duration: "90min",
-  reserveLink: "https://app.simplymeet.me/harmoniaoptima"
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima",
   }
         {
       name: "Harmonic²",
