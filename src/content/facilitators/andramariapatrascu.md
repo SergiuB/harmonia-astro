@@ -33,6 +33,6 @@ contact: {
   }
 ---
 
-Descoperă răspunsurile pe care le cauți cu ajutorul sesiunilor mistice de Tarot. Numele meu este Andra-Maria Pătrașcu și timp de o oră/o oră și jumătate, online/față în față/ in diferite locuri alese de comun acord, vei avea ocazia să explorezi orice întrebare legată de relații, carieră, decizii importante sau dezvoltare personală. Te ajut să găsești claritatea și inspirația de care ai nevoie pentru a merge mai departe cu încredere!
-Această experiență este complet personalizată - tu decizi ce întrebări vrei să explorezi! Fie că ești preocupat de o situație complicată, de dinamica relațiilor sau de următoarea ta etapă profesională, sesiunea este spațiul perfect pentru a primi îndrumări și perspective valoroase. Tarotul devine o experiență accesibilă și captivantă. Rezervă-ți sesiunea acum și lasă cărțile să te ghideze către răspunsurile pe care le cauți!
-În concluzie, TU ESTI MAGICIANUL!
+Bună! Numele meu este Andra-Maria Pătraşcu. Acum zece ani, după moartea bunicii mele, am simțit să fac acest pas, chemarea am avut-o încă din copilărie. Așadar, acum sunt Tarot Reader, Instructor de Dans Energetic și Mentor pentru starea TA de bine. 
+Pentru sedințe cu aromaterapie si cristale, te invit la altarul meu pentru divinație - tarot, oracol, astrologie.
+Sunt recunoscătoare pentru încrederea și chemarea ta! 🙏🌞❤
