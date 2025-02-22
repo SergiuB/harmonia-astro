@@ -35,5 +35,5 @@ contact: {
 <p>Bună!</p>
 <p>Numele meu este Andra-Maria Pătraşcu.</p>
 <p>Acum zece ani, după moartea bunicii mele, am simțit să fac acest pas, chemarea am avut-o încă din copilărie. Așadar, acum sunt Tarot Reader, Instructor de Dans Energetic și Mentor pentru starea TA de bine.</p>
-Pentru sedințe cu aromaterapie si cristale, te invit la altarul meu pentru divinație - tarot, oracol, astrologie.
-Sunt recunoscătoare pentru încrederea și chemarea ta! 🙏
+<p>Pentru sedințe cu aromaterapie si cristale, te invit la altarul meu pentru divinație - tarot, oracol, astrologie.
+Sunt recunoscătoare pentru încrederea și chemarea ta! 🙏</p>
