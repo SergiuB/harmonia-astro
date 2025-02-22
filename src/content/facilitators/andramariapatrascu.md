@@ -1,25 +1,26 @@
 ---
 name: "Andra-Maria Pătrașcu"
 featuredIndex: 13
-images: ["./images/andramariapatrascu/andratarot.jpg"]
+images: ["./images/andramariapatrascu/andratarot1.jpg"]
 tags: ["Tarolog", "Instructor", "Dans Energetic"]
 activities: ["dans", "tarot", "alte-servicii", "group-dans"]
-services: [
- {
+services:
+  [
+    {
       name: "Tarot",
       summary: "Terapie prin sesiune de Tarot",
       isGroup: true,
       price: "100lei",
       duration: "60min",
-      reserveLink:  "https://wa.link/5i14l",
+      reserveLink: "https://wa.link/5i14l",
     },
-     {
+    {
       name: "Dans Energetic",
       summary: "Terapie prin sesiune de Dans Energetic",
       isGroup: true,
       price: "150lei",
       duration: "60min",
-      reserveLink:  "https://wa.link/5i14l",
+      reserveLink: "https://wa.link/5i14l",
     },
   ]
 location: "Online / în locul dorit/ în natură" #optional
