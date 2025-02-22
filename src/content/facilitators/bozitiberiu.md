@@ -113,7 +113,7 @@ services: [
   price: "700lei",
   duration: "90min",
   reserveLink: "https://app.simplymeet.me/harmoniaoptima",
-  }
+  },
         {
       name: "Harmonic²",
       summary: "Masaj cu 4 mâini : Întregul corp",
