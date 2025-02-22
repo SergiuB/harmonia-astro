@@ -1,5 +1,5 @@
 ---
-name: "Andra-Maria Pătrașcu"
+name: "Andra Pătrașcu"
 featuredIndex: 13
 images: ["./images/andramariapatrascu/andratarot1.jpg"]
 tags: ["Tarolog", "Instructor", "Dans Energetic"]
