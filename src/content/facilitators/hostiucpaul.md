@@ -6,6 +6,13 @@ tags: ["Terapeut", "Medicina Chineză", "Acupunctură"]
 activities: ["masaj", "medicina-traditionala-chineza", "acupunctura", "cupping"]
 services:
   [
+  {
+      name: "Acupunctură",
+      summary: "Terapie Holistică : Medicina Chineză",
+      price: "200lei / 1000lei / 1500lei",
+      duration: "75min / 6sesiuni / 10sesiuni",
+      reserveLink: "https://wa.link/1by6y3",
+    },
     {
       name: "Masaj de Relaxare",
       summary: "Masaj : Întregul corp",
