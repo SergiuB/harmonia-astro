@@ -25,7 +25,7 @@ services:
   ]
 location: "Online / în locul dorit/ în natură" #optional
 contact: {
-    email: "apatrascu676@gmail.com", #optional
+    email: "andramaria260891@gmail.com", #optional
     phone: "0761791771",
     instagram: "https://www.instagram.com/andramariapatrascu", #optional
     facebook: "https://www.facebook.com/andrasax.tarot.9", #optional
