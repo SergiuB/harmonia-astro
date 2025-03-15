@@ -1,20 +1,19 @@
 ---
 name: "Marius Constantinescu"
 featuredIndex: 11
-images: ["./images/mariusconstantinescu/mariusc.jpeg"]
-tags: ["Instructor", "Ashtanga", "Yoga",]
-activities: ["group-yoga", "yoga", "miscare-constienta"]
+images: ["./images/mariusconstantinescu/mariusc1.jpeg"]
+tags: ["Instructor", "Ashtanga Yoga"]
+activities: ["group-yoga", "yoga"]
 services: [
  {
       name: "Ashtanga Yoga",
-      summary: "Yoga : Sesiune de grup",
+      summary: "Sesiune de grup : În fiecare Joi, 19:00",
       description:
         [
           "Ashtanga Yoga este un stil dinamic și riguros de yoga, bazat pe o secvență fixă de posturi (asane) sincronizate cu respirația (ujjayi) și tehnici specifice de focalizare (drishti, bandha). Creată de Sri K. Pattabhi Jois, această practică intensă dezvoltă forța, flexibilitatea și concentrarea mentală, inducând un flux meditativ profund.",
           "Potrivit atât pentru începători, cât și pentru practicanții avansați, Ashtanga Yoga susține detoxifierea corpului, îmbunătățirea circulației și echilibrul emoțional, fiind o călătorie interioară de autocunoaștere și transformare.",
         ],
       isGroup: true,
-      price: "lei",
       duration: "100min",
       reserveLink:  "https://wa.link/myi9hk",
     },
