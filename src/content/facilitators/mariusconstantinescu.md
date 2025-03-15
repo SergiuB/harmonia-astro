@@ -7,7 +7,7 @@ activities: ["group-yoga", "yoga"]
 services: [
  {
       name: "Ashtanga Yoga",
-      summary: "Sesiune de grup : În fiecare Joi, 19:00",
+      summary: "Sesiune de grup",
       description:
         [
           "Ashtanga Yoga este un stil dinamic și riguros de yoga, bazat pe o secvență fixă de posturi (asane) sincronizate cu respirația (ujjayi) și tehnici specifice de focalizare (drishti, bandha). Creată de Sri K. Pattabhi Jois, această practică intensă dezvoltă forța, flexibilitatea și concentrarea mentală, inducând un flux meditativ profund.",
