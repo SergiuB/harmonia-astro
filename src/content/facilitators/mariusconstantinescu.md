@@ -1,7 +1,7 @@
 ---
 name: "Marius Constantinescu"
 featuredIndex: 11
-images: ["./images/mariusc/mariusc.jpeg"]
+images: ["./images/mariusconstantinescu/mariusc.jpeg"]
 tags: ["Instructor", "Ashtanga", "Yoga",]
 activities: ["group-yoga", "yoga", "miscare-constienta"]
 services: [
