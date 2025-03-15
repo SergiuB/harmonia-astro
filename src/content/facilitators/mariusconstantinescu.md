@@ -14,6 +14,7 @@ services: [
           "Potrivit atât pentru începători, cât și pentru practicanții avansați, Ashtanga Yoga susține detoxifierea corpului, îmbunătățirea circulației și echilibrul emoțional, fiind o călătorie interioară de autocunoaștere și transformare.",
         ],
       isGroup: true,
+       price: "În fiecare joi, 19:00",
       duration: "100min",
       reserveLink:  "https://wa.link/myi9hk",
     },
