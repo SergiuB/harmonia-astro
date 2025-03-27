@@ -7,7 +7,7 @@ activities: ["masaj", "alte-servicii", "yoga", "meditatie-ghidata"]
 services: [
     {
       name: "Masaj Terapeutic & Ceremonial",
-      summary: "Terapie : Pentru abdomen și pântec ",
+      summary: "Terapie : Pentru abdomen și pântec",
       description:
         [
           "Este o fuziune de metode somatice care combină tehnicile terapeutice pentru masajul abdominal, pelvin și al spatelui cu metode de bodywork care eliberează tensiunea din corp și minte alături de meditație, sunet și exerciții de vizualizare astfel încât să se simtă ca un dar pentru tine. Poate fi o ocazie de a te odihni în straturile profunde din interiorul tău - pentru a accesa ce are nevoie să se miște și să fie eliberat sau integrat - în special pentru că te va pune în contact cu puterea și energia din pântec.",
