@@ -1,6 +1,6 @@
 ---
 name: "Vlad Codescu"
-featuredIndex: 4
+featuredIndex: 5
 images: ["./images/vladcodescu/vladcod.jpg"]
 tags: ["Coach", "Miscare Constienta"]
 activities: ["miscare-constienta", "alte-servicii", "group-miscare-constienta"]
