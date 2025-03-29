@@ -231,7 +231,7 @@ Te rugăm să ajungi mai devreme pentru a avea timp să te schimbi și pentru a 
 organizatorice.",
         ],
       isGroup: true,
-      price: "65lei",
+      price: "70lei",
       duration: "105min",
       reserveLink: "https://wa.link/djgx8y",
     },
