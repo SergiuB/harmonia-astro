@@ -11,4 +11,4 @@ const html = marked(markdown);
 const { class: className } = Astro.props;
 ---
 
-<div class:list={["markdown", className]} set:html={html} />
+<p class:list={["markdown", className]} set:html={html} />
