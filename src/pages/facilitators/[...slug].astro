@@ -61,12 +61,19 @@ const { Content } = await entry.render();
                       <h3 class="text-xl text-secondary-blue underline py-1">
                         {service.name}
                       </h3>
-                      <div class="text-xs flex">
-                        <MarkdownRenderer markdown={service.price} />
-                        <span class="px-1">|</span>
-                        <MarkdownRenderer markdown={service.duration} />
-                        <span class="px-1">|</span>
-                        <MarkdownRenderer markdown={service.summary} />
+                      <div class="text-xs flex items-center">
+                        <MarkdownRenderer
+                          markdown={service.price}
+                          class="border-r pr-1"
+                        />
+                        <MarkdownRenderer
+                          markdown={service.duration}
+                          class="px-1"
+                        />
+                        <MarkdownRenderer
+                          markdown={service.summary}
+                          class="border-l pl-1"
+                        />
                       </div>
                     </div>
                     {service.reserveLink && (
