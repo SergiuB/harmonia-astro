@@ -1,0 +1,14 @@
+---
+// src/components/MarkdownRenderer.astro
+import { marked } from "marked";
+
+const { markdown } = Astro.props;
+const html = marked(markdown);
+
+// interface Props {
+//   class?: string;
+// }
+const { class: className } = Astro.props;
+---
+
+<div class:list={["markdown", className]} set:html={html} />
