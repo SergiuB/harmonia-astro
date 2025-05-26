@@ -4,8 +4,9 @@ featuredIndex: 1
 images: ["./images/tibibozi/portret1.jpg"]
 tags: ["Terapeut", "Coach", "Holistic Approach"]
 activities: ["masaj", "coaching", "terapii-shamanice", "tre", "alte-servicii"]
-services: [
- {
+services:
+  [
+    {
       name: "(E)Motion Somatic Release",
       summary: "Terapie Holistică : Întregul corp",
       description:
@@ -38,7 +39,7 @@ services: [
       duration: "120min",
       reserveLink: "https://app.simplymeet.me/harmoniaoptima",
     },
-      {
+    {
       name: "Harmonic Maternity Bliss",
       summary: "Masaj Holistic : Dedicat Gravidelor",
       description:
@@ -46,11 +47,11 @@ services: [
           "Un masaj holistic, creat special pentru viitoarele mame, care își doresc un moment de relaxare profundă, alinare și conexiune interioară. Acest masaj folosește diverse tehnici care sunt special adaptate pentru a susține confortul fizic și emoțional al mamei și al bebelușului.",
           "Fiecare mișcare este gândită pentru a reduce tensiunile musculare, a îmbunătăți circulația și a oferi o senzație de ușurare în zonele care resimt cea mai mare presiune în timpul sarcinii.",
           "Beneficii:",
-"- Relaxare profundă și reducerea stresului.",
-"- Ușurarea tensiunilor din spate, șolduri și picioare.",
-"- Susținerea circulației și reducerea edemelor.",
-"- Conexiune emoțională cu bebelușul.",
-"- Crearea unui echilibru între corp, minte și suflet.",
+          "- Relaxare profundă și reducerea stresului.",
+          "- Ușurarea tensiunilor din spate, șolduri și picioare.",
+          "- Susținerea circulației și reducerea edemelor.",
+          "- Conexiune emoțională cu bebelușul.",
+          "- Crearea unui echilibru între corp, minte și suflet.",
           "Programează-te și oferă-ți o experiență unică, creată special pentru tine și pentru această călătorie magică.",
           "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
           "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
@@ -75,53 +76,52 @@ services: [
           "Transformare și Conexiune Profundă - Tratamentele oferite de Tiberiu și Delia sunt nu doar masaje, ci experiențe de transformare care vă vor ajuta să vă conectați mai profund unul cu celălalt și să vă vindecați la nivel fizic, emoțional și spiritual.",
           "Rezervă-ți acum locul pentru a experimenta această sesiune unică de echilibrare și armonizare a energiilor în cuplu.",
           "*Programările realizate prin sistemul de rezervare pot suferi modificări în funcție de trei factori esențiali: disponibilitatea lui Tiberiu, a Deliei și a spațiului în care se desfășoară terapia. Vă asigurăm că, în cazul unor ajustări, vă vom informa în cel mai scurt timp posibil și vom face tot posibilul pentru a găsi cea mai potrivită soluție.",
-                    "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
+          "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
           "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
         ],
       price: "~~950 lei~~ **665lei**, Preț redus pănâ pe 08.06.25",
       duration: "120min",
       reserveLink: "https://app.simplymeet.me/harmoniaoptima",
     },
- {
-  name: "Harmonic Nest",
-  summary: "Masaj Holistic : Părinte & Copil",
-  description: 
-  [
-    "Această experiență unică oferă părintelui posibilitatea de a se bucura de un masaj profund relaxant, în timp ce copilul său primește propriul său masaj adaptat nevoilor sale, fie în aceeași cameră, fie separat, în funcție de preferințe.",
-    "Într-o lume în care timpul pentru sine este tot mai rar, Harmonic Nest creează un sanctuar în care părinții nu mai trebuie să aleagă între relaxarea personală și grija față de copil. Indiferent dacă este vorba despre un părinte care își crește singur copilul și nu are cu cine să-l lase sau pur și simplu despre dorința de a petrece un moment de bine împreună, această terapie este o invitație la echilibru și conexiune.",
-    "Cum funcționează?",
-    "• Pentru părinte – Un masaj holistic personalizat, menit să elimine tensiunile, să refacă echilibrul corpului și să aducă o stare profundă de relaxare.",
-    "• Pentru copil – O experiență adaptată vârstei și nevoilor sale, cu mișcări blânde, tehnici relaxante și un cadru sigur, în care se va simți protejat și confortabil.",
-    "Masajul poate avea loc:",
-    "✅ În aceeași cameră, pentru un sentiment de apropiere și siguranță",
-    "✅ În camere separate, pentru o relaxare mai profundă, dacă se preferă intimitatea",
-    "Pentru ce vârste este recomandat?",
-    "• Copiii între 7 și 16 ani pot beneficia de sesiuni de masaj complete.",
-    "• Pentru copiii sub 7 ani, sesiunea va fi mai scurtă, adaptată ritmului și atenției lor.",
-    "O experiență unică pentru părinții care:",
-    "✔ Au nevoie de un moment de respiro, dar vor să fie alături de copilul lor",
-    "✔ Vor să creeze o conexiune mai profundă prin atingere și relaxare",
-    "✔ Își doresc să își introducă copilul într-un mediu de echilibru și wellness",
-    "✔ Vor să le ofere copiilor lor o experiență calmantă, mai ales în perioade de stres sau agitație",
-    "Echipa care îți oferă această experiență:",
-    "Această terapie este oferită de Tiberiu & Delia, fiecare lucrând dedicat cu unul dintre voi, astfel încât amândoi – părinte și copil – să primiți atenția și grija de care aveți nevoie.",
-    "Transformă un moment obișnuit într-o experiență memorabilă!",
-    "*Programările realizate prin sistemul de rezervare pot suferi modificări în funcție de trei factori esențiali: disponibilitatea lui Tiberiu, a Deliei și a spațiului în care se desfășoară terapia. Vă asigurăm că, în cazul unor ajustări, vă vom informa în cel mai scurt timp posibil și vom face tot posibilul pentru a găsi cea mai potrivită soluție.",
-    "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
-    "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
-  ],
-  price: "~~750 lei~~ **525lei**, Preț redus pănâ pe 08.06.25",
-  duration: "90min",
-  reserveLink: "https://app.simplymeet.me/harmoniaoptima",
-  },
-        {
-      name: "Harmonic²",
-      summary: "Masaj cu 4 mâini : Întregul corp",
+    {
+      name: "Harmonic Nest",
+      summary: "Masaj Holistic : Părinte & Copil",
       description:
         [
+          "Această experiență unică oferă părintelui posibilitatea de a se bucura de un masaj profund relaxant, în timp ce copilul său primește propriul său masaj adaptat nevoilor sale, fie în aceeași cameră, fie separat, în funcție de preferințe.",
+          "Într-o lume în care timpul pentru sine este tot mai rar, Harmonic Nest creează un sanctuar în care părinții nu mai trebuie să aleagă între relaxarea personală și grija față de copil. Indiferent dacă este vorba despre un părinte care își crește singur copilul și nu are cu cine să-l lase sau pur și simplu despre dorința de a petrece un moment de bine împreună, această terapie este o invitație la echilibru și conexiune.",
+          "Cum funcționează?",
+          "• Pentru părinte – Un masaj holistic personalizat, menit să elimine tensiunile, să refacă echilibrul corpului și să aducă o stare profundă de relaxare.",
+          "• Pentru copil – O experiență adaptată vârstei și nevoilor sale, cu mișcări blânde, tehnici relaxante și un cadru sigur, în care se va simți protejat și confortabil.",
+          "Masajul poate avea loc:",
+          "✅ În aceeași cameră, pentru un sentiment de apropiere și siguranță",
+          "✅ În camere separate, pentru o relaxare mai profundă, dacă se preferă intimitatea",
+          "Pentru ce vârste este recomandat?",
+          "• Copiii între 7 și 16 ani pot beneficia de sesiuni de masaj complete.",
+          "• Pentru copiii sub 7 ani, sesiunea va fi mai scurtă, adaptată ritmului și atenției lor.",
+          "O experiență unică pentru părinții care:",
+          "✔ Au nevoie de un moment de respiro, dar vor să fie alături de copilul lor",
+          "✔ Vor să creeze o conexiune mai profundă prin atingere și relaxare",
+          "✔ Își doresc să își introducă copilul într-un mediu de echilibru și wellness",
+          "✔ Vor să le ofere copiilor lor o experiență calmantă, mai ales în perioade de stres sau agitație",
+          "Echipa care îți oferă această experiență:",
+          "Această terapie este oferită de Tiberiu & Delia, fiecare lucrând dedicat cu unul dintre voi, astfel încât amândoi – părinte și copil – să primiți atenția și grija de care aveți nevoie.",
+          "Transformă un moment obișnuit într-o experiență memorabilă!",
+          "*Programările realizate prin sistemul de rezervare pot suferi modificări în funcție de trei factori esențiali: disponibilitatea lui Tiberiu, a Deliei și a spațiului în care se desfășoară terapia. Vă asigurăm că, în cazul unor ajustări, vă vom informa în cel mai scurt timp posibil și vom face tot posibilul pentru a găsi cea mai potrivită soluție.",
+          "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
+          "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
+        ],
+      price: "~~750 lei~~ **525lei**, Preț redus pănâ pe 08.06.25",
+      duration: "90min",
+      reserveLink: "https://app.simplymeet.me/harmoniaoptima",
+    },
+    {
+      name: "Harmonic²",
+      summary: "Masaj cu 4 mâini : Întregul corp",
+      description: [
           "Experimentează Armonia Supremă cu Harmonic²",
           "Dacă ai avut plăcerea de a experimenta masajele inovative oferite de Tiberiu și Delia, Harmonic² îți va aduce o nouă dimensiune de relaxare și echilibru interior. Dacă nu ai avut încă ocazia să descoperi serviciile lor, îți vom dezvălui ce face acest masaj la patru mâini atât de special.
-",
+          ",
           "Despre Terapeuții Noștri:",
           "Tiberiu este creatorul unor servicii holistice unice precum (E) Motion Somatic Release și  Harmonic Reborn. Aceste terapii îmbină tehnici variate și metode inovatoare pentru a aduce armonie pe plan fizic, psiho-emoțional și spiritual. În sesiunea de Harmonic², Tiberiu se concentrează pe eliberările somatice, pătrunzând adânc în straturile emoționale și tensionate ale corpului, pentru a elimina stresul și a restabili echilibrul interior.",
           "Delia, cu o experiență vastă în terapiile alternative, a început călătoria ei acum mai bine de 7 ani la renumita Școală de Masaj Tradițional Thailandez Loi Kroh din Chiang Mai. Aici a absolvit un program intensiv, devenind practicant de masaj thailandez. Fascinată de proprietățile uleiurilor esențiale, Delia și-a aprofundat cunoștințele în aromaterapie și a dezvoltat abilități deosebite în oferirea de tratamente care promovează starea de bine și relaxarea profundă. Astăzi, Delia combină diverse tehnici și instrumente pentru a aduce echilibru și armonie întregului organism uman.",
@@ -133,7 +133,7 @@ services: [
           "Stimularea Sistemului Nervos: Contribuie la relaxarea mentală și îmbunătățirea stării de spirit.",
           "Permite-ți să descoperi Harmonic², un masaj care reflectă expertiza și dedicarea lui Tiberiu și Delia, și transformă-ți starea de bine într-o experiență holistică desăvârșită.",
           "Rezervă acum și lasă-te răsfățat de armonia perfectă a masajului la patru mâini!",
-           "*Programările realizate prin sistemul de rezervare pot suferi modificări în funcție de trei factori esențiali: disponibilitatea lui Tiberiu, a Deliei și a spațiului în care se desfășoară terapia. Vă asigurăm că, în cazul unor ajustări, vă vom informa în cel mai scurt timp posibil și vom face tot posibilul pentru a găsi cea mai potrivită soluție.",
+          "*Programările realizate prin sistemul de rezervare pot suferi modificări în funcție de trei factori esențiali: disponibilitatea lui Tiberiu, a Deliei și a spațiului în care se desfășoară terapia. Vă asigurăm că, în cazul unor ajustări, vă vom informa în cel mai scurt timp posibil și vom face tot posibilul pentru a găsi cea mai potrivită soluție.",
           "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
           "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
         ],
@@ -141,7 +141,7 @@ services: [
       duration: "90min",
       reserveLink: "https://app.simplymeet.me/harmoniaoptima",
     },
-      {
+    {
       name: "Harmonic Recharge",
       summary: "Masaj Holistic : Întregul corp",
       description:
@@ -153,7 +153,7 @@ services: [
           "Suedez este una din cele mai cunoscute și practicate terapii de masaj care oferă o experiență placută de relaxare fizică și mentală.",
           'Terapia CranioSacrală, numită și "Terapia cu Eliberări SomatoEmoționale", este tratamentul care leagă tensiunile din suturile craniene, dinamica lichidului cefalo-rahidian, tiparele migrenoase ale clientului și atingerea foarte fină a terapeutului.',
           "Reflexoterapia este o tehnică specială de masaj digital care se bazează pe principiul că există anumite zone și puncte, din tălpi și pălmi, care sunt conectate prin sistemul nervos la diferite părți corespunzătoare ale corpului.",
-                    "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
+          "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
           "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
         ],
       isGroup: true,
@@ -161,7 +161,7 @@ services: [
       duration: "120min",
       reserveLink: "https://app.simplymeet.me/harmoniaoptima",
     },
-      {
+    {
       name: "Harmonic Ritual",
       summary: "Masaj Holistic : Întregul corp",
       description:
@@ -169,14 +169,14 @@ services: [
           "Harmonic Ritual, spus și ”Terapia mâinilor iubitoare”, are rădăcini Hawaiiene și se realizează prin utilizarea pălmilor, antebrațelor cât și a coatelor, fiind posibil executate în același moment pe două părți extinse ale corpului, creându-se sentimentul de îmbrățisare. Aceste mișcări fac în așa fel încât corpul să se relaxeze complet, să fie într-o stare de eliberare și să existe o armonie între partea fizică, mentală și spirituală.",
           "Scopul acestei terapii este de a-ți celebra și vindeca întreaga ființă actionând cu armonie pe toate sistemele sale.",
           "Pentru ca acest ritual sa aibă rezultate benefice, este important ca relația dintre terapeut și client să fie una cât mai deschisă. Terapeutul nu se va limita doar la starea corpului, ci va avea in vedere și restul părților(mental, emoțional, spiritual) ce țin de sănătatea clientului. Acest lucru îl va ajuta pe terapeut să își dea seama de resursele pe care clientul le are sau disfuncțiile care il pot împiedica în procesul de vindecare.",
-                    "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
+          "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
           "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
         ],
       price: "~~500 lei~~ **350lei**,Preț redus pănâ pe 08.06.25",
       duration: "75min",
       reserveLink: "https://app.simplymeet.me/harmoniaoptima",
     },
-        {
+    {
       name: "Abonament Masaj Holistic",
       summary: "Pachet : 6 Sesiuni : Locuri limitate",
       description:
@@ -198,7 +198,7 @@ services: [
       duration: "6 x 120min",
       reserveLink: "https://wa.link/b4f3ug",
     },
-      {
+    {
       name: "Holistic Life Coach",
       summary: "Coaching : Personalizat",
       description:
@@ -209,19 +209,19 @@ services: [
           "În acest sens, de fapt este vorba despre a-i ajuta să-și găsească propriul potențial cu resurse pe care să-l poată folosi oriunde pentru a avea o viață așa cum merită.",
           "Holistic coaching se referă la crearea unui echilibru în toate părțile luării deciziilor. Acest stil mă definește deoarece cred că totul se conectează în viață, așa că, găsirea armoniei interioare a clienților mei este esențială pentru ca deciziile și acțiunile pe care ei le iau în viață să funcționeze.",
           "Dacă simți că rezonezi cu stilul meu de lucru, te invit să explorăm împreună către o expandare sănătoasă a Sinelui tău.",
-                    "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
+          "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
           "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
         ],
       price: "~~500 lei~~ **350lei**, Preț redus pănâ pe 08.06.25",
       duration: "75min",
       reserveLink: "https://app.simplymeet.me/harmoniaoptima",
     },
-     {
+    {
       name: "Grounding Ceremony",
       summary: "Ceremonie : Împământare",
       description:
         [
-          'Grounding Ceremony este o experiență profundă și transformatoare, concepută pentru a te ajuta să te conectezi la rădăcinile tale interioare, să eliberezi blocajele energetice și să îți aduci mintea, corpul și spiritul într-o armonie perfectă.',
+          "Grounding Ceremony este o experiență profundă și transformatoare, concepută pentru a te ajuta să te conectezi la rădăcinile tale interioare, să eliberezi blocajele energetice și să îți aduci mintea, corpul și spiritul într-o armonie perfectă.",
           "Structura Ceremoniei:",
           "1. Discuție Liberă (30 minute):",
           "Începem ceremonia cu o conversație deschisă, unde vom explora împreună provocările și blocajele cu care te confrunți. Această etapă este esențială pentru a seta o intenție clară și puternică, pregătindu-te pentru efectele vindecătoare ale amestecului sacru de plante medicinale și tutun.",
@@ -236,7 +236,7 @@ services: [
           "-Echilibrarea și armonizarea corpului energetic.",
           "-Sprijin în vindecarea emoțională și spirituală.",
           "-Împământarea și reconectarea cu energia Pământului.",
-                    "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
+          "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
           "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
         ],
       price: "~~300 lei~~ **210lei**, Preț redus pănâ pe 08.06.25",
@@ -256,7 +256,7 @@ services: [
           "Sacred Pedi Pudja - Paul aduce in acest ritual ce are la baza reflexologia tibetana cu un masaj al scalpului pentru a-ți oferi o stare de bine profundă. Această terapie holistică stimulează punctele reflexogene, chackrele și scalpul pentru a aduce revitalizare, relaxare și vindecare pe întregul organism.",
           "Rezervă-ți acum locul pentru a experimenta o transformare holistică unică și profundă.",
           "Contactează-ne pentru a afla mai multe detalii și pentru a face o programare. Vindecarea ta completă este la un pas distanță!",
-                    "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
+          "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
           "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
         ],
       price: "~~1100 lei~~ **770lei**, Preț redus pănâ pe 08.06.25",
@@ -279,7 +279,7 @@ services: [
           "Simfonia Celulelor - Delia folosește uleiuri esențiale Doterra pentru a aplica această tehnică care este un tratament ce îmbunătățește sănătatea celulară și echilibrul energetic. Această terapie aduce beneficii profunde pentru sănătatea fizică și emoțională.",
           "Rezervă-ți acum locul pentru a experimenta o transformare holistică unică și profundă.",
           "Contactează-ne pentru a afla mai multe detalii și pentru a face o programare. Vindecarea ta completă este la un pas distanță!",
-                    "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
+          "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
           "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
         ],
       price: "~~1350 lei~~ **945lei**, Preț redus pănâ pe 08.06.25",
@@ -303,11 +303,11 @@ services: [
           "Indiferent de valoarea aleasă, Harmonic Gift Card reprezintă un pas către o stare de bine profundă, echilibrul corpului, minții și sufletului. Beneficiarul va putea opta pentru terapii holistice, masaje revitalizante și pachete complete care transformă și vindecă.",
           "Nu rata ocazia de a dărui un cadou de neprețuit. Achiziționează un Harmonic Gift Card astăzi și oferă celor dragi o experiență de neuitat, plină de relaxare și vindecare.",
           "Îți mulțumesc că alegi să dăruiești sănătate și armonie.",
-                    "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
+          "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
           "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
         ],
-      price: " 300lei -> 2880lei",
-      duration: "60min -> 7ore",
+      price: " 300lei → 2880lei",
+      duration: "60min → 7ore",
       reserveLink: "https://wa.link/b4f3ug",
     },
   ]
