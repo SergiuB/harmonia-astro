@@ -1,7 +1,7 @@
 ---
 name: "Tiberiu Bozi"
 featuredIndex: 1
-images: ["./images/tibibozi/harmonii.jpg"]
+images: ["./images/tibibozi/portert1.jpg"]
 tags: ["Terapeut", "Coach", "Holistic Approach"]
 activities: ["masaj", "coaching", "terapii-shamanice", "tre", "alte-servicii"]
 services: [
@@ -18,7 +18,7 @@ services: [
           "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
         ],
       isGroup: true,
-      price: "600lei",
+      price: "~~600 lei~~ **390lei**",
       duration: "120min",
       reserveLink: "https://app.simplymeet.me/harmoniaoptima",
     },
