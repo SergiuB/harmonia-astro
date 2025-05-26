@@ -93,10 +93,7 @@ const { Content } = await entry.render();
                     <div x-show="expanded" x-transition class="pt-2">
                       {service.description &&
                         service.description.map((desc) => (
-                          <MarkdownRenderer
-                            class="py-1 text-sm"
-                            markdown={desc}
-                          />
+                          <p class="py-1 text-sm">{desc}</p>
                         ))}
                       {service.image && (
                         <Image
