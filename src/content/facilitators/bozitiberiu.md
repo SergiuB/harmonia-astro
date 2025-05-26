@@ -259,7 +259,7 @@ services: [
                     "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
           "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
         ],
-      price: "~~1100 lei~~ **770lei**, Preț redus pănâ pe 08.06.25"",
+      price: "~~1100 lei~~ **770lei**, Preț redus pănâ pe 08.06.25",
       duration: "5ore",
       reserveLink: "https://wa.link/b4f3ug",
     },
