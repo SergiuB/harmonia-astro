@@ -65,7 +65,7 @@ services:
           "Harmonic Pamper este o terapie completă de răsfăț, concepută pentru a oferi relaxare totală și îngrijire blândă printr-o combinație de tehnici de vindecare și îngrijire holistică. Perfect pentru doamne și domnișoare, acest pachet poate fi, de asemenea, un cadou ideal pentru o femeie dragă din viața ta.",
           "Servicii Incluse:",
           "1. Scanare Zyto: Începem cu o scanare Zyto pentru a evalua starea generală de sănătate și a identifica nevoile energetice și fizice ale corpului tău.",
-          "2. Scrub cu Săpun Marocan sau Dry Brushing: Alege între un scrub revitalizant cu săpun marocan sau o exfoliere blândă cu periaj uscat pentru a stimula circulația și a îndepărta celulele moarte ale pielii.",
+          "2. Dry Brushing: O exfoliere blândă cu periaj uscat pentru a stimula circulația și a îndepărta celulele moarte ale pielii.",
           "3. Ear Candling: Oferă-ți o experiență de relaxare profundă și curățare a urechilor prin această tehnică tradițională, ajutând la reducerea stresului și îmbunătățirea clarității mentale.",
           "4. Simfonia Celulelor: O terapie aromatică și de masaj, care utilizează uleiuri esențiale aplicate strategic pentru a echilibra și armoniza corpul la nivel celular.",
           "5. Harmonic Fusion: Încheiem cu o sesiune de masaj Harmonic Fusion, combinând diverse tehnici din diferite culturi pentru a aduce un echilibru complet și o stare de bine totală.",
