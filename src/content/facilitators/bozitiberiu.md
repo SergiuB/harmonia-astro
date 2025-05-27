@@ -44,14 +44,13 @@ services:
       summary: "Masaj Holistic : Zone Cheie",
       description:
         [
-          "O pauză profundă pentru corpul tău, chiar și atunci când timpul sau bugetul sunt limitate.",
           "Harmonic Focus este o sesiune inspirată din profunzimea Harmonic Reborn, concentrată pe una sau două zone ale corpului – Exemplu: spate, abdomen, maxilar și cap, picioare sau altă zonă pe care o vom stabili împreună în urma unei scurte conversații de început.",
           "Alocăm aproximativ 5 minute pentru această discuție, iar restul pentru terapie activă, personalizată în funcție de nevoile tale din acel moment. Este o experiență adaptabilă, intuitivă și atentă, care onorează ceea ce corpul tău îți cere.",
           "Este potrivită pentru tine dacă:",
           "– nu ai timp pentru o sesiune completă, dar simți nevoia unei reconectări reale",
-          "– ai un buget mai redus, dar vrei să primești o formă profundă de îngrijire",
           "– cauți o întreținere între sesiunile lungi",
           "– simți disconfort localizat și ai nevoie de o abordare țintită",
+          "– ai un buget mai redus, dar vrei să primești o formă profundă de îngrijire",
           "– vrei să descoperi stilul meu înainte de a experimenta o sesiune completă",
           "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
           "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
