@@ -154,8 +154,8 @@ services:
           "Acest tip de masaj încorporează elemente de presopunctură, masaj clasic chinezesc si alte forme de manipulare corporală și energetică, realizate pe meridiane și puncte de acupunctură.",
           "Tui Na deține următoarele abilități: învigorează circulația qi-ului și sângelui, elimină patogenii, reglează Qi-ul și sângele, armonizează Yin-Yang, hrănește și tonifiază Qi-ul si sângele, îmbunatățește funcțiile organelor,relaxează sistemul articular-osteo-muscular, calmează spiritul, reglează psiho-emoțional.",
         ],
-      price: "~~340lei~~ **238lei** Preț special până pe 8.06.25",
-      duration: "90min",
+      price: "~~440lei~~ **308lei** Preț special până pe 8.06.25",
+      duration: "135min",
       reserveLink: "https://wa.link/1by6y3",
     },
     { name: "Moxibustie", summary: "Terapie : Meridiane ", description: [
@@ -310,7 +310,7 @@ services:
           "Acest ritual iți va dedica toată căldura de care ai nevoie sufletește și fizic. Moxibustia sau ventuzele vor rămâne la alegerea terapeutului deoarece un exces de rece va avea prima dată nevoie de ventuze dar o deficiență de yang va fi mai compatibilă cu o sesiune de moxibustie. Masajul Herbal Thai Compress cu săculeți cu plante și uleiuri fierbinți vor ajuta la eliminarea patogenilor și eliberarea exteriorului ceea ce se va manifesta printr o stare de bine incă de la prima ședință. După acest rasfăț, presopunctura/acupunctura va ajuta la tonifierea organelor afectate de patogenul rece ceea ce va fortifica și pregăti sistemul imunitar pentru o posibilă următoare invazie.",
         ],
       price: "~~590 lei~~ **413lei** Preț special până pe 8.06.25",
-      duration: "135min",
+      duration: "165min",
       reserveLink: "https://wa.link/1by6y3",
     },
     {
@@ -321,7 +321,7 @@ services:
           "Terapia este destinată persoanelor cu tulburări de spirit: depresie, anxietate, episoade de bipolaritate, manie și delir. Aceste afecțiuni se pot manifesta cu grade diferite de intensitate, pot fi doar fluctuații de energie sau stări de spirit. Ambientul v a fi creat de către mirosuri care îți sting neliniștea și aprind calmul, sunete îmbietoare ale bolului tibetan îți vor aminti că facem parte dintr un tot și că nu ești singur pe calea de vindecare. Masajul chinezesc TuiNa, acupunctura și ventuzele te vor a juta să conștientizezi zonele afectate astfel încât corpul și spiritul tău vor ajunge în echilibru.",
         ],
       price: "~~590 lei~~ **413lei** Preț special până pe 8.06.25",
-      duration: "135min",
+      duration: "165min",
       reserveLink: "https://wa.link/1by6y3",
     },
     {
