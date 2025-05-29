@@ -298,7 +298,7 @@ services:
         [
           "Diagnoza va fi cheia acestei terapii deoarece trebuie sa descoperim unde și dacă există căldură/foc în organism. Ventuzele vor iniția această terapie pentru că în urma lor putem depista intensitatea și cantitatea de patogeni, astfel terapeutul poate selecta punctele specifice dezechilibrului actual. Masajul Herbal Thai Compress cu săculeți reci își va face apariția in acest ritual, ei fiind alcătuiți din plante și uleiuri care liniștesc căldura in exces, scad inflamația și tonifiază elementul apă.",
         ],
-      price: "~~430 lei~~ **301lei** Preț special până pe 8.06.25",
+      price: "~~510 lei~~ **357lei** Preț special până pe 8.06.25",
       duration: "135min",
       reserveLink: "https://wa.link/1by6y3",
     },
@@ -309,7 +309,7 @@ services:
         [
           "Acest ritual iți va dedica toată căldura de care ai nevoie sufletește și fizic. Moxibustia sau ventuzele vor rămâne la alegerea terapeutului deoarece un exces de rece va avea prima dată nevoie de ventuze dar o deficiență de yang va fi mai compatibilă cu o sesiune de moxibustie. Masajul Herbal Thai Compress cu săculeți cu plante și uleiuri fierbinți vor ajuta la eliminarea patogenilor și eliberarea exteriorului ceea ce se va manifesta printr o stare de bine incă de la prima ședință. După acest rasfăț, presopunctura/acupunctura va ajuta la tonifierea organelor afectate de patogenul rece ceea ce va fortifica și pregăti sistemul imunitar pentru o posibilă următoare invazie.",
         ],
-      price: "~~440 lei~~ **308lei** Preț special până pe 8.06.25",
+      price: "~~590 lei~~ **413lei** Preț special până pe 8.06.25",
       duration: "135min",
       reserveLink: "https://wa.link/1by6y3",
     },
@@ -320,7 +320,7 @@ services:
         [
           "Terapia este destinată persoanelor cu tulburări de spirit: depresie, anxietate, episoade de bipolaritate, manie și delir. Aceste afecțiuni se pot manifesta cu grade diferite de intensitate, pot fi doar fluctuații de energie sau stări de spirit. Ambientul v a fi creat de către mirosuri care îți sting neliniștea și aprind calmul, sunete îmbietoare ale bolului tibetan îți vor aminti că facem parte dintr un tot și că nu ești singur pe calea de vindecare. Masajul chinezesc TuiNa, acupunctura și ventuzele te vor a juta să conștientizezi zonele afectate astfel încât corpul și spiritul tău vor ajunge în echilibru.",
         ],
-      price: "~~440 lei~~ **308lei** Preț special până pe 8.06.25",
+      price: "~~590 lei~~ **413lei** Preț special până pe 8.06.25",
       duration: "135min",
       reserveLink: "https://wa.link/1by6y3",
     },
