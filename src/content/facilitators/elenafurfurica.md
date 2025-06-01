@@ -14,7 +14,7 @@ services: [
           "Această formă de gimnastică este menită să susțină femeia pe parcursul sarcinii și în perioada imediat următoare nașterii, într-un mod blând, atent și profund. Exercițiile ajută la prevenirea durerilor lombare, îmbunătățirea mobilității articulațiilor, echilibrarea respirației și sprijinirea planșeului pelvin.",
           "Practica include elemente din Pilates, Yoga, kinetoterapie și exerciții funcționale, fiind adaptată fiecărui trimestru sau situației postnatale. Mișcările sunt gândite pentru a aduce ușurare fizică și susținere emoțională — atât pentru mamă, cât și pentru copil.",
       isGroup: true,
-      price: "### lei",
+      price: " lei",
       duration: "50min",
       reserveLink:  "https://wa.link/4qcqs2",
     },
