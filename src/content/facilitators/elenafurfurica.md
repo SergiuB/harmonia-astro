@@ -7,7 +7,7 @@ activities: ["masaj", "group-pilates","pilates",  "aliniament", "kinetoterapie"]
 services: [
  {
       name: "Gimnastică Pre și Post natală",
-      summary: "Gimnastică : Sesiune individuală",
+      summary: "Sesiune individuală",
       description:
         [
           "Mișcare blândă. Sprijin profund. Conexiune cu tine și cu viața ce prinde formă.",
