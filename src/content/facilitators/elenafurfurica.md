@@ -18,7 +18,6 @@ services: [
       price: " lei",
       duration: "50min",
       reserveLink:  "https://wa.link/4qcqs2",
-      ],
     },
      {
       name: "Masaj Ritmic",
