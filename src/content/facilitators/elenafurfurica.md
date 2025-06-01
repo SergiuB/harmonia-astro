@@ -21,7 +21,7 @@ services: [
     },
      {
       name: "Masaj Ritmic",
-      summary: "Terapie prin masaj : Întregul corp",
+      summary: "Terapie prin masaj",
       description:
         [
           "Vindecare blândă, profundă și ritmică – acolo unde corpul, sufletul și spiritul se întâlnesc.",
