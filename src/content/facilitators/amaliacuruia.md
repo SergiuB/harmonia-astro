@@ -3,7 +3,7 @@ name: "Amalia"
 featuredIndex: 15
 images: ["./images/amalia/amalia.jpg"]
 tags: ["Specialist Nutriție", "Echilibru Postural",]
-activities: [ "alte-servicii", "miscare-constienta", "aliniament"]
+activities: [ "alte-servicii", "miscare-constienta", "aliniament", "nutritie"]
 services: [
  {
       name: "Evaluare și echilibrare posturală",
