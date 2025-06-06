@@ -172,7 +172,7 @@ services:
     },
         {
       name: "Abonament Harmonic Fusion",
-      summary: "Pachet : 6 Sesiuni : Locuri limitat",
+      summary: "Pachet: Locuri limitate",
       description:
         [
            "Detalii Abonament:",
