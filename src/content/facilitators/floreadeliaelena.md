@@ -170,6 +170,28 @@ services:
       duration: "90min",
       reserveLink: "https://app.simplymeet.me/deliaheals",
     },
+        {
+      name: "Abonament Harmonic Fusion",
+      summary: "Pachet : 6 Sesiuni : Locuri limitat",
+      description:
+        [
+           "Detalii Abonament:",
+          "- Număr sesiuni: 6 sesiuni de 60min Harmonic Fusion sau 4 sesiuni de 90min Harmonic Fusion",
+          "- Reducere: Beneficiați de 20% discount din prețul total al serviciilor",
+          "- Frecvența Programărilor: Puteți alege să participați la ședințe săptămânal, la două săptămâni, la trei săptămâni sau lunar, în funcție de preferințele și nevoile dumneavoastră.",
+          "- Valabilitate: Abonamentul este valabil timp de 3 luni de la data achiziției",
+          "- Ore Disponibile: Programările pot fi făcute exclusiv în sloturile de dimineață (10:30) sau după-amiază (14:30). Sloturile de seară (18:30) nu sunt disponibile în cadrul acestui abonament.",
+          "- Plata: Suma totală a abonamentului va fi achitată integral înainte de prima programare.",
+          "Locuri Limitate: În fiecare lună, sunt disponibile 3 abonamente, așa că vă recomand să-ti rezervi locul cât mai curând pentru a beneficia de acest pachet.",
+          "Contactează-mă acum pentru a afla mai multe detalii și pentru a achizitiona acest abonament avantajos.",
+          "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
+          "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
+        ],
+      isGroup: true,
+      price: "1440lei / 1440lei",
+      duration: "6 x 60min / 4 x 90min",
+      reserveLink: "https://app.simplymeet.me/deliaheals",
+    },
     {
       name: "Aromaterapie",
       summary: "Sesiune : Personalizat",
