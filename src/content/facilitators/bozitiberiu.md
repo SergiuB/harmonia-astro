@@ -1,4 +1,4 @@
- ---
+---
 name: "Tiberiu Bozi"
 featuredIndex: 1
 images: ["./images/tibibozi/portret1.jpg"]
