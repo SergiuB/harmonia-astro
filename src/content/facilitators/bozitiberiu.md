@@ -1,19 +1,11 @@
       ---
-name: "Delia Florea"
-featuredIndex: 2
-images: ["./images/deliaflorea/delia.jpg"]
-tags: ["terapeut", "medicină alternativă", "aromaterapie"]
-activities:
-  [
-    "masaj",
-    "aromaterapie",
-    "access-bars",
-    "alte-servicii",
-    "scanare-zyto",
-    "terapii-shamanice",
-  ]
+name: "Tiberiu Bozi"
+featuredIndex: 1
+images: ["./images/tibibozi/portret1.jpg"]
+tags: ["Terapeut", "Coach", "Holistic Approach"]
+activities: ["masaj", "coaching", "terapii-shamanice", "tre", "alte-servicii"]
 services:
-  [
+       [
       {
       name: "(E)Motion Somatic Release",
       summary: "Terapie Holistică : Întregul corp",
