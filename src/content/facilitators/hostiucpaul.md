@@ -9,8 +9,8 @@ services:
   {
       name: "Acupunctură",
       summary: "Terapie Holistică : Medicina Chineză",
-      price: "200 lei",
-      duration: "75min",
+        price: "200lei / 1000lei / 1500lei",
+      duration: "75min / 6sesiuni / 10sesiuni",
       reserveLink: "https://wa.link/1by6y3",
     },
     {
@@ -21,8 +21,8 @@ services:
           "Masajul de relaxare reprezintă una dintre cele mai simple, plăcute si delicate forme de masaj. Acesta este cunoscut pentru mișcările sale lente si superficiale dar ferme. Este recomandat tuturor persoanelor care au avut o perioadă mai grea.",
           "Masajul de relaxare ajută la eliberarea de endorfine si serotonina, având astfel un impact puternic la nivel psihologic. Nu doar partea psihică simte atingerea vindecatoare a masajului ci și sistemul osteo-muscular-articular beneficiază de deblocare, relaxare, eliberare si aliniere.",
         ],
-      price: "250 lei",
-      duration: "75min",
+      price: "250lei / 310lei / 360lei",
+      duration: "75min / 105min / 135min",
       reserveLink: "https://wa.link/1by6y3",
     },
     {
@@ -34,8 +34,8 @@ services:
           "Are ca scop eliminarea si decongestionarea punctelor de declanșare a durerii, decontracturarea mușchilor, restabilirea poziției corpului, ajustarea articulațiilor si rezolvarea problemelor circulatorii. Beneficiile masajului terapeutic constau in efectul antalgic, stimularea metabolismului si senzația de “ușor ca un fulg de nea”.",
         ],
       isGroup: true,
-      price: "280 lei",
-      duration: "75min",
+      price: "280lei / 340lei / 390lei",
+      duration: "75min / 105min / 135min",
       reserveLink: "https://wa.link/1by6y3",
     },
     {
@@ -47,16 +47,21 @@ services:
           "Se remarcă prin manevrele sale lente si profunde ce includ și lucrul pe punctele energetice folosind falangele, nodozitățile, cotul și antebrațul.",
           "Se spune că fascia are propria memorie si înmagazinează fiecare trăire a noastra indiferent că este de natură fizică, energetică, emotională sau spirituală. Folosind manevrele specifice putem elibera aceste trăiri captive.",
         ],
-      price: "280 lei",
-      duration: "75min",
+      price: "280lei / 340lei / 390lei",
+      duration: "75min / 105min / 135min",
       reserveLink: "https://wa.link/1by6y3",
     },
-    { name: "Reflexoterapie", summary: "Masaj : Picioare", description: [
+    { 
+    name: "Reflexoterapie", summary: "Masaj : Picioare", description: [
           "Reflexologia este o practică a medicinei tradiționale care constă în manipularea sau apăsarea zonelor/punctelor reflexogene de pe tălpi/mâini pentru a produce un efect in zonele viscerale si nu numai.",
           "Poate v-ați întrebat de ce tălpile sau palmele?, ei bine, ele fac, cunoștință cu mediul înconjurător și sunt începutul si sfârșitul fiecărui meridian energetic principal de pe corp(12 la numar).
           Reflexoterapia are rolul de a stimula neuronal, hormonal, circulator si psihologic.",
           "Beneficiile se pot simți chiar din timpul terapiei, acestea putând fi observate datorită unei descărcări emoționale, dispariția disconfortului pentru care pacientul a si venit la terapie, respirația schimbată brusc, nevoia de a urina des, schimbări de temperatură.",
-        ], price: "330lei", duration: "90min", reserveLink: "https://wa.link/1by6y3" },
+        ], 
+        price: "330lei", 
+        duration: "90min", 
+        reserveLink: "https://wa.link/1by6y3" 
+      },
     {
       name: "Masaj Ayurvedic",
       summary: "Masaj : Întregul corp",
@@ -65,8 +70,8 @@ services:
           'Masajul ayurvedic te face să te aliniezi cu propria natură. "Ayu" înseamnă viață iar "Veda" înseamnă cunoaștere astfel ca o traducere potrivită ar fi cunoașterea vieții.',
           "Acest masaj este de a te cunoaște și a conștientiza dezechilibrele adunate în viața cotidiană. Presupune mișcări lente si profunde pe meridiane si puncte astfel încât să producă un efect de drenaj energetic. Se va folosi ulei pentru fiecare doșă în parte(Vata, Pitta, Kapha)iar tehnicile se vor alege in funcție de nevoia fiecărui individ.",
         ],
-      price: "370 lei",
-      duration: "105min",
+      price: "370lei / 430lei ",
+      duration: "105min / 135min",
       reserveLink: "https://wa.link/1by6y3",
     },
     {
@@ -96,8 +101,8 @@ services:
           "Manevrele sunt fluide, efectuate cursiv si delicat, astfel încât o categorie mare de oameni pot beneficia de acest masaj. Recomandat în special persoanelor sedentare, cu atonie musculară, cât și persoanelor ce performează în sport.",
           "Beneficiile terapiei: echilibrare-deblocare energetică, reîmprospătează sistemul nervos, redă elasticitate si plasticitatea musculară, oxigenarea țesuturilor, promovarea metabolismului.",
         ],
-      price: "370 lei",
-      duration: "105min",
+      price: "370lei / 440lei",
+      duration: "105min / 135min",
       reserveLink: "https://wa.link/1by6y3",
     },
     {
@@ -122,8 +127,8 @@ services:
           "La nivelul fasciei sunt foarte mulți receptori senzoriali cu rol în transmiterea informațiilor că tre sistemul nervos central. Astfel c ă î n timpul masajului, prin intermediul atingerii sistemului nervos ii este declanșat starea de autoapărare și informare, astfel încât corpul să știe ce are de făcut pentru a elimina blocajele, patogenii emoțiile captive traumele.",
           "Când fascia este afectată pe segmente largi apar dureri de cap permanente, dureri musculare, articulare, respriație dificilă , spasme locale sau generale, postura anormală a corpului, pierderea elasticității și plasticității mușchilor, apare rigidizarea. Persoane care suferă de sedentarism pot beneficia de masaj miofascial. Deshidratarea țesuturilor, practic uscarea acestora nu mai permit mișcărilor să fie ample și fluide, astfel un stretching fascial ar fi benefic. Sistemul nervos poate beneficia de acest masajdatorită e fectului de deblocare a căilor nervoase astfel crescând eficiența impulsului nervos. Este recomndat și copiiilor cu pusee de creștere, cauza fiind asupra întinderii țesuturilor.",
         ],
-      price: "440 lei",
-      duration: "135min",
+      price: "440lei / 490lei",
+      duration: "135min / 165min",
       reserveLink: "https://wa.link/1by6y3",
     },
     {
@@ -141,8 +146,8 @@ services:
       name: "Kinetoterapie",
       summary: "Fizioterapie : Întregul corp",
       description: ["Fizioterapie : Întregul corp"],
-      price: "190 lei",
-      duration: "60min",
+      price: "130lei / 190lei",
+      duration: "30min / 60min",
       reserveLink: "https://wa.link/1by6y3",
     },
     {
