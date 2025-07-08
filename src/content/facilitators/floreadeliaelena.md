@@ -270,6 +270,28 @@ services:
       duration: "75min",
       reserveLink: "https://app.simplymeet.me/deliaheals",
     },
+           {
+      name: "Kombucha Chat",
+      summary: "O oră de prezență, povești și kombucha",
+      description:
+        [
+          "Uneori, tot ce avem nevoie este o pauză. Un loc blând, unde să fim primiți exact așa cum suntem.
+Kombucha Chat este o invitație la un moment de respiro – cu un pahar de kombucha și o conversație sinceră, fără grabă, fără agendă.",
+          "Ne așezăm împreună, povestim și lăsăm ce e de spus… să se spună.
+Ca pe vremuri, când oamenii stăteau la povești, cu inima deschisă.",
+          "📅 Programare:",
+          "Orele pot varia în funcție de celelalte angajamente deja asumate.
+Dacă dorești să rezervi un slot, te invit să verifici disponibilitatea mai jos sau să-mi scrii direct.
+Vom găsi împreună un moment potrivit.",
+          "❗ În unele zile, atunci când am nevoie de odihnă sau spațiu personal, este posibil să nu pot onora o întâlnire doar pentru acest serviciu. Îți mulțumesc pentru înțelegere și deschidere.",
+          "💌 Dacă simți că ai nevoie de un astfel de spațiu, dă-mi un semn. Ușa rămâne deschisă",
+          "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
+          "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
+        ],
+      price: "125 lei",
+      duration: "60min",
+      reserveLink: "https://app.simplymeet.me/deliaheals",
+    },
     {
       name: "5 Stars TERRApy",
       summary: "Pachet Holistic : Personalizat",
@@ -289,28 +311,6 @@ services:
       price: "1100lei",
       duration: "5ore",
       reserveLink: "https://wa.link/hc8cvw",
-    },
-       {
-      name: "Kombucha Chat",
-      summary: "O oră de prezență, povești și kombucha",
-      description:
-        [
-          "Uneori, tot ce avem nevoie este o pauză. Un loc blând, unde să fim primiți exact așa cum suntem.
-Kombucha Chat este o invitație la un moment de respiro – cu un pahar de kombucha și o conversație sinceră, fără grabă, fără agendă.",
-          "Ne așezăm împreună, povestim și lăsăm ce e de spus… să se spună.
-Ca pe vremuri, când oamenii stăteau la povești, cu inima deschisă.",
-          "📅 Programare:",
-          "Orele pot varia în funcție de celelalte angajamente deja asumate.
-Dacă dorești să rezervi un slot, te invit să verifici disponibilitatea mai jos sau să-mi scrii direct.
-Vom găsi împreună un moment potrivit.",
-          "❗ În unele zile, atunci când am nevoie de odihnă sau spațiu personal, este posibil să nu pot onora o întâlnire doar pentru acest serviciu. Îți mulțumesc pentru înțelegere și deschidere.",
-          "💌 Dacă simți că ai nevoie de un astfel de spațiu, dă-mi un semn. Ușa rămâne deschisă",
-          "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
-          "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
-        ],
-      price: "88 lei",
-      duration: "60min",
-      reserveLink: "https://app.simplymeet.me/deliaheals",
     },
     {
       name: "7 Stars TERRApy",
