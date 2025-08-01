@@ -32,5 +32,8 @@
     "@types/aos": "^3.0.7",
     "prettier": "^3.2.5",
     "prettier-plugin-astro": "^0.13.0"
+  },
+  "volta": {
+    "node": "22.18.0"
   }
 }
