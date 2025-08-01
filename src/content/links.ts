@@ -5,7 +5,7 @@ type Link = {
 };
 
 export const spaceLink = {
-  title: "Spatiu",
+  title: "Spațiu",
   url: "/space",
 };
 
