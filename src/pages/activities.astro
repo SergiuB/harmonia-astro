@@ -1,7 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 import RootLayout from "../layouts/RootLayout.astro";
-const pageTitle = "Activități";
+const pageTitle = "Servicii";
 import activities from "../data/activities.json";
 
 const facilitatorEntries = await getCollection("facilitators");
@@ -24,7 +24,7 @@ const filteredActivities = activities.filter((activity) =>
     class="flex flex-col items-center justify-center bg-primary py-24 text-white"
   >
     <h1 class="text-6xl mb-8" transition:name="facilitators-title">
-      Activități
+      {pageTitle}
     </h1>
     <div class="flex flex-col gap-2">
       <h2
