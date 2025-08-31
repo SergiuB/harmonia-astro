@@ -108,6 +108,18 @@ const images = [
         este perfect pentru sesiuni de grup, incluzând cursuri, workshopuri,
         cercuri, yoga și sound healing.
       </p>
+
+      <div class="flex items-center justify-center">
+        <a
+          id="rules"
+          class="px-10 py-4 mt-4 text-secondary-pink rounded-full border-2 border-secondary-pink text-center"
+          target="_blank"
+          rel="noopener noreferrer"
+          href="/spatiu.pdf"
+        >
+          Ofertă si regulament
+        </a>
+      </div>
       <div class="flex items-center justify-center">
         <a
           id="contact"
@@ -171,22 +183,22 @@ const images = [
         referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
   </section>
-</RootLayout>
 
-<script src="@glidejs/glide/dist/glide.min.js"></script>
+  <script src="@glidejs/glide/dist/glide.min.js"></script>
 
-<script>
-  import KeenSlider from "keen-slider";
-  ["astro:page-load"].forEach((event) => {
-    document.addEventListener(event, () => {
-      const slider = new KeenSlider("#carousel", {
-        loop: true,
-        slides: {
-          origin: "center",
-          perView: 1.2,
-          spacing: 15,
-        },
+  <script>
+    import KeenSlider from "keen-slider";
+    ["astro:page-load"].forEach((event) => {
+      document.addEventListener(event, () => {
+        const slider = new KeenSlider("#carousel", {
+          loop: true,
+          slides: {
+            origin: "center",
+            perView: 1.2,
+            spacing: 15,
+          },
+        });
       });
     });
-  });
-</script>
+  </script>
+</RootLayout>
