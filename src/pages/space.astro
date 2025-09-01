@@ -4,6 +4,7 @@ import { Image } from "astro:assets";
 import { Icon } from "astro-icon/components";
 import { getImage } from "astro:assets";
 import RootLayout from "../layouts/RootLayout.astro";
+import CalendarEvents from "../components/CalendarEvents.astro";
 const pageTitle = "Spatiu";
 import heroImage from "/src/assets/spatiu-hero.jpg";
 import heroDesktopImage from "/src/assets/spatiu-hero-desktop.jpg";
@@ -39,61 +40,6 @@ const images = [
   hub11,
   hub12,
 ];
-
-interface CalendarEvent {
-  date: string;
-  time: string;
-  title: string;
-  description: string;
-  link: string;
-}
-
-const events: CalendarEvent[] = [
-  {
-    date: "2023-09-02",
-    time: "18:00 - 20:00",
-    title: "Curs de Meditație și Mindfulness",
-    description:
-      "Învață tehnici de meditație și mindfulness pentru a-ți îmbunătăți starea de bine și a reduce stresul zilnic.",
-    link: "https://example.com/meditatie",
-  },
-  {
-    date: "2023-09-04",
-    time: "11:00 - 13:00",
-    title: "Atelier de Yoga pentru Începători",
-    description:
-      "Descoperă beneficiile yoga printr-un atelier dedicat începătorilor, condus de un instructor certificat.",
-    link: "https://example.com/yoga",
-  },
-  {
-    date: "2023-09-05",
-    time: "17:00 - 19:00",
-    title: "Sesiune de Terapie prin Sunet",
-    description:
-      "Experimentează puterea vindecătoare a sunetului într-o sesiune ghidată de terapie prin sunet.",
-    link: "https://example.com/terapie-sunet",
-  },
-];
-
-const groupEventsByDate = (events: CalendarEvent[]) => {
-  return events.reduce((acc: Record<string, CalendarEvent[]>, event) => {
-    (acc[event.date] = acc[event.date] || []).push(event);
-    return acc;
-  }, {});
-};
-
-const formatDateAsLongDayNameCommaDayMonth = (dateStr: string) => {
-  const date = new Date(dateStr);
-  const formatted = date.toLocaleDateString("ro-RO", {
-    weekday: "long",
-    day: "numeric",
-    month: "long",
-  });
-  // Capitalize first letter
-  return formatted.charAt(0).toUpperCase() + formatted.slice(1);
-};
-
-const groupedEvents = groupEventsByDate(events);
 ---
 
 <RootLayout title={pageTitle}>
@@ -185,38 +131,8 @@ const groupedEvents = groupEventsByDate(events);
         </a>
       </div>
     </div>
-    <div class="w-full p-4 max-w-lg">
-      <h2 class="text-3xl mb-4">Calendar evenimente</h2>
-      <ul class="space-y-4">
-        {
-          Object.entries(groupedEvents).map(([date, events]) => (
-            <li>
-              <h3 class="font-semibold mb-2">
-                {formatDateAsLongDayNameCommaDayMonth(date)}
-              </h3>
-              <ul class="space-y-2">
-                {events.map((event) => (
-                  <li class="bg-light bg-opacity-10 p-4 rounded-lg">
-                    {event.link && (
-                      <a
-                        href={event.link}
-                        class="text-xl font-semibold text-secondary-blue underline mt-2 inline-block"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        {event.title}
-                      </a>
-                    )}
-                    {/* <h4 class="text-xl font-semibold text-secondary-blue underline"></h4> */}
-                    <p class="italic text-xs">{event.time}</p>
-                    <p class="mt-2">{event.description}</p>
-                  </li>
-                ))}
-              </ul>
-            </li>
-          ))
-        }
-      </ul>
+    <div class="w-full p-4 max-w-lg" id="events_calendar">
+      <CalendarEvents title="Calendar evenimente" maxEvents={10} />
       <div class="w-full p-4 max-w-lg">
         <h2 class="text-3xl mb-4">Unde ne găsești</h2>
         <a
