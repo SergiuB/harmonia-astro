@@ -1,0 +1,107 @@
+---
+const API_KEY = "AIzaSyBhLWLbZN9YRofhRqczuqDpK8rDE1_1hGU";
+const CALENDAR_ID =
+  "3e84cd8b1832d2246f3b51d7307f3e26dbdde0772b3de49475056ae4beb3e8a0@group.calendar.google.com";
+export interface CalendarEventsProps {
+  maxEvents?: number;
+  title?: string;
+}
+interface GoogleCalendarEvent {
+  summary: string;
+  description?: string;
+  htmlLink?: string;
+  start: {
+    date?: string;
+    dateTime?: string;
+  };
+  end: {
+    date?: string;
+    dateTime?: string;
+  };
+}
+const maxEvents = Astro.props?.maxEvents ?? 10;
+const title = Astro.props?.title ?? "";
+const fetchEvents = async () => {
+  const now = new Date().toISOString();
+  const url = `https://www.googleapis.com/calendar/v3/calendars/${CALENDAR_ID}/events?key=${API_KEY}&timeMin=${now}&maxResults=${maxEvents}&orderBy=startTime&singleEvents=true`;
+  try {
+    const res = await fetch(url);
+    if (!res.ok) throw new Error("Failed to fetch events");
+    const data = await res.json();
+    return (data.items ?? []) as GoogleCalendarEvent[];
+  } catch (err) {
+    return null;
+  }
+};
+const eventsData = await fetchEvents();
+function groupEventsByDate(events: GoogleCalendarEvent[]) {
+  const grouped: Record<string, GoogleCalendarEvent[]> = {};
+  for (const event of events) {
+    const date = event.start.date || event.start.dateTime?.slice(0, 10);
+    if (!grouped[date]) grouped[date] = [];
+    grouped[date].push(event);
+  }
+  return grouped;
+}
+function formatDate(dateStr: string) {
+  const date = new Date(dateStr);
+  return date.toLocaleDateString("ro-RO", {
+    weekday: "long",
+    day: "numeric",
+    month: "long",
+  });
+}
+function formatTimeRange(startDateTime?: string, endDateTime?: string) {
+  if (!startDateTime) return "";
+  const start = new Date(startDateTime).toLocaleTimeString("ro-RO", {
+    hour: "2-digit",
+    minute: "2-digit",
+  });
+  let end = "";
+  if (endDateTime) {
+    end = new Date(endDateTime).toLocaleTimeString("ro-RO", {
+      hour: "2-digit",
+      minute: "2-digit",
+    });
+    return `${start} - ${end}`;
+  }
+  return start;
+}
+---
+
+{
+  Array.isArray(eventsData) && eventsData.length > 0 && (
+    <div class="w-full p-4 max-w-lg">
+      {title && <h2 class="text-3xl mb-4">{title}</h2>}
+      <ul class="space-y-4">
+        {Object.entries(groupEventsByDate(eventsData)).map(([date, events]) => (
+          <li>
+            <h3 class="font-semibold mb-2">{formatDate(date)}</h3>
+            <ul class="space-y-2">
+              {events.map((event: GoogleCalendarEvent) => (
+                <li class="bg-light bg-opacity-10 p-4 rounded-lg">
+                  {event.htmlLink ? (
+                    <a
+                      href={event.htmlLink}
+                      class="text-xl font-semibold text-secondary-blue underline mt-2 inline-block"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      {event.summary}
+                    </a>
+                  ) : (
+                    <span class="text-xl font-semibold">{event.summary}</span>
+                  )}
+                  <p class="italic text-xs">
+                    {formatTimeRange(event.start.dateTime, event.end?.dateTime)}
+                  </p>
+                  <p class="mt-2">{event.description}</p>
+                </li>
+              ))}
+            </ul>
+          </li>
+        ))}
+      </ul>
+    </div>
+  )
+}
