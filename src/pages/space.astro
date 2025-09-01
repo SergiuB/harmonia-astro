@@ -39,6 +39,61 @@ const images = [
   hub11,
   hub12,
 ];
+
+interface CalendarEvent {
+  date: string;
+  time: string;
+  title: string;
+  description: string;
+  link: string;
+}
+
+const events: CalendarEvent[] = [
+  {
+    date: "2023-09-02",
+    time: "18:00 - 20:00",
+    title: "Curs de Meditație și Mindfulness",
+    description:
+      "Învață tehnici de meditație și mindfulness pentru a-ți îmbunătăți starea de bine și a reduce stresul zilnic.",
+    link: "https://example.com/meditatie",
+  },
+  {
+    date: "2023-09-04",
+    time: "11:00 - 13:00",
+    title: "Atelier de Yoga pentru Începători",
+    description:
+      "Descoperă beneficiile yoga printr-un atelier dedicat începătorilor, condus de un instructor certificat.",
+    link: "https://example.com/yoga",
+  },
+  {
+    date: "2023-09-05",
+    time: "17:00 - 19:00",
+    title: "Sesiune de Terapie prin Sunet",
+    description:
+      "Experimentează puterea vindecătoare a sunetului într-o sesiune ghidată de terapie prin sunet.",
+    link: "https://example.com/terapie-sunet",
+  },
+];
+
+const groupEventsByDate = (events: CalendarEvent[]) => {
+  return events.reduce((acc: Record<string, CalendarEvent[]>, event) => {
+    (acc[event.date] = acc[event.date] || []).push(event);
+    return acc;
+  }, {});
+};
+
+const formatDateAsLongDayNameCommaDayMonth = (dateStr: string) => {
+  const date = new Date(dateStr);
+  const formatted = date.toLocaleDateString("ro-RO", {
+    weekday: "long",
+    day: "numeric",
+    month: "long",
+  });
+  // Capitalize first letter
+  return formatted.charAt(0).toUpperCase() + formatted.slice(1);
+};
+
+const groupedEvents = groupEventsByDate(events);
 ---
 
 <RootLayout title={pageTitle}>
@@ -131,74 +186,107 @@ const images = [
       </div>
     </div>
     <div class="w-full p-4 max-w-lg">
-      <h2 class="text-3xl mb-4">Unde ne găsești</h2>
-      <a
-        href="https://www.instagram.com/harmonia_terra"
-        class="flex flex-row gap-2 items-center py-2"
-      >
-        <Icon
-          name="instagram"
-          class="w-8 h-8 fill-primary bg-white rounded-full p-1"
-        />
-        <p>harmonia_terra</p>
-      </a>
-      <a
-        href="mailto:contact@harmoniaworld.org"
-        class="flex flex-row gap-2 items-center py-2"
-      >
-        <Icon
-          name="email"
-          class="w-8 h-8 fill-primary bg-white rounded-full p-1"
-        />
-        <p>contact@harmoniaworld.org</p>
-      </a>
-      <a
-        href="https://wa.me/40745255365"
-        class="flex flex-row gap-2 items-center py-2"
-      >
-        <Icon
-          name="whatsapp"
-          class="w-8 h-8 fill-primary bg-white rounded-full p-1"
-        />
-        <p>+40745255365</p>
-      </a>
-      <a
-        class="flex flex-row gap-2 items-center py-2"
-        href="https://maps.app.goo.gl/WHitKPypjS4khZfN9"
-      >
-        <Icon
-          name="location"
-          class="w-8 h-8 fill-primary bg-white rounded-full p-1"
-        />
-        <p>Strada Cercului 18, București</p>
-      </a>
+      <h2 class="text-3xl mb-4">Calendar evenimente</h2>
+      <ul class="space-y-4">
+        {
+          Object.entries(groupedEvents).map(([date, events]) => (
+            <li>
+              <h3 class="font-semibold mb-2">
+                {formatDateAsLongDayNameCommaDayMonth(date)}
+              </h3>
+              <ul class="space-y-2">
+                {events.map((event) => (
+                  <li class="bg-light bg-opacity-10 p-4 rounded-lg">
+                    {event.link && (
+                      <a
+                        href={event.link}
+                        class="text-xl font-semibold text-secondary-blue underline mt-2 inline-block"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        {event.title}
+                      </a>
+                    )}
+                    {/* <h4 class="text-xl font-semibold text-secondary-blue underline"></h4> */}
+                    <p class="italic text-xs">{event.time}</p>
+                    <p class="mt-2">{event.description}</p>
+                  </li>
+                ))}
+              </ul>
+            </li>
+          ))
+        }
+      </ul>
+      <div class="w-full p-4 max-w-lg">
+        <h2 class="text-3xl mb-4">Unde ne găsești</h2>
+        <a
+          href="https://www.instagram.com/harmonia_terra"
+          class="flex flex-row gap-2 items-center py-2"
+        >
+          <Icon
+            name="instagram"
+            class="w-8 h-8 fill-primary bg-white rounded-full p-1"
+          />
+          <p>harmonia_terra</p>
+        </a>
+        <a
+          href="mailto:contact@harmoniaworld.org"
+          class="flex flex-row gap-2 items-center py-2"
+        >
+          <Icon
+            name="email"
+            class="w-8 h-8 fill-primary bg-white rounded-full p-1"
+          />
+          <p>contact@harmoniaworld.org</p>
+        </a>
+        <a
+          href="https://wa.me/40745255365"
+          class="flex flex-row gap-2 items-center py-2"
+        >
+          <Icon
+            name="whatsapp"
+            class="w-8 h-8 fill-primary bg-white rounded-full p-1"
+          />
+          <p>+40745255365</p>
+        </a>
+        <a
+          class="flex flex-row gap-2 items-center py-2"
+          href="https://maps.app.goo.gl/WHitKPypjS4khZfN9"
+        >
+          <Icon
+            name="location"
+            class="w-8 h-8 fill-primary bg-white rounded-full p-1"
+          />
+          <p>Strada Cercului 18, București</p>
+        </a>
 
-      <iframe
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2848.631727103489!2d26.112324412967578!3d44.44071600101998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b1ff071ad12811%3A0xa60fe7afe8f2297a!2sHarmonia%20Terra!5e0!3m2!1sro!2sro!4v1720017428764!5m2!1sro!2sro"
-        width="100%"
-        height="450"
-        class="border-0 mt-4 rounded-2xl"
-        allowfullscreen=""
-        loading="lazy"
-        referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2848.631727103489!2d26.112324412967578!3d44.44071600101998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b1ff071ad12811%3A0xa60fe7afe8f2297a!2sHarmonia%20Terra!5e0!3m2!1sro!2sro!4v1720017428764!5m2!1sro!2sro"
+          width="100%"
+          height="450"
+          class="border-0 mt-4 rounded-2xl"
+          allowfullscreen=""
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"></iframe>
+      </div>
     </div>
-  </section>
 
-  <script src="@glidejs/glide/dist/glide.min.js"></script>
+    <script src="@glidejs/glide/dist/glide.min.js"></script>
 
-  <script>
-    import KeenSlider from "keen-slider";
-    ["astro:page-load"].forEach((event) => {
-      document.addEventListener(event, () => {
-        const slider = new KeenSlider("#carousel", {
-          loop: true,
-          slides: {
-            origin: "center",
-            perView: 1.2,
-            spacing: 15,
-          },
+    <script>
+      import KeenSlider from "keen-slider";
+      ["astro:page-load"].forEach((event) => {
+        document.addEventListener(event, () => {
+          const slider = new KeenSlider("#carousel", {
+            loop: true,
+            slides: {
+              origin: "center",
+              perView: 1.2,
+              spacing: 15,
+            },
+          });
         });
       });
-    });
-  </script>
+    </script>
+  </section>
 </RootLayout>
