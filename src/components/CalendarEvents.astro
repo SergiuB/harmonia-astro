@@ -1,7 +1,6 @@
 ---
-const API_KEY = "AIzaSyBhLWLbZN9YRofhRqczuqDpK8rDE1_1hGU";
-const CALENDAR_ID =
-  "3e84cd8b1832d2246f3b51d7307f3e26dbdde0772b3de49475056ae4beb3e8a0@group.calendar.google.com";
+const API_KEY = import.meta.env.CALENDAR_API_KEY;
+const CALENDAR_ID = import.meta.env.CALENDAR_ID;
 export interface CalendarEventsProps {
   maxEvents?: number;
   title?: string;
