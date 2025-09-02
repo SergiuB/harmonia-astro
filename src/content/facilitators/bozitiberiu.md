@@ -99,7 +99,7 @@ services:
            isGroup: true,
               price: "950lei",
       duration: "3ore 30min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima",
+       reserveLink: "https://wa.link/b4f3ug",
     },
     {
       name: "Harmonic Union",
