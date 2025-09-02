@@ -7,5 +7,6 @@ import netlify from "@astrojs/netlify"; // or '/edge' depending on target
 // https://astro.build/config
 export default defineConfig({
   integrations: [icon(), tailwind(), alpinejs()],
+  output: "server",
   adapter: netlify(),
 });
