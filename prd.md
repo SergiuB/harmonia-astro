@@ -66,6 +66,25 @@ Describe the physical location and facilities available for therapists.
 
 ---
 
+## Calendar Events Integration Notes
+
+- The Google Calendar event description can contain special keys for links:
+  - `detailsLink:` followed by either an anchor tag, a full URL (https://...), or a www._ URL (e.g. www.example.com). If a www._ URL is used, it will be converted to https:// automatically.
+  - `registerLink:` works the same way as above.
+- Example formats supported:
+  - `detailsLink: <a href="https://example.com">link</a>`
+  - `detailsLink: https://example.com`
+  - `detailsLink: www.example.com`
+  - `registerLink: <a href="https://app.simplymeet.me/harmoniaoptima">link</a>`
+  - `registerLink: https://app.simplymeet.me/harmoniaoptima`
+  - `registerLink: www.simplymeet.me/harmoniaoptima`
+- If a `detailsLink` is present, the event title will be a link to it. If not, the title is plain text.
+- If a `registerLink` is present, a "Rezervă" button will be shown, styled as in the facilitator service cards, and linking to the register URL.
+- The rest of the description (after removing the links) is shown as the event description.
+- All link formats are supported in any order, and extra <br> tags are cleaned up.
+
+---
+
 ## Technical Details
 
 - **Framework:** Astro (v4), Typescript
