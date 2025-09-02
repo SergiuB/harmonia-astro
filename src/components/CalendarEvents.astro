@@ -145,7 +145,10 @@ function parseDescription(description?: string) {
                         event.end?.dateTime,
                       )}
                     </p>
-                    <p class="mt-2 whitespace-pre-line">{text}</p>
+                    <div
+                      class="prose mt-2 text-white prose-headings:text-white prose-p:text-white prose-li:text-white prose-strong:text-white prose-a:text-white"
+                      set:html={text}
+                    />
                   </li>
                 );
               })}
