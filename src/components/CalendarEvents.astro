@@ -98,6 +98,12 @@ function parseDescription(description?: string) {
   text = text.replace(/(<br\s*\/?>)+/g, "\n").trim();
   return { detailsLink, registerLink, text };
 }
+function wordCount(html: string) {
+  return html
+    .replace(/<[^>]+>/g, " ")
+    .split(/\s+/)
+    .filter(Boolean).length;
+}
 ---
 
 {
@@ -113,6 +119,17 @@ function parseDescription(description?: string) {
                 const { detailsLink, registerLink, text } = parseDescription(
                   event.description,
                 );
+                const wordLimit = 50;
+                const isLong = wordCount(text) > wordLimit;
+                let truncatedHtml = text;
+                if (isLong) {
+                  // Truncate for preview
+                  const words = text
+                    .replace(/<[^>]+>/g, " ")
+                    .split(/\s+/)
+                    .filter(Boolean);
+                  truncatedHtml = words.slice(0, wordLimit).join(" ") + "...";
+                }
                 return (
                   <li class="bg-light bg-opacity-10 p-4 rounded-lg">
                     <div class="flex items-center justify-between gap-2">
@@ -145,10 +162,40 @@ function parseDescription(description?: string) {
                         event.end?.dateTime,
                       )}
                     </p>
-                    <div
-                      class="prose mt-2 text-white prose-headings:text-white prose-p:text-white prose-li:text-white prose-strong:text-white prose-a:text-white"
-                      set:html={text}
-                    />
+                    {isLong ? (
+                      <div class="mt-2">
+                        <input
+                          type="checkbox"
+                          id={`toggle-${date}-${event.summary}`}
+                          class="peer hidden"
+                        />
+                        <div
+                          class="prose mt-2 text-white prose-headings:text-white prose-p:text-white prose-li:text-white prose-strong:text-white prose-a:text-white peer-checked:hidden"
+                          set:html={truncatedHtml}
+                        />
+                        <label
+                          for={`toggle-${date}-${event.summary}`}
+                          class="block mt-2 text-secondary-blue underline text-sm cursor-pointer select-none peer-checked:hidden"
+                        >
+                          Afișează mai mult
+                        </label>
+                        <div
+                          class="prose mt-2 text-white prose-headings:text-white prose-p:text-white prose-li:text-white prose-strong:text-white prose-a:text-white hidden peer-checked:block"
+                          set:html={text}
+                        />
+                        <label
+                          for={`toggle-${date}-${event.summary}`}
+                          class="block mt-2 text-secondary-blue underline text-sm cursor-pointer select-none hidden peer-checked:block w-full text-center"
+                        >
+                          Ascunde
+                        </label>
+                      </div>
+                    ) : (
+                      <div
+                        class="prose mt-2 text-white prose-headings:text-white prose-p:text-white prose-li:text-white prose-strong:text-white prose-a:text-white"
+                        set:html={text}
+                      />
+                    )}
                   </li>
                 );
               })}
