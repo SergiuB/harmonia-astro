@@ -67,6 +67,37 @@ function formatTimeRange(startDateTime?: string, endDateTime?: string) {
   }
   return start;
 }
+function parseDescription(description?: string) {
+  if (!description) return { detailsLink: null, registerLink: null, text: "" };
+  let detailsLink = null;
+  let registerLink = null;
+  let text = description;
+  // Match anchor tag, plain URL, or www.* for detailsLink
+  const detailsMatch = description.match(
+    /detailsLink:\s*(?:<a[^>]*href=["']([^"']+)["'][^>]*>.*?<\/a>|(https?:\/\/[^\s<]+)|(www\.[^\s<]+))/,
+  );
+  if (detailsMatch) {
+    detailsLink = detailsMatch[1] || detailsMatch[2] || detailsMatch[3];
+    if (detailsLink && !/^https?:\/\//.test(detailsLink)) {
+      detailsLink = `https://${detailsLink}`;
+    }
+    text = text.replace(detailsMatch[0], "");
+  }
+  // Match anchor tag, plain URL, or www.* for registerLink
+  const registerMatch = description.match(
+    /registerLink:\s*(?:<a[^>]*href=["']([^"']+)["'][^>]*>.*?<\/a>|(https?:\/\/[^\s<]+)|(www\.[^\s<]+))/,
+  );
+  if (registerMatch) {
+    registerLink = registerMatch[1] || registerMatch[2] || registerMatch[3];
+    if (registerLink && !/^https?:\/\//.test(registerLink)) {
+      registerLink = `https://${registerLink}`;
+    }
+    text = text.replace(registerMatch[0], "");
+  }
+  // Remove extra <br> tags and trim
+  text = text.replace(/(<br\s*\/?>)+/g, "\n").trim();
+  return { detailsLink, registerLink, text };
+}
 ---
 
 {
@@ -78,26 +109,46 @@ function formatTimeRange(startDateTime?: string, endDateTime?: string) {
           <li>
             <h3 class="font-semibold mb-2">{formatDate(date)}</h3>
             <ul class="space-y-2">
-              {events.map((event: GoogleCalendarEvent) => (
-                <li class="bg-light bg-opacity-10 p-4 rounded-lg">
-                  {event.htmlLink ? (
-                    <a
-                      href={event.htmlLink}
-                      class="text-xl font-semibold text-secondary-blue underline mt-2 inline-block"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      {event.summary}
-                    </a>
-                  ) : (
-                    <span class="text-xl font-semibold">{event.summary}</span>
-                  )}
-                  <p class="italic text-xs">
-                    {formatTimeRange(event.start.dateTime, event.end?.dateTime)}
-                  </p>
-                  <p class="mt-2">{event.description}</p>
-                </li>
-              ))}
+              {events.map((event: GoogleCalendarEvent) => {
+                const { detailsLink, registerLink, text } = parseDescription(
+                  event.description,
+                );
+                return (
+                  <li class="bg-light bg-opacity-10 p-4 rounded-lg">
+                    <div class="flex items-center justify-between gap-2">
+                      {detailsLink ? (
+                        <a
+                          href={detailsLink}
+                          class="text-xl font-semibold text-secondary-blue underline mt-2 inline-block"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          {event.summary}
+                        </a>
+                      ) : (
+                        <span class="text-xl font-semibold">
+                          {event.summary}
+                        </span>
+                      )}
+                      {registerLink && (
+                        <a
+                          href={registerLink}
+                          class="rounded-xl bg-secondary-pink uppercase h-7 px-4 pt-1 mt-2 text-white text-sm"
+                        >
+                          Rezervă
+                        </a>
+                      )}
+                    </div>
+                    <p class="italic text-xs">
+                      {formatTimeRange(
+                        event.start.dateTime,
+                        event.end?.dateTime,
+                      )}
+                    </p>
+                    <p class="mt-2 whitespace-pre-line">{text}</p>
+                  </li>
+                );
+              })}
             </ul>
           </li>
         ))}
