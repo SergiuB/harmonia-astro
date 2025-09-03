@@ -1,4 +1,4 @@
--sa--
+---
 name: "Delia Florea"
 featuredIndex: 2
 images: ["./images/deliaflorea/delia.jpg"]
