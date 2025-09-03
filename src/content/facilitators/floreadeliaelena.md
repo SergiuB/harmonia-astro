@@ -1,4 +1,4 @@
----
+-sa--
 name: "Delia Florea"
 featuredIndex: 2
 images: ["./images/deliaflorea/delia.jpg"]
@@ -85,8 +85,8 @@ services:
           "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
           "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
         ],
-      price: "980lei",
-      duration: "270min",
+      price: "890lei",
+      duration: "240min",
       reserveLink: "https://app.simplymeet.me/deliaheals",
     },
     {
@@ -342,7 +342,7 @@ Vom găsi împreună un moment potrivit.",
           "QiNeiZang - Paul foloseste o tehnică de masaj profundă, care se concentrează pe organele interne. Acest tratament ajută la detoxifierea organismului, îmbunătățirea funcționării organelor și eliberarea blocajelor energetice.",
           "Ventuze - Terapia cu ventuze stimulează circulația sângelui și a energiei, ajutând la reducerea durerilor și a tensiunilor musculare. Paul folosește această metodă tradițională pentru a îmbunătăți starea generală de sănătate și bunăstare.",
           "Harmonic Reborn - Tibi oferă un masaj holistic complet si complex ce integrează diverse tehnici pentru a aduce relaxare profundă și revitalizare. Harmonic Reborn este conceput pentru a echilibra corpul, mintea și spiritul, oferind o experiență de vindecare completă.",
-          "Harmonic Spa - Delia combină Gua Sha, masajul capilar, EarCandling și, la alegere intre Dry Brushing sau Maroccan Scrub pentru a crea o sesiune armonioasa. Aceste tehnici tradiționale ajută la eliberarea tensiunilor, stimularea circulației și detoxifierea organismului.",
+          "Harmonic Spa - Delia combină Gua Sha, masajul capilar, EarCandling și Dry Brushing pentru a crea o sesiune armonioasa. Aceste tehnici tradiționale ajută la eliberarea tensiunilor, stimularea circulației și detoxifierea organismului.",
           "Simfonia Celulelor - Delia folosește uleiuri esențiale Doterra pentru a aplica această tehnică care este un tratament ce îmbunătățește sănătatea celulară și echilibrul energetic. Această terapie aduce beneficii profunde pentru sănătatea fizică și emoțională.",
           "Rezervă-ți acum locul pentru a experimenta o transformare holistică unică și profundă.",
           "Contactează-ne pentru a afla mai multe detalii și pentru a face o programare. Vindecarea ta completă este la un pas distanță!",
