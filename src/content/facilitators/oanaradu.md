@@ -7,7 +7,7 @@ activities: ["group-yoga", "yoga"]
 services: [
      {
       name: "Hatha Yoga",
-      summary: "Marțea, 19:30 – 21:00 | Sesiune de Grup",
+      summary: "Marțea, 19:30 – 21:00  Sesiune de Grup",
       description:
         [
         "O clasă de Hatha Yoga accesibilă, potrivită pentru toate nivelurile – de la începători la practicanți avansați.",
