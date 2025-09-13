@@ -1,6 +1,6 @@
 ---
 name: "Oana Radu"
-featuredIndex: 5
+featuredIndex: 4
 images: ["./images/oanaradu/oanaradu.jpeg"]
 tags: ["Instructor", "Hatha Yoga",]
 activities: ["group-yoga", "yoga"]
