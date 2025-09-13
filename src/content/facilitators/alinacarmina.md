@@ -42,49 +42,8 @@ iar în caz de urgențe medicale neprevăzute, se va plăti jumătate din cost, 
 rezervarea spațiului și timpul alocat care se pierde. Vă mulțumim pentru înțelegere!",
         ],
       isGroup: true,
-      price: "300lei / 350lei",
-      duration: "60min / 90min",
-      reserveLink:  "https://wa.link/djgx8y",
-    },
-     {
-      name: "Abonament Back in Harmony",
-      summary: "Sesiuni săptămânale : Întregul corp",
-      description:
-        [
-          "Back in Harmony este o combinație de tehnici terapeutice de masaj, mobilizări și întinderi, ce integrează elemente din toate tipurile de terapii manuale studiate de mine: masaj terapeutic thailandez, yumeiho, masajul rusesc, shiatsu, presopunctură/acupresură, masajul somatic și de relaxare, masajul limfatic și anticelulitic, cursul de technician/terapeut masseur, bucăți de craniosacral, miofascial și fascial release, masajul visceral/abdominal, deep tissue, Chi Nei Tsang și altele. Este o abordare complexă ce lucrează pe mai multe niveluri ale corpului și vizează sistemul musculo-scheletic, fascia și căile energetice, folosind presiune adâncă, mișcări lente și intenționate, precum și mobilizări blânde. Este destinat să detensioneze și să elibereze contracturile musculare, să restabilească flexibilitatea și mobilitatea, să îmbunătățească simetria și postura, și să ajute în menținerea, îmbunătățirea și, uneori, recuperarea, în timp, în cazuri de afecțiuni precum hernii de disc, cifoze, lordoze, scolioze etc.",
-          "Beneficiile acestei abordări sunt multiple:",
-          "• Ameliorarea durerii și reducerea tensiunii musculare și a contracturilor.",
-          "• Îmbunătățirea flexibilității și mobilității, în special pentru persoanele cu mișcări restricționate
-datorită leziunilor sau sedentarismului prelungit.Îmbunătățirea flexibilității și mobilității, în special pentru persoanele cu mișcări restricționate
-datorită leziunilor sau sedentarismului prelungit.",
-          "• Realinierea posturii corpului și restabilirea simetriei, abordând probleme precum scolioza, cifoza
-și alte dezechilibre posturale.",
-          "• Stimularea fluxului sanguin și a circulației limfatice, contribuind la eliminarea toxinelor și
-îmbunătățirea metabolismului general al corpului.",
-"• Reducerea stresului și eliberarea emoțională prin manipularea canalelor energetice.",
-"• Îmbunătățirea funcției sistemului nervos, sporind abilitatea corpului de a se autoregla și de a se
-vindeca din interior.",
-"• Îmbunătățirea funcției respiratorii, benefică pentru persoanele cu dificultăți de respirație sau
-tensiune în zona toracică.",
-"• Creșterea vitalității și echilibrului emoțional, promovând un sentiment de pace și bunăstare.",
-"Această abordare este adaptabilă, sesiunea este personalizată în funcție de nevoile specifice ale
-fiecăruia, asigurând astfel o terapie eficientă pentru diverse condiții.",
-"Pentru persoanele care vin doar o dată, se lucrează un masaj standard, aliniat la ceea ce este nevoie în
-acel moment. Poate fi blând și relaxant, sau mai profund, un pic dureros, dar cu efect mai îndelungat.",
-"Pentru un efect terapeutic mai puternic și cu efecte vizibile, recomand abordarea cu recurență
-săptămânală, unde voi putea aplica diverse tehnici de la o ședință la alta, astfel încât să lucrăm pas cu
-pas spre o îmbunătățire și transformare mai profundă.",
-"În caz de afecțiuni precum hernia de disc, protruzii sau altele asemenea, în special cu inflamație și
-durere mai mare persistentă, recomand o perioadă în care să lucrăm de 2 ori pe săptămână, până la
-eliberarea durerii acute.",
-"Se va lucra peste haine, pe saltea la sol.",
-"*Anularea programării: Anularea ședinței se poate face cu cel târziu de 42 ore înainte de programare, altfel se va plăti integral,
-iar în caz de urgențe medicale neprevăzute, se va plăti jumătate din cost, datorită cheltuielilor pentru
-rezervarea spațiului și timpul alocat care se pierde. Vă mulțumim pentru înțelegere!",
-        ],
-      isGroup: true,
-      price: "250lei / 300lei",
-      duration: "60min / 90min",
+      price: "350lei",
+      duration: "90min",
       reserveLink:  "https://wa.link/djgx8y",
     },
     {
@@ -177,8 +136,8 @@ iar în caz de urgențe medicale neprevăzute, se va plăti jumătate din cost, 
 rezervarea spațiului și timpul alocat care se pierde. Vă mulțumim pentru înțelegere!",
 "*Dacă ai nevoie de alte opțiuni de preț sau durată, mă poți contacta și vom găsi împreună varianta care ți se potrivește cel mai bine.",
         ],
-      price: "250lei / 300lei",
-      duration: "60min / 90min",
+      price: "300lei",
+      duration: "90min",
       reserveLink: "https://wa.link/djgx8y",
     },
     {
@@ -202,8 +161,8 @@ Anularea ședinței se poate face cu cel târziu de 42 ore înainte de programar
 iar în caz de urgențe medicale neprevăzute, se va plăti jumătate din cost, datorită cheltuielilor pentru
 rezervarea spațiului și timpul alocat care se pierde. Vă mulțumim pentru înțelegere!",
 ],
-      price: "300lei / 2500lei",
-      duration: "75min / 10 x 75min",
+      price: "300lei",
+      duration: "75min",
       reserveLink: "https://wa.link/djgx8y",
     },
       {
@@ -271,8 +230,8 @@ antrenament",
 Anularea ședinței se poate face cu cel târziu de 42 ore înainte de programare, altfel se va plăti integral, iar în caz de urgențe medicale neprevăzute, se va plăti jumătate din cost, datorită cheltuielilor pentru rezervarea spațiului și timpul alocat care se pierde. Vă mulțumim pentru înțelegere!",
         ],
       isGroup: true,
-      price: "250lei / 300lei",
-      duration: "60min / 90min",
+      price: "300lei",
+      duration: "90min",
       reserveLink: "https://wa.link/djgx8y",
     },
     
