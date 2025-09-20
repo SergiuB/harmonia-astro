@@ -7,7 +7,6 @@ activities:
   [
     "masaj",
     "aromaterapie",
-    "access-bars",
     "alte-servicii",
     "scanare-zyto",
     "terapii-shamanice",
