@@ -9,6 +9,7 @@ activities:
     "aromaterapie",
     "alte-servicii",
     "scanare-zyto",
+    "cupping",
     "terapii-shamanice",
   ]
 services:
