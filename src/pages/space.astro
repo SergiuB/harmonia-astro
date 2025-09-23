@@ -221,7 +221,7 @@ const showEvents = import.meta.env.FF_SHOW_EVENTS;
         const eventsCalendar = document.getElementById("events_calendar");
         const urlParams = new URLSearchParams(window.location.search);
         const showEvents = urlParams.get("showEvents");
-        
+
         if (eventsCalendar && showEvents === "true") {
           eventsCalendar.style.display = "block";
         }
