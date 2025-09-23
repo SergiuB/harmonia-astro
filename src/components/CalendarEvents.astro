@@ -1,0 +1,227 @@
+---
+const API_KEY = import.meta.env.CALENDAR_API_KEY;
+const CALENDAR_ID = import.meta.env.CALENDAR_ID;
+export interface CalendarEventsProps {
+  maxEvents?: number;
+  title?: string;
+}
+interface GoogleCalendarEvent {
+  summary: string;
+  description?: string;
+  htmlLink?: string;
+  start: {
+    date?: string;
+    dateTime?: string;
+    timeZone?: string;
+  };
+  end: {
+    date?: string;
+    dateTime?: string;
+    timeZone?: string;
+  };
+}
+const maxEvents = Astro.props?.maxEvents ?? 10;
+const title = Astro.props?.title ?? "";
+const fetchEvents = async () => {
+  const now = new Date().toISOString();
+  const url = `https://www.googleapis.com/calendar/v3/calendars/${CALENDAR_ID}/events?key=${API_KEY}&timeMin=${now}&maxResults=${maxEvents}&orderBy=startTime&singleEvents=true`;
+  try {
+    const res = await fetch(url);
+    if (!res.ok) throw new Error("Failed to fetch events");
+    const data = await res.json();
+    return (data.items ?? []) as GoogleCalendarEvent[];
+  } catch (err) {
+    return null;
+  }
+};
+const eventsData = await fetchEvents();
+function groupEventsByDate(events: GoogleCalendarEvent[]) {
+  const grouped: Record<string, GoogleCalendarEvent[]> = {};
+  for (const event of events) {
+    const date = event.start.date || event.start.dateTime?.slice(0, 10);
+    if (!date) throw new Error("Event is missing a start date");
+    if (!grouped[date]) grouped[date] = [];
+    grouped[date].push(event);
+  }
+  return grouped;
+}
+function formatDate(dateStr: string, tz?: string) {
+  const date = new Date(dateStr);
+  return date.toLocaleDateString("ro-RO", {
+    weekday: "long",
+    day: "numeric",
+    month: "long",
+    ...(tz ? { timeZone: tz } : {}),
+  });
+}
+function formatTimeRange(
+  startDateTime?: string,
+  endDateTime?: string,
+  tz?: string,
+) {
+  if (!startDateTime) return "";
+  const start = new Date(startDateTime).toLocaleTimeString("ro-RO", {
+    hour: "2-digit",
+    minute: "2-digit",
+    ...(tz ? { timeZone: tz } : {}),
+  });
+  let end = "";
+  if (endDateTime) {
+    end = new Date(endDateTime).toLocaleTimeString("ro-RO", {
+      hour: "2-digit",
+      minute: "2-digit",
+      ...(tz ? { timeZone: tz } : {}),
+    });
+    return `${start} - ${end}`;
+  }
+  return start;
+}
+function parseDescription(description?: string) {
+  if (!description) return { detailsLink: null, registerLink: null, text: "" };
+  let detailsLink = null;
+  let registerLink = null;
+  let text = description;
+  // Match anchor tag, plain URL, or www.* for detailsLink
+  const detailsMatch = description.match(
+    /detailsLink:\s*(?:<a[^>]*href=["']([^"']+)["'][^>]*>.*?<\/a>|(https?:\/\/[^\s<]+)|(www\.[^\s<]+))/,
+  );
+  if (detailsMatch) {
+    detailsLink = detailsMatch[1] || detailsMatch[2] || detailsMatch[3];
+    if (detailsLink && !/^https?:\/\//.test(detailsLink)) {
+      detailsLink = `https://${detailsLink}`;
+    }
+    text = text.replace(detailsMatch[0], "");
+  }
+  // Match anchor tag, plain URL, or www.* for registerLink
+  const registerMatch = description.match(
+    /registerLink:\s*(?:<a[^>]*href=["']([^"']+)["'][^>]*>.*?<\/a>|(https?:\/\/[^\s<]+)|(www\.[^\s<]+))/,
+  );
+  if (registerMatch) {
+    registerLink = registerMatch[1] || registerMatch[2] || registerMatch[3];
+    if (registerLink && !/^https?:\/\//.test(registerLink)) {
+      registerLink = `https://${registerLink}`;
+    }
+    text = text.replace(registerMatch[0], "");
+  }
+  // Remove extra <br> tags and trim
+  text = text.replace(/(<br\s*\/?>)+/g, "\n").trim();
+  return { detailsLink, registerLink, text };
+}
+function wordCount(html: string) {
+  return html
+    .replace(/<[^>]+>/g, " ")
+    .split(/\s+/)
+    .filter(Boolean).length;
+}
+---
+
+{
+  Array.isArray(eventsData) && eventsData.length > 0 && (
+    <div class="w-full p-4 max-w-lg">
+      {title && <h2 class="text-3xl mb-4">{title}</h2>}
+      <ul class="space-y-4">
+        {Object.entries(groupEventsByDate(eventsData)).map(([date, events]) => (
+          <li>
+            {/* Use the timezone from the first event of the group if available */}
+            <h3 class="font-semibold mb-2">
+              {formatDate(
+                date,
+                events[0]?.start?.timeZone || events[0]?.end?.timeZone,
+              )}
+            </h3>
+            <ul class="space-y-2">
+              {events.map((event: GoogleCalendarEvent) => {
+                const { detailsLink, registerLink, text } = parseDescription(
+                  event.description,
+                );
+                const wordLimit = 50;
+                const isLong = wordCount(text) > wordLimit;
+                let truncatedHtml = text;
+                if (isLong) {
+                  // Truncate for preview
+                  const words = text
+                    .replace(/<[^>]+>/g, " ")
+                    .split(/\s+/)
+                    .filter(Boolean);
+                  truncatedHtml = words.slice(0, wordLimit).join(" ") + "...";
+                }
+                // Use event's timezone if present
+                const eventTimeZone =
+                  event.start?.timeZone || event.end?.timeZone;
+                return (
+                  <li class="bg-light bg-opacity-10 p-4 rounded-lg">
+                    <div class="flex items-center justify-between gap-2">
+                      {detailsLink ? (
+                        <a
+                          href={detailsLink}
+                          class="text-xl font-semibold text-secondary-blue underline mt-2 inline-block"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          {event.summary}
+                        </a>
+                      ) : (
+                        <span class="text-xl font-semibold">
+                          {event.summary}
+                        </span>
+                      )}
+                      {registerLink && (
+                        <a
+                          href={registerLink}
+                          class="rounded-xl bg-secondary-pink uppercase h-7 px-4 pt-1 mt-2 text-white text-sm"
+                        >
+                          Rezervă
+                        </a>
+                      )}
+                    </div>
+                    <p class="italic text-xs">
+                      {formatTimeRange(
+                        event.start.dateTime,
+                        event.end?.dateTime,
+                        eventTimeZone,
+                      )}
+                    </p>
+                    {isLong ? (
+                      <div class="mt-2">
+                        <input
+                          type="checkbox"
+                          id={`toggle-${date}-${event.summary}`}
+                          class="peer hidden"
+                        />
+                        <div
+                          class="prose mt-2 text-white prose-headings:text-white prose-p:text-white prose-li:text-white prose-strong:text-white prose-a:text-white peer-checked:hidden"
+                          set:html={truncatedHtml}
+                        />
+                        <label
+                          for={`toggle-${date}-${event.summary}`}
+                          class="block mt-2 text-secondary-blue underline text-sm cursor-pointer select-none peer-checked:hidden"
+                        >
+                          Afișează mai mult
+                        </label>
+                        <div
+                          class="prose mt-2 text-white prose-headings:text-white prose-p:text-white prose-li:text-white prose-strong:text-white prose-a:text-white hidden peer-checked:block"
+                          set:html={text}
+                        />
+                        <label
+                          for={`toggle-${date}-${event.summary}`}
+                          class="block mt-2 text-secondary-blue underline text-sm cursor-pointer select-none hidden peer-checked:block w-full text-center"
+                        >
+                          Ascunde
+                        </label>
+                      </div>
+                    ) : (
+                      <div
+                        class="prose mt-2 text-white prose-headings:text-white prose-p:text-white prose-li:text-white prose-strong:text-white prose-a:text-white"
+                        set:html={text}
+                      />
+                    )}
+                  </li>
+                );
+              })}
+            </ul>
+          </li>
+        ))}
+      </ul>
+    </div>
+  )
+}

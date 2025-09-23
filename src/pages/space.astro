@@ -4,6 +4,7 @@ import { Image } from "astro:assets";
 import { Icon } from "astro-icon/components";
 import { getImage } from "astro:assets";
 import RootLayout from "../layouts/RootLayout.astro";
+import CalendarEvents from "../components/CalendarEvents.astro";
 const pageTitle = "Spatiu";
 import heroImage from "/src/assets/spatiu-hero.jpg";
 import heroDesktopImage from "/src/assets/spatiu-hero-desktop.jpg";
@@ -39,6 +40,8 @@ const images = [
   hub11,
   hub12,
 ];
+
+const showEvents = import.meta.env.FF_SHOW_EVENTS;
 ---
 
 <RootLayout title={pageTitle}>
@@ -130,6 +133,21 @@ const images = [
         </a>
       </div>
     </div>
+    {
+      showEvents && (
+        <div
+          class="w-full p-4 max-w-lg"
+          id="events_calendar"
+          style="display: none;"
+        >
+          <CalendarEvents
+            server:defer
+            title="Calendar evenimente"
+            maxEvents={10}
+          />
+        </div>
+      )
+    }
     <div class="w-full p-4 max-w-lg">
       <h2 class="text-3xl mb-4">Unde ne găsești</h2>
       <a
@@ -198,6 +216,14 @@ const images = [
             spacing: 15,
           },
         });
+
+        // Check localStorage and show/hide calendar
+        const eventsCalendar = document.getElementById("events_calendar");
+        const showEvents = localStorage.getItem("SHOW_EVENTS");
+        console.log("SHOW_EVENTS:", showEvents);
+        if (eventsCalendar && localStorage.getItem("SHOW_EVENTS") === "true") {
+          eventsCalendar.style.display = "block";
+        }
       });
     });
   </script>
