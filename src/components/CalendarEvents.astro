@@ -1,6 +1,7 @@
 ---
 const API_KEY = import.meta.env.CALENDAR_API_KEY;
 const CALENDAR_ID = import.meta.env.CALENDAR_ID;
+const EVENT_WORD_LIMIT = 30;
 export interface CalendarEventsProps {
   maxEvents?: number;
   title?: string;
@@ -47,12 +48,16 @@ function groupEventsByDate(events: GoogleCalendarEvent[]) {
 }
 function formatDate(dateStr: string, tz?: string) {
   const date = new Date(dateStr);
-  return date.toLocaleDateString("ro-RO", {
+  const formattedDate = date.toLocaleDateString("ro-RO", {
     weekday: "long",
     day: "numeric",
     month: "long",
     ...(tz ? { timeZone: tz } : {}),
   });
+  return formattedDate
+    .split(' ')
+    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+    .join(' ');
 }
 function formatTimeRange(
   startDateTime?: string,
@@ -134,8 +139,7 @@ function wordCount(html: string) {
                 const { detailsLink, registerLink, text } = parseDescription(
                   event.description,
                 );
-                const wordLimit = 50;
-                const isLong = wordCount(text) > wordLimit;
+                const isLong = wordCount(text) > EVENT_WORD_LIMIT;
                 let truncatedHtml = text;
                 if (isLong) {
                   // Truncate for preview
@@ -143,7 +147,8 @@ function wordCount(html: string) {
                     .replace(/<[^>]+>/g, " ")
                     .split(/\s+/)
                     .filter(Boolean);
-                  truncatedHtml = words.slice(0, wordLimit).join(" ") + "...";
+                  truncatedHtml =
+                    words.slice(0, EVENT_WORD_LIMIT).join(" ") + "...";
                 }
                 // Use event's timezone if present
                 const eventTimeZone =
@@ -170,7 +175,7 @@ function wordCount(html: string) {
                           href={registerLink}
                           class="rounded-xl bg-secondary-pink uppercase h-7 px-4 pt-1 mt-2 text-white text-sm"
                         >
-                          Rezervă
+                          Participă
                         </a>
                       )}
                     </div>
@@ -204,7 +209,7 @@ function wordCount(html: string) {
                         />
                         <label
                           for={`toggle-${date}-${event.summary}`}
-                          class="block mt-2 text-secondary-blue underline text-sm cursor-pointer select-none hidden peer-checked:block w-full text-center"
+                          class="block mt-2 text-secondary-blue underline text-sm cursor-pointer select-none hidden peer-checked:block"
                         >
                           Ascunde
                         </label>
