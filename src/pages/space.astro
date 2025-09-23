@@ -217,11 +217,12 @@ const showEvents = import.meta.env.FF_SHOW_EVENTS;
           },
         });
 
-        // Check localStorage and show/hide calendar
+        // Check URL parameter and show/hide calendar
         const eventsCalendar = document.getElementById("events_calendar");
-        const showEvents = localStorage.getItem("SHOW_EVENTS");
-        console.log("SHOW_EVENTS:", showEvents);
-        if (eventsCalendar && localStorage.getItem("SHOW_EVENTS") === "true") {
+        const urlParams = new URLSearchParams(window.location.search);
+        const showEvents = urlParams.get("showEvents");
+        
+        if (eventsCalendar && showEvents === "true") {
           eventsCalendar.style.display = "block";
         }
       });
