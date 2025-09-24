@@ -135,11 +135,7 @@ const showEvents = import.meta.env.FF_SHOW_EVENTS;
     </div>
     {
       showEvents && (
-        <div
-          class="w-full p-4 max-w-lg"
-          id="events_calendar"
-          style="display: none;"
-        >
+        <div class="w-full p-4 max-w-lg" id="events_calendar">
           <CalendarEvents server:defer title="Calendar activități" />
         </div>
       )
@@ -212,15 +208,6 @@ const showEvents = import.meta.env.FF_SHOW_EVENTS;
             spacing: 15,
           },
         });
-
-        // Check URL parameter and show/hide calendar
-        const eventsCalendar = document.getElementById("events_calendar");
-        const urlParams = new URLSearchParams(window.location.search);
-        const showEvents = urlParams.get("showEvents");
-
-        if (eventsCalendar && showEvents === "true") {
-          eventsCalendar.style.display = "block";
-        }
       });
     });
   </script>
