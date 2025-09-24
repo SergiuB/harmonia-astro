@@ -1,0 +1,60 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  timeRange: string;
+  detailsLink?: string;
+  registerLink?: string;
+}
+
+const { title, description, timeRange, detailsLink, registerLink } =
+  Astro.props;
+---
+
+<div x-data="{ expanded: false }" class="bg-light bg-opacity-10 p-4 rounded-lg">
+  <div class="flex items-center justify-between gap-2">
+    {
+      detailsLink ? (
+        <a
+          href={detailsLink}
+          class="text-xl font-semibold text-secondary-blue underline mt-2 inline-block"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          {title}
+        </a>
+      ) : (
+        <span class="text-xl font-semibold">{title}</span>
+      )
+    }
+    {
+      registerLink && (
+        <a
+          href={registerLink}
+          class="rounded-xl bg-secondary-pink uppercase h-7 px-4 pt-1 mt-2 text-white text-sm"
+        >
+          Participă
+        </a>
+      )
+    }
+  </div>
+  <p class="italic text-xs">{timeRange}</p>
+  <div
+    x-show="expanded"
+    x-collapse
+    class="overflow-hidden prose mt-2 text-white prose-headings:text-white prose-p:text-white prose-li:text-white prose-strong:text-white prose-a:text-white"
+    set:html={description}
+  />
+  <div
+    x-show="!expanded"
+    x-collapse
+    class="line-clamp-3 overflow-hidden prose mt-2 text-white prose-headings:text-white prose-p:text-white prose-li:text-white prose-strong:text-white prose-a:text-white"
+    set:html={description}
+  />
+  <button
+    @click="expanded = !expanded"
+    class="block mt-2 text-secondary-blue underline text-sm cursor-pointer"
+  >
+    <span x-text="expanded ? 'Ascunde' : 'Afișează mai mult'"></span>
+  </button>
+</div>

@@ -1,7 +1,8 @@
 ---
+import CalendarEvent from "./CalendarEvent.astro";
+
 const API_KEY = import.meta.env.CALENDAR_API_KEY;
 const CALENDAR_ID = import.meta.env.CALENDAR_ID;
-const EVENT_WORD_LIMIT = 30;
 export interface CalendarEventsProps {
   maxEvents?: number;
   title?: string;
@@ -112,12 +113,6 @@ function parseDescription(description?: string) {
   text = text.replace(/(<br\s*\/?>)+/g, "\n").trim();
   return { detailsLink, registerLink, text };
 }
-function wordCount(html: string) {
-  return html
-    .replace(/<[^>]+>/g, " ")
-    .split(/\s+/)
-    .filter(Boolean).length;
-}
 ---
 
 {
@@ -139,87 +134,22 @@ function wordCount(html: string) {
                 const { detailsLink, registerLink, text } = parseDescription(
                   event.description,
                 );
-                const isLong = wordCount(text) > EVENT_WORD_LIMIT;
-                let truncatedHtml = text;
-                if (isLong) {
-                  // Truncate for preview
-                  const words = text
-                    .replace(/<[^>]+>/g, " ")
-                    .split(/\s+/)
-                    .filter(Boolean);
-                  truncatedHtml =
-                    words.slice(0, EVENT_WORD_LIMIT).join(" ") + "...";
-                }
                 // Use event's timezone if present
                 const eventTimeZone =
                   event.start?.timeZone || event.end?.timeZone;
                 return (
-                  <li class="bg-light bg-opacity-10 p-4 rounded-lg">
-                    <div class="flex items-center justify-between gap-2">
-                      {detailsLink ? (
-                        <a
-                          href={detailsLink}
-                          class="text-xl font-semibold text-secondary-blue underline mt-2 inline-block"
-                          target="_blank"
-                          rel="noopener noreferrer"
-                        >
-                          {event.summary}
-                        </a>
-                      ) : (
-                        <span class="text-xl font-semibold">
-                          {event.summary}
-                        </span>
-                      )}
-                      {registerLink && (
-                        <a
-                          href={registerLink}
-                          class="rounded-xl bg-secondary-pink uppercase h-7 px-4 pt-1 mt-2 text-white text-sm"
-                        >
-                          Participă
-                        </a>
-                      )}
-                    </div>
-                    <p class="italic text-xs">
-                      {formatTimeRange(
+                  <li>
+                    <CalendarEvent
+                      title={event.summary}
+                      description={text}
+                      timeRange={formatTimeRange(
                         event.start.dateTime,
-                        event.end?.dateTime,
+                        event.end.dateTime,
                         eventTimeZone,
                       )}
-                    </p>
-                    {isLong ? (
-                      <div class="mt-2">
-                        <input
-                          type="checkbox"
-                          id={`toggle-${date}-${event.summary}`}
-                          class="peer hidden"
-                        />
-                        <div
-                          class="prose mt-2 text-white prose-headings:text-white prose-p:text-white prose-li:text-white prose-strong:text-white prose-a:text-white peer-checked:hidden"
-                          set:html={truncatedHtml}
-                        />
-                        <label
-                          for={`toggle-${date}-${event.summary}`}
-                          class="block mt-2 text-secondary-blue underline text-sm cursor-pointer select-none peer-checked:hidden"
-                        >
-                          Afișează mai mult
-                        </label>
-                        <div
-                          class="prose mt-2 text-white prose-headings:text-white prose-p:text-white prose-li:text-white prose-strong:text-white prose-a:text-white hidden peer-checked:block"
-                          set:html={text}
-                        />
-                        <label
-                          for={`toggle-${date}-${event.summary}`}
-                          class="block mt-2 text-secondary-blue underline text-sm cursor-pointer select-none hidden peer-checked:block"
-                        >
-                          Ascunde
-                        </label>
-                      </div>
-                    ) : (
-                      <div
-                        class="prose mt-2 text-white prose-headings:text-white prose-p:text-white prose-li:text-white prose-strong:text-white prose-a:text-white"
-                        set:html={text}
-                      />
-                    )}
+                      detailsLink={detailsLink || undefined}
+                      registerLink={registerLink || undefined}
+                    />
                   </li>
                 );
               })}
