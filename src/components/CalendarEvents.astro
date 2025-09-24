@@ -21,12 +21,15 @@ interface GoogleCalendarEvent {
     dateTime?: string;
     timeZone?: string;
   };
+  index?: number; // Add this line
 }
-const maxEvents = Astro.props?.maxEvents ?? 10;
+const TOTAL_EVENTS = 50;
+const INITIAL_VISIBLE = 7;
+const LOAD_MORE_INCREMENT = 5;
 const title = Astro.props?.title ?? "";
 const fetchEvents = async () => {
   const now = new Date().toISOString();
-  const url = `https://www.googleapis.com/calendar/v3/calendars/${CALENDAR_ID}/events?key=${API_KEY}&timeMin=${now}&maxResults=${maxEvents}&orderBy=startTime&singleEvents=true`;
+  const url = `https://www.googleapis.com/calendar/v3/calendars/${CALENDAR_ID}/events?key=${API_KEY}&timeMin=${now}&maxResults=${TOTAL_EVENTS}&orderBy=startTime&singleEvents=true`;
   try {
     const res = await fetch(url);
     if (!res.ok) throw new Error("Failed to fetch events");
@@ -39,12 +42,12 @@ const fetchEvents = async () => {
 const eventsData = await fetchEvents();
 function groupEventsByDate(events: GoogleCalendarEvent[]) {
   const grouped: Record<string, GoogleCalendarEvent[]> = {};
-  for (const event of events) {
+  events.forEach((event, index) => {
     const date = event.start.date || event.start.dateTime?.slice(0, 10);
     if (!date) throw new Error("Event is missing a start date");
     if (!grouped[date]) grouped[date] = [];
-    grouped[date].push(event);
-  }
+    grouped[date].push({ ...event, index });
+  });
   return grouped;
 }
 function formatDate(dateStr: string, tz?: string) {
@@ -117,12 +120,20 @@ function parseDescription(description?: string) {
 
 {
   Array.isArray(eventsData) && eventsData.length > 0 && (
-    <div class="w-full p-4 max-w-lg">
+    <div
+      class="w-full p-4 max-w-lg"
+      x-data={`{
+        visibleCount: ${INITIAL_VISIBLE},
+        totalEvents: ${eventsData.length},
+        showMore() {
+          this.visibleCount = Math.min(this.visibleCount + ${LOAD_MORE_INCREMENT}, this.totalEvents)
+        }
+      }`}
+    >
       {title && <h2 class="text-3xl mb-4">{title}</h2>}
       <ul class="space-y-4">
         {Object.entries(groupEventsByDate(eventsData)).map(([date, events]) => (
-          <li>
-            {/* Use the timezone from the first event of the group if available */}
+          <li x-show={`visibleCount > ${events[0].index}`}>
             <h3 class="font-semibold mb-2">
               {formatDate(
                 date,
@@ -134,29 +145,34 @@ function parseDescription(description?: string) {
                 const { detailsLink, registerLink, text } = parseDescription(
                   event.description,
                 );
-                // Use event's timezone if present
                 const eventTimeZone =
                   event.start?.timeZone || event.end?.timeZone;
                 return (
-                  <li>
-                    <CalendarEvent
-                      title={event.summary}
-                      description={text}
-                      timeRange={formatTimeRange(
-                        event.start.dateTime,
-                        event.end.dateTime,
-                        eventTimeZone,
-                      )}
-                      detailsLink={detailsLink || undefined}
-                      registerLink={registerLink || undefined}
-                    />
-                  </li>
+                  <CalendarEvent
+                    title={event.summary}
+                    description={text}
+                    timeRange={formatTimeRange(
+                      event.start.dateTime,
+                      event.end?.dateTime,
+                      eventTimeZone,
+                    )}
+                    detailsLink={detailsLink || undefined}
+                    registerLink={registerLink || undefined}
+                  />
                 );
               })}
             </ul>
           </li>
         ))}
       </ul>
+
+      <button
+        x-show="visibleCount < totalEvents"
+        @click="showMore()"
+        class="w-full mt-4 px-4 py-2 text-secondary-pink border border-secondary-pink rounded-full hover:bg-secondary-pink hover:text-white transition-colors"
+      >
+        Mai multe activități
+      </button>
     </div>
   )
 }

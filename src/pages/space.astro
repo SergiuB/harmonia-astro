@@ -140,11 +140,7 @@ const showEvents = import.meta.env.FF_SHOW_EVENTS;
           id="events_calendar"
           style="display: none;"
         >
-          <CalendarEvents
-            server:defer
-            title="Calendar activități"
-            maxEvents={10}
-          />
+          <CalendarEvents server:defer title="Calendar activități" />
         </div>
       )
     }
