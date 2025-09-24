@@ -7,6 +7,10 @@ import netlify from "@astrojs/netlify";
 
 // https://astro.build/config
 export default defineConfig({
-  integrations: [icon(), tailwind(), alpinejs()],
+  integrations: [
+    icon(),
+    tailwind(),
+    alpinejs({ entrypoint: "/src/entrypoint" }),
+  ],
   adapter: netlify(),
 });
