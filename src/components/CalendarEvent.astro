@@ -11,7 +11,18 @@ const { title, description, timeRange, detailsLink, registerLink } =
   Astro.props;
 ---
 
-<div x-data="{ expanded: false }" class="bg-light bg-opacity-10 p-4 rounded-lg">
+<div
+  x-data="{
+    expanded: false,
+    hasOverflow: false,
+    checkOverflow() {
+      const content = this.$refs.content;
+      this.hasOverflow = content.scrollHeight > content.clientHeight;
+    }
+  }"
+  x-init="$nextTick(() => checkOverflow())"
+  class="bg-light bg-opacity-10 p-4 rounded-lg"
+>
   <div class="flex items-center justify-between gap-2">
     {
       detailsLink ? (
@@ -48,10 +59,12 @@ const { title, description, timeRange, detailsLink, registerLink } =
   <div
     x-show="!expanded"
     x-collapse
+    x-ref="content"
     class="line-clamp-3 overflow-hidden prose mt-2 text-white prose-headings:text-white prose-p:text-white prose-li:text-white prose-strong:text-white prose-a:text-white"
     set:html={description}
   />
   <button
+    x-show="hasOverflow"
     @click="expanded = !expanded"
     class="block mt-2 text-secondary-blue underline text-sm cursor-pointer"
   >
