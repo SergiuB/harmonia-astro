@@ -125,7 +125,6 @@ const showEvents = import.meta.env.FF_SHOW_EVENTS;
       </div>
       <div class="flex items-center justify-center">
         <a
-          id="contact"
           class="bg-secondary-pink rounded-full px-10 py-4 m-4 text-white uppercase text-center"
           href="https://wa.link/rjscoo"
         >
@@ -135,12 +134,12 @@ const showEvents = import.meta.env.FF_SHOW_EVENTS;
     </div>
     {
       showEvents && (
-        <div class="w-full p-4 max-w-lg" id="events_calendar">
+        <div class="w-full p-4 max-w-lg  scroll-mt-16" id="events_calendar">
           <CalendarEvents server:defer title="Calendar activități" />
         </div>
       )
     }
-    <div class="w-full p-4 max-w-lg">
+    <div class="w-full p-4 max-w-lg scroll-mt-12" id="contact">
       <h2 class="text-3xl mb-4">Unde ne găsești</h2>
       <a
         href="https://www.instagram.com/harmonia_terra"

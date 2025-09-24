@@ -129,6 +129,20 @@ function parseDescription(description?: string) {
           this.visibleCount = Math.min(this.visibleCount + ${LOAD_MORE_INCREMENT}, this.totalEvents)
         }
       }`}
+      x-init="function() {
+      const params = new URLSearchParams(window.location.search);
+      const targetId = params.get('scrollTo'); // e.g. ?scrollTo=section2
+
+      if (targetId) {
+        const el = document.getElementById(targetId);
+        if (el) {
+          // Delay to ensure layout is ready
+          setTimeout(() => {
+            el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          }, 100);
+        }
+      }
+      }()"
     >
       {title && <h2 class="text-3xl mb-4">{title}</h2>}
       <ul class="space-y-4">

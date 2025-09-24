@@ -9,21 +9,26 @@ export const spaceLink = {
   url: "/space",
 };
 
-export const activitiesLink = {
+export const servicesLink = {
   title: "Servicii",
   url: "/activities",
 };
 
 export const links: Link[] = [
-  activitiesLink,
+  servicesLink,
   {
     title: "Facilitatori",
     url: "/facilitators",
   },
   spaceLink,
   {
+    title: "Activități",
+    url: "/space/?scrollTo=events_calendar",
+    className: "closable-link",
+  },
+  {
     title: "Contact",
-    url: "/space/#contact",
+    url: "/space/?scrollTo=contact",
     className: "closable-link",
   },
 ];
