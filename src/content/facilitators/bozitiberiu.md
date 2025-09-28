@@ -57,7 +57,7 @@ services:
           "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
         ],
            isGroup: true,
-              price: "300lei",
+              price: "350lei",
       duration: "60min",
       reserveLink: "https://app.simplymeet.me/harmoniaoptima",
     },
