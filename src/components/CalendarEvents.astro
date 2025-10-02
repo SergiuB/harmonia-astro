@@ -130,24 +130,24 @@ function parseDescription(description?: string) {
         }
       }`}
       x-init="function() {
-      const params = new URLSearchParams(window.location.search);
-      const targetId = params.get('scrollTo'); // e.g. ?scrollTo=section2
+        const params = new URLSearchParams(window.location.search);
+        const targetId = params.get('scrollTo'); // e.g. ?scrollTo=section2
 
-      if (targetId) {
-        const el = document.getElementById(targetId);
-        if (el) {
-          // Delay to ensure layout is ready
-          setTimeout(() => {
-            el.scrollIntoView({ behavior: 'smooth', block: 'start' });
-          }, 100);
+        if (targetId) {
+          const el = document.getElementById(targetId);
+          if (el) {
+            // Delay to ensure layout is ready
+            setTimeout(() => {
+              el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }, 100);
+          }
         }
-      }
       }()"
     >
       {title && <h2 class="text-3xl mb-4">{title}</h2>}
       <ul class="space-y-4">
         {Object.entries(groupEventsByDate(eventsData)).map(([date, events]) => (
-          <li x-show={`visibleCount > ${events[0].index}`}>
+          <li x-show={`visibleCount > ${events[0].index}`} x-transition>
             <h3 class="font-semibold mb-2">
               {formatDate(
                 date,
@@ -172,6 +172,7 @@ function parseDescription(description?: string) {
                     )}
                     detailsLink={detailsLink || undefined}
                     registerLink={registerLink || undefined}
+                    isVisible={`visibleCount > ${event.index}`}
                   />
                 );
               })}
@@ -183,7 +184,7 @@ function parseDescription(description?: string) {
       <button
         x-show="visibleCount < totalEvents"
         @click="showMore()"
-        class="w-full mt-4 px-4 py-2 text-secondary-pink border border-secondary-pink rounded-full hover:bg-secondary-pink hover:text-white transition-colors"
+        class="w-full mt-4 px-4 py-2 text-secondary-pink border border-secondary-pink rounded-full transition-colors"
       >
         Mai multe activități
       </button>

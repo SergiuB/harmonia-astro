@@ -5,22 +5,27 @@ interface Props {
   timeRange: string;
   detailsLink?: string;
   registerLink?: string;
+  isVisible?: string;
 }
 
-const { title, description, timeRange, detailsLink, registerLink } =
+const { title, description, timeRange, detailsLink, registerLink, isVisible } =
   Astro.props;
 ---
 
 <div
+  x-show={isVisible}
   x-data="{
     expanded: false,
     hasOverflow: false,
     checkOverflow() {
       const content = this.$refs.content;
       this.hasOverflow = content.scrollHeight > content.clientHeight;
-    }
+      console.log('checking overflow');
+    },
   }"
-  x-init="$nextTick(() => checkOverflow())"
+  x-effect={`if (${isVisible}) {
+    $nextTick(() => checkOverflow());
+  }`}
   class="bg-light bg-opacity-10 p-4 rounded-lg"
 >
   <div class="flex items-center justify-between gap-2">
