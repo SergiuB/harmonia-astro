@@ -16,10 +16,32 @@ const { title, description, timeRange, detailsLink, registerLink, isVisible } =
   x-data="{
     expanded: false,
     hasOverflow: false,
+    scrollPosition: 0,
     checkOverflow() {
       const content = this.$refs.content;
       this.hasOverflow = content.scrollHeight > content.clientHeight;
-      console.log('checking overflow');
+    },
+    toggleExpanded() {
+      if (!this.expanded) {
+        // Before expanding, save current scroll position
+        this.scrollPosition = window.scrollY;
+      }
+
+      this.expanded = !this.expanded;
+
+      // You can add additional logic here
+      if (this.expanded) {
+        // Maybe track analytics or perform other actions
+      } else {
+        this.$nextTick(() => {
+          setTimeout(() => {
+            window.scrollTo({
+              top: this.scrollPosition,
+              behavior: 'smooth'
+            });
+          }, 100); // Wait for x-collapse animation to complete
+        });
+      }
     },
   }"
   x-effect={`if (${isVisible}) {
@@ -69,7 +91,7 @@ const { title, description, timeRange, detailsLink, registerLink, isVisible } =
   />
   <button
     x-show="hasOverflow"
-    @click="expanded = !expanded"
+    @click="toggleExpanded()"
     class="block mt-2 text-secondary-blue underline text-sm cursor-pointer"
   >
     <span x-text="expanded ? 'Ascunde' : 'Afișează mai mult'"></span>
