@@ -53,7 +53,7 @@ services: [
        ],
       isGroup: true,
       price: "220lei",
-      duration: "60min+",
+      duration: "50min+",
       reserveLink:  "https://wa.link/4qcqs2",
     },
   ]
