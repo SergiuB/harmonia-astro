@@ -261,27 +261,6 @@ services:
        reserveLink: "https://wa.link/b4f3ug",
     },
     {
-      name: "5 Stars TERRApy",
-      summary: "Pachet Holistic : Personalizat",
-      description:
-        [
-          "Descoperă Vindecarea Completă a Corpului, Minții și Sufletului",
-          "Ne face plăcere să vă prezentăm: 5 Stars TERRApy. Acest pachet unic combină expertiza a trei terapeuți, fiecare aducându-și contribuția unică pentru a crea o experiență completă care te vor ajuta să îți aliniezi corpul, mintea și sufletul.",
-          "Ce Include Pachetul",
-          "Zyto - Delia utilizează tehnologia Zyto pentru a oferi o diagnoză detaliată a stării tale de sănătate. Această metodă inovatoare analizează biofeedback-ul corpului tău, identificând dezechilibrele și oferind soluții personalizate pentru a-ți restabili sănătatea optimă.",
-          "(E)motion Somatic Release - Tiberiu te va ghida printr-o terapie puternică ce combină trauma release exercises cu medicina samanica si alte tehnici somatice pentru a elibera tensiunile și traumele acumulate în corp. Această terapie îți va oferi o stare profundă de relaxare și eliberare emoțională.",
-          "Sonoterapie – Samira te ghidează într-o călătorie sonoră de armonizare celulară, folosind instrumente terapeutice și frecvențe vibrationale menite să echilibreze corpul, mintea și sufletul. Prin vibrațiile bolurilor terapeutice și ale vocii, sistemul nervos se relaxează profund, mintea intră în starea theta, iar corpul devine receptiv la vindecare. Această terapie sprijină eliberarea stresului, claritatea emoțională și reconectarea cu starea de prezență și liniște interioară.",
-          "Simfonia Celulelor – Delia va aplica uleiurile esențiale terapeutice Doterra într-o secvență specială ce acționează la nivel celular și energetic, sprijinind regenerarea, claritatea și echilibrul interior.",
-          "Rezervă-ți acum locul pentru a experimenta o transformare holistică unică și profundă.",
-          "Contactează-ne pentru a afla mai multe detalii și pentru a face o programare. Vindecarea ta completă este la un pas distanță!",
-          "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
-          "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
-        ],
-      price: "1100lei",
-      duration: "5ore",
-      reserveLink: "https://wa.link/b4f3ug",
-    },
-    {
       name: "7 Stars TERRApy",
       summary: "Pachet Holistic : Personalizat",
       description:
