@@ -234,6 +234,26 @@ Anularea ședinței se poate face cu cel târziu de 42 ore înainte de programar
       duration: "90min",
       reserveLink: "https://wa.link/djgx8y",
     },
+        {
+      name: "7 Stars TERRApy",
+      summary: "Pachet Holistic : Personalizat",
+      description:
+        [
+          "Experimentează Vindecarea Supremă a Corpului, Minții și Sufletului",
+          "Ne bucurăm să vă prezentăm pachetul nostru de terapii holistice premium: 7 Stars TERRApy. Acest pachet exclusiv combină tehnici tradiționale și moderne pentru a oferi o experiență de vindecare profundă și completă. Vei beneficia de 7 ore de tratamente specializate care îți vor aduce armonie și echilibru în toate aspectele vieții tale.",
+          "Ce Include Pachetul",
+          "Zyto, Harmonic Spa, Simfonia Celulelor – Delia te ghidează printr-o experiență completă de armonizare și regenerare. Scanarea Zyto analizează starea energetică, emoțională, mentală și fizică, oferind o imagine clară asupra dezechilibrelor subtile. Harmonic Spa aduce relaxare profundă prin Gua Sha, masajul capului și Ear Candling, iar Simfonia Celulelor, prin aplicarea uleiurilor esențiale Doterra, susține echilibrul emoțional și regenerarea celulară.",
+             "QiNeiZang - Alina Carmina foloseste o tehnică de masaj abdominal profundă, care se concentrează pe organele interne. Acest tratament ajută la detoxifierea organismului, îmbunătățirea funcționării organelor și eliberarea blocajelor energetice.", 
+          "Harmonic Reborn - Tiberiu Bozi oferă un masaj holistic complet si complex ce integrează diverse tehnici pentru a aduce relaxare profundă și revitalizare. Harmonic Reborn este conceput pentru a echilibra corpul, mintea și spiritul, oferind o experiență de vindecare completă.",
+          "Rezervă-ți acum locul pentru a experimenta o transformare holistică unică și profundă.",
+          "Contactează-ne pentru a afla mai multe detalii și pentru a face o programare. Vindecarea ta completă este la un pas distanță!",
+          "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
+          "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
+        ],
+      price: "1350lei",
+      duration: "7ore",
+      reserveLink: "https://wa.link/hc8cvw",
+    },
     
   ]
 location: "Harmonia Terra - Strada Cercului 18 / Sambodhi Studio - Strada Popa Rusu, București" #optional
