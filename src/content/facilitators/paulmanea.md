@@ -14,11 +14,11 @@ services: [
       reserveLink: "https://wa.link/an2opl",
     },
         {
-      name: "Rebirthing Breathwork – Sesiune
+      name: "Rebirthing Breathwork - Sesiune
 individuală Online",
       summary: "Sesiune individuală de respirație : online",
       isGroup: true,
-      price: "500lei",
+      price: "350lei",
       duration: "180min",
       reserveLink: "https://wa.link/an2opl",
     },
