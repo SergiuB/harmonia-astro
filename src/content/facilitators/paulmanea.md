@@ -3,7 +3,7 @@ name: "Paul Manea"
 featuredIndex: 6
 images: ["./images/paulmanea/paulmanea.png"]
 tags: ["Rebirthing", "Breathwork", "Coach"]
-activities: ["neuroptimal", "nutritie", "coaching" , "humangarage" , "miscare-constienta", "alte-servicii", "biohacking"]
+activities: [ "coaching", "breathwork", "alte-servicii", "group-breathwork", ]
 services: [
     {
       name: "Rebirthing Breathwork - Sesiune individuală",
