@@ -33,7 +33,7 @@ individuală Online",
        {
       name: "Rebirthing Breathwork - Cold Water",
       summary: "Sesiune individuală de respirație în apă
-caldă",
+rece",
       isGroup: true,
       price: "550lei",
       duration: "180min",
