@@ -18,8 +18,8 @@ services: [
 individuală Online",
       summary: "Sesiune individuală de respirație : online",
       isGroup: true,
-      price: "690lei",
-      duration: "30zile",
+      price: "500lei",
+      duration: "180min",
       reserveLink: "https://wa.link/an2opl",
     },
         {
