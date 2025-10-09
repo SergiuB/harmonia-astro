@@ -68,6 +68,7 @@ aliniere interioară",
     },
   ]
 location: " Harmonia Terra/ Online / În natură / La domiciliu" #optional
+locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
 contact: {
     email: "salut@theshift.ro", #optional
     phone: "0721065348",
