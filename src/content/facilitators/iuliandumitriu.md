@@ -18,7 +18,7 @@ services:
            isGroup: true,
               price: "250/350/450lei",
       duration: "60/90/120min",
-      reserveLink: "https://wa.link/2c7age,
+      reserveLink: "https://wa.link/2c7age",
     },
          {
       name: "Reflexoterapie",
