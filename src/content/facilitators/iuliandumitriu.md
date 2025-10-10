@@ -18,7 +18,7 @@ services:
            isGroup: true,
               price: "250/350/450lei",
       duration: "60/90/120min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima",
+      reserveLink: "https://wa.link/hc8cvw",
     },
          {
       name: "Reflexoterapie",
@@ -32,7 +32,7 @@ services:
            isGroup: true,
               price: "250lei",
       duration: "60min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima",
+      reserveLink: "https://wa.link/hc8cvw",
     },
          {
       name: "Masaj Deep Tissue & Terapeutic",
@@ -51,7 +51,7 @@ services:
            isGroup: true,
               price: "250/350/450lei",
       duration: "60/90/120min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima",
+      reserveLink: "https://wa.link/hc8cvw",
     },
   ]
 location: "Harmonia Terra, Bucuresti" #optional
