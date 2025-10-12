@@ -111,7 +111,7 @@ services:
   name: "Harmonic Cocoon",
   summary: "Masaj Holistic pentru Părinte + Joacă pentru Copii",
   description: [
-    "Harmonic Haven este o experiență unică, dedicată părinților care au nevoie de relaxare, dar nu au mereu unde să lase copiii. În timp ce părintele primește un masaj profund de 90 de minute oferit de Tiberiu, copiii se bucură de atenția și prezența Deliei, într-un spațiu sigur și creativ.",
+    "Harmonic Cocoon este o experiență unică, dedicată părinților care au nevoie de relaxare, dar nu au mereu unde să lase copiii. În timp ce părintele primește un masaj profund de 90 de minute oferit de Tiberiu, copiii se bucură de atenția și prezența Deliei, într-un spațiu sigur și creativ.",
     "Delia creează un mic univers de joacă — desen, puzzle, povești și activități adaptate vârstei copilului — astfel încât cei mici să fie într-un mediu plin de bucurie, iar tu să te poți relaxa complet.",
     "Această terapie este o invitație la echilibru, oferind părintelui un moment de respiro și copilului o experiență caldă și educativă, într-o atmosferă care respiră armonie și siguranță.",
     "Cum funcționează?",
@@ -336,7 +336,7 @@ services:
           "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
           "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
         ],
-      price: " 300lei → 2880lei",
+      price: " 350lei → 2880lei",
       duration: "60min → 7ore",
       reserveLink: "https://wa.link/b4f3ug",
     },
