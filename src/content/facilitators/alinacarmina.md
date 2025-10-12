@@ -234,6 +234,24 @@ Anularea ședinței se poate face cu cel târziu de 42 ore înainte de programar
       duration: "90min",
       reserveLink: "https://wa.link/djgx8y",
     },
+     {
+      name: "QiNeiZang",
+      summary: "Masaj : Organe interne ",
+      description:
+        [
+          "QiNeiZang reprezintă o terapie străveche, descoperită de călugării taoiști în multiple sesiuni de meditație, având ca ghizi spirite înalte, dar totodată aveau cunoștințe de anatomie și cunoaștere în ceea ce privesc tehnicile de manipulare a energiei.",
+          "Construiește sau reconstruiește un sistem de apărare a corpului, în toate planurile. Această terapie deschide anumite porți/căi pentru cel ce primește terapia astfel încât să audă/simtă mesajele subtile transmise de senzorial și extrasenzorial și să facă apoi ajustările necesare.",
+          "QiNeiZang ajută să se facă centrarea și conexiunea cu ariile care se urmăresc a fi tratate. Când comunicarea cu aceste arii este restabilită, ordinele pentru vindecare vin cătrea aceastea, ridicându-le la un nivel de reajustare care atinge toate nivelele existenței – fizic, psihic, emoțional și spiritual.",
+          "Abdommenul inferior este un centru foarte important al corpului, locul de unde fiecare respirație și mișcare iși au originea. Este centrul srructural al gravitației și centrul proceselor metabolice. În viața intra uterina fătul se hrănește prin cordonul ombilical, după naștere, ombilicul rămâne centrul nostru originar, conectat la toate organele interne. Când organele nu pot procesa toxinele, ele sunt depozitate, ele sunt depozitate în jurul ombilicului pentru a fi eliminate ulterior.",
+          "Pe lângă toxine, se creează și blocaje emoționale care se adună în același loc, se stochează și apoi afectează organele interne și buna funcționare a tuturor sistemelor corpului. Acest centru se mai numește HARA SAU DANTIEN.",
+          "QiNeiZang ajută la procesarea emoționala, care însemană digestia. Corpul noatru digeră emoții, hrănind sufletul cu ce are nevoie și eliminând ce nu are nevoie. Bacteriile pot fi eliminate ușor și acumulate progresiv. Acest lucru îl experimentăm când creștem și ne maturizăm, când o situație copleșitoare apare, corpul nostru stochează încărcătura pentru a procesa mai târziu. Deoarece aceste încărcături sunt greu de accesat, vor ține persoana în multe aspecte în stadiul dezvoltării, chiar și la vârsta adultă, arătând și reprezentând un comportament copilăresc sau trăsături fizice copilărești.",
+          "Acestă terapie include și un masaj de 10-15 minute(depinde cât consideră terapeutul) al zonei capului pentru relaxarea întregului corp deoarece masajul abdominal va fi unul mai dur și profund.",
+          "Această terapie are un spectru larg în ceea ce privește beneficiile:detoxifiere, echilibrare emoțională, trezește conștiința de sine, îmbunătățește respirația, întărește sistemul imunitar, reduce durerile cronice și problemele ce reies din alinierea greșită a pelvisului, eliberează corpul fizic, emoțional și energetic de stagnări/blocaje la nivele diferite, restructurează și fortifică organismul, îmbunătățește funcția de eliminare și stimulează sistemul limfatic și circulator, lucrează pe funcția și structura organelor , corectează probleme posturale rezultate din dezechilibrele viscerale, eliberează tensiunile profunde statice și restructurează vitalitatea.",
+        ],
+      price: "400 lei",
+      duration: "120min",
+      reserveLink: "https://wa.link/1by6y3",
+    },
         {
       name: "7 Stars TERRApy",
       summary: "Pachet Holistic : Personalizat",
