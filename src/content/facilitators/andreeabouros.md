@@ -76,4 +76,8 @@ contact: {
   }
 ---
 
-Terapeut maseur cu o abordare calmă și empatică, Iulian a descoperit pasiunea pentru arta atingerii acum cinci ani, după o carieră în IT. Căutarea echilibrului și a conexiunii autentice cu oamenii l-a condus spre terapia prin masaj, unde a găsit sens și bucurie. Integrează în sesiunile sale tehnici de relaxare, deep tissue, stretching, reflexoterapie și elemente de masaj terapeutic, creând o experiență personalizată pentru reducerea stresului, a tensiunilor și a anxietății. Practică din pasiune, cu prezență și respect pentru corpul și ritmul fiecărui om.
+După ani petrecuți în călătoria către mine și descoperind pe pielea mea (la propriu, și la figurat) cât de mult poate contribui masajul la susținerea și echilibrarea ființei, când se lucrează cu intenția de a ajuta persoana de pe masă și înțelegând că suntem mai mult decât un corp și o minte, am ales să ofer la rândul meu acest tip de terapie, mergând pe abordarea holistică (corp, minte, suflet). 
+
+Am învățat să fac masaj de relaxare, reflexoterapie, masaj terapeutic, drenaj limfatic, Lomi Lomi (îndrăznesc să îl declar preferatul meu), cupping, obținând și diplome pe parcurs. Îmi place să creez și să susțin un spațiu sigur pentru cei care aleg să se lase pe mâinile mele, misiunea mea fiind să aplic tot ce știu, ținând cont de particulăritățile fiecărei persoane.
+ 
+Te invit să îmi povestești ce te doare (dacă vrei) și să vedem ce îmi povestește și corpul tău. 
