@@ -20,7 +20,7 @@ services:
     },
          {
       name: "Masaj Terapeutic",
-      summary: "Tehnici Combinate : Întregul corp",
+      summary: "Masaj : Întregul corp",
       description:
         [
           "Se lucrează mai intens pe contracturi și/sau dureri cauzate de anumite probleme medicale (dureri de spate, membre etc). Se pot folosi și pietre calde și ventuze.",
