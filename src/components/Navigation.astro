@@ -36,6 +36,16 @@ import HarmoniaText from "./HarmoniaText.astro";
         <ul
           class="w-full h-full z-10 flex flex-col justify-center items-center backdrop-blur-md lg:gap-5 uppercase"
         >
+          <li
+            class="css-animation m-5 opacity-0 -translate-x-20 group-[.open]:translate-x-0 group-[.open]:opacity-100 group-[.open]:delay-150 transition-all"
+          >
+            <a
+              class="css-animation rounded-full px-10 py-2 uppercase transition-colors text-secondary-pink border-2 border-secondary-pink text-center"
+              href="/ghidare"
+            >
+              Ghidare gratuită
+            </a>
+          </li>
           {
             links.map(({ title, url, className }) => (
               <li class="m-8">
@@ -52,7 +62,7 @@ import HarmoniaText from "./HarmoniaText.astro";
             class="css-animation mt-8 opacity-0 -translate-x-20 group-[.open]:translate-x-0 group-[.open]:opacity-100 group-[.open]:delay-150 transition-all"
           >
             <a
-              class="css-animation bg-primary rounded-full px-10 py-2 text-white uppercase hover:bg-secondary-blue hover:text-primary transition-colors"
+              class="css-animation bg-primary rounded-full px-10 py-2 text-white uppercase transition-colors"
               href="/new-facilitator"
             >
               Devino facilitator
