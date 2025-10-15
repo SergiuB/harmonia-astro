@@ -15,7 +15,7 @@ Showcase all services offered at Harmonia. Services can be individual or group-b
 
 **Features:**
 
-- Display a list/grid of all services (see: [reference](https://harmoniaworld.org/activities/)).
+- Display a list/grid of all services (see: [reference](https://harmoniaworld.org/services/)).
 - Each service card includes name, summary, type (individual/group), and price.
 - Clicking a service opens a detail view showing:
   - Full description

@@ -11,7 +11,7 @@ export const spaceLink = {
 
 export const servicesLink = {
   title: "Servicii",
-  url: "/activities",
+  url: "/services",
 };
 
 export const links: Link[] = [
