@@ -272,7 +272,30 @@ Anularea ședinței se poate face cu cel târziu de 42 ore înainte de programar
       duration: "7ore",
       reserveLink: "https://wa.link/hc8cvw",
     },
-    
+      {
+      name: "Harmonic GIFT Card",
+      summary: "Gift Card : Personalizat",
+      description:
+        [
+          "Descoperiți puterea de a dărui sănătate și armonie prin intermediul unui Harmonic Gift Card. Perfect pentru orice ocazie specială, gift cardul permite beneficiarului să aleagă oricare dintre serviciile mele holistice, având valoarea pe care dumneavoastră ați achitat-o.",
+          "Beneficiile Harmonic Gift Card",
+          "Flexibilitate Totală: Beneficiarul poate alege dintr-o gamă variată de terapii și pachete holistice, personalizând experiența în funcție de nevoile și preferințele sale.",
+          "Valabilitate Extinsă: Harmonic Gift Card are o valabilitate de 3 luni de la data achiziționării, oferind destul timp pentru a programa și bucura de o sesiune de vindecare și relaxare.",
+          "Cum Funcționează",
+          "1. Achiziționați Gift Cardul: Direct printr-un mesaj pe whatsapp în care specificati valoarea dorită.",
+          "2. Personalizați Mesajul: Adăugați un mesaj personalizat pentru a face cadoul și mai special.",
+          "3. Expediere Imediată: Alegeți să trimiteți Harmonic Gift Card prin email sau să-l imprimați pentru a-l dărui personal.",
+          "4. Bucurați-vă de Recunoștință: Oferiți cadoul perfect care aduce bucurie, sănătate și armonie celor dragi.",
+          "Indiferent de valoarea aleasă, Harmonic Gift Card reprezintă un pas către o stare de bine profundă, echilibrul corpului, minții și sufletului. Beneficiarul va putea opta pentru terapii holistice, masaje revitalizante și pachete complete care transformă și vindecă.",
+          "Nu rata ocazia de a dărui un cadou de neprețuit. Achiziționează un Harmonic Gift Card astăzi și oferă celor dragi o experiență de neuitat, plină de relaxare și vindecare.",
+          "Îți mulțumesc că alegi să dăruiești sănătate și armonie.",
+          "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
+          "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
+        ],
+      price: " 300lei → 1350lei",
+      duration: "60min → 7ore",
+      reserveLink: "https://wa.link/djgx8y",
+    },
   ]
 location: "Harmonia Terra - Strada Cercului 18 / Sambodhi Studio - Strada Popa Rusu, București" #optional
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
