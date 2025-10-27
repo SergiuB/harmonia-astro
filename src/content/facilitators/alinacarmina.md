@@ -235,7 +235,7 @@ Anularea ședinței se poate face cu cel târziu de 42 ore înainte de programar
       reserveLink: "https://wa.link/djgx8y",
     },
      {
-      name: "QiNeiZang",
+      name: "QiNeiZang - Masaj Abdominal",
       summary: "Masaj : Organe interne ",
       description:
         [
@@ -279,6 +279,8 @@ locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
 contact: {
     email: "karmina_me@yahoo.com", #optional
     phone: "0748557325",
+    instagram: "https://www.instagram.com/alina._.carmina?igsh=ZG16MjdrejZ0bzAx&utm_source=qr",
+    facebook: "https://www.facebook.com/carmin.carmi",
     whatsapp: "https://wa.link/djgx8y", #optional
   }
 ---
