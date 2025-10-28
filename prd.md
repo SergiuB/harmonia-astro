@@ -87,7 +87,7 @@ Describe the physical location and facilities available for therapists.
 
 ## Technical Details
 
-- **Framework:** Astro (v4), Typescript
+- **Framework:** Astro (v5), Typescript, Alpine JS (for lightweight client side interactivity)
 - **Styling:** Tailwind CSS (see `tailwind.config.mjs`)
 - **Content:** Facilitator/service data in markdown files
 - **Configuration:** Tailwind theme and colors customized for Harmonia branding
