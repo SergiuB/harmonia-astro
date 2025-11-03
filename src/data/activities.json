@@ -1,271 +1,270 @@
 [
   {
     "id": "access-bars",
-    "name": "Access Bars"
+    "nameKey": "activity.accessBars"
   },
   {
     "id": "acupunctura",
-    "name": "Acupunctura"
+    "nameKey": "activity.acupunctura"
   },
-    {
+  {
     "id": "aliniament",
-    "name": "Aliniament postural"
+    "nameKey": "activity.aliniament"
   },
   {
     "id": "alte-servicii",
-    "name": "Alte Servicii"
+    "nameKey": "activity.alteServicii"
   },
   {
     "id": "aromaterapie",
-    "name": "Aromaterapie"
+    "nameKey": "activity.aromaterapie"
   },
   {
     "id": "arta",
-    "name": "Arta"
+    "nameKey": "activity.arta"
   },
   {
     "id": "astrologie",
-    "name": "Astrologie"
+    "nameKey": "activity.astrologie"
   },
   {
     "id": "ayurveda",
-    "name": "Ayurveda"
+    "nameKey": "activity.ayurveda"
   },
-    {
+  {
     "id": "biohacking",
-    "name": "Biohacking"
+    "nameKey": "activity.biohacking"
   },
   {
     "id": "breathwork",
-    "name": "Breathwork"
+    "nameKey": "activity.breathwork"
   },
   {
     "id": "cheilegenelor",
-    "name": "Cheile Genelor"
+    "nameKey": "activity.cheileGenelor"
   },
   {
     "id": "chiropractor",
-    "name": "Chiropractor"
+    "nameKey": "activity.chiropractor"
   },
   {
     "id": "coaching",
-    "name": "Coaching"
+    "nameKey": "activity.coaching"
   },
   {
     "id": "cupping",
-    "name": "Cupping"
+    "nameKey": "activity.cupping"
   },
-    {
+  {
     "id": "dans",
-    "name": "Dans"
+    "nameKey": "activity.dans"
   },
   {
     "id": "face-body-paint",
-    "name": "Face & Body Paint"
+    "nameKey": "activity.faceBodyPaint"
   },
   {
     "id": "fitness",
-    "name": "Fitness"
+    "nameKey": "activity.fitness"
   },
   {
     "id": "fizioterapie",
-    "name": "Fizioterapie"
+    "nameKey": "activity.fizioterapie"
   },
   {
     "id": "hipnoza",
-    "name": "Hipnoza"
+    "nameKey": "activity.hipnoza"
   },
   {
     "id": "humandesign",
-    "name": "Human Design"
+    "nameKey": "activity.humanDesign"
   },
-    {
+  {
     "id": "humangarage",
-    "name": "Human Garage"
+    "nameKey": "activity.humanGarage"
   },
-    {
+  {
     "id": "innerdance",
-    "name": "Innerdance"
+    "nameKey": "activity.innerdance"
   },
   {
     "id": "kinetoterapie",
-    "name": "Kinetoterapie"
+    "nameKey": "activity.kinetoterapie"
   },
   {
     "id": "masaj",
-    "name": "Masaj"
+    "nameKey": "activity.masaj"
   },
   {
     "id": "medicina-traditionala-chineza",
-    "name": "Medicina Traditionala Chineza"
+    "nameKey": "activity.medicinaTraditionala"
   },
   {
     "id": "meditatie-ghidata",
-    "name": "Meditatie ghidata"
+    "nameKey": "activity.meditatieGhidata"
   },
   {
     "id": "miscare-constienta",
-    "name": "Miscare Constienta"
+    "nameKey": "activity.miscareConstienta"
   },
   {
     "id": "muzica",
-    "name": "Muzica"
+    "nameKey": "activity.muzica"
   },
-    {
+  {
     "id": "neuroptimal",
-    "name": "NeurOptimal"
+    "nameKey": "activity.neurOptimal"
   },
   {
     "id": "numerologie",
-    "name": "Numerologie"
+    "nameKey": "activity.numerologie"
   },
   {
     "id": "nutritie",
-    "name": "Nutritie"
+    "nameKey": "activity.nutritie"
   },
   {
     "id": "pilates",
-    "name": "Pilates"
+    "nameKey": "activity.pilates"
   },
   {
     "id": "psihoterapie",
-    "name": "Psihoterapie"
+    "nameKey": "activity.psihoterapie"
   },
   {
     "id": "regresie",
-    "name": "Regresie"
+    "nameKey": "activity.regresie"
   },
   {
     "id": "reiki",
-    "name": "Reiki"
+    "nameKey": "activity.reiki"
   },
   {
     "id": "scanare-zyto",
-    "name": "Scanare Zyto"
+    "nameKey": "activity.scanareZyto"
   },
   {
     "id": "sound-healing",
-    "name": "Sound healing"
+    "nameKey": "activity.soundHealing"
   },
   {
     "id": "tarot",
-    "name": "Tarot"
+    "nameKey": "activity.tarot"
   },
-   {
+  {
     "id": "terapia-bach",
-    "name": "Terapia Bach"
+    "nameKey": "activity.terapiaBach"
   },
   {
     "id": "terapia-sphere",
-    "name": "Terapia Sphere"
+    "nameKey": "activity.terapiaSphere"
   },
   {
     "id": "terapii-shamanice",
-    "name": "Terapii Shamanice"
+    "nameKey": "activity.terapiiShamanice"
   },
   {
     "id": "tetha-healing",
-    "name": "Tetha Healing"
+    "nameKey": "activity.tethaHealing"
   },
   {
     "id": "tre",
-    "name": "Trauma Release Exercises"
+    "nameKey": "activity.traumaRelease"
   },
   {
     "id": "throat-singing",
-    "name": "Throat Singing"
+    "nameKey": "activity.throatSinging"
   },
   {
     "id": "yoga",
-    "name": "Yoga"
+    "nameKey": "activity.yoga"
   },
   {
     "id": "group-actorie",
-    "name": "Actorie"
+    "nameKey": "activity.groupActorie"
   },
   {
     "id": "group-alteservicii",
-    "name": "Alte Servicii"
+    "nameKey": "activity.groupAlteServicii"
   },
   {
     "id": "group-breathwork",
-    "name": "Breathwork"
+    "nameKey": "activity.groupBreathwork"
   },
   {
     "id": "group-cheilegenelor",
-    "name": "Cheile Genelor"
+    "nameKey": "activity.groupCheileGenelor"
   },
   {
     "id": "group-cursuri",
-    "name": "Cursuri"
+    "nameKey": "activity.groupCursuri"
   },
   {
     "id": "group-dans",
-    "name": "Dans"
+    "nameKey": "activity.groupDans"
   },
   {
     "id": "group-ecstatic-dance",
-    "name": "Ecstatic Dance"
+    "nameKey": "activity.groupEcstaticDance"
   },
   {
     "id": "group-fitness",
-    "name": "Fitness"
+    "nameKey": "activity.groupFitness"
   },
   {
     "id": "group-humandesign",
-    "name": "Human Design"
+    "nameKey": "activity.groupHumanDesign"
   },
-   {
+  {
     "id": "group-innerdance",
-    "name": "Innerdance"
+    "nameKey": "activity.groupInnerdance"
   },
   {
     "id": "group-meditatii-ghidate",
-    "name": "Meditatii ghidate"
+    "nameKey": "activity.groupMeditatiiGhidate"
   },
   {
     "id": "group-miscare-constienta",
-    "name": "Miscare Constienta"
+    "nameKey": "activity.groupMiscareConstienta"
   },
   {
     "id": "group-muzica",
-    "name": "Muzica"
+    "nameKey": "activity.groupMuzica"
   },
   {
     "id": "group-pilates",
-    "name": "Pilates"
+    "nameKey": "activity.groupPilates"
   },
-
   {
     "id": "group-sound-healing",
-    "name": "Sound Healing"
+    "nameKey": "activity.groupSoundHealing"
   },
-    {
+  {
     "id": "group-tai-chi",
-    "name": "Tai Chi"
+    "nameKey": "activity.groupTaiChi"
   },
   {
     "id": "group-terapie-prin-arta",
-    "name": "Terapie prin Arta"
+    "nameKey": "activity.groupTerapiePrinArta"
   },
   {
     "id": "group-terapii-shamanice",
-    "name": "Terapii Shamanice"
+    "nameKey": "activity.groupTerapiiShamanice"
   },
   {
     "id": "group-throat-singing",
-    "name": "Throat Singing"
+    "nameKey": "activity.groupThroatSinging"
   },
-   {
+  {
     "id": "group-qigong",
-    "name": "Qigong"
+    "nameKey": "activity.groupQigong"
   },
   {
     "id": "group-workshops",
-    "name": "Workshops"
+    "nameKey": "activity.groupWorkshops"
   },
   {
     "id": "group-yoga",
-    "name": "Yoga"
+    "nameKey": "activity.groupYoga"
   }
 ]

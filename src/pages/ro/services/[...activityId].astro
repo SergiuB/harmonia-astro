@@ -1,21 +1,23 @@
 ---
-import activities from "../../../data/activities.json";
+import activitiesData from "../../../data/activities.json";
 import ActivityDetailPage from "../../../shared/ActivityDetailPage.astro";
+import type { Activity } from "../../../types/activity";
 
 export async function getStaticPaths() {
-  const res = activities.map(({ id, name }) => ({
+  const activities = activitiesData as Activity[];
+  const res = activities.map(({ id, nameKey }) => ({
     params: { activityId: id },
-    props: { activityName: name },
+    props: { activityNameKey: nameKey },
   }));
   return res;
 }
 
 const { activityId } = Astro.params;
-const { activityName } = Astro.props;
+const { activityNameKey } = Astro.props;
 ---
 
 <ActivityDetailPage
   lang="ro"
   activityId={activityId}
-  activityName={activityName}
+  activityNameKey={activityNameKey}
 />

@@ -4,14 +4,16 @@ import RootLayout from "../layouts/RootLayout.astro";
 import activities from "../data/activities.json";
 import FacilitatorList from "../components/FacilitatorList.astro";
 import { useTranslations } from "../i18n/utils";
+import type { Locale } from "../config/i18n";
+import type { ActivityTranslationKeys } from "../types/activity";
 
 interface Props {
-  lang: "ro" | "en";
+  lang: Locale;
   activityId: string;
-  activityName: string;
+  activityNameKey: ActivityTranslationKeys;
 }
 
-const { lang, activityId, activityName } = Astro.props;
+const { lang, activityId, activityNameKey } = Astro.props;
 const t = useTranslations(lang);
 const pageTitle = t("facilitators.title");
 ---
@@ -27,7 +29,7 @@ const pageTitle = t("facilitators.title");
       class="text-2xl uppercase pt-4"
       transition:name={`activity-${activityId}`}
     >
-      {activityName}
+      {t(activityNameKey)}
     </h3>
     <div class="flex flex-col items-center justify-center gap-10 py-16 px-4">
       <FacilitatorList activityId={activityId} lang={lang} />

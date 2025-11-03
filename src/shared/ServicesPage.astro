@@ -1,12 +1,17 @@
 ---
 import { getCollection } from "astro:content";
 import RootLayout from "../layouts/RootLayout.astro";
-import activities from "../data/activities.json";
+import activitiesData from "../data/activities.json";
 import { useTranslations } from "../i18n/utils";
+import type { Activity } from "../types/activity";
+import type { Locale } from "../config/i18n";
 
 interface Props {
-  lang: "ro" | "en";
+  lang: Locale;
 }
+
+// Type-cast the imported JSON to our Activity type
+const activities = activitiesData as Activity[];
 
 const { lang } = Astro.props;
 const t = useTranslations(lang);
@@ -62,7 +67,7 @@ const filteredActivities = activities.filter((activity) =>
                   class=" text-secondary-blue py-1"
                   transition:name={`activity-${activity.id}`}
                 >
-                  {activity.name}
+                  {t(activity.nameKey)}
                 </a>
               </li>
             ))
@@ -85,7 +90,7 @@ const filteredActivities = activities.filter((activity) =>
                   class=" text-secondary-blue py-1"
                   transition:name={`activity-${activity.id}`}
                 >
-                  {activity.name}
+                  {t(activity.nameKey)}
                 </a>
               </li>
             ))
