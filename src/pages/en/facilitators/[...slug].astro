@@ -3,7 +3,7 @@ import { getCollection } from "astro:content";
 import FacilitatorDetailPage from "../../../shared/FacilitatorDetailPage.astro";
 
 export async function getStaticPaths() {
-  const facilitatorEntries = await getCollection("facilitators");
+  const facilitatorEntries = await getCollection("facilitators-en");
   return facilitatorEntries.map((entry) => ({
     params: { slug: entry.slug },
     props: { entry },

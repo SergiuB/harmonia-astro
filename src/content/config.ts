@@ -36,6 +36,7 @@ const facilitatorCollection = defineCollection({
 
 export const collections = {
   facilitators: facilitatorCollection,
+  "facilitators-en": facilitatorCollection,
 };
 
 export type Service = z.infer<ReturnType<typeof getServiceSchema>>;
