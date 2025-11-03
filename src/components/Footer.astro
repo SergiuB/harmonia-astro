@@ -1,8 +1,18 @@
 ---
 import LogoMVV, { DarkBlue } from "../components/LogoMVV.astro";
 import HarmoniaText from "../components/HarmoniaText.astro";
-import { links } from "../content/links";
+import { getLocalizedLinks } from "../content/links";
 import { Icon } from "astro-icon/components";
+import { useTranslations } from "../i18n/utils";
+import type { Locale } from "../config/i18n";
+
+interface Props {
+  lang: Locale;
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+const links = getLocalizedLinks(lang);
 ---
 
 <footer
@@ -12,9 +22,9 @@ import { Icon } from "astro-icon/components";
     <li>
       <a
         class="css-animation rounded-full px-10 py-2 uppercase transition-color text-primary border-2 text-center transition-colors"
-        href="/ghidare"
+        href={`/${lang}/ghidare`}
       >
-        Ghidare gratuită
+        {t("footer.freeGuidance")}
       </a>
     </li>
     {
@@ -29,9 +39,9 @@ import { Icon } from "astro-icon/components";
     <li>
       <a
         class="css-animation bg-primary rounded-full px-10 py-2 text-white uppercase hover:bg-secondary-blue hover:text-primary transition-colors"
-        href="/new-facilitator"
+        href={`/${lang}/new-facilitator`}
       >
-        Devino facilitator
+        {t("footer.becomeFacilitator")}
       </a>
     </li>
   </ul>
@@ -47,7 +57,7 @@ import { Icon } from "astro-icon/components";
   </div>
   <div>
     <p class="text-center uppercase text-sm border-b-primary pb-2 border-b-2">
-      healing in oneness
+      {t("footer.tagline")}
     </p>
     <div class="flex items-center justify-center gap-2 mt-2">
       <a

@@ -2,9 +2,21 @@
 import Menu from "./Menu.astro";
 import MenuButton from "./MenuButton.astro";
 import MenuItems from "./MenuItems.astro";
-import { links } from "../content/links";
 import LogoMVV from "./LogoMVV.astro";
 import HarmoniaText from "./HarmoniaText.astro";
+import { useTranslations } from "../i18n/utils";
+import { getLocalizedLinks } from "../content/links";
+import type { Locale } from "../config/i18n";
+
+interface Props {
+  lang?: Locale;
+}
+
+const { lang = "ro" } = Astro.props;
+const t = useTranslations(lang);
+
+// Get localized navigation links from shared source
+const navigationLinks = getLocalizedLinks(lang);
 ---
 
 <style>
@@ -16,7 +28,7 @@ import HarmoniaText from "./HarmoniaText.astro";
   class="z-20 sticky top-0 my-4 py-2 px-4 h-16 flex justify-between gap-5 bg-white items-center container mx-auto"
 >
   <div>
-    <a href="/" class="flex gap-2">
+    <a href={`/${lang}`} class="flex gap-2">
       <div id="logo-container">
         <LogoMVV class="w-9 h-9" />
       </div>
@@ -41,13 +53,13 @@ import HarmoniaText from "./HarmoniaText.astro";
           >
             <a
               class="css-animation rounded-full px-10 py-2 uppercase transition-colors text-secondary-pink border-2 border-secondary-pink text-center"
-              href="/ghidare"
+              href={`/${lang}/ghidare`}
             >
-              Ghidare gratuită
+              {t("nav.freeGuidance")}
             </a>
           </li>
           {
-            links.map(({ title, url, className }) => (
+            navigationLinks.map(({ title, url, className }) => (
               <li class="m-8">
                 <a
                   class={`hover:text-secondary-blue text-dark transition-colors ${className ? className : ""}`}
@@ -63,9 +75,9 @@ import HarmoniaText from "./HarmoniaText.astro";
           >
             <a
               class="css-animation bg-primary rounded-full px-10 py-2 text-white uppercase transition-colors"
-              href="/new-facilitator"
+              href={`/${lang}/new-facilitator`}
             >
-              Devino facilitator
+              {t("nav.becomeFacilitator")}
             </a>
           </li>
         </ul>
