@@ -1,0 +1,20 @@
+---
+import type { Locale } from "../config/i18n";
+
+interface Props {
+  currentLang: Locale;
+}
+
+const { currentLang } = Astro.props;
+const currentPath = Astro.url.pathname;
+const basePath = currentPath.replace(/^\/(ro|en)/, "") || "/";
+const otherLang = currentLang === "ro" ? "en" : "ro";
+const targetUrl = `/${otherLang}${basePath}`;
+---
+
+<a
+  href={targetUrl}
+  class="px-3 py-1 bg-secondary-pink text-white rounded-md text-sm hover:bg-pink-600 transition-colors"
+>
+  {otherLang === "en" ? "🇺🇸 EN" : "🇷🇴 RO"}
+</a>

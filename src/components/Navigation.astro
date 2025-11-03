@@ -4,6 +4,7 @@ import MenuButton from "./MenuButton.astro";
 import MenuItems from "./MenuItems.astro";
 import LogoMVV from "./LogoMVV.astro";
 import HarmoniaText from "./HarmoniaText.astro";
+import LanguageSwitcher from "./LanguageSwitcher.astro";
 import { useTranslations } from "../i18n/utils";
 import { getLocalizedLinks } from "../content/links";
 import type { Locale } from "../config/i18n";
@@ -35,56 +36,64 @@ const navigationLinks = getLocalizedLinks(lang);
       <HarmoniaText class="h-9" />
     </a>
   </div>
-  <Menu>
-    <MenuItems class="z-10">
-      <div
-        class="css-animation bg-white fixed top-0 left-0 w-full h-full transition-transform -translate-y-full group-[.open]:translate-y-0 flex flex-col justify-center items-center"
-      >
+  <div class="flex items-center gap-4">
+    <LanguageSwitcher currentLang={lang} />
+    <Menu>
+      <MenuItems class="z-10">
         <div
-          class="css-animation absolute -top-36 -left-64 group-[.open]:scale-75 opacity-50 scale-0 transition-transform delay-100"
+          class="css-animation bg-white fixed top-0 left-0 w-full h-full transition-transform -translate-y-full group-[.open]:translate-y-0 flex flex-col justify-center items-center"
         >
-          <LogoMVV class="w-[513px] h-[485px]" />
+          <div
+            class="css-animation absolute -top-36 -left-64 group-[.open]:scale-75 opacity-50 scale-0 transition-transform delay-100"
+          >
+            <LogoMVV class="w-[513px] h-[485px]" />
+          </div>
+          <ul
+            class="w-full h-full z-10 flex flex-col justify-center items-center backdrop-blur-md lg:gap-5 uppercase"
+          >
+            <li
+              class="css-animation m-5 opacity-0 -translate-x-20 group-[.open]:translate-x-0 group-[.open]:opacity-100 group-[.open]:delay-150 transition-all"
+            >
+              <a
+                class="css-animation rounded-full px-10 py-2 uppercase transition-colors text-secondary-pink border-2 border-secondary-pink text-center"
+                href={`/${lang}/ghidare`}
+              >
+                {t("nav.freeGuidance")}
+              </a>
+            </li>
+            {
+              navigationLinks.map(({ title, url, className }) => (
+                <li class="m-8">
+                  <a
+                    class={`hover:text-secondary-blue text-dark transition-colors ${className ? className : ""}`}
+                    href={url}
+                  >
+                    {title}
+                  </a>
+                </li>
+              ))
+            }
+            <li
+              class="css-animation mt-8 opacity-0 -translate-x-20 group-[.open]:translate-x-0 group-[.open]:opacity-100 group-[.open]:delay-150 transition-all"
+            >
+              <a
+                class="css-animation bg-primary rounded-full px-10 py-2 text-white uppercase transition-colors"
+                href={`/${lang}/new-facilitator`}
+              >
+                {t("nav.becomeFacilitator")}
+              </a>
+            </li>
+            <li
+              class="mt-4 opacity-0 -translate-x-20 group-[.open]:translate-x-0 group-[.open]:opacity-100 group-[.open]:delay-200 transition-all"
+            >
+              <LanguageSwitcher currentLang={lang} />
+            </li>
+          </ul>
         </div>
-        <ul
-          class="w-full h-full z-10 flex flex-col justify-center items-center backdrop-blur-md lg:gap-5 uppercase"
-        >
-          <li
-            class="css-animation m-5 opacity-0 -translate-x-20 group-[.open]:translate-x-0 group-[.open]:opacity-100 group-[.open]:delay-150 transition-all"
-          >
-            <a
-              class="css-animation rounded-full px-10 py-2 uppercase transition-colors text-secondary-pink border-2 border-secondary-pink text-center"
-              href={`/${lang}/ghidare`}
-            >
-              {t("nav.freeGuidance")}
-            </a>
-          </li>
-          {
-            navigationLinks.map(({ title, url, className }) => (
-              <li class="m-8">
-                <a
-                  class={`hover:text-secondary-blue text-dark transition-colors ${className ? className : ""}`}
-                  href={url}
-                >
-                  {title}
-                </a>
-              </li>
-            ))
-          }
-          <li
-            class="css-animation mt-8 opacity-0 -translate-x-20 group-[.open]:translate-x-0 group-[.open]:opacity-100 group-[.open]:delay-150 transition-all"
-          >
-            <a
-              class="css-animation bg-primary rounded-full px-10 py-2 text-white uppercase transition-colors"
-              href={`/${lang}/new-facilitator`}
-            >
-              {t("nav.becomeFacilitator")}
-            </a>
-          </li>
-        </ul>
-      </div>
-    </MenuItems>
-    <MenuButton class="z-20" />
-  </Menu>
+      </MenuItems>
+      <MenuButton class="z-20" />
+    </Menu>
+  </div>
 </header>
 
 <div class="header-shadow z-10 fixed top-0 h-16 w-full bg-white"></div>
