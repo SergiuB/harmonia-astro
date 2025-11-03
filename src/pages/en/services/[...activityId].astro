@@ -1,0 +1,21 @@
+---
+import activities from "../../../data/activities.json";
+import ActivityDetailPage from "../../../shared/ActivityDetailPage.astro";
+
+export async function getStaticPaths() {
+  const res = activities.map(({ id, name }) => ({
+    params: { activityId: id },
+    props: { activityName: name },
+  }));
+  return res;
+}
+
+const { activityId } = Astro.params;
+const { activityName } = Astro.props;
+---
+
+<ActivityDetailPage
+  lang="en"
+  activityId={activityId}
+  activityName={activityName}
+/>

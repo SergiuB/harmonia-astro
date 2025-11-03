@@ -1,8 +1,16 @@
 ---
 import { getCollection } from "astro:content";
 import RootLayout from "../layouts/RootLayout.astro";
-const pageTitle = "Servicii";
 import activities from "../data/activities.json";
+import { useTranslations } from "../i18n/utils";
+
+interface Props {
+  lang: "ro" | "en";
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+const pageTitle = t("services.title");
 
 const facilitatorEntries = await getCollection("facilitators");
 
@@ -19,7 +27,7 @@ const filteredActivities = activities.filter((activity) =>
 );
 ---
 
-<RootLayout title={pageTitle}>
+<RootLayout title={pageTitle} lang={lang}>
   <section
     class="flex flex-col items-center justify-center bg-primary py-24 text-white"
   >
@@ -30,9 +38,9 @@ const filteredActivities = activities.filter((activity) =>
     <div class="flex items-center justify-center mb-8">
       <a
         class="bg-secondary-pink rounded-full px-6 py-2 text-white uppercase text-center text-sm"
-        href="/ghidare"
+        href={`/${lang}/ghidare`}
       >
-        Ghidare gratuită
+        {t("services.freeGuidance")}
       </a>
     </div>
 
@@ -41,7 +49,7 @@ const filteredActivities = activities.filter((activity) =>
         class="text-2xl pt-4 text-center mb-2"
         transition:name="facilitator-0"
       >
-        Facilitatori – Servicii individuale
+        {t("services.individualServices")}
       </h2>
       <ul class="flex flex-wrap w-80 place-items-center">
         {
@@ -50,7 +58,7 @@ const filteredActivities = activities.filter((activity) =>
             .map((activity) => (
               <li class="py-2 text-center w-1/2 box-border even:clear-left">
                 <a
-                  href={`/services/${activity.id}`}
+                  href={`/${lang}/services/${activity.id}`}
                   class=" text-secondary-blue py-1"
                   transition:name={`activity-${activity.id}`}
                 >
@@ -64,7 +72,7 @@ const filteredActivities = activities.filter((activity) =>
         class="text-2xl pt-4 text-center mb-2"
         transition:name="facilitator-1"
       >
-        Facilitatori – Servicii de grup
+        {t("services.groupServices")}
       </h2>
       <ul class="flex flex-wrap w-80 place-items-center">
         {
@@ -73,7 +81,7 @@ const filteredActivities = activities.filter((activity) =>
             .map((activity) => (
               <li class="py-2  text-center w-1/2 box-border even:clear-left">
                 <a
-                  href={`/services/${activity.id}`}
+                  href={`/${lang}/services/${activity.id}`}
                   class=" text-secondary-blue py-1"
                   transition:name={`activity-${activity.id}`}
                 >

@@ -5,7 +5,16 @@ import { Icon } from "astro-icon/components";
 import { getImage } from "astro:assets";
 import RootLayout from "../layouts/RootLayout.astro";
 import CalendarEvents from "../components/CalendarEvents.astro";
-const pageTitle = "Spatiu";
+import { useTranslations } from "../i18n/utils";
+
+interface Props {
+  lang: "ro" | "en";
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+
+const pageTitle = t("space.title");
 import heroImage from "/src/assets/spatiu-hero.jpg";
 import heroDesktopImage from "/src/assets/spatiu-hero-desktop.jpg";
 const optimizedHeroImage = await getImage({ src: heroImage });
@@ -44,7 +53,7 @@ const images = [
 const showEvents = import.meta.env.FF_SHOW_EVENTS;
 ---
 
-<RootLayout title={pageTitle}>
+<RootLayout title={pageTitle} lang={lang}>
   <section
     class="relative hero-section h-[60vh] flex flex-col items-center justify-center text-center bg-cover bg-center lg:hidden"
     style={`background-image: url('${optimizedHeroImage.src}')`}
@@ -53,7 +62,7 @@ const showEvents = import.meta.env.FF_SHOW_EVENTS;
       class="text-5xl font-black drop-shadow-lg relative w-60 white-text-border"
       transition:name="facilitators-title"
     >
-      Harmonia Terra
+      {t("space.title")}
     </h1>
   </section>
   <section
@@ -64,27 +73,20 @@ const showEvents = import.meta.env.FF_SHOW_EVENTS;
       class="text-6xl font-black drop-shadow-lg relative w-[28rem] white-text-border"
       transition:name="facilitators-title"
     >
-      Harmonia Terra
+      {t("space.title")}
     </h1>
   </section>
   <section
     class="flex flex-col items-center justify-center bg-primary text-white"
   >
     <p class="px-4 py-4 max-w-lg">
-      Harmonia Terra este un sanctuar holistic creat cu grijă pentru a promova
-      sănătatea și bunăstarea ființei umane, oferind un refugiu perfect pentru
-      cei care caută echilibru între minte, corp și suflet.
+      {t("space.description1")}
     </p>
     <p class="px-4 max-w-lg">
-      Aici oamenii vor simți întotdeauna profesionalismul echipei noastre,
-      energia primitoare a spațiului și serviciile de calitate oferite de
-      facilitatori.
+      {t("space.description2")}
     </p>
     <p class="px-4 py-4 max-w-lg">
-      Te invităm într-o casă din perioada Belle Époque, unde vei descoperi
-      camerele noastre deosebite, care permit desfășurarea unei game largi de
-      activități, fie individuale, fie de grup, oferind o experiență unică
-      fiecărui vizitator.
+      {t("space.description3")}
     </p>
 
     <div id="carousel" class="keen-slider my-4 max-w-lg">
@@ -102,14 +104,9 @@ const showEvents = import.meta.env.FF_SHOW_EVENTS;
     </div>
 
     <div class="w-full p-4 max-w-lg">
-      <h2 class="text-3xl mb-4">Rezervă acum spațiul tău!</h2>
+      <h2 class="text-3xl mb-4">{t("space.bookNow")}</h2>
       <p>
-        Am creat un loc magic, plin de armonie de care te poți bucura și tu!
-        Acesta poate fi închiriat pentru o gamă largă de activități, oferind un
-        cadru ideal pentru sesiuni individuale precum masaje, meditații,
-        psihoterapie și diverse terapii alternative. De asemenea, spațiul nostru
-        este perfect pentru sesiuni de grup, incluzând cursuri, workshopuri,
-        cercuri, yoga și sound healing.
+        {t("space.bookDescription")}
       </p>
 
       <div class="flex items-center justify-center">
@@ -120,7 +117,7 @@ const showEvents = import.meta.env.FF_SHOW_EVENTS;
           rel="noopener noreferrer"
           href="/spatiu.pdf"
         >
-          Oferte și regulament
+          {t("space.offersAndRegulations")}
         </a>
       </div>
       <div class="flex items-center justify-center">
@@ -128,19 +125,19 @@ const showEvents = import.meta.env.FF_SHOW_EVENTS;
           class="bg-secondary-pink rounded-full px-10 py-4 m-4 text-white uppercase text-center"
           href="https://wa.link/rjscoo"
         >
-          CONTACTEAZĂ-NE
+          {t("space.contactUs")}
         </a>
       </div>
     </div>
     {
       showEvents && (
         <div class="w-full p-4 max-w-lg  scroll-mt-16" id="events_calendar">
-          <CalendarEvents server:defer title="Calendar activități" />
+          <CalendarEvents server:defer title={t("space.calendarTitle")} />
         </div>
       )
     }
     <div class="w-full p-4 max-w-lg scroll-mt-12" id="contact">
-      <h2 class="text-3xl mb-4">Unde ne găsești</h2>
+      <h2 class="text-3xl mb-4">{t("space.whereToFindUs")}</h2>
       <a
         href="https://www.instagram.com/harmonia_terra"
         class="flex flex-row gap-2 items-center py-2"
@@ -149,7 +146,7 @@ const showEvents = import.meta.env.FF_SHOW_EVENTS;
           name="instagram"
           class="w-8 h-8 fill-primary bg-white rounded-full p-1"
         />
-        <p>harmonia_terra</p>
+        <p>{t("contact.instagram")}</p>
       </a>
       <a
         href="mailto:contact@harmoniaworld.org"
@@ -159,7 +156,7 @@ const showEvents = import.meta.env.FF_SHOW_EVENTS;
           name="email"
           class="w-8 h-8 fill-primary bg-white rounded-full p-1"
         />
-        <p>contact@harmoniaworld.org</p>
+        <p>{t("contact.email")}</p>
       </a>
       <a
         href="https://wa.me/40745255365"
@@ -169,7 +166,7 @@ const showEvents = import.meta.env.FF_SHOW_EVENTS;
           name="whatsapp"
           class="w-8 h-8 fill-primary bg-white rounded-full p-1"
         />
-        <p>+40745255365</p>
+        <p>{t("contact.phone")}</p>
       </a>
       <a
         class="flex flex-row gap-2 items-center py-2"
@@ -179,7 +176,7 @@ const showEvents = import.meta.env.FF_SHOW_EVENTS;
           name="location"
           class="w-8 h-8 fill-primary bg-white rounded-full p-1"
         />
-        <p>Strada Cercului 18, București</p>
+        <p>{t("contact.address")}</p>
       </a>
 
       <iframe

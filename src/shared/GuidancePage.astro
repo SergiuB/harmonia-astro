@@ -1,14 +1,22 @@
 ---
 import RootLayout from "../layouts/RootLayout.astro";
-const pageTitle = "Ghidare Gratuită";
+import { useTranslations } from "../i18n/utils";
+
+interface Props {
+  lang: "ro" | "en";
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+const pageTitle = t("guidance.title");
 ---
 
-<RootLayout title={pageTitle}>
+<RootLayout title={pageTitle} lang={lang}>
   <section class="flex flex-col items-center justify-center w-screen">
     <iframe
       src="https://docs.google.com/forms/d/e/1FAIpQLSdBoSjRPYk7vi4oZz8dkk3S9uIP5dtylPMo9d_7q1qchZLVJg/viewform"
       width="100%"
-      height="1200">Loading…</iframe
+      height="1200">{t("common.loading")}</iframe
     >
   </section>
 </RootLayout>

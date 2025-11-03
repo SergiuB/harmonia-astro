@@ -7,13 +7,14 @@ const MAX_INDEX = 1000;
 interface Props {
   displayCount?: number;
   activityId?: string;
+  lang?: "ro" | "en";
 }
 export const DarkBlue = "#224884";
 export const LightBlue = "#0FCBFF";
 export const Teal = "#00C3CD";
 export const Pink = "#FF969F";
 
-const { displayCount, activityId } = Astro.props;
+const { displayCount, activityId, lang = "ro" } = Astro.props;
 
 const facilitators = (await getCollection("facilitators"))
   .filter((facilitator) =>
@@ -39,7 +40,7 @@ const facilitators = (await getCollection("facilitators"))
         ]}
         transition:name={`facilitator-${idx}`}
         transition:animate="slide"
-        href={`/facilitators/${facilitator.slug}`}
+        href={`/${lang}/facilitators/${facilitator.slug}`}
       >
         <Image
           src={facilitator.data.images[0]}

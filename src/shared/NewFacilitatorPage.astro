@@ -1,9 +1,18 @@
 ---
 import RootLayout from "../layouts/RootLayout.astro";
-const pageTitle = "Facilitator nou";
+import { useTranslations } from "../i18n/utils";
+import type { Locale } from "../config/i18n";
+
+interface Props {
+  lang: Locale;
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+const pageTitle = t("nav.becomeFacilitator");
 ---
 
-<RootLayout title={pageTitle}>
+<RootLayout title={pageTitle} lang={lang}>
   <section class="flex flex-col items-center justify-center w-screen">
     <iframe
       src="https://docs.google.com/forms/d/e/1FAIpQLSeduo18a8PHoO3m1YIotjLdtbHBBkvrdmXyQFxNt-JXzmRlJw/viewform"

@@ -1,0 +1,36 @@
+---
+import { getCollection } from "astro:content";
+import RootLayout from "../layouts/RootLayout.astro";
+import activities from "../data/activities.json";
+import FacilitatorList from "../components/FacilitatorList.astro";
+import { useTranslations } from "../i18n/utils";
+
+interface Props {
+  lang: "ro" | "en";
+  activityId: string;
+  activityName: string;
+}
+
+const { lang, activityId, activityName } = Astro.props;
+const t = useTranslations(lang);
+const pageTitle = t("facilitators.title");
+---
+
+<RootLayout title={pageTitle} lang={lang}>
+  <section
+    class="flex flex-col items-center justify-center bg-primary py-24 text-white"
+  >
+    <h1 class="text-6xl" transition:name="facilitators-title">
+      {t("facilitators.title")}
+    </h1>
+    <h3
+      class="text-2xl uppercase pt-4"
+      transition:name={`activity-${activityId}`}
+    >
+      {activityName}
+    </h3>
+    <div class="flex flex-col items-center justify-center gap-10 py-16 px-4">
+      <FacilitatorList activityId={activityId} lang={lang} />
+    </div>
+  </section>
+</RootLayout>

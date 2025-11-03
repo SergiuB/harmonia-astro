@@ -1,0 +1,27 @@
+---
+import { getCollection } from "astro:content";
+import FacilitatorDetailPage from "../../../shared/FacilitatorDetailPage.astro";
+
+export async function getStaticPaths() {
+  const facilitatorEntries = await getCollection("facilitators");
+  return facilitatorEntries.map((entry) => ({
+    params: { slug: entry.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+---
+
+<FacilitatorDetailPage
+  lang="ro"
+  name={entry.data.name}
+  tags={entry.data.tags}
+  Content={Content}
+  services={entry.data.services}
+  images={entry.data.images}
+  location={entry.data.location}
+  locationUrl={entry.data.locationUrl}
+  contact={entry.data.contact}
+/>

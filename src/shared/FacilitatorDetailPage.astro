@@ -1,20 +1,53 @@
 ---
 import { Image } from "astro:assets";
-import { getCollection } from "astro:content";
-import RootLayout from "../../layouts/RootLayout.astro";
-import MarkdownRenderer from "../../components/MarkdownRenderer.astro";
+import RootLayout from "../layouts/RootLayout.astro";
+import MarkdownRenderer from "../components/MarkdownRenderer.astro";
+import { useTranslations } from "../i18n/utils";
+import type { ImageMetadata } from "astro";
 
-// 1. Generate a new path for every collection entry
-export async function getStaticPaths() {
-  const facilitatorEntries = await getCollection("facilitators");
-  return facilitatorEntries.map((entry) => ({
-    params: { slug: entry.slug },
-    props: { entry },
-  }));
+interface Service {
+  name: string;
+  price: string;
+  duration: string;
+  summary: string;
+  description?: string[];
+  image?: ImageMetadata;
+  reserveLink?: string;
 }
-// 2. For your template, you can get the entry directly from the prop
-const { entry } = Astro.props;
-const { Content } = await entry.render();
+
+interface Contact {
+  phone: string;
+  email?: string;
+  website?: string;
+  facebook?: string;
+  instagram?: string;
+}
+
+interface Props {
+  lang: "ro" | "en";
+  name: string;
+  tags: string[];
+  Content: any; // Astro component for rendered markdown
+  services: Service[];
+  images: ImageMetadata[];
+  location?: string;
+  locationUrl?: string;
+  contact: Contact;
+}
+
+const {
+  lang,
+  name,
+  tags,
+  Content,
+  services,
+  images,
+  location,
+  locationUrl,
+  contact,
+} = Astro.props;
+
+const t = useTranslations(lang);
 ---
 
 <style is:global>
@@ -23,15 +56,15 @@ const { Content } = await entry.render();
   }
 </style>
 
-<RootLayout title={entry.data.name}>
+<RootLayout title={name} lang={lang}>
   <section class="bg-primary py-10 text-white">
     <div class="container mx-auto max-w-screen-sm px-4">
       <h1 class="text-5xl pt-4 pb-3" transition:name="facilitators-title">
-        {entry.data.name}
+        {name}
       </h1>
       <div class="flex flex-row gap-1.5">
         {
-          entry.data.tags.map((tag) => (
+          tags.map((tag) => (
             <p
               transition:name={`facilitators-tag-${tag}`}
               class="bg-secondary-teal rounded-xl  text-xxs font-semibold text-red  text-center p-1.5 uppercase"
@@ -47,11 +80,11 @@ const { Content } = await entry.render();
         <Content />
       </div>
       {
-        entry.data.services.length && (
+        services.length && (
           <div class="mt-4">
-            <h2 class="text-2xl pt-4">Servicii</h2>
+            <h2 class="text-2xl pt-4">{t("facilitator.services")}</h2>
             <ul>
-              {entry.data.services.map((service) => (
+              {services.map((service) => (
                 <li
                   x-data="{ expanded: false }"
                   class="my-2 border-b border-light  pb-6"
@@ -85,7 +118,7 @@ const { Content } = await entry.render();
                         href={service.reserveLink}
                         class="rounded-xl bg-secondary-blwue uppercase h-7 px-2 pt-1 mt-2"
                       >
-                        Rezervă
+                        {t("facilitator.reserve")}
                       </a>
                     )}
                   </div>
@@ -113,7 +146,7 @@ const { Content } = await entry.render();
 
       <div id="gallery" class="mt-6 grid grid-cols-2 gap-2">
         {
-          entry.data.images.map((image, idx, imageArr) => (
+          images.map((image, idx, imageArr) => (
             <a
               href={image.src}
               data-pswp-width={image.width}
@@ -126,7 +159,7 @@ const { Content } = await entry.render();
             >
               <Image
                 src={image}
-                alt={entry.data.name}
+                alt={name}
                 class="object-cover w-full grayscale-[80%] hover:grayscale-0 transition duration-300 ease-in-out aspect-[3/2] rounded-3xl "
                 width="525"
                 height="350"
@@ -136,82 +169,73 @@ const { Content } = await entry.render();
         }
       </div>
       <div class="flex flex-col mt-4">
-        <h2 class="text-2xl pt-4 mb-2">Contact</h2>
+        <h2 class="text-2xl pt-4 mb-2">{t("facilitator.contact")}</h2>
         <div class="grid grid-cols-6 gap-2">
           {
-            entry.data.location && (
+            location && (
               <>
-                <p class="text-white ">Locație:</p>
-                {entry.data.locationUrl ? (
-                  <a
-                    href={entry.data.locationUrl}
-                    class="text-white underline col-span-5"
-                  >
-                    {entry.data.location}
+                <p class="text-white ">{t("facilitator.location")}</p>
+                {locationUrl ? (
+                  <a href={locationUrl} class="text-white underline col-span-5">
+                    {location}
                   </a>
                 ) : (
-                  <p class="col-span-5">{entry.data.location}</p>
+                  <p class="col-span-5">{location}</p>
                 )}
               </>
             )
           }
 
-          <p class="text-white">Telefon:</p>
+          <p class="text-white">{t("facilitator.phone")}</p>
           <a
-            href={`tel:${entry.data.contact.phone}`}
+            href={`tel:${contact.phone}`}
             class="text-white underline col-span-5"
           >
-            {entry.data.contact.phone}
+            {contact.phone}
           </a>
           {
-            entry.data.contact.email && (
+            contact.email && (
               <>
-                <p class="text-white">Email:</p>
+                <p class="text-white">{t("facilitator.email")}</p>
                 <a
-                  href={`mailto:${entry.data.contact.email}`}
+                  href={`mailto:${contact.email}`}
                   class="text-white underline col-span-5"
                 >
-                  {entry.data.contact.email}
+                  {contact.email}
                 </a>
               </>
             )
           }
           {
-            entry.data.contact.website && (
+            contact.website && (
               <>
-                <p class="text-white">Web:</p>
+                <p class="text-white">{t("facilitator.website")}</p>
                 <a
                   href={
-                    entry.data.contact.website.startsWith("http")
-                      ? entry.data.contact.website
-                      : `https://${entry.data.contact.website}`
+                    contact.website.startsWith("http")
+                      ? contact.website
+                      : `https://${contact.website}`
                   }
                   class="text-white underline col-span-5"
                 >
-                  {entry.data.contact.website}
+                  {contact.website}
                 </a>
               </>
             )
           }
 
-          <p class="text-white">Social:</p>
+          <p class="text-white">{t("facilitator.social")}</p>
           <div class="flex gap-2 col-span-5">
             {
-              entry.data.contact.facebook && (
-                <a
-                  href={entry.data.contact.facebook}
-                  class="text-white underline"
-                >
+              contact.facebook && (
+                <a href={contact.facebook} class="text-white underline">
                   Facebook
                 </a>
               )
             }
             {
-              entry.data.contact.instagram && (
-                <a
-                  href={entry.data.contact.instagram}
-                  class="text-white underline"
-                >
+              contact.instagram && (
+                <a href={contact.instagram} class="text-white underline">
                   Instagram
                 </a>
               )
