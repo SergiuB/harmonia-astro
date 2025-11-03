@@ -16,7 +16,9 @@ export const Pink = "#FF969F";
 
 const { displayCount, activityId, lang = "ro" } = Astro.props;
 
-const facilitators = (await getCollection("facilitators"))
+const facilitators = (
+  await getCollection(lang === "en" ? "facilitators-en" : "facilitators")
+)
   .filter((facilitator) =>
     activityId
       ? (facilitator.data.activities ?? []).includes(activityId)
@@ -35,7 +37,7 @@ const facilitators = (await getCollection("facilitators"))
       <a
         data-aos={idx % 2 ? "fade-up" : "fade-down"}
         class:list={[
-          "css-animation facilitator-card flex flex-row justify-center gap-4 inlibe-block float-left max-h-36",
+          "css-animation facilitator-card flex flex-row justify-center gap-4 float-left max-h-36",
           { "from-right": idx % 2 },
         ]}
         transition:name={`facilitator-${idx}`}
