@@ -37,7 +37,6 @@ const navigationLinks = getLocalizedLinks(lang);
     </a>
   </div>
   <div class="flex items-center gap-4">
-    <LanguageSwitcher currentLang={lang} />
     <Menu>
       <MenuItems class="z-10">
         <div
@@ -51,6 +50,11 @@ const navigationLinks = getLocalizedLinks(lang);
           <ul
             class="w-full h-full z-10 flex flex-col justify-center items-center backdrop-blur-md lg:gap-5 uppercase"
           >
+            <li
+              class="mt-4 opacity-0 -translate-x-20 group-[.open]:translate-x-0 group-[.open]:opacity-100 group-[.open]:delay-200 transition-all"
+            >
+              <LanguageSwitcher currentLang={lang} />
+            </li>
             <li
               class="css-animation m-5 opacity-0 -translate-x-20 group-[.open]:translate-x-0 group-[.open]:opacity-100 group-[.open]:delay-150 transition-all"
             >
@@ -82,11 +86,6 @@ const navigationLinks = getLocalizedLinks(lang);
               >
                 {t("nav.becomeFacilitator")}
               </a>
-            </li>
-            <li
-              class="mt-4 opacity-0 -translate-x-20 group-[.open]:translate-x-0 group-[.open]:opacity-100 group-[.open]:delay-200 transition-all"
-            >
-              <LanguageSwitcher currentLang={lang} />
             </li>
           </ul>
         </div>
