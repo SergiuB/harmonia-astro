@@ -1,7 +1,7 @@
 ---
 name: "Andreea-Valentina Ganea"
 featuredIndex: 7
-images: ["./images/andreeavalentina/andreeavalentina.jpg"]
+images: ["../images/andreeavalentina/andreeavalentina.jpg"]
 tags: ["Medicina Energetică", "Terapeut Masaj"]
 activities: ["masaj", "terapii-shamanice", "alte-servicii", "group-terapii-shamanice", "masaj"]
 services: [

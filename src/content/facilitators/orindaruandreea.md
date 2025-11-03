@@ -1,7 +1,7 @@
 ---
 name: "Andreea Orîndaru"
 featuredIndex: 10
-images: ["./images/orindariuandreea/AndreeaO.jpg"]
+images: ["../images/orindariuandreea/AndreeaO.jpg"]
 tags: ["Coach", "Trainer"]
 activities: ["coaching"]
 services: [

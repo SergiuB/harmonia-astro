@@ -1,7 +1,7 @@
 ---
 name: "Andrei Padina"
 featuredIndex: 6
-images: ["./images/andreipadina/andreipadina.jpeg"]
+images: ["../images/andreipadina/andreipadina.jpeg"]
 tags: ["NeuroTrainer", "Nutriționist", "Instructor"]
 activities: ["neuroptimal", "nutritie", "coaching" , "humangarage" , "miscare-constienta", "alte-servicii", "biohacking"]
 services: [

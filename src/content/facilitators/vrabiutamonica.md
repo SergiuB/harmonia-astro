@@ -1,7 +1,7 @@
 ---
 name: "Monica Vrabiuta"
 featuredIndex: 12
-images: ["./images/vrabiutamonica/monicav.jpg"]
+images: ["../images/vrabiutamonica/monicav.jpg"]
 tags: ["Terapeut", "Coach", "Dans Constient"]
 activities: ["masaj", "humandesign", "cheilegenelor", "group-cheilegenelor", "group-humandesign", "group-dans"]
 services: [

@@ -1,7 +1,7 @@
 ---
 name: "Iunia Smeu"
 featuredIndex: 16
-images: ["./images/iuniazmeu/iunia.jpg"]
+images: ["../images/iuniazmeu/iunia.jpg"]
 tags: ["Terapeut", "Medicina Shamanica", "Breathwork"]
 activities: ["masaj", "terapii-shamanice", "alte-servicii"]
 services: [

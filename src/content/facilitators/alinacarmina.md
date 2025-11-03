@@ -1,7 +1,7 @@
 ---
 name: "Alina Carmina"
 featuredIndex: 4
-images: ["./images/carmina/alinacarmina.png"]
+images: ["../images/carmina/alinacarmina.png"]
 tags: ["Terapeut", "Holistic Approach", "Medicină Alternativă",]
 activities: ["masaj", "group-yoga", "alte-servicii", "yoga", "miscare-constienta", "aliniament"]
 services: [

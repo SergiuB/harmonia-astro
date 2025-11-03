@@ -1,7 +1,7 @@
 ---
 name: "Alina Grecu"
 featuredIndex: 6
-images: ["./images/andragrecu/alinagrecu2.jpeg"]
+images: ["../images/andragrecu/alinagrecu2.jpeg"]
 tags: ["Terapeut Craniosacral", "Instructor", "Yoga & Pilates"]
 activities: ["masaj", "group-yoga", "alte-servicii", "yoga", "miscare-constienta", "aliniament", "group-pilates", "pilates"]
 services: [

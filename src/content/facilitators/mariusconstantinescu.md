@@ -1,7 +1,7 @@
 ---
 name: "Marius Constantinescu"
 featuredIndex: 13
-images: ["./images/mariusconstantinescu/mariusc.jpeg"]
+images: ["../images/mariusconstantinescu/mariusc.jpeg"]
 tags: ["Instructor", "Ashtanga Yoga"]
 activities: ["group-yoga", "yoga"]
 services: [

@@ -1,7 +1,7 @@
 ---
 name: "Baciu Daniel"
 featuredIndex: 6
-images: ["./images/deplin/deplin.jpeg"]
+images: ["../images/deplin/deplin.jpeg"]
 tags: ["Rebirthing", "Breathwork", "Coach"]
 activities: ["alte-servicii", "breathwork", "group-alteservicii", "group-breathwork"]
 services: [
