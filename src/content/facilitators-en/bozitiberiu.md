@@ -286,7 +286,7 @@ services:
         ],
       isGroup: true,
       price: "950lei",
-      duration: "3ore 30min",
+      duration: "3h 30min",
       reserveLink: "https://wa.link/b4f3ug",
     },
     {
@@ -306,7 +306,7 @@ services:
           "*Rescheduling or cancellations, regardless of reason, must be made at least 48 hours before the session. In case of rescheduling or cancellations less than 48 hours before, the session will be lost if you have a gift card or subscription, and for individual payments, the 50% advance will not be refunded.",
         ],
       price: "1350lei",
-      duration: "7ore",
+      duration: "7h",
       reserveLink: "https://wa.link/b4f3ug",
     },
     {
@@ -330,7 +330,7 @@ services:
           "*Rescheduling or cancellations, for any reason, must be made at least 48 hours before the session. If rescheduled or cancelled less than 48 hours before, the session will be lost for gift card or subscription holders, and for individual payments the 50% deposit will not be refunded.",
         ],
       price: " 350lei → 2880lei",
-      duration: "60min → 7ore",
+      duration: "60min → 7h",
       reserveLink: "https://wa.link/b4f3ug",
     },
   ]
