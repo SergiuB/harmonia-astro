@@ -1,12 +1,18 @@
 ---
 import CalendarEvent from "./CalendarEvent.astro";
+import { useTranslations } from "../i18n/utils";
+import type { Locale } from "../config/i18n";
 
 const API_KEY = import.meta.env.CALENDAR_API_KEY;
 const CALENDAR_ID = import.meta.env.CALENDAR_ID;
 export interface CalendarEventsProps {
   maxEvents?: number;
   title?: string;
+  lang?: Locale;
 }
+
+const { lang = "ro" } = Astro.props;
+const t = useTranslations(lang);
 interface GoogleCalendarEvent {
   summary: string;
   description?: string;
@@ -52,7 +58,8 @@ function groupEventsByDate(events: GoogleCalendarEvent[]) {
 }
 function formatDate(dateStr: string, tz?: string) {
   const date = new Date(dateStr);
-  const formattedDate = date.toLocaleDateString("ro-RO", {
+  const locale = lang === "en" ? "en-US" : "ro-RO";
+  const formattedDate = date.toLocaleDateString(locale, {
     weekday: "long",
     day: "numeric",
     month: "long",
@@ -69,14 +76,15 @@ function formatTimeRange(
   tz?: string,
 ) {
   if (!startDateTime) return "";
-  const start = new Date(startDateTime).toLocaleTimeString("ro-RO", {
+  const locale = lang === "en" ? "en-US" : "ro-RO";
+  const start = new Date(startDateTime).toLocaleTimeString(locale, {
     hour: "2-digit",
     minute: "2-digit",
     ...(tz ? { timeZone: tz } : {}),
   });
   let end = "";
   if (endDateTime) {
-    end = new Date(endDateTime).toLocaleTimeString("ro-RO", {
+    end = new Date(endDateTime).toLocaleTimeString(locale, {
       hour: "2-digit",
       minute: "2-digit",
       ...(tz ? { timeZone: tz } : {}),
@@ -173,6 +181,7 @@ function parseDescription(description?: string) {
                     detailsLink={detailsLink || undefined}
                     registerLink={registerLink || undefined}
                     isVisible={`visibleCount > ${event.index}`}
+                    lang={lang}
                   />
                 );
               })}
@@ -186,7 +195,7 @@ function parseDescription(description?: string) {
         @click="showMore()"
         class="w-full mt-4 px-4 py-2 text-secondary-pink border border-secondary-pink rounded-full transition-colors"
       >
-        Mai multe activități
+        {t("calendar.loadMore")}
       </button>
     </div>
   )

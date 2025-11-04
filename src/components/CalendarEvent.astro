@@ -1,4 +1,7 @@
 ---
+import { useTranslations } from "../i18n/utils";
+import type { Locale } from "../config/i18n";
+
 interface Props {
   title: string;
   description: string;
@@ -6,10 +9,20 @@ interface Props {
   detailsLink?: string;
   registerLink?: string;
   isVisible?: string;
+  lang?: Locale;
 }
 
-const { title, description, timeRange, detailsLink, registerLink, isVisible } =
-  Astro.props;
+const {
+  title,
+  description,
+  timeRange,
+  detailsLink,
+  registerLink,
+  isVisible,
+  lang = "ro",
+} = Astro.props;
+
+const t = useTranslations(lang);
 ---
 
 <div
@@ -70,7 +83,7 @@ const { title, description, timeRange, detailsLink, registerLink, isVisible } =
           href={registerLink}
           class="rounded-xl bg-secondary-pink uppercase h-7 px-4 pt-1 mt-2 text-white text-sm"
         >
-          Participă
+          {t("calendar.participate")}
         </a>
       )
     }
@@ -94,6 +107,8 @@ const { title, description, timeRange, detailsLink, registerLink, isVisible } =
     @click="toggleExpanded()"
     class="block mt-2 text-secondary-blue underline text-sm cursor-pointer"
   >
-    <span x-text="expanded ? 'Ascunde' : 'Afișează mai mult'"></span>
+    <span
+      x-text={`expanded ? '${t("calendar.showLess")}' : '${t("calendar.showMore")}'`}
+    ></span>
   </button>
 </div>

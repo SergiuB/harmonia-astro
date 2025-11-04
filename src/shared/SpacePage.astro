@@ -132,7 +132,11 @@ const showEvents = import.meta.env.FF_SHOW_EVENTS;
     {
       showEvents && (
         <div class="w-full p-4 max-w-lg  scroll-mt-16" id="events_calendar">
-          <CalendarEvents server:defer title={t("space.calendarTitle")} />
+          <CalendarEvents
+            server:defer
+            title={t("space.calendarTitle")}
+            lang={lang}
+          />
         </div>
       )
     }
