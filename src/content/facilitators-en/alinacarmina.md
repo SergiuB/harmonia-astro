@@ -2,7 +2,7 @@
 name: "Alina Carmina"
 featuredIndex: 4
 images: ["../images/carmina/alinacarmina.png"]
-tags: ["Terapeut", "Holistic Approach", "Medicină Alternativă"]
+tags: ["Therapist", "Holistic Approach", "Alternative Medicine"]
 activities:
   [
     "masaj",
@@ -16,218 +16,159 @@ services:
   [
     {
       name: "Back in Harmony",
-      summary: "Terapie manuală integrativă : Întregul corp",
-      description: [
-          "Back in Harmony este o combinație de tehnici terapeutice de masaj, mobilizări și întinderi, ce integrează elemente din toate tipurile de terapii manuale studiate de mine: masaj terapeutic thailandez, yumeiho, masajul rusesc, shiatsu, presopunctură/acupresură, masajul somatic și de relaxare, masajul limfatic și anticelulitic, cursul de technician/terapeut masseur, bucăți de craniosacral, miofascial și fascial release, masajul visceral/abdominal, deep tissue, Chi Nei Tsang și altele. Este o abordare complexă ce lucrează pe mai multe niveluri ale corpului și vizează sistemul musculo-scheletic, fascia și căile energetice, folosind presiune adâncă, mișcări lente și intenționate, precum și mobilizări blânde. Este destinat să detensioneze și să elibereze contracturile musculare, să restabilească flexibilitatea și mobilitatea, să îmbunătățească simetria și postura, și să ajute în menținerea, îmbunătățirea și, uneori, recuperarea, în timp, în cazuri de afecțiuni precum hernii de disc, cifoze, lordoze, scolioze etc.",
-          "Beneficiile acestei abordări sunt multiple:",
-          "• Ameliorarea durerii și reducerea tensiunii musculare și a contracturilor.",
-          "• Îmbunătățirea flexibilității și mobilității, în special pentru persoanele cu mișcări restricționate
-          datorită leziunilor sau sedentarismului prelungit.Îmbunătățirea flexibilității și mobilității, în special pentru persoanele cu mișcări restricționate
-          datorită leziunilor sau sedentarismului prelungit.",
-          "• Realinierea posturii corpului și restabilirea simetriei, abordând probleme precum scolioza, cifoza
-          și alte dezechilibre posturale.",
-          "• Stimularea fluxului sanguin și a circulației limfatice, contribuind la eliminarea toxinelor și
-          îmbunătățirea metabolismului general al corpului.",
-          "• Reducerea stresului și eliberarea emoțională prin manipularea canalelor energetice.",
-          "• Îmbunătățirea funcției sistemului nervos, sporind abilitatea corpului de a se autoregla și de a se
-          vindeca din interior.",
-          "• Îmbunătățirea funcției respiratorii, benefică pentru persoanele cu dificultăți de respirație sau
-          tensiune în zona toracică.",
-          "• Creșterea vitalității și echilibrului emoțional, promovând un sentiment de pace și bunăstare.",
-          "Această abordare este adaptabilă, sesiunea este personalizată în funcție de nevoile specifice ale
-          fiecăruia, asigurând astfel o terapie eficientă pentru diverse condiții.",
-          "Pentru persoanele care vin doar o dată, se lucrează un masaj standard, aliniat la ceea ce este nevoie în
-          acel moment. Poate fi blând și relaxant, sau mai profund, un pic dureros, dar cu efect mai îndelungat.",
-          "Pentru un efect terapeutic mai puternic și cu efecte vizibile, recomand abordarea cu recurență
-          săptămânală, unde voi putea aplica diverse tehnici de la o ședință la alta, astfel încât să lucrăm pas cu
-          pas spre o îmbunătățire și transformare mai profundă.",
-          "În caz de afecțiuni precum hernia de disc, protruzii sau altele asemenea, în special cu inflamație și
-          durere mai mare persistentă, recomand o perioadă în care să lucrăm de 2 ori pe săptămână, până la
-          eliberarea durerii acute.",
-          "Se va lucra peste haine, pe saltea la sol.",
-          "*Anularea programării: Anularea ședinței se poate face cu cel târziu de 42 ore înainte de programare, altfel se va plăti integral,
-          iar în caz de urgențe medicale neprevăzute, se va plăti jumătate din cost, datorită cheltuielilor pentru
-          rezervarea spațiului și timpul alocat care se pierde. Vă mulțumim pentru înțelegere!",
+      summary: "Integrative manual therapy: Whole body",
+      description:
+        [
+          "Back in Harmony is a combination of therapeutic massage techniques, mobilizations and stretches that integrates elements from all the manual therapies I studied: Thai therapeutic massage, Yumeiho, Russian massage, shiatsu, acupressure, somatic and relaxation massage, lymphatic and anti‑cellulite massage, technician/therapist masseur training, pieces of craniosacral, myofascial and fascial release, visceral/abdominal massage, deep tissue, Chi Nei Tsang and more. It is a complex approach that works on several body layers and targets the musculoskeletal system, fascia and energetic pathways, using deep pressure, slow and intentional movements, and gentle mobilizations. It aims to release muscle tension and contractures, restore flexibility and mobility, improve symmetry and posture, and assist in maintenance, improvement, and sometimes long‑term recovery in conditions such as disc herniations, kyphosis, lordosis, scoliosis, etc.",
+          "The benefits of this approach are multiple:",
+          "• Pain relief and reduction of muscle tension and contractures.",
+          "• Improved flexibility and mobility, especially for people with restricted movement due to injuries or prolonged sedentary lifestyle.",
+          "• Realignment of body posture and restoration of symmetry, addressing issues such as scoliosis, kyphosis and other postural imbalances.",
+          "• Stimulation of blood flow and lymphatic circulation, helping remove toxins and improving overall metabolism.",
+          "• Stress reduction and emotional release through manipulation of energetic channels.",
+          "• Improved nervous system function, increasing the body's ability to self‑regulate and heal from within.",
+          "• Improved respiratory function, beneficial for people with breathing difficulties or tension in the chest area.",
+          "• Increased vitality and emotional balance, promoting a sense of peace and wellbeing.",
+          "This approach is adaptable: each session is personalized according to the individual's needs, ensuring an effective therapy for various conditions.",
+          "For single‑visit clients, a standard massage is given, aligned with what is needed at that time. It can be gentle and relaxing or deeper and somewhat painful but with longer lasting effects.",
+          "For stronger therapeutic effect and visible results, I recommend a recurring weekly approach where I can apply different techniques from one session to the next so we progressively work toward improvement and deeper transformation.",
+          "In cases of conditions such as disc herniation, protrusions or similar issues, especially with persistent inflammation and stronger pain, I recommend a period of twice‑weekly sessions until the acute pain subsides.",
+          "Sessions are performed over clothing, on a floor mat.",
+          "*Cancellation policy: You may cancel the session up to 42 hours before the appointment; otherwise the full fee applies. In case of unforeseen medical emergencies, half the cost will be charged due to space reservation costs and lost time. Thank you for your understanding!",
         ],
       isGroup: true,
       price: "350lei",
       duration: "90min",
       reserveLink: "https://wa.link/djgx8y",
     },
-    { name: "Yoga", summary: "Clasa Privată de Yoga", description: [
-          "În yoga, învățarea corectă a elementelor de bază și asigurarea unei alinieri adecvate sunt esențiale. Fără
-          o executare corectă a acestor elemente de bază, riscul de accidentări poate crește pe măsură ce
-          progresezi în practică. O clasă privată de yoga, personalizată în funcție de nevoile și abilitățile tale, este
-          cea mai sigură și mai eficientă modalitate de a construi un obicei sănătos și constant în practica yoga.",
-          "Suntem diferiți. Uneori afecțiuni de sănătate sau nevoi individuale pot face ca o clasă de grup să fie mai
-          puțin potrivită pentru tine, sau chiar riscantă. În cadrul unui grup, instructorul nu poate oferi o atenție
-          detaliată fiecărui participant, astfel că nu există garanția ca pozițiile să fie executate în siguranță, sau că
-          nevoile tale specifice să poată fi luate în considerare.",
-          "Prin sesiuni private instructorul poate adapta fiecare clasă în funcție de afecțiunile tale, sau în funcție de
-          alte particularități ale corpului tău. Clasele private de yoga îți permit să lucrezi la pozițiile și întinderile
-          care au sens pentru tine, în funcție de programul tau și în propriul ritm. Clasele private îți permit să
-          pășești în practica yoga într-un mod mai sigur, cu o aliniere adecvată și o concentrare clară asupra
-          obiectivelor și nevoilor tale.",
-          "Sunt benefice atât pentru începători, cât și pentru intermediari sau avansați. Uneori, cei cu experiență în
-          yoga pot simți că lecțiile de grup nu le mai aduc provocările necesare sau nu se concentrează pe
-          posturile pe care ei doresc să le îmbunătățească. În astfel de cazuri, o clasă privată poate reprezenta o
-          oportunitate excelentă de a continua să evoluezi, fără a te simți blocat.",
-          "Scopul meu este să îți îmbogățesc viața de zi cu zi prin yoga, aducând calm, ușurință și pace în starea ta
-          fizică și mentală. Cea mai bună practică de yoga este cea creată special pentru tine. Într-o clasă privată,
-          îți voi oferi spațiu pentru a te întinde, a respira și a te dezvolta în ritmul tău propriu.",
-          "Structura clasei:",
-          "• Încălzire specifică, ușor de învățat și aplicat acasă",
-          "• Tehnici de respirație – pranayama",
-          "• Sesiune de 60 de minute de asana (posturi yoga) și meditația finală",
-          "Pentru cine este potrivită?",
-          "• Persoane care doresc să învețe yoga într-un mod sigur și personalizat",
-          "• Cei care au afecțiuni de sănătate sau limitări de mobilitate",
-          "• Practicanți de yoga care vor să își îmbunătățească tehnica sau să primească atenție
-          individualizată",
-          "*Anularea programării: Anularea ședinței se poate face cu cel târziu de 42 ore înainte de programare, altfel se va plăti integral,
-          iar în caz de urgențe medicale neprevăzute, se va plăti jumătate din cost, datorită cheltuielilor pentru
-          rezervarea spațiului și timpul alocat care se pierde. Vă mulțumim pentru înțelegere!",
-        ], price: "300lei / 500lei", duration: "90 min : 1pers / 2pers", reserveLink: "https://wa.link/djgx8y" },
+    {
+      name: "Yoga",
+      summary: "Private Yoga Class",
+      description:
+        [
+          "In yoga, proper learning of basic elements and ensuring correct alignment are essential. Without correct execution of these basics, the risk of injury can increase as you progress. A private yoga class tailored to your needs and abilities is the safest and most effective way to build a healthy and consistent yoga practice.",
+          "We are different. Sometimes health conditions or individual needs make a group class less suitable or even risky. In a group, the instructor cannot offer detailed attention to every participant, so there is no guarantee that postures are executed safely or that your specific needs are addressed.",
+          "In private sessions the instructor can adapt every class to your conditions or other body particularities. Private yoga classes let you work on poses and stretches that matter to you, according to your schedule and at your own pace. They allow you to practice more safely with proper alignment and focused attention on your goals and needs.",
+          "They are beneficial for beginners, intermediates and advanced practitioners alike. Sometimes experienced yogis may feel that group lessons don't provide the challenges they need or don't focus on the poses they want to improve. In such cases, a private class is an excellent opportunity to keep progressing without feeling stuck.",
+          "My aim is to enrich your daily life through yoga by bringing calm, ease and peace to your physical and mental state. The best yoga practice is the one created specifically for you. In a private class, I'll give you space to stretch, breathe and develop at your own pace.",
+          "Class structure:",
+          "• Specific warm‑up, easy to learn and apply at home",
+          "• Breathing techniques – pranayama",
+          "• 60 minutes of asana (yoga postures) and final meditation",
+          "Who is it suitable for?",
+          "• People who want to learn yoga in a safe, personalized way",
+          "• Those with health conditions or mobility limitations",
+          "• Yoga practitioners who want to improve technique or receive individual attention",
+          "*Cancellation policy: You may cancel the session up to 42 hours before the appointment; otherwise the full fee applies. In case of unforeseen medical emergencies, half the cost will be charged due to space reservation costs and lost time. Thank you for your understanding!",
+        ],
+      price: "300lei / 500lei",
+      duration: "90 min : 1pers / 2pers",
+      reserveLink: "https://wa.link/djgx8y",
+    },
     {
       name: "My workout of the week – MyWoW",
-      summary: "Ședința de evaluare : Ședința de
-        antrenament",
-      description: [
-          "MyWoW este un antrenament personalizat, complex, dinamic, adaptat nevoilor tale. Fiecare sesiune este diferită și concepută pentru a te ajuta să îți extinzi aria și capacitatea de mișcare, să dezvolți o conștientizare mai profundă a corpului și să obții o postură corectă prin întărirea musculaturii specifice și alungirea coloanei vertebrale. Antrenamentul se concentrează pe îmbunătățirea coordonării, echilibrului, mobilității, agilității, forței și flexibilității, aducerea simetriei în corp și redefinirea posturii.",
-          "Vom identifica limitările, punctele slabe și dezechilibrele, iar antrenamentul va fi structurat pe nevoile individuale, cu exerciții corective ușoare și unice care abordează limitele comune ale corpului tău, vom folosi, în funcție de nevoi, tehnici multiple, pornind de la simplele și sigurele abdomene, extensii, genuflexiuni, flotări –  exerciții calistenice executate cu greutatea corpului -, pană la elemente din natural movement, antrenament funcțional, pilates, HIIT, tabata, tae-bo, aliniament postural etc.",
-          "Antrenamentele vor avea, în mare, următoarea structură:",
-          "• O încălzire completă, care include exerciții de coordonare, izolarea mișcărilor în diferite părți ale
-          corpului, conștientizarea mișcărilor și stretching activ/dinamic.",
-          "• Partea de mișcare – vom aborda și/sau mixa mai multe elemente, alegând pe cele mai eficiente,
-          și pliate pe nevoile tale, iar eu voi fi alături de tine pe tot parcursul ședinței, asigurându-mă că
-          mișcările sunt executate corect, cu respirația și focusul potrivite, pentru eficiență maximă, și
-          pentru a-ți oferi un spațiu sigur și ghidare pentru procesarea eventualelor stări emoționale care
-          pot apărea.",
-          "• Partea de stretching și relaxare – Această parte include diferite tehnici de întindere (activă,
-          pasivă, dinamică, asistată, izometrică) și elemente din yoga, pentru a elibera tensiunea și a
-          calma corpul și mintea.",
-          "Am fost dintotdeauna curioasă să explorez, să cercetez, să înteleg această minunăție numită corp si cum
-          functionează el. Această curiozitate și explorare m-a condus să ajung să integrez in lucrul meu tot ceea
-          ce am descoperit, atât ca informație, cât și ca experiență personală. Am realizat cu fascinație cât de
-          conectat este corpul fizic cu stările, emoțiile și gândurile noastre.",
-          "În esență, acest magnific corp al nostru este mai mult decât o structură fizică – este un arhivator al vieții
-          noastre, păstrând amintiri ale momentelor stresante, evenimentelor emoționale, traumelor și chiar
-          credințele pe care le avem despre noi înșine. Aceste experiențe sunt stocate atăt în minte, cât și în
-          țesuturile, fascia și celulele noastre.",
-          "Fascia, această rețea vastă și complexă, este un țesut pe bază de colagen, triplu helix, metafazic,
-          polimorf, piezoelectric, vâscoelastic. Știu, sună super complicat, dar pe scurt, ea joacă un rol foarte
-          important în păstrarea tuturor acestor informații adunate de noi în corp. Oferă suport structural,
-          facilitează mișcarea și conectează fiecare parte a corpului—de la piele, la organele, mușchii, oasele,
-          articulațiile, vasele de sânge și sistemul nervos. Este, de asemenea, conectată direct cu creierul,
-          influențând sistemul nervos și echilibrul hormonal, ceea ce impactează modul în care sunt eliberate
-          substanțele chimice vitale în corp.",
-          "Prin acest tip de antrenament, obiectivul meu este să te ghidez sa-ți recâștigi echilibrul și sănătatea, și să
-          ajungi să ai armonie nu doar in corp, ci în întreaga ființă. Vom lucra pe musculatură, ligamente,
-          tendoane, dar dar cu o atenție specială pe eliberarea și reorganizarea fasciei, care va avea efect implicit
-          asupra eliberării stagnărilor emoționale, mentale și energetice. Fiecare mișcare va fi făcută cu atenție,
-          prezență și conștientizare, ca o meditație, împreună cu tehnici corecte de respirație, care să sprijine
-          acest proces transformațional.",
-          "Dacă simți că putem lucra împreuna și ești pregătit să faci schimbarea, te invit să pășești alături de mine
-          într-o călătorie de aliniere, auto-descoperire și armonizare!",
-          "*Anularea programării:
-          Anularea ședinței se poate face cu cel târziu de 42 ore înainte de programare, altfel se va plăti integral,
-          iar în caz de urgențe medicale neprevăzute, se va plăti jumătate din cost, datorită cheltuielilor pentru
-          rezervarea spațiului și timpul alocat care se pierde. Vă mulțumim pentru înțelegere!",
-          "*Dacă ai nevoie de alte opțiuni de preț sau durată, mă poți contacta și vom găsi împreună varianta care ți se potrivește cel mai bine.",
+      summary: "Assessment session : Training session",
+      description:
+        [
+          "MyWoW is a personalized, complex and dynamic workout adapted to your needs. Each session is different and designed to help you expand your range and movement capacity, develop deeper body awareness, and achieve correct posture by strengthening specific muscles and lengthening the spine. The training focuses on improving coordination, balance, mobility, agility, strength and flexibility, bringing symmetry to the body and redefining posture.",
+          "We will identify limitations, weak points and imbalances, and structure the training around individual needs with light and unique corrective exercises that address common body limits. Depending on needs we will use multiple techniques—from simple and safe core work, extensions, squats, push‑ups (bodyweight calisthenics) to elements of natural movement, functional training, Pilates, HIIT, Tabata, Tae‑Bo, and postural alignment.",
+          "Sessions typically follow this structure:",
+          "• A full warm‑up including coordination exercises, isolation of movements in different body parts, movement awareness and active/dynamic stretching.",
+          "• Movement section – a mix of selected elements chosen for your goals. I will guide you throughout the session to ensure exercises are executed correctly with proper breathing and focus, providing a safe environment and support for any emotional states that may arise.",
+          "• Stretching and relaxation – this phase includes various stretching techniques (active, passive, dynamic, assisted, isometric) and yoga elements to release tension and calm body and mind.",
+          "My long personal curiosity and study of the body led me to integrate many movement and therapeutic approaches into this training. I aim to help you regain balance and health, achieving harmony not only in the body but across the whole being. We will work on muscles, ligaments and tendons, with special attention to releasing and reorganizing the fascia, which also helps release stored emotional and energetic blockages. Every movement is performed with care, presence and awareness, supported by proper breathing techniques to assist the transformational process.",
+          "If you feel we can work together and are ready to make a change, I invite you to join me on a journey of alignment, self‑discovery and harmonization!",
+          "*Cancellation policy: You may cancel the session up to 42 hours before the appointment; otherwise the full fee applies. In case of unforeseen medical emergencies, half the cost will be charged due to space reservation costs and lost time. Thank you for your understanding!",
+          "*If you need different price or duration options, contact me and we will find the best solution together.",
         ],
       price: "300lei",
       duration: "90min",
       reserveLink: "https://wa.link/djgx8y",
     },
-    { name: "Reflexoterapie", summary: "Masaj : Picioare", description: [
-          "Reflexoterapia se bazează pe un principiu simplu, dar extrem de eficient: fiecare organ din corpul nostru
-          este asociat cu un punct reflex specific. Atunci când un organ este afectat, punctul său reflex semnalează
-          problema, iar prin stimularea acestuia putem identifica și trata dezechilibrele. În zonele respective se
-          pot acumula toxine și blocaje care pot fi eliberate prin reflexoterapie.",
-          "Cel mai bine definite și eficiente puncte reflexe sunt localizate la nivelul mâinilor și picioarelor, iar
-          reflexoterapia acționează asupra acestor zone pentru a restabili echilibrul organismului. Prin intermediul
-          acestei terapii, se lucrează pe zonele cu dezechilibre, care au posibile tulburări funcționale și organice,
-          contribuind la normalizarea funcțiilor corpului, la eliminarea toxinelor, îmbunătățirea circulației
-          sanguine, limfatice și energetice, și contribuie, de asemenea, la reechilibrarea bioenergetică a zonei
-          afectate, stimulând și accelerând procesele de auto-vindecare ale organismului.",
-          "Se va lucra la nivelul picioarelor, pe tălpi (ideal să aduceți prosop personal, mai mare).",
-          "*Anularea programării:
-          Anularea ședinței se poate face cu cel târziu de 42 ore înainte de programare, altfel se va plăti integral,
-          iar în caz de urgențe medicale neprevăzute, se va plăti jumătate din cost, datorită cheltuielilor pentru
-          rezervarea spațiului și timpul alocat care se pierde. Vă mulțumim pentru înțelegere!",
-        ], price: "300lei", duration: "75min", reserveLink: "https://wa.link/djgx8y" },
+    {
+      name: "Reflexotherapy",
+      summary: "Massage: Feet",
+      description:
+        [
+          "Reflexotherapy is based on a simple but highly effective principle: each organ in our body is associated with a specific reflex point. When an organ is affected, its reflex point signals the issue, and by stimulating it we can identify and treat imbalances. Toxins and blockages can accumulate in these zones and be released through reflexotherapy.",
+          "The best defined and most effective reflex points are located on the hands and feet. Reflexotherapy works on these areas to restore the body's balance. Through this therapy we address zones with imbalances and possible functional or organic disturbances, contributing to normalization of bodily functions, toxin elimination, and improved blood, lymphatic and energetic circulation. It also helps rebalance the bioenergetics of the affected zone, stimulating and accelerating the body's self‑healing processes.",
+          "Work is performed on the feet (please bring a large personal towel if possible).",
+          "*Cancellation policy: You may cancel the session up to 42 hours before the appointment; otherwise the full fee applies. In case of unforeseen medical emergencies, half the cost will be charged due to space reservation costs and lost time. Thank you for your understanding!",
+        ],
+      price: "300lei",
+      duration: "75min",
+      reserveLink: "https://wa.link/djgx8y",
+    },
     {
       name: "Yoga (Yin, Hatha, Vinyasa)",
-      summary: "Yoga : Clasă de grup",
-      description: [
-          "Ce vom face:",
-          "• Începem cu o încălzire cu mișcări specifice, mereu aceeași, ușor de învățat și de luat și acasă, care
-          pregătește corpul pentru poziții mai complexe din yoga.",
-          "• Urmează tehnici de respirație (pranayama) care să ne curețe plămânii, să ne relaxeze, să ne
-          elibereze de tensiune și stres, și să ne aducă mai aproape de noi, mai conștienți și mai prezenți.",
-          "• Continuăm cu posturi (asana), alternând de la o săptămână la alta, odată yin, odată yang
-          (hatha/vinyasa).",
-          "• În ultima parte ne relaxăm în shavasana și mergem puțin mai adânc în noi, folosind uneori diferite
-          moduri de meditație și conștientizare, pentru a ne adânci starea de relaxare și conectare interioară.",
-          "Nivel: Toată lumea este binevenită. Clasele sunt adaptate în funcție de grup și de nevoile individuale.",
-          "ATENȚIE!
-          Ultima marți din fiecare lună este dedicată unei clase speciale, axată doar pe tehnici de respirație
-          (pranayama) și diferite metode meditative. Aceasta va fi precedată de încălzire și mișcări care
-          pregătesc corpul pentru așezarea în meditație.",
-          "Când:
-          În fiecare marți, de la 17:45 la 19:30.
-          Te rugăm să ajungi mai devreme pentru a avea timp să te schimbi și pentru a rezolva eventualele detalii
-          organizatorice.",
+      summary: "Yoga: Group class",
+      description:
+        [
+          "What we'll do:",
+          "• We begin with a specific warm‑up that is always similar, easy to learn and to take home; it prepares the body for more complex yoga postures.",
+          "• Next are breathing techniques (pranayama) to cleanse the lungs, relax, release tension and stress, and bring us closer to ourselves with greater presence and awareness.",
+          "• We continue with postures (asana), alternating week by week between yin and yang (hatha/vinyasa).",
+          "• In the final part we relax in savasana and go a little deeper inward, sometimes using different meditation and awareness methods to deepen relaxation and inner connection.",
+          "Level: Everyone is welcome. Classes are adapted according to the group and individual needs.",
+          "NOTE: The last Tuesday of each month is dedicated to a special class focused only on breathing techniques (pranayama) and different meditation methods. This class is preceded by warm‑up and movements that prepare the body for sitting meditation.",
+          "When: Every Tuesday, from 17:45 to 19:30. Please arrive early to have time to change and take care of organizational details.",
         ],
       isGroup: true,
       price: "70lei",
       duration: "105min",
       reserveLink: "https://wa.link/djgx8y",
     },
-    { name: "Aliniament Postural ", summary: "Ședința de evaluare : Ședința de
-        antrenament", description: [
-          "Postural Alignment este un concept unic în România, creat de Tiberiu Vintiloiu, care integrează mișcări din Yoga, Pilates, Functional Training, Fitness și Animal Flow pentru a corecta postura, ameliora durerile musculare și articulare și preveni problemele de sănătate cauzate de stres și sedentarism.",
-          "Acest program eficient combină tehnici biomecanice pentru a obține o postură corectă, întărind musculatura specifică, alungind coloana vertebrală și favorizând starea de bine generală.",
-          "Ce tratează Postural Alignment:",
-          "• Hernia de disc, scolioză, cifoză, lordoză",
-          "• Dureri de spate, gât, șold",
-          "• Stres și depresie",
-          "Beneficii principale:",
-          "• Eliminarea durerilor articulare",
-          "• Corectarea deficitului respirator",
-          "• Îmbunătățirea coordonării, echilibrului și flexibilității",
-          "• Reeducarea mersului și reconectarea legăturilor neuro-musculare",
-          "• Creșterea forței musculare și reducerea durerilor articulare.",
-          "Cui se adresează programul?",
-          "• Persoanelor sedentare sau care petrec multe ore la birou",
-          "• Cei cu dureri articulare, musculare sau probleme de postură",
-          "• Persoanelor care suferă de depresie, stres sau probleme respiratorii",
-          "• Sportivilor care vor să-și optimizeze performanțele.",
-          "Ce include evaluarea posturală?",
-          "În cadrul primei ședințe de evaluare, se testează articulațiile și musculatura, identificându-se obiectivele individuale. Evaluarea biomecanică analizează plasamentul corpului și greșelile posturale, iar evaluarea emoțională explorează modul de gândire și emoțiile asociate poziționării incorecte. Aceasta permite înțelegerea și corectarea posturii greșite prin exerciții adaptate.",
-          "Programul de antrenament",
-          "Durata recomandată este de 10 ședințe (1/săptămână), fiecare sesiune de 90 de minute. Fiecare ședință aduce noi corectări, iar participantul primește exerciții pentru acasă, personalizate și actualizate pe parcurs. În final, o reevaluare identifică schimbările produse și stabilește metode de întreținere a rezultatelor pe termen lung.",
-          "Rezultatele obținute la finalul programului includ:",
-          "• Flexibilitate și control mai bun al mișcării",
-          "• Lipsa durerilor muscular-articulare",
-          "• O poziție corectă și o mai bună conectare musculară",
-          "*Preț: Ședință evaluare (60-90 min): 250 lei | Ședință antrenament (90 min): 300 lei",
-          "*Anularea programării:
-          Anularea ședinței se poate face cu cel târziu de 42 ore înainte de programare, altfel se va plăti integral, iar în caz de urgențe medicale neprevăzute, se va plăti jumătate din cost, datorită cheltuielilor pentru rezervarea spațiului și timpul alocat care se pierde. Vă mulțumim pentru înțelegere!",
-        ], isGroup: true, price: "300lei", duration: "90min", reserveLink: "https://wa.link/djgx8y" },
     {
-      name: "QiNeiZang - Masaj Abdominal",
-      summary: "Masaj : Organe interne ",
+      name: "Postural Alignment",
+      summary: "Assessment session : Training session",
       description:
         [
-          "QiNeiZang reprezintă o terapie străveche, descoperită de călugării taoiști în multiple sesiuni de meditație, având ca ghizi spirite înalte, dar totodată aveau cunoștințe de anatomie și cunoaștere în ceea ce privesc tehnicile de manipulare a energiei.",
-          "Construiește sau reconstruiește un sistem de apărare a corpului, în toate planurile. Această terapie deschide anumite porți/căi pentru cel ce primește terapia astfel încât să audă/simtă mesajele subtile transmise de senzorial și extrasenzorial și să facă apoi ajustările necesare.",
-          "QiNeiZang ajută să se facă centrarea și conexiunea cu ariile care se urmăresc a fi tratate. Când comunicarea cu aceste arii este restabilită, ordinele pentru vindecare vin cătrea aceastea, ridicându-le la un nivel de reajustare care atinge toate nivelele existenței – fizic, psihic, emoțional și spiritual.",
-          "Abdommenul inferior este un centru foarte important al corpului, locul de unde fiecare respirație și mișcare iși au originea. Este centrul srructural al gravitației și centrul proceselor metabolice. În viața intra uterina fătul se hrănește prin cordonul ombilical, după naștere, ombilicul rămâne centrul nostru originar, conectat la toate organele interne. Când organele nu pot procesa toxinele, ele sunt depozitate, ele sunt depozitate în jurul ombilicului pentru a fi eliminate ulterior.",
-          "Pe lângă toxine, se creează și blocaje emoționale care se adună în același loc, se stochează și apoi afectează organele interne și buna funcționare a tuturor sistemelor corpului. Acest centru se mai numește HARA SAU DANTIEN.",
-          "QiNeiZang ajută la procesarea emoționala, care însemană digestia. Corpul noatru digeră emoții, hrănind sufletul cu ce are nevoie și eliminând ce nu are nevoie. Bacteriile pot fi eliminate ușor și acumulate progresiv. Acest lucru îl experimentăm când creștem și ne maturizăm, când o situație copleșitoare apare, corpul nostru stochează încărcătura pentru a procesa mai târziu. Deoarece aceste încărcături sunt greu de accesat, vor ține persoana în multe aspecte în stadiul dezvoltării, chiar și la vârsta adultă, arătând și reprezentând un comportament copilăresc sau trăsături fizice copilărești.",
-          "Acestă terapie include și un masaj de 10-15 minute(depinde cât consideră terapeutul) al zonei capului pentru relaxarea întregului corp deoarece masajul abdominal va fi unul mai dur și profund.",
-          "Această terapie are un spectru larg în ceea ce privește beneficiile:detoxifiere, echilibrare emoțională, trezește conștiința de sine, îmbunătățește respirația, întărește sistemul imunitar, reduce durerile cronice și problemele ce reies din alinierea greșită a pelvisului, eliberează corpul fizic, emoțional și energetic de stagnări/blocaje la nivele diferite, restructurează și fortifică organismul, îmbunătățește funcția de eliminare și stimulează sistemul limfatic și circulator, lucrează pe funcția și structura organelor , corectează probleme posturale rezultate din dezechilibrele viscerale, eliberează tensiunile profunde statice și restructurează vitalitatea.",
+          "Postural Alignment is a unique concept in Romania, created by Tiberiu Vintiloiu, integrating movements from Yoga, Pilates, Functional Training, Fitness and Animal Flow to correct posture, relieve muscular and joint pain, and prevent health issues caused by stress and a sedentary lifestyle.",
+          "This effective program combines biomechanical techniques to achieve correct posture by strengthening specific muscles, lengthening the spine and promoting overall wellbeing.",
+          "What Postural Alignment treats:",
+          "• Disc herniation, scoliosis, kyphosis, lordosis",
+          "• Back, neck and hip pain",
+          "• Stress and depression",
+          "Main benefits:",
+          "• Elimination of joint pain",
+          "• Correction of respiratory deficits",
+          "• Improved coordination, balance and flexibility",
+          "• Reeducation of gait and reconnection of neuromuscular links",
+          "• Increased muscle strength and reduced joint pain.",
+          "Who is this program for?",
+          "• Sedentary people or those who spend long hours at a desk",
+          "• Those with joint or muscular pain or postural problems",
+          "• People suffering from depression, stress or respiratory issues",
+          "• Athletes who want to optimize performance.",
+          "What the postural assessment includes:",
+          "In the first assessment session joints and muscles are tested and individual objectives are identified. The biomechanical evaluation analyzes body placement and postural errors, while the emotional assessment explores thought patterns and emotions associated with incorrect posture. This allows understanding and correcting posture through tailored exercises.",
+          "Training program",
+          "The recommended duration is 10 sessions (1/week), each 90 minutes. Each session brings new corrections and the participant receives personalized take‑home exercises updated along the way. A final re‑evaluation identifies changes and establishes long‑term maintenance methods.",
+          "Expected results at the end of the program include:",
+          "• Greater flexibility and better movement control",
+          "• Relief from muscular‑articular pain",
+          "• Improved posture and better muscular connection",
+          "*Price: Assessment session (60–90 min): 250 lei | Training session (90 min): 300 lei",
+          "*Cancellation policy: You may cancel the session up to 42 hours before the appointment; otherwise the full fee applies. In case of unforeseen medical emergencies, half the cost will be charged due to reservation costs and lost time. Thank you for your understanding!",
+        ],
+      isGroup: true,
+      price: "300lei",
+      duration: "90min",
+      reserveLink: "https://wa.link/djgx8y",
+    },
+    {
+      name: "QiNeiZang - Abdominal Massage",
+      summary: "Massage: Internal organs",
+      description:
+        [
+          "QiNeiZang is an ancient therapy discovered by Taoist monks during multiple meditation sessions guided by higher spirits, who nevertheless possessed anatomical knowledge and techniques for manipulating energy.",
+          "It builds or rebuilds the body's defense system on all levels. This therapy opens certain gates/pathways for the recipient so they can hear/feel subtle messages from the sensory and extrasensory, and then make the necessary adjustments.",
+          "QiNeiZang helps establish centering and connection with the areas being treated. When communication with these areas is restored, healing orders reach them and initiate readjustment that affects all levels of existence—physical, psychic, emotional and spiritual.",
+          "The lower abdomen is a very important center of the body—the place from which every breath and movement originates. It is the structural center of gravity and the center of metabolic processes. In the intrauterine period the fetus is nourished through the umbilical cord; after birth the navel remains our original center, connected to all internal organs. When organs cannot process toxins they are stored around the navel to be eliminated later.",
+          "Besides toxins, emotional blockages accumulate in the same place, are stored and then affect internal organs and the proper functioning of all body systems. This center is also called HARA or DANTIEN.",
+          "QiNeiZang helps emotional processing, which is like digestion. Our body digests emotions, feeding the soul with what it needs and eliminating what it doesn't. Bacteria can be eliminated and also accumulate progressively. We experience this as we grow and mature: when an overwhelming situation occurs the body stores the load to process later. Since these loads are hard to access they can keep a person stuck developmentally, even in adulthood, showing childlike behavior or physical traits.",
+          "This therapy includes a 10–15 minute head massage (depending on the therapist's decision) to relax the whole body because the abdominal massage will be deeper and more intense.",
+          "This therapy offers a wide range of benefits: detoxification, emotional balancing, awakening of self‑awareness, improved breathing, strengthened immune system, reduction of chronic pain and issues resulting from pelvic misalignment, release of physical, emotional and energetic stagnations/blockages at different levels, restructuring and fortifying the organism, improved elimination function and stimulation of lymphatic and circulatory systems, work on organ function and structure, correction of postural problems from visceral imbalances, release of deep static tensions and restoration of vitality.",
         ],
       price: "400 lei",
       duration: "120min",
@@ -235,50 +176,50 @@ services:
     },
     {
       name: "7 Stars TERRApy",
-      summary: "Pachet Holistic : Personalizat",
+      summary: "Holistic Package: Personalized",
       description:
         [
-          "Experimentează Vindecarea Supremă a Corpului, Minții și Sufletului",
-          "Ne bucurăm să vă prezentăm pachetul nostru de terapii holistice premium: 7 Stars TERRApy. Acest pachet exclusiv combină tehnici tradiționale și moderne pentru a oferi o experiență de vindecare profundă și completă. Vei beneficia de 7 ore de tratamente specializate care îți vor aduce armonie și echilibru în toate aspectele vieții tale.",
-          "Ce Include Pachetul",
-          "Zyto, Harmonic Spa, Simfonia Celulelor – Delia te ghidează printr-o experiență completă de armonizare și regenerare. Scanarea Zyto analizează starea energetică, emoțională, mentală și fizică, oferind o imagine clară asupra dezechilibrelor subtile. Harmonic Spa aduce relaxare profundă prin Gua Sha, masajul capului și Ear Candling, iar Simfonia Celulelor, prin aplicarea uleiurilor esențiale Doterra, susține echilibrul emoțional și regenerarea celulară.",
-          "QiNeiZang - Alina Carmina foloseste o tehnică de masaj abdominal profundă, care se concentrează pe organele interne. Acest tratament ajută la detoxifierea organismului, îmbunătățirea funcționării organelor și eliberarea blocajelor energetice.",
-          "Harmonic Reborn - Tiberiu Bozi oferă un masaj holistic complet si complex ce integrează diverse tehnici pentru a aduce relaxare profundă și revitalizare. Harmonic Reborn este conceput pentru a echilibra corpul, mintea și spiritul, oferind o experiență de vindecare completă.",
-          "Rezervă-ți acum locul pentru a experimenta o transformare holistică unică și profundă.",
-          "Contactează-ne pentru a afla mai multe detalii și pentru a face o programare. Vindecarea ta completă este la un pas distanță!",
-          "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
-          "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
+          "Experience supreme healing of Body, Mind and Soul",
+          "We are pleased to present our premium holistic therapy package: 7 Stars TERRApy. This exclusive package combines traditional and modern techniques to provide a deep and complete healing experience. You will benefit from 7 hours of specialized treatments designed to bring harmony and balance to all aspects of your life.",
+          "What the package includes",
+          "Zyto, Harmonic Spa, Symphony of Cells – Delia guides you through a complete harmonization and regeneration experience. The Zyto scan analyzes energetic, emotional, mental and physical states, offering a clear picture of subtle imbalances. Harmonic Spa brings deep relaxation through Gua Sha, head massage and ear candling, while Symphony of Cells, using doTERRA essential oils, supports emotional balance and cellular regeneration.",
+          "QiNeiZang – Alina Carmina uses a deep abdominal massage technique focusing on internal organs. This treatment helps detoxify the body, improve organ function and release energetic blockages.",
+          "Harmonic Reborn – Tiberiu Bozi offers a full and complex holistic massage integrating various techniques to bring deep relaxation and revitalization. Harmonic Reborn is designed to balance body, mind and spirit for a complete healing experience.",
+          "Book now to experience a unique and profound holistic transformation.",
+          "Contact us to learn more details and to make a booking. Your complete healing is one step away!",
+          "*After booking through the website you will receive a message within 24 hours to pay a 50% deposit if you do not have a subscription or gift card.",
+          "*Rescheduling or cancellations for any reason must be made at least 48 hours before the session. Reprogramming or cancellations less than 48 hours before will forfeit the session if you hold a gift card or subscription. For individual payments, the 50% deposit will not be refunded.",
         ],
       price: "1350lei",
-      duration: "7ore",
+      duration: "7h",
       reserveLink: "https://wa.link/hc8cvw",
     },
     {
       name: "Harmonic GIFT Card",
-      summary: "Gift Card : Personalizat",
+      summary: "Gift Card: Personalized",
       description:
         [
-          "Descoperiți puterea de a dărui sănătate și armonie prin intermediul unui Harmonic Gift Card. Perfect pentru orice ocazie specială, gift cardul permite beneficiarului să aleagă oricare dintre serviciile mele holistice, având valoarea pe care dumneavoastră ați achitat-o.",
-          "Beneficiile Harmonic Gift Card",
-          "Flexibilitate Totală: Beneficiarul poate alege dintr-o gamă variată de terapii și pachete holistice, personalizând experiența în funcție de nevoile și preferințele sale.",
-          "Valabilitate Extinsă: Harmonic Gift Card are o valabilitate de 3 luni de la data achiziționării, oferind destul timp pentru a programa și bucura de o sesiune de vindecare și relaxare.",
-          "Cum Funcționează",
-          "1. Achiziționați Gift Cardul: Direct printr-un mesaj pe whatsapp în care specificati valoarea dorită.",
-          "2. Personalizați Mesajul: Adăugați un mesaj personalizat pentru a face cadoul și mai special.",
-          "3. Expediere Imediată: Alegeți să trimiteți Harmonic Gift Card prin email sau să-l imprimați pentru a-l dărui personal.",
-          "4. Bucurați-vă de Recunoștință: Oferiți cadoul perfect care aduce bucurie, sănătate și armonie celor dragi.",
-          "Indiferent de valoarea aleasă, Harmonic Gift Card reprezintă un pas către o stare de bine profundă, echilibrul corpului, minții și sufletului. Beneficiarul va putea opta pentru terapii holistice, masaje revitalizante și pachete complete care transformă și vindecă.",
-          "Nu rata ocazia de a dărui un cadou de neprețuit. Achiziționează un Harmonic Gift Card astăzi și oferă celor dragi o experiență de neuitat, plină de relaxare și vindecare.",
-          "Îți mulțumesc că alegi să dăruiești sănătate și armonie.",
-          "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
-          "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
+          "Discover the power of gifting health and harmony with a Harmonic Gift Card. Perfect for any special occasion, the gift card allows the recipient to choose any of my holistic services up to the value purchased.",
+          "Benefits of the Harmonic Gift Card",
+          "Total Flexibility: The recipient can choose from a wide range of therapies and holistic packages, personalizing the experience to their needs and preferences.",
+          "Extended Validity: The Harmonic Gift Card is valid for 3 months from the date of purchase, providing ample time to schedule and enjoy a healing and relaxing session.",
+          "How it works",
+          "1. Purchase the Gift Card: Send a WhatsApp message specifying the desired value.",
+          "2. Personalize the Message: Add a personalized message to make the gift even more special.",
+          "3. Immediate Delivery: Choose to send the Harmonic Gift Card by email or print it to give it in person.",
+          "4. Enjoy the Gratitude: Give the perfect gift that brings joy, health and harmony to loved ones.",
+          "Regardless of the chosen value, the Harmonic Gift Card is a step toward deep wellbeing and balance of body, mind and soul. The recipient can opt for holistic therapies, revitalizing massages and complete packages that transform and heal.",
+          "Don't miss the chance to give an invaluable gift. Purchase a Harmonic Gift Card today and offer your loved ones an unforgettable experience full of relaxation and healing.",
+          "Thank you for choosing to gift health and harmony.",
+          "*After booking through the website you will receive a message within 24 hours to pay a 50% deposit if you do not have a subscription or gift card.",
+          "*Rescheduling or cancellations for any reason must be made at least 48 hours before the session. Reprogramming or cancellations less than 48 hours before will forfeit the session if you hold a gift card or subscription. For individual payments, the 50% deposit will not be refunded.",
         ],
-      price: " 300lei → 1350lei",
-      duration: "60min → 7ore",
+      price: "300lei → 1350lei",
+      duration: "60min → 7h",
       reserveLink: "https://wa.link/djgx8y",
     },
   ]
-location: "Harmonia Terra - Strada Cercului 18 / Sambodhi Studio - Strada Popa Rusu, București" #optional
+location: "Harmonia Terra - Strada Cercului 18 / Sambodhi Studio - Strada Popa Rusu, Bucharest" #optional
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
 contact: {
     email: "karmina_me@yahoo.com", #optional
