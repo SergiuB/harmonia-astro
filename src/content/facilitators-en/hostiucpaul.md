@@ -2,36 +2,36 @@
 name: "Paul Hostiuc"
 featuredIndex: 2
 images: ["../images/hostiucpaul/paulh.jpg"]
-tags: ["Terapeut", "Medicina Chineză", "Acupunctură"]
+tags: ["Therapist", "Chinese Medicine", "Acupuncture"]
 activities: ["masaj", "medicina-traditionala-chineza", "acupunctura", "cupping"]
 services:
   [
-  {
-      name: "Acupunctură",
-      summary: "Terapie Holistică : Medicina Chineză",
-        price: "200lei / 1000lei / 1500lei",
-      duration: "75min / 6sesiuni / 10sesiuni",
+    {
+      name: "Acupuncture",
+      summary: "Holistic Therapy: Chinese Medicine",
+      price: "200lei / 1000lei / 1500lei",
+      duration: "75min / 6 sessions / 10 sessions",
       reserveLink: "https://wa.link/1by6y3",
     },
     {
-      name: "Masaj de Relaxare",
-      summary: "Masaj : Întregul corp",
+      name: "Relaxation Massage",
+      summary: "Massage: Whole body",
       description:
         [
-          "Masajul de relaxare reprezintă una dintre cele mai simple, plăcute si delicate forme de masaj. Acesta este cunoscut pentru mișcările sale lente si superficiale dar ferme. Este recomandat tuturor persoanelor care au avut o perioadă mai grea.",
-          "Masajul de relaxare ajută la eliberarea de endorfine si serotonina, având astfel un impact puternic la nivel psihologic. Nu doar partea psihică simte atingerea vindecatoare a masajului ci și sistemul osteo-muscular-articular beneficiază de deblocare, relaxare, eliberare si aliniere.",
+          "Relaxation massage is one of the simplest, most pleasant and gentle forms of bodywork. It is characterized by slow, superficial yet firm strokes and is recommended for anyone who has gone through a difficult period.",
+          "Relaxation massage helps release endorphins and serotonin, producing a strong psychological effect. Beyond mental relief, the osteo‑muscular and joint systems benefit from unlocking, relaxation, release and improved alignment.",
         ],
       price: "250lei / 310lei / 360lei",
       duration: "75min / 105min / 135min",
       reserveLink: "https://wa.link/1by6y3",
     },
     {
-      name: "Masaj Terapeutic",
-      summary: "Masaj : Întregul corp",
+      name: "Therapeutic Massage",
+      summary: "Massage: Whole body",
       description:
         [
-          "Masajul terapeutic este forma de masaj în care clientul are nevoie de un diagnostic, de aceea la prima întâlnire va avea loc o anamneză pentru a cunoaște dezechilibrul. Se remarcă prin manevrele sale viguroase si profunde, dar conține si tehnici de încălzire si relaxare pentru a putea pătrunde în interiorul organismului.",
-          "Are ca scop eliminarea si decongestionarea punctelor de declanșare a durerii, decontracturarea mușchilor, restabilirea poziției corpului, ajustarea articulațiilor si rezolvarea problemelor circulatorii. Beneficiile masajului terapeutic constau in efectul antalgic, stimularea metabolismului si senzația de “ușor ca un fulg de nea”.",
+          "Therapeutic massage is a form of bodywork where the client requires a diagnostic; therefore, the first meeting includes an intake to identify the imbalance. It is characterized by vigorous, deep maneuvers combined with warming and relaxing techniques to reach deeper tissues.",
+          "Its purpose is to eliminate and decongest pain trigger points, release muscle contractures, restore body alignment, adjust joints and address circulatory problems. Benefits include analgesic effect, metabolic stimulation and a feeling of lightness and ease.",
         ],
       isGroup: true,
       price: "280lei / 340lei / 390lei",
@@ -39,148 +39,160 @@ services:
       reserveLink: "https://wa.link/1by6y3",
     },
     {
-      name: "Masajul Deep Tissue",
-      summary: "Masaj : Întregul corp",
+      name: "Deep Tissue Massage",
+      summary: "Massage: Whole body",
       description:
         [
-          "Acest tip de masaj țintește țesutul muscular si fascia, în scopul de a detensiona și de a reda mobilitatea întregului corp. Contracturile musculare împiedică alimentarea cu nutrienți și oxigen, cauzând inflamație și permițând acumularea de toxine în țesuturi.",
-          "Se remarcă prin manevrele sale lente si profunde ce includ și lucrul pe punctele energetice folosind falangele, nodozitățile, cotul și antebrațul.",
-          "Se spune că fascia are propria memorie si înmagazinează fiecare trăire a noastra indiferent că este de natură fizică, energetică, emotională sau spirituală. Folosind manevrele specifice putem elibera aceste trăiri captive.",
+          "This type of massage targets the muscle tissue and fascia, aiming to relieve tension and restore mobility to the whole body. Muscle contractures restrict the supply of nutrients and oxygen, causing inflammation and allowing toxins to accumulate in the tissues.",
+          "It is distinguished by slow, deep maneuvers that also work on energetic points using the fingers, knuckles, elbow, and forearm.",
+          "Fascia is said to have its own memory and stores each of our experiences—whether physical, energetic, emotional, or spiritual. Using specific techniques we can release these trapped experiences.",
         ],
       price: "280lei / 340lei / 390lei",
       duration: "75min / 105min / 135min",
       reserveLink: "https://wa.link/1by6y3",
     },
-    { 
-    name: "Reflexoterapie", summary: "Masaj : Picioare", description: [
-          "Reflexologia este o practică a medicinei tradiționale care constă în manipularea sau apăsarea zonelor/punctelor reflexogene de pe tălpi/mâini pentru a produce un efect in zonele viscerale si nu numai.",
-          "Poate v-ați întrebat de ce tălpile sau palmele?, ei bine, ele fac, cunoștință cu mediul înconjurător și sunt începutul si sfârșitul fiecărui meridian energetic principal de pe corp(12 la numar).
-          Reflexoterapia are rolul de a stimula neuronal, hormonal, circulator si psihologic.",
-          "Beneficiile se pot simți chiar din timpul terapiei, acestea putând fi observate datorită unei descărcări emoționale, dispariția disconfortului pentru care pacientul a si venit la terapie, respirația schimbată brusc, nevoia de a urina des, schimbări de temperatură.",
-        ], 
-        price: "330lei", 
-        duration: "90min", 
-        reserveLink: "https://wa.link/1by6y3" 
-      },
     {
-      name: "Masaj Ayurvedic",
-      summary: "Masaj : Întregul corp",
+      name: "Reflexology",
+      summary: "Massage: Feet",
       description:
         [
-          'Masajul ayurvedic te face să te aliniezi cu propria natură. "Ayu" înseamnă viață iar "Veda" înseamnă cunoaștere astfel ca o traducere potrivită ar fi cunoașterea vieții.',
-          "Acest masaj este de a te cunoaște și a conștientiza dezechilibrele adunate în viața cotidiană. Presupune mișcări lente si profunde pe meridiane si puncte astfel încât să producă un efect de drenaj energetic. Se va folosi ulei pentru fiecare doșă în parte(Vata, Pitta, Kapha)iar tehnicile se vor alege in funcție de nevoia fiecărui individ.",
+          "Reflexology is a traditional practice that manipulates or presses reflex points on the feet and hands to produce effects in corresponding internal organs and systems.",
+          "The feet and hands are primary contact points with the environment and correspond to the body's main energy meridians. Reflexology stimulates the nervous, hormonal and circulatory systems.",
+          "Clients often experience benefits during the session such as emotional release, reduction of the original discomfort, changes in breathing, increased urination and temperature shifts.",
+        ],
+      price: "330lei",
+      duration: "90min",
+      reserveLink: "https://wa.link/1by6y3",
+    },
+    {
+      name: "Ayurvedic Massage",
+      summary: "Massage: Whole body",
+      description:
+        [
+          'Ayurvedic massage helps you align with your natural constitution. "Ayu" means life and "Veda" means knowledge—together, knowledge of life.',
+          "This treatment supports self-awareness and addresses daily imbalances. It uses slow, deep movements along meridians and points to create energetic drainage. Oils are chosen for each dosha (Vata, Pitta, Kapha) and techniques are selected based on individual needs.",
         ],
       price: "370lei / 430lei ",
       duration: "105min / 135min",
       reserveLink: "https://wa.link/1by6y3",
     },
     {
-      name: "Lomi-Lomi",
-      summary: "Masaj : Întregul corp",
+      name: "Lomi Lomi",
+      summary: "Massage: Whole body",
       description:
         [
-          "Lomi-lomi sau terapia mâinilor iubitoare urmărește ca prin fiecare atingere să se realizeze conectarea/reconectarea între corp, inimă și suflet.",
-          "Este unic prin mișcarile și manevrele executate de terapeut. Tehnica folosită presupune folosirea antebrațelor, coatelor si mâinilor astfel încât să imite natura si mișcările unor animale. Acestea se vor practica prin mișcări lungi și continue, fără întreruperi sau mișcări sacadate. Scuturările și legănatul fac parte și ele din ritualul acestui masaj, dând clientului o senzație de relaxare și învăluire permanentă a corpului, exact ca și cum ai sta la umbra într-un hamac ascultaâd mișcarea valurilor și simțind briza oceanului, toate acestea făcându-te să te simți unul și același cu natura.",
+          "Lomi-lomi, the 'massage of loving hands', seeks to reconnect body, heart and soul through every touch.",
+          "It is unique for the therapist's flowing, continuous movements that may use forearms, elbows and hands to mimic natural motions. Rocking and gentle shaking are part of the ritual, producing an enveloping sense of relaxation, like resting in a hammock and feeling the ocean breeze.",
         ],
       price: "370 lei",
       duration: "105min",
       reserveLink: "https://wa.link/1by6y3",
     },
-    { name: "Masaj Balinez", summary: "Masaj : Întregul corp", description: [
-          "Originar din Indonezia reprezintă o combinație de tehnici asiatice din mai multe stiluri de masaj: ayurvedice, tailandeze si chinezești.
-          Această combinație va crea armonie întregului corp si va readuce echilibrul corp-minte-suflet.",
-          "Terapeutul va folosi tehnici ayurvedice pentru a debloca cursul energiei, tehnici tailandeze pentru a reda mobilitatea articulațiilor si totodată elimină blocajele și patogenii captivi și tehnici chinezești pentru a activa funcțiile meridianelor si punctelor energetice astfel încât efectul să fie atât de drenaj cât si de tonifiere a întregului corp.",
-        ], price: "370 lei", duration: "105min", reserveLink: "https://wa.link/1by6y3" },
     {
-      name: "Masaj Thailandez",
-      summary: "Masaj : Întregul corp ",
+      name: "Balinese Massage",
+      summary: "Massage: Whole body",
       description:
         [
-          "Masajul tailandez este una dintre cele mai vechi forme de masaj,practicat de către călugării budiști în mănăstirile/templele din asia de sud-est/asia insulară.",
-          "Această tehnică se va efectua in mod original, la podea, pe saltea.",
-          "Manevrele sunt fluide, efectuate cursiv si delicat, astfel încât o categorie mare de oameni pot beneficia de acest masaj. Recomandat în special persoanelor sedentare, cu atonie musculară, cât și persoanelor ce performează în sport.",
-          "Beneficiile terapiei: echilibrare-deblocare energetică, reîmprospătează sistemul nervos, redă elasticitate si plasticitatea musculară, oxigenarea țesuturilor, promovarea metabolismului.",
+          "Originating from Indonesia, Balinese massage combines Asian techniques from Ayurvedic, Thai and Chinese traditions.",
+          "This blend restores harmony to the whole body and rebalances body, mind and spirit. The therapist uses Ayurvedic methods to free energy flow, Thai methods to restore joint mobility, and Chinese techniques to activate meridian and energy-point functions for drainage and toning.",
+        ],
+      price: "370 lei",
+      duration: "105min",
+      reserveLink: "https://wa.link/1by6y3",
+    },
+    {
+      name: "Thai Massage",
+      summary: "Massage: Whole body",
+      description:
+        [
+          "Thai massage is one of the oldest forms of bodywork, historically practiced by Buddhist monks in Southeast Asian monasteries.",
+          "Traditionally performed on the floor on a mat, this technique uses fluid, continuous maneuvers.",
+          "It benefits a wide range of people — especially sedentary individuals, those with low muscle tone, and athletes.",
+          "Therapy benefits include energetic balancing and unblocking, nervous system refreshment, restored muscle elasticity and plasticity, improved tissue oxygenation and metabolic support.",
         ],
       price: "370lei / 440lei",
       duration: "105min / 135min",
       reserveLink: "https://wa.link/1by6y3",
     },
     {
-      name: "Masaj Herbal Thai",
-      summary: "Masaj : Întregul corp ",
+      name: "Herbal Thai Massage",
+      summary: "Massage: Whole body",
       description:
         [
-          "Compresele/săculeții cu plante medicinale sunt folosite în Tailanda de aproape 5000 de ani, dintr-o eră în care plantele si resursele naturale erau studiate atent si folosite in scop terapeutic.",
-          "Beneficiile principale ale săculeților sunt: relaxarea profundă, îndepărtarea stresului si a oboselii cronice, echilibrarea stării emoționale și psihice, îmbunătațirea circulației sangvine , energetice și limfatice, și stimularea funcționării eficiente a organelor interne.",
-          "Compresele calde sunt ideale pentru înlăturarea durerilor cronice, detensionarea mușchilor, ameliorarea migrenelor, stresului si anxietații.",
+          "Herbal compresses have been used in Thailand for thousands of years, when plants and natural resources were carefully studied and used therapeutically.",
+          "The compresses provide deep relaxation, relief from stress and chronic fatigue, emotional and mental balancing, and improved blood, energetic and lymphatic circulation, stimulating internal organ function.",
+          "Warm compresses are ideal for addressing chronic pain, releasing muscle tension, and easing migraines, stress and anxiety.",
         ],
       price: "380 lei",
       duration: "105min",
       reserveLink: "https://wa.link/1by6y3",
     },
     {
-      name: "Miofascial Release",
-      summary: "Masaj : Întregul corp ",
+      name: "Myofascial Release",
+      summary: "Massage: Whole body",
       description:
         [
-          "Fascia este unul dintre cele mai importante țesuturi ale corpului uman și in orice tip de masaj corporal putem spune că manipulăm fascia. Este încărcată cu informații prețioase, ea este acel corp nevăzut care spune totul despre noi. Daca ar fi să vedem fascia în complexitatea ei, am vedea o structură de mumie, exact așa arăta, o țesătură care ne ține corpul compact. Aceasta structură se gasește din exteriorul organismului până în cele mai profunde straturi ale organismului.",
-          "La nivelul fasciei sunt foarte mulți receptori senzoriali cu rol în transmiterea informațiilor că tre sistemul nervos central. Astfel c ă î n timpul masajului, prin intermediul atingerii sistemului nervos ii este declanșat starea de autoapărare și informare, astfel încât corpul să știe ce are de făcut pentru a elimina blocajele, patogenii emoțiile captive traumele.",
-          "Când fascia este afectată pe segmente largi apar dureri de cap permanente, dureri musculare, articulare, respriație dificilă , spasme locale sau generale, postura anormală a corpului, pierderea elasticității și plasticității mușchilor, apare rigidizarea. Persoane care suferă de sedentarism pot beneficia de masaj miofascial. Deshidratarea țesuturilor, practic uscarea acestora nu mai permit mișcărilor să fie ample și fluide, astfel un stretching fascial ar fi benefic. Sistemul nervos poate beneficia de acest masajdatorită e fectului de deblocare a căilor nervoase astfel crescând eficiența impulsului nervos. Este recomndat și copiiilor cu pusee de creștere, cauza fiind asupra întinderii țesuturilor.",
+          "Fascia is one of the body's most important tissues, and most forms of bodywork manipulate the fascia. It is loaded with vital information — an unseen structure that holds the body together from the surface to the deepest layers.",
+          "Fascia contains many sensory receptors that transmit information to the central nervous system. During massage, touch triggers nervous system responses that support release and reorganization, enabling the body to resolve blockages, pathogens, trapped emotions and trauma.",
+          "When large fascial segments are affected, symptoms can include persistent headaches, muscle and joint pain, breathing difficulties, spasms, poor posture and loss of muscle elasticity. Sedentary people often benefit from myofascial release. Dehydrated tissues lose fluidity, so fascial stretching can restore range and flow. The nervous system benefits from unblocking, improving nerve impulse efficiency. Myofascial work can also help children during growth spurts by addressing tissue tension.",
         ],
       price: "440lei / 490lei",
       duration: "135min / 165min",
       reserveLink: "https://wa.link/1by6y3",
     },
     {
-      name: "Pedi Pudja Reflexologie Tibetana",
-      summary: "Masaj : Picioare ",
+      name: "Pedi Pudja Tibetan Reflexology",
+      summary: "Massage: Feet",
       description:
         [
-          "O terapie pentru minte-corp-suflet care îmbină tehnici de presopunctură, reflexoterapie ayurvedică ce implică lucrul reflexogen al doșelor din talpă, bolurile kansa vataki, sunetele bolului tibetan, uleiurile și cristalele specifice chakrelor, masajul feței, scalpului și decolteului.",
+          "A mind-body-soul therapy that combines acupressure, Ayurvedic reflexology working the reflexogenic zones of the feet, kansa vataki bowls, Tibetan bowl sounds, chakra-specific oils and crystals, and face, scalp and décolletage massage.",
         ],
       price: "440 lei",
       duration: "135min",
       reserveLink: "https://wa.link/1by6y3",
     },
     {
-      name: "Kinetoterapie",
-      summary: "Fizioterapie : Întregul corp",
-      description: ["Fizioterapie : Întregul corp"],
+      name: "Kinetotherapy",
+      summary: "Physiotherapy: Whole body",
+      description: ["Physiotherapy: Whole body"],
       price: "130lei / 190lei",
       duration: "30min / 60min",
       reserveLink: "https://wa.link/1by6y3",
     },
     {
-      name: "Masaj Chinezesc",
-      summary: "Masaj : Întregul corp ",
+      name: "Chinese Massage",
+      summary: "Massage: Whole body",
       description:
         [
-          "Masajul TuiNa reprezintă una dintre cele mai utilizate practici din medicina alternativă din China, fiind astăzi cunoscută și utilizată în multe alte zone ale lumii. Masajul TuiNa are la bază conceptul de Qi care circulă prin toate organismele vii, este entitatea ce descrie toate transformările din univers și este responsabilă de buna noastră funcționare. Conform filosofiei chineze tradiționale, atunci când echilibrul acestei forțe este rupt, inevitabil apar dezechilibre.",
-          "Acest tip de masaj încorporează elemente de presopunctură, masaj clasic chinezesc si alte forme de manipulare corporală și energetică, realizate pe meridiane și puncte de acupunctură.",
-          "Tui Na deține următoarele abilități: învigorează circulația qi-ului și sângelui, elimină patogenii, reglează Qi-ul și sângele, armonizează Yin-Yang, hrănește și tonifiază Qi-ul si sângele, îmbunatățește funcțiile organelor,relaxează sistemul articular-osteo-muscular, calmează spiritul, reglează psiho-emoțional.",
+          "Tui Na massage is one of the most widely used practices in Chinese alternative medicine and is now practiced around the world. It is based on the concept of Qi flowing through living beings — the vital force responsible for health. When Qi balance is disrupted, various imbalances arise.",
+          "This form of massage incorporates acupressure, traditional Chinese massage and other body-energy manipulation techniques performed along meridians and acupuncture points.",
+          "Tui Na helps invigorate Qi and blood circulation, eliminate pathogens, regulate Qi and blood, harmonize Yin and Yang, nourish and tone Qi and blood, improve organ function, relax the musculoskeletal system, calm the spirit and support psycho-emotional balance.",
         ],
       price: "440lei",
       duration: "135min",
       reserveLink: "https://wa.link/1by6y3",
     },
-    { name: "Moxibustie", summary: "Terapie : Meridiane ", description: [
-          "Moxibustia tratează și previne bolile prin aplicarea căldurii în punctele de acupunctură sau
-          anumite locuri ale corpului uman. Materialul utilizat este pelinul, în principal moxalână în forma
-          unui con sau trabuc.",
-          "Poate deschide cele două sprezece meridiane obiș nuite în cazul unor obstrucții , călătorește prin
-          meridiane pentru a regla qiul și sângele , elimină frigul și umezeala , încălzește uterul, oprește
-          sângerarea, încălzește splina și stomacul pentru a elimina blocaje , reglează menstruația și
-          ușureaza nasterea.",
-          "Yang qi poate fi activat de frunza Artemisi ei prin calitatea sa caldă . Mirosul înțepător al frunzei poate călători prin meridiane, reglează qi ul și sângele și expulzează frigul din meridiane. Natura amară rezolvă umezeala. În plus, lâna moxa poate produce o căldură ușoară, care poate pătrunde adânc în mușchi. Dacă este înlocuită cu alte materiale, o durere intolerabilă va rezulta având totodată și un efect semnificativ mai slab. Moxa lână, conuri moxa, bastoane moxa, un borcănel cu apă, foc și o tavă trebuie să fie pregătită în prealabil.",
-        ], price: "90 lei", duration: "15min", reserveLink: "https://wa.link/1by6y3" },
     {
-      name: "Ventuze",
-      summary: "Cupping : Întregul corp ",
+      name: "Moxibustion",
+      summary: "Therapy: Meridians",
       description:
         [
-          "Dacă v-ați întâlnit vreodată cu patogenii care au încercat sau chiar au reușit să vă dea bătăi de cap, răceli și dureri osteo-articulare? Te-ai simțit vreodată acaparat de emoții, stresul cotidian și o senzație de căldură inexplixabilă? Avem soluția prin care puteți trata și preveni stările enumerate mai sus și nu numai, anume, ventuzele/cupping cunoscută și utilizată în toată lumea.",
-          "Dacă acești patogeni nu sunt eliminați la timp, ei pot pătrunde în interiorul organismului cu riscul de a ataca stomacul, splina si rinichii, sursele noastre de energie, astfel simptomele devenind mai pronunțate si tratamentul mai costisitor si de lungă durată.",
-          "Te ai întrebat vreodata cum de niște „borcane” pot ameliora aceaste dezechilibre? Ei bine explicația este că aplicarea de ventuze si crearea de vacuum fac ca această tehnică să elimine blocajele de la nivelul capilarelor și totodată să relaxeze fascia pentru un curs lin al sângelui, limfei și energiei, stimulând astfel producerea de celule noi care vor fortifica organismul.",
+          "Moxibustion treats and prevents disease by applying heat to acupuncture points or specific areas of the body. The primary material used is mugwort, commonly formed into moxa cones or sticks.",
+          "It can open and clear meridians when obstructions occur, regulate Qi and blood, expel cold and dampness, warm the uterus, stop bleeding, warm the spleen and stomach to remove blockages, regulate menstruation and ease childbirth.",
+          "Artemisia (mugwort) activates Yang Qi through its warming nature. Its pungent aroma can travel through meridians to regulate Qi and blood and expel cold; its bitter quality addresses dampness. Wool moxa produces gentle heat that penetrates deeply into muscles. Proper moxa materials and preparations (cones, sticks, water pot, fire and tray) are required.",
+        ],
+      price: "90 lei",
+      duration: "15min",
+      reserveLink: "https://wa.link/1by6y3",
+    },
+    {
+      name: "Cupping",
+      summary: "Cupping: Whole body",
+      description:
+        [
+          "If you've ever struggled with pathogens that cause colds, joint pain or persistent ailments, or felt overwhelmed by emotions and unexplained internal heat, cupping can help treat and prevent many of these conditions.",
+          "When pathogens are not removed in time they can penetrate deeper and affect organs like the stomach, spleen and kidneys — our energy sources — making symptoms worse and requiring longer, costlier treatment.",
+          "How can small 'cups' help? The vacuum created by cupping draws blockages from the capillaries and relaxes the fascia, improving blood, lymph and energy flow and stimulating regeneration that strengthens the body.",
         ],
       price: "90 lei",
       duration: "15min",
@@ -188,39 +200,38 @@ services:
     },
     {
       name: "QiNeiZang",
-      summary: "Masaj : Organe interne ",
+      summary: "Massage: Internal organs",
       description:
         [
-          "QiNeiZang reprezintă o terapie străveche, descoperită de călugării taoiști în multiple sesiuni de meditație, având ca ghizi spirite înalte, dar totodată aveau cunoștințe de anatomie și cunoaștere în ceea ce privesc tehnicile de manipulare a energiei.",
-          "Construiește sau reconstruiește un sistem de apărare a corpului, în toate planurile. Această terapie deschide anumite porți/căi pentru cel ce primește terapia astfel încât să audă/simtă mesajele subtile transmise de senzorial și extrasenzorial și să facă apoi ajustările necesare.",
-          "QiNeiZang ajută să se facă centrarea și conexiunea cu ariile care se urmăresc a fi tratate. Când comunicarea cu aceste arii este restabilită, ordinele pentru vindecare vin cătrea aceastea, ridicându-le la un nivel de reajustare care atinge toate nivelele existenței – fizic, psihic, emoțional și spiritual.",
-          "Abdommenul inferior este un centru foarte important al corpului, locul de unde fiecare respirație și mișcare iși au originea. Este centrul srructural al gravitației și centrul proceselor metabolice. În viața intra uterina fătul se hrănește prin cordonul ombilical, după naștere, ombilicul rămâne centrul nostru originar, conectat la toate organele interne. Când organele nu pot procesa toxinele, ele sunt depozitate, ele sunt depozitate în jurul ombilicului pentru a fi eliminate ulterior.",
-          "Pe lângă toxine, se creează și blocaje emoționale care se adună în același loc, se stochează și apoi afectează organele interne și buna funcționare a tuturor sistemelor corpului. Acest centru se mai numește HARA SAU DANTIEN.",
-          "QiNeiZang ajută la procesarea emoționala, care însemană digestia. Corpul noatru digeră emoții, hrănind sufletul cu ce are nevoie și eliminând ce nu are nevoie. Bacteriile pot fi eliminate ușor și acumulate progresiv. Acest lucru îl experimentăm când creștem și ne maturizăm, când o situație copleșitoare apare, corpul nostru stochează încărcătura pentru a procesa mai târziu. Deoarece aceste încărcături sunt greu de accesat, vor ține persoana în multe aspecte în stadiul dezvoltării, chiar și la vârsta adultă, arătând și reprezentând un comportament copilăresc sau trăsături fizice copilărești.",
-          "Acestă terapie include și un masaj de 10-15 minute(depinde cât consideră terapeutul) al zonei capului pentru relaxarea întregului corp deoarece masajul abdominal va fi unul mai dur și profund.",
-          "Această terapie are un spectru larg în ceea ce privește beneficiile:detoxifiere, echilibrare emoțională, trezește conștiința de sine, îmbunătățește respirația, întărește sistemul imunitar, reduce durerile cronice și problemele ce reies din alinierea greșită a pelvisului, eliberează corpul fizic, emoțional și energetic de stagnări/blocaje la nivele diferite, restructurează și fortifică organismul, îmbunătățește funcția de eliminare și stimulează sistemul limfatic și circulator, lucrează pe funcția și structura organelor , corectează probleme posturale rezultate din dezechilibrele viscerale, eliberează tensiunile profunde statice și restructurează vitalitatea.",
+          "QiNeiZang is an ancient therapy discovered by Taoist monks during deep meditation, guided by high spiritual insights and anatomical knowledge of energy-manipulation techniques.",
+          "It builds or rebuilds the body's defensive systems across physical, emotional and energetic layers. The therapy opens channels so the recipient can perceive subtle sensory and extrasensory messages and make the adjustments needed for healing.",
+          "QiNeiZang helps center and connect the areas targeted for treatment. When communication with these areas is restored, healing impulses reach them and initiate reorganization across physical, psychological, emotional and spiritual levels.",
+          "The lower abdomen (hara or dantian) is a central structural and metabolic area — the origin of breath and movement. In utero the fetus is nourished through the umbilical cord; after birth the navel remains the body's original center connected to internal organs. When organs cannot process toxins, waste may be stored around the navel to be eliminated later.",
+          "Alongside toxins, emotional blockages accumulate in the same area and then affect internal organs and systemic functioning. QiNeiZang supports emotional processing — the body's way of 'digesting' emotions — helping release stored burdens that otherwise hinder development and maturity.",
+          "The therapy can include a 10–15 minute head massage (depending on the therapist) to relax the whole body, since the abdominal work can be deep and intense.",
+          "Benefits cover a wide spectrum: detoxification, emotional balance, increased self-awareness, improved breathing, strengthened immunity, reduced chronic pain and issues related to pelvic misalignment, release of physical/emotional/energetic stagnations, structural reconstruction and fortification, enhanced elimination and stimulated lymphatic and circulatory systems, improved organ function, postural correction and revitalization.",
         ],
       price: "390 lei",
       duration: "120min",
       reserveLink: "https://wa.link/1by6y3",
     },
     {
-      name: "Analiza Energetică",
-      summary: "Medicina Chineză : Diagnostic ",
+      name: "Energy Analysis",
+      summary: "Chinese Medicine: Diagnostic",
       description:
         [
-          "Include metodele de analiză energetică din medicina chineză și anume observarea limbii, feței, limbajului corpului, chestionarul ce include întrebări despre pacient, palparea/citirea pulsului energetic și palparea meridianelor și corpului. În urma acestor investigații se recomandă una dintre terapiile practicate la centrul nostru și sfaturi în legatură cu dieta si stilul de viață.",
+          "Includes Chinese medicine energetic analysis methods such as tongue and facial observation, body language assessment, a patient questionnaire, pulse reading and meridian palpation. Based on these findings we recommend an appropriate therapy from our center and provide diet and lifestyle guidance.",
         ],
       price: "150 lei",
       duration: "30min",
       reserveLink: "https://wa.link/1by6y3",
     },
     {
-      name: "Auriculoterapie",
-      summary: "Masaj : Ureche ",
+      name: "Auriculotherapy",
+      summary: "Massage: Ear",
       description:
         [
-          "Se incepe cu un masaj prin care trezim centrii energetici ce se află pe ureche și în jurul acesteia. Pe lângă masaj această metodă constă în plasarea unor plasturi ce conțin semințe de vacaria, pe anumiți centri, pe urechea externă, unde se gasesc puncte de acupunctură pentru a stimula organismul și regla qi-ul astfel încât anumite simptome precum anxietatea, durerile, insomniile și stresul se vor ameliora. Se folosesc și pentru a scăpa de anumite vicii precum fumatul, pofta de dulce, stăpânesc pofta de mâncare în exces și ajută la echilibrarea corpului fizic, energetic și spiritual. Pentru o eficiență crescută se recomandă combinarea cu celelalte terapii prezentate, deobicei la îndrumarea terapeutului.",
+          "The session begins with a massage to awaken the ear's energetic centers. Alongside massage, small adhesive seeds (vaccaria) are placed on specific ear points corresponding to acupuncture points to stimulate the body and regulate Qi. This can alleviate anxiety, pain, insomnia and stress, and can assist with habits such as smoking and sugar cravings by reducing excessive appetite. For greater effectiveness, auriculotherapy is often combined with other therapies under the therapist's guidance.",
         ],
       price: "120 lei",
       duration: "20min",
@@ -228,12 +239,12 @@ services:
     },
     {
       name: "GuaSha",
-      summary: "GuaSha : Întregul corp ",
+      summary: "GuaSha: Whole body",
       description:
         [
-          "Gua Sha este o metodă de terapie similară ventuzelor prin care putem elibera exteriorul, elimina patogenii și debloca obstrucțiile de sânge sau limfă din fascia subcutanată, și totodată obținem un efect de relaxare a fasciei care se găsește în tot corpul inclusiv în organele interne. Se folosesc obiecte cu o margine netedă pentru a răzui pielea în repetate rânduri până se înroșește pentru a aduce elementele care stagnează la suprafață, ceea ce face ca organismul nostru să metabolizeze și să elimine ”deșeurile” mai repede, rezultând într-o fabricare de celule noi în acea parte a corpului.",
-          "În ultimul secol această terapie a fost extrem de des folosită, aceasta ajungând să fie folosită în două scopuri: diagnosticare și tratament. Gua sha este o terapie versatilă care se adaptează nevoilor pacientului și este foarte eficientă în combinație cu Tui Na.",
-          "Se folosește în scop terapeutic și profilactic: orice fel de durere, fie acută fie cronică, febră, răceală, imunitate scăzută, bronșită și astm, dureri de cap și migrene, hipertensiune, întărește sistemul imunitar astfel protejând corpul de invazia patogenilor, îmbunătățește circulația și previne stagnările.",
+          "Gua Sha is a therapy similar to cupping that releases external pathogens and clears blood or lymph stagnation in the subcutaneous fascia, while relaxing fascia throughout the body, including internal organs. Smooth-edged tools are used to scrape the skin repeatedly until redness appears, bringing stagnating elements to the surface so the body can metabolize and remove waste more effectively, promoting tissue renewal.",
+          "In the last century this therapy has been widely used for both diagnosis and treatment. Gua Sha is versatile and adapts to the patient's needs; it is especially effective when combined with Tui Na.",
+          "It is used therapeutically and prophylactically for many conditions: acute and chronic pain, fever, colds, low immunity, bronchitis and asthma, headaches and migraines, hypertension. It strengthens the immune system, improves circulation and helps prevent stagnation.",
         ],
       price: "340 lei",
       duration: "90min",
@@ -241,10 +252,10 @@ services:
     },
     {
       name: "Five elements reflexology",
-      summary: "Masaj : Picioare ",
+      summary: "Massage: Feet",
       description:
         [
-          "Aceast ritual implică diagnoza tip medicină chineză, reflexoterapie și presopunctură bazată pe teoria celor 5 elemente.",
+          "This ritual includes a Chinese medicine-style diagnosis, reflexology and acupressure based on the Five Elements theory.",
         ],
       price: "380 lei",
       duration: "105min",
@@ -252,10 +263,10 @@ services:
     },
     {
       name: "Ascending and tonification of yang",
-      summary: "Medicina Chineză : Întregul corp ",
+      summary: "Chinese Medicine: Whole body",
       description:
         [
-          "Ritual ce are la bază manevre din stilul TuiNa Yang și moxibustie care vor tonifia și învigora energia pacientului. Destinate persoanelor cu o deficiență de yang sau un exces de rece în organism, aceste sindromuri se pot manifesta prin frisoane, extremități/zone reci, dureri de cap, balonare, flatulență, diaree, dureri surde/înțepatoare, stări depresive, tensiune scăzută, somnolență, lipsa poftei de mâncare, afecțiuni circulatorii, renale, digestive și reproductive.",
+          "A ritual based on Tui Na Yang maneuvers and moxibustion designed to tonify and invigorate the patient's energy. Intended for people with Yang deficiency or excess cold, symptoms may include chills, cold extremities, headaches, bloating, flatulence, diarrhea, dull or sharp pains, depressive states, low blood pressure, drowsiness, lack of appetite, and circulatory, renal, digestive or reproductive issues.",
         ],
       price: "380 lei",
       duration: "105min",
@@ -263,10 +274,10 @@ services:
     },
     {
       name: "Flow restoration",
-      summary: "Medicina Chineză : Întregul corp ",
+      summary: "Chinese Medicine: Whole body",
       description:
         [
-          "Terapie ce va debuta cu analiza energetică după care vom începe sesiunea de acupunctură pentru a stimula sistemul de meridiane până în cele mai profunde straturi ale organismului. Continuăm cu masaj tailandez la saltea care are ca manevre de baza stretching ul, manipulările și presiunile, efectul acestora fiind de relaxare ș i eliberare. Spre finalul ritualului vei simți atingerea caldă și blândă a moxibustiei (terapie prin căldura utilizând/arzând pelinul) care va avea efectul de a tonifia energia și care va umple golurile lăsate de către eliminarea energiei negative.",
+          "This therapy begins with energetic analysis followed by an acupuncture session to stimulate the meridian system down to the deepest layers. We continue with Thai mat massage featuring stretching, manipulations and pressure for relaxation and release. Toward the end you'll experience the gentle warmth of moxibustion, which helps to tonify energy and fill gaps left by the removal of negative energy.",
         ],
       price: "550 lei",
       duration: "165min",
@@ -274,12 +285,11 @@ services:
     },
     {
       name: "Heavenly Healing Ritual",
-      summary: "Terapie : Întregul corp ",
-      description: [
-          "Acest ritual vrea să îmbine ș i să armonizeze tehnici din Medicina Tradițională Chineză.
-          Terapia va debuta cu o scurtă sesiune de sound healing și de aplicarea bolurilor tibetane pe fiecare chakră. Urmează aplicarea de ventuze pentru a ajuta î n continuare la eliberarea
-          blocajelor indiferent de natura acestora(fizice, energetice, emoționale sau spirituale) și stimularea profund ă a sistemului de organe. Masajul chinezesc TuiNa/Reflexoterapia va fi
-          urmatoarea oprire și se va efectua intermitent cu terapia GuaSha. Acupunctura va fi în centrul acestui ritual deoarece o vom folosi în funcție de nevoile clientului. În urma diagnozei voi stabili dacă vom folosi acupunctura la început(împreună cu ventuzele) sau la sfârșitul terapiei.",
+      summary: "Therapy: Whole body",
+      description:
+        [
+          "This ritual aims to combine and harmonize techniques from Traditional Chinese Medicine.",
+          "The therapy begins with a short sound healing session and the placement of Tibetan bowls on each chakra. Cupping follows to help release blockages of any nature (physical, energetic, emotional or spiritual) and to deeply stimulate organ systems. Tui Na Chinese massage and reflexology are applied intermittently with Gua Sha. Acupuncture is central to the ritual and is used based on the client's needs; after diagnosis the therapist decides whether to place acupuncture at the start (together with cupping) or at the end of the session.",
         ],
       price: "590 lei",
       duration: "180min",
@@ -287,10 +297,10 @@ services:
     },
     {
       name: "Revive the hidden essence",
-      summary: "Terapie : Întregul corp ",
+      summary: "Therapy: Whole body",
       description:
         [
-          "Terapia va debuta cu o scurtă sesiune de sound healing și de aplicarea bolurilor tibetane pe fiecare chakră. Va urma o sesiune de masaj TuiNa yin acompaniat de Acupunctură moxibustie/Acupunctură caldă , prin care se va stimula producerea de substanțe vitale, și anume qi, sânge, spirit și esență.",
+          "The therapy begins with a short sound healing session and placement of Tibetan bowls on each chakra. This is followed by a Tui Na Yin massage accompanied by moxibustion or warm acupuncture to stimulate production of vital substances: qi, blood, spirit and essence.",
         ],
       price: "530 lei",
       duration: "165min",
@@ -298,10 +308,10 @@ services:
     },
     {
       name: "Extinguish the fire",
-      summary: "Terapie : Întregul corp ",
+      summary: "Therapy: Whole body",
       description:
         [
-          "Diagnoza va fi cheia acestei terapii deoarece trebuie sa descoperim unde și dacă există căldură/foc în organism. Ventuzele vor iniția această terapie pentru că în urma lor putem depista intensitatea și cantitatea de patogeni, astfel terapeutul poate selecta punctele specifice dezechilibrului actual. Masajul Herbal Thai Compress cu săculeți reci își va face apariția in acest ritual, ei fiind alcătuiți din plante și uleiuri care liniștesc căldura in exces, scad inflamația și tonifiază elementul apă.",
+          "Diagnosis is central to this therapy because we must determine where and if there is heat (fire) in the body. Cupping often initiates the treatment, allowing us to detect the intensity and amount of pathogens so the therapist can select points targeted to the current imbalance. Cool Herbal Thai Compresses made from plants and oils that calm excess heat, reduce inflammation and tonify the water element are used in this ritual.",
         ],
       price: "510 lei",
       duration: "135min",
@@ -309,10 +319,10 @@ services:
     },
     {
       name: "Cold’s foe",
-      summary: "Terapie : Întregul corp ",
+      summary: "Therapy: Whole body",
       description:
         [
-          "Acest ritual iți va dedica toată căldura de care ai nevoie sufletește și fizic. Moxibustia sau ventuzele vor rămâne la alegerea terapeutului deoarece un exces de rece va avea prima dată nevoie de ventuze dar o deficiență de yang va fi mai compatibilă cu o sesiune de moxibustie. Masajul Herbal Thai Compress cu săculeți cu plante și uleiuri fierbinți vor ajuta la eliminarea patogenilor și eliberarea exteriorului ceea ce se va manifesta printr o stare de bine incă de la prima ședință. După acest rasfăț, presopunctura/acupunctura va ajuta la tonifierea organelor afectate de patogenul rece ceea ce va fortifica și pregăti sistemul imunitar pentru o posibilă următoare invazie.",
+          "This ritual will provide the warmth your body and soul need. The therapist chooses between moxibustion or cupping depending on whether excess cold or Yang deficiency is present — cupping is used first for excess cold, while Yang deficiency benefits more from moxibustion. Hot Herbal Thai Compresses with warming plants and oils help eliminate pathogens and release the exterior, producing relief from the first session. After this treatment, acupressure or acupuncture will help tonify organs affected by the cold pathogen, strengthening and preparing the immune system.",
         ],
       price: "590 lei",
       duration: "165min",
@@ -320,10 +330,10 @@ services:
     },
     {
       name: "Pacify the interior wind and calm the spirit",
-      summary: "Terapie : Întregul corp ",
+      summary: "Therapy: Whole body",
       description:
         [
-          "Terapia este destinată persoanelor cu tulburări de spirit: depresie, anxietate, episoade de bipolaritate, manie și delir. Aceste afecțiuni se pot manifesta cu grade diferite de intensitate, pot fi doar fluctuații de energie sau stări de spirit. Ambientul v a fi creat de către mirosuri care îți sting neliniștea și aprind calmul, sunete îmbietoare ale bolului tibetan îți vor aminti că facem parte dintr un tot și că nu ești singur pe calea de vindecare. Masajul chinezesc TuiNa, acupunctura și ventuzele te vor a juta să conștientizezi zonele afectate astfel încât corpul și spiritul tău vor ajunge în echilibru.",
+          "This therapy is intended for people with mental or mood disturbances: depression, anxiety, bipolar episodes, mania and delirium. These conditions can vary in intensity and may present as energy fluctuations or mood changes. The environment is created with aromas that soothe anxiety and invite calm; the inviting sounds of the Tibetan bowl remind you that we are part of a whole and you are not alone on the path to healing. Tui Na Chinese massage, acupuncture and cupping will help you become aware of affected areas so your body and spirit can reach balance.",
         ],
       price: "590 lei",
       duration: "165min",
@@ -331,22 +341,22 @@ services:
     },
     {
       name: "Asian delight and healing",
-      summary: "Terapie : Întregul corp ",
+      summary: "Therapy: Whole body",
       description:
         [
-          'Te invităm să faci cunoștință cu Asia, tărâmul cunoașterii holistice, prin intermediul acestui ritual care constă într-o combinație de tehnici chinezești, indiene și tibetane, bine cunoscute în arta vindecării, acestea având locul lor bine stabilit pe harta terapiilor ce aduc trupului și sufletului conștientizare și echilibru, ghidându-se după zicala chinezească "Dacă qi-ul și esența sunt abundente, mintea va înflori", qi-ul, esența și mintea fiind cele trei comori ale ființei noastre.',
-          "Ritualul va debuta cu o scurtă sesiune de sound healing și de aplicarea bolurilor tibetane pe fiecare chakră. Sinergiile de uleiuri pentru fiecare doșă vor fi nelipsite, astfel beneficiind de o relaxare profundă a corpului și spiritului, încât călătoria să înceapă de acum.",
-          "Urmează prima oprire, China, unde vei fi tratat timp de 70 de minute cu masajul abdominal QiNeiZang, în traducere liberă mișcarea sau activitatea organelor interne care are scopul de a elimina blocajele, îmbunătățește funcțiile digestive și nu în ultimul rând curăță blocajele din sfera emoțional-spirituală. Se va folosi uleiul Udara special pentru masajul abdominal împreună cu uleiul esențial de salvie care este un tonifiant excelent pentru ficat și rinichi, lucru care ajută la eliminarea toxinelor din organism și cel de sâmbure de morcov care are în componenta beta caroten ce contribuie la fortificarea sistemului imunitar. Acest masaj include terapia prin sunete, clientul rostind împreună cu terapeutul cele 6 sunete vindecătoare ce duc la o echilibrare dintre Yin și Yang împreună cu masajul QiNeiZang.",
-          "Urmează stația India-Tibet unde te vei relaxa timp de 75 de minute cu ajutorul reflexoterapiei tibetane, bolului tibetan, uleiurilor și cristalelor pentru chakre. Pentru început îți vei încânta din nou auzul cu sunetele produse de bolul tibetan asemănătoare sunetelor universului, după care urmează să acordăm atenție chakrelor folosind uleiurile și cristalele specifice, urmând reflexoterapia tibetana ce implică activarea chakrelor, masajul zonelor reflexogene și presiunea asupra punctelor marma, folosind o combinație de uleiuri esențiale de ghimbir, rozmarin și lavandă, care scad inflamația, energizează, calmează spiritul și fortifică sistemul imunitar.",
-          "În ultima ta jumătate de oră din această călătorie te vei răsfăța cu masajul feței, scalpului și decolteului, utilizând tehnici de masaj blânde împreună cu tehnica Gua Sha ce implică detensionarea mușchilor feței folosind o piatra de jad, toate având un efect de întinerire, iar mirosul de Ylang Ylang te va menține plutind deasupra Asiei chiar și după finalul călătoriei.",
-          "Vă garantăm o experiență orietală, asiatică și holistică de neuitat!",
+          'We invite you to discover Asia, the land of holistic knowledge, through this ritual combining Chinese, Indian and Tibetan techniques — time-honored healing methods that bring body and soul into awareness and balance. As the Chinese saying goes: "If qi and essence are abundant, the mind will flourish."',
+          "The ritual begins with a short sound healing session and the placement of Tibetan bowls on each chakra. Dosha-specific oil synergies are used to provide deep relaxation for body and spirit and mark the start of your journey.",
+          "First stop: China. You will receive a 70-minute QiNeiZang abdominal massage — a practice that moves and activates internal organs to remove blockages, improve digestion and clear emotional-spiritual stagnations. Special Udara oil is used for abdominal massage together with sage essential oil, a tonic for liver and kidneys that helps eliminate toxins, and carrot seed oil rich in beta-carotene to support the immune system. This massage includes sound therapy: the client and therapist vocalize six healing sounds that help balance Yin and Yang along with QiNeiZang work.",
+          "Next stop: India–Tibet. Relax for 75 minutes with Tibetan reflexology, Tibetan bowl therapy, oils and chakra-specific crystals. The session begins with the resonant sounds of the Tibetan bowl, followed by chakra-focused oil and crystal work, Tibetan reflexology to activate chakras, reflexogenic zone massage and pressure on marma points using a combination of ginger, rosemary and lavender essential oils to reduce inflammation, energize, calm the spirit and strengthen immunity.",
+          "In the final half-hour you will be pampered with a gentle face, scalp and décolletage massage using Gua Sha with a jade stone to release facial muscle tension and create a rejuvenating effect. The scent of Ylang Ylang will leave you floating above Asia even after the journey ends.",
+          "We guarantee an unforgettable oriental, Asian and holistic experience!",
         ],
       price: "580 lei",
       duration: "180min",
       reserveLink: "https://wa.link/1by6y3",
     },
   ]
-location: "Harmonia Terra, Bucuresti" #optional
+location: "Harmonia Terra, Bucharest" #optional
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
 contact: {
     email: "tianfutherapy@gmail.com", #optional
@@ -357,7 +367,7 @@ contact: {
   }
 ---
 
-Pasionat de medicină tradițională, holistic, sport, natură, univers, oameni și de a cunoaște fiecare individ în parte luând în considerare partea fizică, psihică, spirituală, emoțională și energetică, practic ceea ce ne face pe noi să fim ființele “întregi” de pe minunata noastră planetă.
-Sunt licențiat în kinetoterapie și motricitate specială, acesta fiind începutul meu ca terapeut. După finalizarea studiilor in această ramură a științei moderne ceva nu era ca un întreg in ceea ce priveste omul, mă tot întrebam, unde sunt celelalte aspecte ale ființei noastre? Dar nu a trecut mult timp și mi-a apărut în cale oportunitatea de a pleca în China, de a studia si de a cunoaște tainele medicinei tradiționale chinezești și să deprind din înțelepciunea povețelor budiste și taoiste.
-Nu mi-au trebuit nici primele două ore de curs ca să mă îndrăgostesc de această știință misterioasă și măiestoasă.
-Având ca țintă natura, locația și rădăcina afecțiunilor tale te voi ajuta să te apropii mai mult de tine, de corpul tău fizic, emoțional, energetic și spiritual astfel incât să ajungi la conștientizarea și vindecarea ta prin propriile resurse. Abia aștept să te cunosc și să te ghidez în călătoria ta!
+Passionate about traditional and holistic medicine, sport, nature, the universe and people, I seek to know each individual by considering the physical, mental, spiritual, emotional and energetic aspects — what makes us whole beings on this wonderful planet.
+I hold a degree in physiotherapy and special motor skills, which was the start of my career as a therapist. After completing studies in this branch of modern science something felt incomplete about the whole human being; I kept asking where the other aspects of our being are. Not long after, I had the opportunity to go to China to study and learn the secrets of traditional Chinese medicine and absorb the wisdom of Buddhist and Taoist teachings.
+It didn't take more than the first two hours of study for me to fall in love with this mysterious and majestic science.
+Focusing on the nature, location and root causes of your ailments, I will help you come closer to yourself — physically, emotionally, energetically and spiritually — so you can reach awareness and healing through your own resources. I look forward to meeting you and guiding you on your journey!
