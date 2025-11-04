@@ -244,7 +244,7 @@ export const ui = {
     "activity.ayurveda": "Ayurveda",
     "activity.biohacking": "Biohacking",
     "activity.breathwork": "Breathwork",
-    "activity.cheileGenelor": "Keys of Genes",
+    "activity.cheileGenelor": "Gene Keys",
     "activity.chiropractor": "Chiropractor",
     "activity.coaching": "Coaching",
     "activity.cupping": "Cupping",
