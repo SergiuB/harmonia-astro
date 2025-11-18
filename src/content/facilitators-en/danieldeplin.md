@@ -3,120 +3,116 @@ name: "Baciu Daniel"
 featuredIndex: 6
 images: ["../images/deplin/deplin.jpeg"]
 tags: ["Rebirthing", "Breathwork", "Coach"]
-activities: ["alte-servicii", "breathwork", "group-alteservicii", "group-breathwork"]
-services: [
- {
+activities:
+  ["alte-servicii", "breathwork", "group-alteservicii", "group-breathwork"]
+services:
+  [
+    {
       name: "Rebirthing Breathwork",
-      summary: "Sesiune individuală : Respirație Circulară Conștientă",
+      summary: "Individual session — Conscious Circular Breathing",
       description:
         [
-          "Prin crearea unui spațiu sigur, mă definesc în ceea ce fac. Acest aspect este esențial pentru ca mintea subconștientă să se deschidă, să elibereze emoții și să ne permită să ne explorăm la un nivel mai profund. Aceasta este cheia unei experiențe intense și de durată, care continuă să rezoneze mult timp după încheierea sesiunii.",
-          "Rebirthing Breathwork este una dintre cele mai puternice tehnici de respirație, care lucrează cu energia vitală pentru a elibera emoțiile stocate și blocajele energetice din corpul nostru.",
-          "În timpul sesiunii, respirăm adânc, puternic și continuu, fără pauze, pentru a permite acestei energii să circule prin corp. Acest lucru deschide câmpul nostru energetic, activează sistemele parasimpatic și limbic și ne conduce într-o stare profundă, unde avem un acces mai mare la emoțiile noastre și la subconștient. Adesea, ne aflăm într-o stare asemănătoare unui vis pe parcursul sesiunilor.",
-          "La început, este normal să simțim furnicături sau vibrații în corp. Pe măsură ce respirația preia controlul, este posibil să trăim emoții, amintiri sau senzații fizice care au fost stocate în corpul nostru ani de zile, sau chiar decenii. Permițându-le să fie simțite pe deplin într-un mediu sigur și susținător, putem să le eliberăm și să ne eliberăm parțial de tipare, blocaje și traume care ne împiedică să ne accesăm întreaga putere și să trăim viața în mod autentic.",
-          "Prin acest proces de eliberare emoțională, dobândim o înțelegere mai profundă a sinelui și a sentimentelor noastre. Ne conectăm cu adevăratul nostru esențial și putem trăi momente de conexiune și claritate profundă.",
-          "O sesiune de Rebirthing Breathwork este o experiență extrem de puternică și, adesea, foarte transformatoare. Aceasta poate fi deosebit de utilă pentru cei care au trecut prin traume sau alte provocări emoționale, dar și pentru oricine dorește să se cunoască la un nivel mai profund.",
-"O sesiune individuală îți oferă:",
-"• Atenție dedicată: Întreaga sesiune este adaptată nevoilor tale specifice, cu ghidare personală pas cu pas.",
-"• Spațiu sigur și intim: Ai libertatea de a explora emoțiile într-un cadru privat, susținut cu blândețe și empatie.",
-"• Ritm propriu: Procesul se desfășoară în ritmul tău, oferind timp pentru integrarea fiecărei etape.",
-"• Claritate și transformare: Primești sprijin direct pentru a elibera blocajele și a accesa stări de liniște și claritate interioară.",
-"• Flexibilitate: Alegi locul de desfășurare, astfel încât experiența să fie cât mai potrivită pentru tine.",
+          "I create a safe, held space — this is essential for the subconscious mind to open, release stored emotions, and allow exploration at a deeper level. This is the key to an intense, long-lasting experience that continues to resonate well after the session ends.",
+          "Rebirthing Breathwork is a powerful breathing technique that works with life force energy to release stored emotions and energetic blockages in the body.",
+          "During the session we breathe deeply, strongly, and continuously without pauses to allow this energy to flow through the body. This opens the energetic field, activates the parasympathetic and limbic systems, and brings us into a deep state where we have greater access to emotions and the subconscious. Many people experience dream-like states during sessions.",
+          "At first it is normal to feel tingling or vibrations in the body. As the breath takes over, emotions, memories or physical sensations stored for years — sometimes decades — may arise. Allowing them to be felt fully in a safe, supportive environment enables release and helps dissolve patterns, blockages and traumas that prevent access to full personal power and authentic living.",
+          "Through this emotional release process, we gain deeper self-understanding and connection. Clients often experience moments of profound clarity and reconnection with their essential self.",
+          "A Rebirthing Breathwork session is a powerful and often transformative experience. It can be particularly helpful for those who have experienced trauma or emotional challenges, and for anyone wishing to deepen self-knowledge.",
+          "An individual session offers:",
+          "• Dedicated attention: the entire session is tailored to your specific needs, with step-by-step guidance.",
+          "• A safe, intimate space: freedom to explore emotions in a private, gently supportive setting.",
+          "• Your own pace: the process unfolds at your rhythm, giving time for integration between stages.",
+          "• Clarity and transformation: direct support to release blockages and access states of inner calm and clarity.",
+          "• Flexibility: you choose the location so the experience fits your needs.",
         ],
       isGroup: true,
       price: "500lei",
       duration: "120min",
-      reserveLink:  "https://wa.link/k45e0t",
+      reserveLink: "https://wa.link/k45e0t",
     },
     {
       name: "Rebirthing Breathwork",
-      summary: "Sesiune individuală Online",
+      summary: "Individual session — Online",
       description:
         [
-          "Prin crearea unui spațiu sigur, mă definesc în ceea ce fac. Acest aspect este esențial pentru ca mintea subconștientă să se deschidă, să elibereze emoții și să ne permită să ne explorăm la un nivel mai profund. Aceasta este cheia unei experiențe intense și de durată, care continuă să rezoneze mult timp după încheierea sesiunii.",
-          "Rebirthing Breathwork este una dintre cele mai puternice tehnici de respirație, care lucrează cu energia vitală pentru a elibera emoțiile stocate și blocajele energetice din corpul nostru.",
-          "În timpul sesiunii, respirăm adânc, puternic și continuu, fără pauze, pentru a permite acestei energii să circule prin corp. Acest lucru deschide câmpul nostru energetic, activează sistemele parasimpatic și limbic și ne conduce într-o stare profundă, unde avem un acces mai mare la emoțiile noastre și la subconștient. Adesea, ne aflăm într-o stare asemănătoare unui vis pe parcursul sesiunilor.",
-          "La început, este normal să simțim furnicături sau vibrații în corp. Pe măsură ce respirația preia controlul, este posibil să trăim emoții, amintiri sau senzații fizice care au fost stocate în corpul nostru ani de zile, sau chiar decenii. Permițându-le să fie simțite pe deplin într-un mediu sigur și susținător, putem să le eliberăm și să ne eliberăm parțial de tipare, blocaje și traume care ne împiedică să ne accesăm întreaga putere și să trăim viața în mod autentic.",
-          "Prin acest proces de eliberare emoțională, dobândim o înțelegere mai profundă a sinelui și a sentimentelor noastre. Ne conectăm cu adevăratul nostru esențial și putem trăi momente de conexiune și claritate profundă.",
-          "O sesiune de Rebirthing Breathwork este o experiență extrem de puternică și, adesea, foarte transformatoare. Aceasta poate fi deosebit de utilă pentru cei care au trecut prin traume sau alte provocări emoționale, dar și pentru oricine dorește să se cunoască la un nivel mai profund.",
-"Respirația Rebirthing online are multiple avantaje:",
-"• Confort și siguranță: Practici din propriul spațiu, într-un mediu familiar, care facilitează relaxarea profundă.",
-"• Accesibilitate: Poți participa de oriunde, economisind timp și energie pentru deplasare.",
-"• Ghidare personalizată: Beneficiezi de îndrumare pas cu pas, adaptată nevoilor tale, în timp real.",
-"• Ritm propriu: Îți oferi libertatea de a trăi procesul în propriul ritm, într-un cadru intim și sigur.",
-"• Integrare ușoară: După sesiune, poți rămâne în spațiul tău personal pentru a integra experiența fără grabă.",
+          "I create a safe, held space — this is essential for the subconscious mind to open, release stored emotions, and allow exploration at a deeper level.",
+          "Rebirthing Breathwork is a powerful breathing technique that works with life force energy to release stored emotions and energetic blockages in the body.",
+          "During the session we breathe deeply, strongly, and continuously without pauses to allow this energy to flow through the body. This opens the energetic field, activates the parasympathetic and limbic systems, and brings us into a deep state where we have greater access to emotions and the subconscious. Many people experience dream-like states during sessions.",
+          "At first it is normal to feel tingling or vibrations in the body. As the breath takes over, emotions, memories or physical sensations stored for years — sometimes decades — may arise. Allowing them to be felt fully in a safe, supportive environment enables release and helps dissolve patterns, blockages and traumas.",
+          "Through this emotional release process, we gain deeper self-understanding and connection. Clients often experience moments of profound clarity and reconnection with their essential self.",
+          "A Rebirthing Breathwork session is powerful and often transformative. It can be helpful for those who have experienced trauma and for anyone seeking deeper self-knowledge.",
+          "Online Rebirthing breathwork — benefits:",
+          "• Comfort and safety: practice from your own space to facilitate deep relaxation.",
+          "• Accessibility: join from anywhere, saving travel time and energy.",
+          "• Personalized guidance: step-by-step support adapted to your needs in real time.",
+          "• Your pace: the process unfolds at your natural rhythm in an intimate, secure setting.",
+          "• Easy integration: after the session you can remain in your personal space to integrate the experience slowly.",
         ],
       isGroup: true,
       price: "300lei",
       duration: "120min",
-      reserveLink:  "https://wa.link/k45e0t",
+      reserveLink: "https://wa.link/k45e0t",
     },
-       {
+    {
       name: "Rebirthing Breathwork",
-      summary: "Sesiune de Grup : Minim 5 Participanți",
+      summary: "Group session — minimum 5 participants",
       description:
         [
-          "Prin crearea unui spațiu sigur, mă definesc în ceea ce fac. Acest aspect este esențial pentru ca mintea subconștientă să se deschidă, să elibereze emoții și să ne permită să ne explorăm la un nivel mai profund. Aceasta este cheia unei experiențe intense și de durată, care continuă să rezoneze mult timp după încheierea sesiunii.",
-          "Rebirthing Breathwork este una dintre cele mai puternice tehnici de respirație, care lucrează cu energia vitală pentru a elibera emoțiile stocate și blocajele energetice din corpul nostru.",
-          "În timpul sesiunii, respirăm adânc, puternic și continuu, fără pauze, pentru a permite acestei energii să circule prin corp. Acest lucru deschide câmpul nostru energetic, activează sistemele parasimpatic și limbic și ne conduce într-o stare profundă, unde avem un acces mai mare la emoțiile noastre și la subconștient. Adesea, ne aflăm într-o stare asemănătoare unui vis pe parcursul sesiunilor.",
-          "La început, este normal să simțim furnicături sau vibrații în corp. Pe măsură ce respirația preia controlul, este posibil să trăim emoții, amintiri sau senzații fizice care au fost stocate în corpul nostru ani de zile, sau chiar decenii. Permițându-le să fie simțite pe deplin într-un mediu sigur și susținător, putem să le eliberăm și să ne eliberăm parțial de tipare, blocaje și traume care ne împiedică să ne accesăm întreaga putere și să trăim viața în mod autentic.",
-          "Prin acest proces de eliberare emoțională, dobândim o înțelegere mai profundă a sinelui și a sentimentelor noastre. Ne conectăm cu adevăratul nostru esențial și putem trăi momente de conexiune și claritate profundă.",
-          "O sesiune de Rebirthing Breathwork este o experiență extrem de puternică și, adesea, foarte transformatoare. Aceasta poate fi deosebit de utilă pentru cei care au trecut prin traume sau alte provocări emoționale, dar și pentru oricine dorește să se cunoască la un nivel mai profund.",
-"Respirația Rebirthing la nivel de grup are multiple avantaje:",
-"• Energie colectivă amplificată: Prezența grupului creează un câmp energetic puternic, susținând procesul fiecărui participant.",
-"• Susținere și conexiune: Te simți înțeles și acceptat într-un spațiu sigur, alături de oameni cu intenții similare.",
-"• Oglindire și inspirație: Experiențele celorlalți pot oferi perspective noi și pot facilita propria ta vindecare.",
-"• Învățare accelerată: Observarea procesului altora și împărtășirea în grup aduc claritate și înțelegere profundă.",
-"• Accesibilitate: Sesiunile de grup sunt adesea mai accesibile financiar și îți permit să practici mai constant.",
+          "I create a safe, held space — this is essential for the subconscious mind to open, release stored emotions, and allow exploration at a deeper level. This is the key to an intense, long-lasting experience that continues to resonate well after the session ends.",
+          "Rebirthing Breathwork is a powerful breathing technique that works with life force energy to release stored emotions and energetic blockages in the body.",
+          "During the session we breathe deeply, strongly, and continuously without pauses to allow this energy to flow through the body. This opens the energetic field, activates the parasympathetic and limbic systems, and brings us into a deep state where we have greater access to emotions and the subconscious. Many people experience dream-like states during sessions.",
+          "At first it is normal to feel tingling or vibrations in the body. As the breath takes over, emotions, memories or physical sensations stored for years — sometimes decades — may arise. Allowing them to be felt fully in a safe, supportive environment enables release and helps dissolve patterns, blockages and traumas that prevent access to full personal power and authentic living.",
+          "Through this emotional release process, we gain deeper self-understanding and connection. Clients often experience moments of profound clarity and reconnection with their essential self.",
+          "A Rebirthing Breathwork session is a powerful and often transformative experience. It can be particularly helpful for those who have experienced trauma or emotional challenges, and for anyone wishing to deepen self-knowledge.",
+          "Group Rebirthing breathwork — benefits:",
+          "• Amplified collective energy: the group presence creates a powerful energetic field that supports each participant's process.",
+          "• Support and connection: you feel understood and accepted in a safe space, alongside people with similar intentions.",
+          "• Mirroring and inspiration: others' experiences can offer new perspectives and facilitate your own healing.",
+          "• Accelerated learning: observing others' processes and group sharing bring clarity and deep understanding.",
+          "• Accessibility: group sessions are often more financially accessible and allow for more consistent practice.",
         ],
       isGroup: true,
       price: "250lei",
       duration: "120min",
-      reserveLink:  "https://wa.link/k45e0t",
+      reserveLink: "https://wa.link/k45e0t",
     },
-           {
+    {
       name: "Rebirthing Breathwork",
-      summary: "Sesiune individuală : În apă caldă",
-      description:
-        [
-"Recomandat celor care au 8-10sesiuni la activ.",
-        ],
+      summary: "Individual session — in warm water",
+      description: ["Recommended for people who have completed 8–10 sessions."],
       isGroup: true,
       price: "500lei",
       duration: "120min",
-      reserveLink:  "https://wa.link/k45e0t",
+      reserveLink: "https://wa.link/k45e0t",
     },
-           {
+    {
       name: "Rebirthing Breathwork",
-      summary: "Sesiune individuală : În apă rece",
-      description:
-        [
-"Recomandat celor care au 8-10sesiuni la activ.",
-        ],
+      summary: "Individual session — in cold water",
+      description: ["Recommended for people who have completed 8–10 sessions."],
       isGroup: true,
       price: "500lei",
       duration: "120min",
-      reserveLink:  "https://wa.link/k45e0t",
+      reserveLink: "https://wa.link/k45e0t",
     },
-           {
+    {
       name: "Rebirthing Breathwork",
-      summary: "Sesiune dedicată cuplurilor",
+      summary: "Dedicated couples session",
       description:
         [
-"Sesiune dedicată cuplurilor care doresc să:",
-"• Întărească legătura emoțională: Respirația conștientă facilitează deschiderea și comunicarea autentică.",
-"• Elibereze tensiunile: Vindecarea emoțională prin respirație ajută la dizolvarea blocajelor și resentimentelor.",
-"• Crească intimitatea: Experiența comună creează un spațiu sigur pentru vulnerabilitate și reconectare.",
-"• Susțină evoluția împreună: Procesul sprijină creșterea personală și de cuplu, consolidând relația.",
-"Un moment sacru pentru a respira, simți și evolua împreună.",
+          "A couples-focused session for those who wish to:",
+          "• Strengthen emotional connection: conscious breathing fosters openness and authentic communication.",
+          "• Release tension: emotional healing through breath supports the dissolution of blockages and resentment.",
+          "• Deepen intimacy: the shared experience creates a safe space for vulnerability and reconnection.",
+          "• Support mutual growth: the process encourages personal and relational development, strengthening the bond.",
+          "A sacred moment to breathe, feel, and evolve together.",
         ],
       isGroup: true,
       price: "800lei",
       duration: "120min",
-      reserveLink:  "https://wa.link/k45e0t",
+      reserveLink: "https://wa.link/k45e0t",
     },
   ]
-location: "Harmonia Terra / Online / În locul dorit/ În natură" #optional
+location: "Harmonia Terra / Online / At preferred location / In nature" #optional
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
 contact: {
     email: "Danieldeplin@gmail.com", #optional
@@ -126,4 +122,4 @@ contact: {
   }
 ---
 
-Mă numesc Daniel și sunt Rebirthing Breathwork Facilitator și fitness coach, cu o pasiune intensă pentru sănătate și evoluție. Din experiența acumulată prin numeroase călătorii în Peru și India, precum și prin tehnicile de vindecare pe care le-am experimentat pentru propria mea transformare, am descoperit Rebirthing Breathwork. Am fost profund captivat de acest potențial imens de schimbare, iar de atunci am ales să ghidez și alți oameni în această călătorie transformatoare.
+My name is Daniel. I am a Rebirthing Breathwork facilitator and fitness coach with a deep passion for health and personal growth. Through experiences gained on numerous journeys to Peru and India, and through the healing techniques I explored during my own transformation, I discovered Rebirthing Breathwork. I was profoundly moved by its vast potential for change, and since then I have chosen to guide others on this transformative path.
