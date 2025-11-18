@@ -2,27 +2,35 @@
 name: "Andreea-Valentina Ganea"
 featuredIndex: 7
 images: ["../images/andreeavalentina/andreeavalentina.jpg"]
-tags: ["Medicina Energetică", "Terapeut Masaj"]
-activities: ["masaj", "terapii-shamanice", "alte-servicii", "group-terapii-shamanice", "masaj"]
-services: [
+tags: ["Energy Medicine", "Massage Therapist"]
+activities:
+  [
+    "masaj",
+    "terapii-shamanice",
+    "alte-servicii",
+    "group-terapii-shamanice",
+    "masaj",
+  ]
+services:
+  [
     {
-      name: "Masaj",
-      summary: "Terapie prin masaj : Întregul corp",
+      name: "Massage",
+      summary: "Massage Therapy: Full Body",
       isGroup: true,
       price: "300lei",
       duration: "60-90min",
       reserveLink: "https://wa.link/3fvz0a",
     },
     {
-      name: "Medicina Energetică",
-      summary: "Terapie Energetică (Șamanism)",
+      name: "Energy Medicine",
+      summary: "Energy Therapy (Shamanism)",
       isGroup: true,
       price: "300lei",
       duration: "60-90min",
       reserveLink: "https://wa.link/3fvz0a",
     },
   ]
-location: "Zona Cișmigiu, București" #optional
+location: "Cișmigiu Area, Bucharest" #optional
 contact: {
     email: "andreeavalentinaganea111@gmail.com", #optional
     phone: "0763961811",
@@ -30,5 +38,5 @@ contact: {
   }
 ---
 
-• terapeut masaj 
-• ⁠terapeut medicină energetică și șamanism
+• Massage Therapist
+• ⁠Energy Medicine and Shamanism Therapist

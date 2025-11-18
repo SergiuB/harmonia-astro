@@ -2,25 +2,26 @@
 name: "Oana Radu"
 featuredIndex: 4
 images: ["../images/oanaradu/oanaradu.jpeg"]
-tags: ["Instructor", "Hatha Yoga",]
+tags: ["Instructor", "Hatha Yoga"]
 activities: ["group-yoga", "yoga"]
-services: [
-     {
+services:
+  [
+    {
       name: "Hatha Yoga",
-      summary: "Marțea: 19:30 – 21:00, Sesiune de Grup",
+      summary: "Tuesday: 19:30 – 21:00, Group Session",
       description:
         [
-        "O clasă de Hatha Yoga accesibilă, potrivită pentru toate nivelurile – de la începători la practicanți avansați.",
-        "Prin mișcare conștientă, respirație și prezență, Oana te ghidează într-o practică echilibrantă, menită să aducă armonie între corp, minte și suflet. Fiecare sesiune este o invitație la introspecție, reconectare și regenerare, într-un spațiu sigur și primitor.",
-        "Clasele sunt bazate pe donație, cu deschidere către toți cei care simt chemarea practicii yoga, indiferent de experiență sau posibilități financiare.",
+          "An accessible Hatha Yoga class suitable for all levels – from beginners to advanced practitioners.",
+          "Through conscious movement, breathing, and presence, Oana guides you in a balancing practice designed to bring harmony between body, mind, and soul. Each session is an invitation to introspection, reconnection, and regeneration in a safe and welcoming space.",
+          "Classes are donation-based, open to all who feel the call to practice yoga, regardless of experience or financial possibilities.",
         ],
       isGroup: true,
-      price: "Pe bază de donație",
+      price: "Donation-based",
       duration: "75min",
-      reserveLink:  "https://wa.link/vm4id1",
+      reserveLink: "https://wa.link/vm4id1",
     },
   ]
-location: "Harmonia Terra - inside ; Parcul Carol - outside" #optional
+location: "Harmonia Terra - inside; Parcul Carol - outside" #optional
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
 contact: {
     email: "pht.oanaradu@ymail.com", #optional
@@ -30,8 +31,8 @@ contact: {
   }
 ---
 
-Sunt o persoană entuziastă și pozitivă, pasionată de mișcare și bunăstare încă din copilărie. Ca fostă practicantă de karate și dans sportiv, am iubit mereu să explorez noi moduri de a rămâne activă – de la dans și drumeții, la yoga și acroyoga.
+I am an enthusiastic and positive person, passionate about movement and well-being since childhood. As a former karate and sports dance practitioner, I have always loved exploring new ways to stay active – from dancing and hiking to yoga and acroyoga.
 
-În 2019 am încercat pentru prima dată yoga, iar aceasta mi-a deschis un nou univers al autocunoașterii și echilibrului. Prin yoga, am descoperit nu doar o modalitate de a-mi restabili echilibrul hormonal, ci și o înțelegere mai profundă a modului în care pot susține și alți oameni în călătoria lor spre stare de bine.
+In 2019, I tried yoga for the first time, and it opened up a new universe of self-discovery and balance. Through yoga, I discovered not only a way to restore my hormonal balance but also a deeper understanding of how I can support and guide people on their journey to well-being.
 
-Îmbinând formarea mea profesională ca farmacist specialist cu dragostea pentru mișcarea conștientă, sunt entuziasmată să împărtășesc beneficiile yoga într-un mod accesibil și plin de bucurie.
+Combining my professional training as a specialist pharmacist with my love for conscious movement, I am excited to share the benefits of yoga in an accessible and joyful way.

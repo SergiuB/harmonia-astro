@@ -1,29 +1,29 @@
 ---
-name: "Andreea Orîndaru"
+name: "Andreea Orindaru"
 featuredIndex: 10
 images: ["../images/orindariuandreea/AndreeaO.jpg"]
 tags: ["Coach", "Trainer"]
 activities: ["coaching"]
-services: [
-     {
+services:
+  [
+    {
       name: "1-on-1 Selflove Coaching",
-      summary: "Coaching personalizat : Sesiuni individuale",
-      description:
-        [
-          "Este timpul să obții ceea ce ai visat de atâta timp! Visele tale merită să devină realitate! Lumea din jurul tău merită să te vadă trăind visul tău, să se inspire de tine, să-ți primești cadourile uimitor de frumoase.",
-          "Ești gata să descoperi secretul iubirii de sine de neclintit și să pornești într-o călătorie de transformare personală ca niciuna alta de până acum? Spune adio îndoielii, anxietății și nevoii constante de validare. Este timpul pentru un TU încrezător, împuternicit și radiant!",
-          "Știu cât de greu este să recunoști față de tine că ai nevoie de ajutor și să te deschizi față de un străin despre temerile și dorințele tale cele mai profunde. Acesta este motivul pentru care în sesiunile noastre veți obține spațiul sigur, confidențialitatea, răbdarea și bunătatea de care ai atâta nevoie.",
-          "De ce să alegi să lucrăm împreună în programul de 8 sesiuni 1 la 1?
-✨ 8 x 1 h sesiuni online, 
-✨ suport complet prin SMS sau Whatsapp pe parcursul programului, 
-✨ flexibilitate în programarea sesiunilor, 
-✨ provocări și teme pentru acasă de lucrat între sesiuni, 
-✨ abordare unică de coaching bazată pe metodologia dezvoltată de Marius Spiridon (Createrra), 
-🎁 Multe BONUSURI precum cartea „Iubirea are toate răspunsurile” scrisă de mine, 
-",
-          "Investiția în acest program este de 800 de euro, plătibili în una sau două rate.",
-          "Programarea sesiunilor se face în funcție de disponibilitatea ta, dar doar după îndeplinirea provocărilor și temelor din sesiunea anterioară. Astfel vei vedea progresul în experiența ta interioară după fiecare sesiune împreună.",
-          "Ești gata pentru o nouă viață? Pentru o nouă relație a ta cu tine? Acum este momentul tău în care îți reconstruiești cea mai importantă relație din viața ta: relația cu tine.",
+      summary: "Personalized Coaching: Individual sessions",
+      description: [
+          "It's time to achieve what you've been dreaming of for so long! Your dreams deserve to become reality! The world around you deserves to see you living your dream, to be inspired by you, to receive your amazingly beautiful gifts.",
+          "Are you ready to discover the secret of unwavering self-love and embark on a personal transformation journey like no other before? Say goodbye to doubt, anxiety, and the constant need for validation. It's time for a confident, empowered, and radiant YOU!",
+          "I know how hard it is to admit to yourself that you need help and to open up to a stranger about your deepest fears and desires. This is why in our sessions, you will receive the safe space, confidentiality, patience, and kindness you so desperately need.",
+          "Why choose to work together in the 8-session 1-on-1 program?
+          ✨ 8 x 1-hour online sessions,
+          ✨ full support via SMS or WhatsApp throughout the program,
+          ✨ flexibility in scheduling sessions,
+          ✨ challenges and homework to work on between sessions,
+          ✨ a unique coaching approach based on the methodology developed by Marius Spiridon (Createrra),
+          🎁 Many BONUSES such as the book 'Love Has All the Answers' written by me,
+          ",
+          "The investment in this program is 800 euros, payable in one or two installments.",
+          "Session scheduling is based on your availability, but only after completing the challenges and homework from the previous session. This way, you will see progress in your inner experience after each session together.",
+          "Are you ready for a new life? For a new relationship with yourself? Now is your moment to rebuild the most important relationship in your life: the relationship with yourself.",
         ],
       isGroup: true,
       price: "800eur",
@@ -40,4 +40,4 @@ contact: {
   }
 ---
 
-Hey, eu sunt Andreea și sunt coach și trainer multipasionat și misiunea mea este să-ți arăt drumul înapoi la minunata ființă umană care ești. Cred din toată inima în minunea din oameni, bucuria pură pe care o ascund sufletele, potențialul nelimitat pe care îl avem cu toții în noi. Este o binecuvântare să ai șansa de a descoperi secundă după secundă minunăția din oameni. În experiența noastră umană, avem șansa de a ne bucura de toate acestea. Cum? Iubind oamenii. În sesiunile noastre 1 la 1 sau de grup vei descoperi cum poți aduce din nou iubirea acasă pentru cea mai importantă persoană din viața ta: TU.
+Hey, I am Andreea, a multi-passionate coach and trainer, and my mission is to show you the way back to the wonderful human being that you are. I wholeheartedly believe in the wonder within people, the pure joy hidden in souls, and the unlimited potential we all have within us. It is a blessing to have the chance to discover, second by second, the wonder in people. In our human experience, we have the opportunity to enjoy all of this. How? By loving people. In our 1-on-1 or group sessions, you will discover how to bring love back home for the most important person in your life: YOU.

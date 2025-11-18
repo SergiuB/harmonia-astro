@@ -2,74 +2,79 @@
 name: "Alina Grecu"
 featuredIndex: 6
 images: ["../images/andragrecu/alinagrecu2.jpeg"]
-tags: ["Terapeut Craniosacral", "Instructor", "Yoga & Pilates"]
-activities: ["masaj", "group-yoga", "alte-servicii", "yoga", "miscare-constienta", "aliniament", "group-pilates", "pilates"]
-services: [
- {
-      name: "Terapie Craniosacrală",
-      summary: "Terapie blândă : Atingeri craniosacrale",
+tags: ["Craniosacral Therapist", "Instructor", "Yoga & Pilates"]
+activities:
+  [
+    "masaj",
+    "group-yoga",
+    "alte-servicii",
+    "yoga",
+    "miscare-constienta",
+    "aliniament",
+    "group-pilates",
+    "pilates",
+  ]
+services:
+  [
+    {
+      name: "Craniosacral Therapy",
+      summary: "Gentle Therapy: Craniosacral Touches",
       description:
         [
-          "Terapia craniosacrală este o metodă blândă, non-invazivă, care sprijină sistemul nervos
-central și susține capacitatea naturală a corpului de autoreglare și vindecare. Prin atingeri subtile și
-profunde, aplicate în zonele cheie ale corpului (cap, coloană, pelvis), se eliberează tensiuni acumulate la
-nivelul țesuturilor, fasciei și sistemului craniosacral.",
-          "Această terapie este recomandată în stări de stres, oboseală cronică, anxietate, insomnii, dureri cronice
-sau dezechilibre emoționale. În timpul ședinței, corpul intră într-o stare de relaxare profundă, iar
-sistemul nervos parasimpatic este activat, facilitând restabilirea echilibrului interior.",
-          "Sesiunea durează 60 de minute și este adaptată ritmului fiecărui client, într-un spațiu sigur, calm și
-susținător.",
-"Pentru programări și sesiuni individuale:",
-"🕊️ Luni: 09:00 – 14:00",
-"🕊️ Marți: 12:00 – 15:00",
-"🕊️ Miercuri: 12:00 – 16:00",
-"🕊️ Vineri: 12:00 – 15:00",
+          "Craniosacral therapy is a gentle, non-invasive method that supports the nervous system and enhances the body's natural ability to self-regulate and heal. Through subtle and profound touches applied to key areas of the body (head, spine, pelvis), accumulated tensions in the tissues, fascia, and craniosacral system are released.",
+          "This therapy is recommended for stress, chronic fatigue, anxiety, insomnia, chronic pain, or emotional imbalances. During the session, the body enters a state of deep relaxation, activating the parasympathetic nervous system and facilitating the restoration of inner balance.",
+          "The session lasts 60 minutes and is tailored to each client's rhythm, in a safe, calm, and supportive space.",
+          "For appointments and individual sessions:",
+          "🕊️ Monday: 09:00 – 14:00",
+          "🕊️ Tuesday: 12:00 – 15:00",
+          "🕊️ Wednesday: 12:00 – 16:00",
+          "🕊️ Friday: 12:00 – 15:00",
         ],
       isGroup: true,
       price: "250lei",
       duration: "60min",
-      reserveLink:  "https://wa.link/rjk64m",
+      reserveLink: "https://wa.link/rjk64m",
     },
-     {
+    {
       name: "Yoga",
-      summary: "Sesiune Privată",
+      summary: "Private Session",
       description:
         [
-          "Conexiune personalizată, ritm propriu, echilibru profund",
-          "Sesiunile private de yoga sunt create special pentru nevoile și obiectivele tale individuale – fie că îți dorești o practică blândă de reconectare, îmbunătățirea flexibilității și forței, susținere în perioade de stres sau integrarea tehnicilor de respirație și meditație în viața ta de zi cu zi.",
-          "Lucrăm într-un ritm adaptat corpului tău, folosind posturi de Hatha și Yin Yoga, exerciții de detensionare cu propsuri și secvențe personalizate care susțin starea de bine la nivel fizic, emoțional și energetic.",
-          "Pentru programări și sesiuni individuale:",
-"🕊️ Luni: 09:00 – 14:00",
-"🕊️ Marți: 12:00 – 15:00",
-"🕊️ Miercuri: 12:00 – 16:00",
-"🕊️ Vineri: 12:00 – 15:00",
+          "Personalized connection, own rhythm, deep balance",
+          "Private yoga sessions are specially created for your individual needs and goals – whether you want a gentle practice for reconnection, improved flexibility and strength, support during stressful periods, or the integration of breathing and meditation techniques into your daily life.",
+          "We work at a pace adapted to your body, using Hatha and Yin Yoga postures, tension-relieving exercises with props, and personalized sequences that support well-being on a physical, emotional, and energetic level.",
+          "For appointments and individual sessions:",
+          "🕊️ Monday: 09:00 – 14:00",
+          "🕊️ Tuesday: 12:00 – 15:00",
+          "🕊️ Wednesday: 12:00 – 16:00",
+          "🕊️ Friday: 12:00 – 15:00",
         ],
       isGroup: true,
       price: "250lei",
       duration: "60min",
-      reserveLink:  "https://wa.link/rjk64m",
+      reserveLink: "https://wa.link/rjk64m",
     },
-     {
-      name: "Pilates Postural",
-      summary: "Sesiune Privată",
+    {
+      name: "Postural Pilates",
+      summary: "Private Session",
       description:
         [
-          "Aliniere, stabilitate, reeducare corporală.",
-          "Sesiunile private de pilates postural sunt dedicate celor care doresc să îmbunătățească aliniamentul corpului, să corecteze dezechilibrele posturale și să întărească musculatura profundă.",
-          "Prin exerciții precise și controlate, focusate pe respirație, stabilitate și coordonare, lucrăm pentru a restabili echilibrul între mobilitate și susținere. Sesiunea este personalizată în funcție de nevoile și particularitățile fiecărui corp – fiind potrivită atât în scop preventiv, cât și în recuperare sau ca sprijin pentru un stil de viață activ și sănătos.",
-          "Pentru programări și sesiuni individuale:",
-"🕊️ Luni: 09:00 – 14:00",
-"🕊️ Marți: 12:00 – 15:00",
-"🕊️ Miercuri: 12:00 – 16:00",
-"🕊️ Vineri: 12:00 – 15:00",
+          "Alignment, stability, body re-education.",
+          "Private postural pilates sessions are dedicated to those who want to improve body alignment, correct postural imbalances, and strengthen deep muscles.",
+          "Through precise and controlled exercises focused on breathing, stability, and coordination, we work to restore the balance between mobility and support. The session is personalized according to the needs and particularities of each body – suitable both preventively and for recovery or as support for an active and healthy lifestyle.",
+          "For appointments and individual sessions:",
+          "🕊️ Monday: 09:00 – 14:00",
+          "🕊️ Tuesday: 12:00 – 15:00",
+          "🕊️ Wednesday: 12:00 – 16:00",
+          "🕊️ Friday: 12:00 – 15:00",
         ],
       isGroup: true,
       price: "250lei",
       duration: "60min",
-      reserveLink:  "https://wa.link/rjk64m",
+      reserveLink: "https://wa.link/rjk64m",
     },
   ]
-location: "Harmonia Terra, Centrele World Class și Origini hub" #optional
+location: "Harmonia Terra, World Class Centers, and Origini hub" #optional
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
 contact: {
     email: "alinageorgiana.grecu@gmail.com", #optional
@@ -79,15 +84,15 @@ contact: {
   }
 ---
 
-Alina Grecu – Instructor Yoga & Pilates Reformer/ Terapeut Craniosacral
-500h YTT Yoga Alliance | 100h Yin Yoga | Instructor Pilates Reformer
+Alina Grecu – Yoga & Pilates Reformer Instructor / Craniosacral Therapist
+500h YTT Yoga Alliance | 100h Yin Yoga | Pilates Reformer Instructor
 
-Sunt Alina Grecu, instructor de yoga și pilates, cu o abordare holistică orientată spre echilibrul corp-minte-suflet. Am finalizat o formare de 500h Yoga Alliance în Hatha și Vinyasa, precum și o specializare de 100h în Yin Yoga. În plus, sunt instructor certificat de Pilates Reformer, susținând sesiuni care îmbină aliniamentul postural cu forța interioară și fluiditatea mișcării.
+I am Alina Grecu, a yoga and pilates instructor with a holistic approach focused on body-mind-soul balance. I completed a 500h Yoga Alliance training in Hatha and Vinyasa, as well as a 100h specialization in Yin Yoga. Additionally, I am a certified Pilates Reformer instructor, conducting sessions that combine postural alignment with inner strength and movement fluidity.
 
-Predau clase de yoga (Hatha, Vinyasa, Yin), meditație și Pilates Reformer, într-un stil blând, dar energizant, susținând atât eliberarea tensiunilor, cât și reconectarea profundă cu propriul corp.
+I teach yoga classes (Hatha, Vinyasa, Yin), meditation, and Pilates Reformer in a gentle yet energizing style, supporting both tension release and deep reconnection with one's own body.
 
-Sunt în formare ca psiholog și pasionată de felul în care mișcarea conștientă poate sprijini reglarea sistemului nervos și procesele de vindecare emoțională. Pentru mine, yoga și pilates nu sunt doar practici fizice, ci instrumente terapeutice care cultivă prezență, claritate și vitalitate.
+I am training as a psychologist and passionate about how conscious movement can support nervous system regulation and emotional healing processes. For me, yoga and pilates are not just physical practices but therapeutic tools that cultivate presence, clarity, and vitality.
 
-Facilitarea claselor este pentru mine o formă de prezență activă și susținere autentică – creez un spațiu sigur în care fiecare persoană este încurajată să își asculte ritmul interior și să se împrietenească cu propriul corp.
+Facilitating classes is, for me, a form of active presence and authentic support – I create a safe space where each person is encouraged to listen to their inner rhythm and become friends with their own body.
 
-„Corpul tău este templul sufletului tău. Privește-l cu iubire, mișcă-l cu respect și ascultă ce are să-ți spună.”
+"Your body is the temple of your soul. Look at it with love, move it with respect, and listen to what it has to tell you."

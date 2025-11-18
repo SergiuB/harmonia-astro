@@ -2,59 +2,59 @@
 name: "Iulian Dumitriu"
 featuredIndex: 5
 images: ["../images/iuliandumitriu/Iulian.jpg"]
-tags: ["Terapeut", "Maseur"]
+tags: ["Therapist", "Masseur"]
 activities: ["masaj"]
 services:
-       [
-      {
-      name: "Masaj de Relaxare",
-      summary: "Masaj : Întregul corp",
+  [
+    {
+      name: "Relaxation Massage",
+      summary: "Massage: Full body",
       description:
         [
-          "O experiență profund relaxantă menită să reducă stresul, tensiunea și anxietatea, să îmbunătățească somnul și să restabilească echilibrul interior. Ideal pentru cei care doresc o pauză blândă de reconectare cu propriul corp și starea de bine.",
-          "*După efectuarea programării, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
-          "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
+          "A deeply relaxing experience designed to reduce stress, tension, and anxiety, improve sleep, and restore inner balance. Ideal for those seeking a gentle break to reconnect with their body and well-being.",
+          "*After booking, you will receive a message within 24 hours to pay a 50% deposit if you do not have a subscription or gift card.",
+          "*Rescheduling or cancellations, regardless of the reason, must be made at least 48 hours before the session. For rescheduling or cancellations made less than 48 hours in advance, the session will be forfeited if you have a gift card or subscription, and for individual payments, the 50% deposit will not be refunded.",
         ],
-           isGroup: true,
-              price: "250/350/450lei",
+      isGroup: true,
+      price: "250/350/450lei",
       duration: "60/90/120min",
       reserveLink: "https://wa.link/2c7age",
     },
-         {
-      name: "Reflexoterapie",
-      summary: "Masaj : Picioare",
+    {
+      name: "Reflexology",
+      summary: "Massage: Feet",
       description:
         [
-          "O metodă delicată și eficientă de stimulare a punctelor reflexe de pe tălpi, cu efecte benefice asupra întregului organism. Sprijină procesele naturale de detoxifiere și contribuie la echilibrarea organelor interne.",
-          "*După efectuarea programării, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
-          "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
+          "A gentle and effective method of stimulating reflex points on the soles, with beneficial effects on the entire body. Supports natural detoxification processes and contributes to the balance of internal organs.",
+          "*After booking, you will receive a message within 24 hours to pay a 50% deposit if you do not have a subscription or gift card.",
+          "*Rescheduling or cancellations, regardless of the reason, must be made at least 48 hours before the session. For rescheduling or cancellations made less than 48 hours in advance, the session will be forfeited if you have a gift card or subscription, and for individual payments, the 50% deposit will not be refunded.",
         ],
-           isGroup: true,
-              price: "250lei",
+      isGroup: true,
+      price: "250lei",
       duration: "60min",
       reserveLink: "https://wa.link/2c7age",
     },
-         {
-      name: "Masaj Deep Tissue & Terapeutic",
-      summary: "Tehnici Combinate : Întregul corp",
+    {
+      name: "Deep Tissue & Therapeutic Massage",
+      summary: "Combined Techniques: Full body",
       description:
         [
-          "O abordare mai profundă, ce combină tehnici de masaj terapeutic, deep tissue și stretching pentru a elibera tensiuni cronice și blocaje musculare.",
-          "Beneficii:",
-          "-relaxează musculatura și reduce durerile, în special cele cronice ale spatelui;",
-          "-îmbunătățește mobilitatea și flexibilitatea articulațiilor;",
-          "-contribuie la diminuarea migrenelor și durerilor de cap;",
-          "-susține un somn mai odihnitor și o stare generală de vitalitate.",
-          "*După efectuarea programării, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
-          "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
+          "A deeper approach that combines therapeutic massage techniques, deep tissue, and stretching to release chronic tension and muscle blockages.",
+          "Benefits:",
+          "-Relaxes muscles and reduces pain, especially chronic back pain;",
+          "-Improves joint mobility and flexibility;",
+          "-Helps reduce migraines and headaches;",
+          "-Supports more restful sleep and a general state of vitality.",
+          "*After booking, you will receive a message within 24 hours to pay a 50% deposit if you do not have a subscription or gift card.",
+          "*Rescheduling or cancellations, regardless of the reason, must be made at least 48 hours before the session. For rescheduling or cancellations made less than 48 hours in advance, the session will be forfeited if you have a gift card or subscription, and for individual payments, the 50% deposit will not be refunded.",
         ],
-           isGroup: true,
-              price: "250/350/450lei",
+      isGroup: true,
+      price: "250/350/450lei",
       duration: "60/90/120min",
       reserveLink: "https://wa.link/2c7age",
     },
   ]
-location: "Harmonia Terra, Bucuresti" #optional
+location: "Harmonia Terra, Bucharest" #optional
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
 contact: {
     email: "dumitriu.iulian.m@gmail.com", #optional
@@ -63,4 +63,4 @@ contact: {
   }
 ---
 
-Terapeut maseur cu o abordare calmă și empatică, Iulian a descoperit pasiunea pentru arta atingerii acum cinci ani, după o carieră în IT. Căutarea echilibrului și a conexiunii autentice cu oamenii l-a condus spre terapia prin masaj, unde a găsit sens și bucurie. Integrează în sesiunile sale tehnici de relaxare, deep tissue, stretching, reflexoterapie și elemente de masaj terapeutic, creând o experiență personalizată pentru reducerea stresului, a tensiunilor și a anxietății. Practică din pasiune, cu prezență și respect pentru corpul și ritmul fiecărui om.
+A calm and empathetic massage therapist, Iulian discovered his passion for the art of touch five years ago after a career in IT. The search for balance and authentic connection with people led him to massage therapy, where he found meaning and joy. He integrates relaxation techniques, deep tissue, stretching, reflexology, and therapeutic massage elements into his sessions, creating a personalized experience to reduce stress, tension, and anxiety. He practices with passion, presence, and respect for each person's body and rhythm.

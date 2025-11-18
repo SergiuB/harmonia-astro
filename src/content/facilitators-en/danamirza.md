@@ -1,45 +1,52 @@
 ---
-name: "Dana Mîrza"
+name: "Dana Mirza"
 featuredIndex: 5
 images: ["../images/danamirza/danam.jpg"]
-tags: ["Instructor", "Tai Chi", "Qigong",]
-activities: ["group-qigong", "group-tai-chi", "alte-servicii", "group-miscare-constienta", "group-meditatii-ghidate"]
-services: [
- {
-      name: "TAI CHI stilul Yang traditional ",
-      summary: "Stilul Yang traditional : Curs începători",
-      description:
-        [
-          "TAIJIQUAN (cunoscut și sub denumirea de TAI CHI sau TAI CHI CHUAN) este cel mai răspândit stil intern de arte marțiale chinezești,
-          practicat astăzi in lumea intreagă mai ales ca o disciplină terapeutică, de menținere a stării de sănătate, de sporire a vitalității
-          și de echilibrare psiho-emoțională.  Născut ca o artă marțială, Taijiquan-ul se bazează pe mișcări fluide, lente, însă nu lipsite de vigoare,
-          însoțite de o întreagă filosofie și știință. Mișcările continue, fluide din Taijiquan se bazează pe principiul că o apă curgătoare 
-          nu băltește niciodată. Formele armonioase relaxează atât musculatura, cât și articulațiile, ceea ce întărește corpul din interior. 
-          Prin mișcare și meditație Taijiquan-ul aduce o sănătate robustă, o minte liniștită și o inimă deschisă.",
-          "Ce alte beneficii iți aduce practica Tai Chi-ului ?",
-          "• crește energia (Qi) si o ajută să circule armonios pe meridiane;",
-          "• stimulează circulatia sangelui;",
-          "• intărește sistemul imunitar;",
-          "• readuce echilibrul emotional si calmează cortexul cerebral, aducând o stare de de serenitate;",
-"• intarește oasele, crește mobilitatea articulațiilor, intărește musculatura;",
-"• crește flexibilitatea coloanei;",
-"• corectează postura;",
-"• ajută la relaxare, eliberarea stresului;",
-"• aduce vitalitate crescută, echilibru mental si energetic, eficiență in acțiunile exterioare;",
-"• aduce deschidere si abordare pozitivă a vieții.",
-"La acest curs se va preda SECVENTA DE 8 FORME din stilul Yang traditional.
-Pe langă aceasta, se vor preda și noțiuni teoretice de baza legate de: istoria taijiquan-ului, stiluri de arte marțiale chinezesti,
-principiile taijiquan-ului, concepte din medicina chineză tradițională (teoria meridianelor, principiul yin-yang, legea celor cinci elemente).",
-"Numar de participanti: minim 4, maxim 6.",
-"Vă recomandăm să aveți îmbrăcăminte lejeră si incălțăminte sport pentru interior.",
+tags: ["Instructor", "Tai Chi", "Qigong"]
+activities:
+  [
+    "group-qigong",
+    "group-tai-chi",
+    "alte-servicii",
+    "group-miscare-constienta",
+    "group-meditatii-ghidate",
+  ]
+services:
+  [
+    {
+      name: "TAI CHI Yang Style Traditional",
+      summary: "Yang Style Traditional: Beginner Course",
+      description: [
+          "TAIJIQUAN (also known as TAI CHI or TAI CHI CHUAN) is the most widespread internal style of Chinese martial arts,
+          practiced today worldwide mainly as a therapeutic discipline, for maintaining health, increasing vitality,
+          and balancing psycho-emotional states. Born as a martial art, Taijiquan is based on fluid, slow movements, yet not lacking vigor,
+          accompanied by an entire philosophy and science. The continuous, fluid movements of Taijiquan are based on the principle that flowing water
+          never stagnates. The harmonious forms relax both the muscles and the joints, rejuvenating the body from within.
+          Through movement and meditation, Taijiquan brings robust health, a calm mind, and an open heart.",
+          "What other benefits does Tai Chi practice bring you?",
+          "• increases energy (Qi) and helps it circulate harmoniously through the meridians;",
+          "• stimulates blood circulation;",
+          "• strengthens the immune system;",
+          "• restores emotional balance and calms the cerebral cortex, bringing a state of serenity;",
+          "• strengthens bones, increases joint mobility, strengthens muscles;",
+          "• increases spinal flexibility;",
+          "• corrects posture;",
+          "• helps with relaxation, stress release;",
+          "• brings increased vitality, mental and energetic balance, efficiency in external actions;",
+          "• brings openness and a positive approach to life.",
+          "In this course, the 8 FORM SEQUENCE from the Yang traditional style will be taught.
+          In addition, basic theoretical notions related to: the history of Taijiquan, styles of Chinese martial arts,
+          principles of Taijiquan, concepts from traditional Chinese medicine (theory of meridians, yin-yang principle, the law of the five elements) will be taught.",
+          "Number of participants: minimum 4, maximum 6.",
+          "We recommend wearing comfortable clothing and indoor sports shoes.",
         ],
       isGroup: true,
       price: "75lei / 265lei / 550lei",
-      duration: "ședința / 4 ședințe / 9 ședințe ",
-      reserveLink:  "https://wa.link/hyn899",
-    }, 
+      duration: "session / 4 sessions / 9 sessions",
+      reserveLink: "https://wa.link/hyn899",
+    },
   ]
-location: "Harmonia Terra / Centrul Eka / în aer liber / online" #optional
+location: "Harmonia Terra / Eka Center / Outdoors / Online" #optional
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
 contact: {
     email: "danamirza@gmail.com", #optional
@@ -50,4 +57,4 @@ contact: {
   }
 ---
 
-Sunt Dana Mirza, initiatoarea proiectului Five Elements,  proiect ce dorește să promoveze o viață sănătoasă și armonioasă prin practici chinezești holistice, vechi de mii de ani. Atât Tai Chi-ul, cât și Qigong-ul reprezintă nu doar o modalitate de a ne menține sănătatea și de a ne prelungi tinerețea, ci și o cale de a ne cunoaște și desăvârși, de a ne explora și manifesta potențialul creator și calitațile profund umane
+I am Dana Mirza, the initiator of the Five Elements project, a project that aims to promote a healthy and harmonious life through ancient Chinese holistic practices. Both Tai Chi and Qigong represent not only a way to maintain health and prolong youth but also a path to self-knowledge and fulfillment, to explore and manifest creative potential and deeply human qualities

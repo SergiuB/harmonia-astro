@@ -3,71 +3,67 @@ name: "Paul Manea"
 featuredIndex: 4
 images: ["../images/paulmanea/paulmanea.png"]
 tags: ["Rebirthing", "Breathwork", "Coach"]
-activities: [ "coaching", "breathwork", "alte-servicii", "group-breathwork", ]
-services: [
+activities: ["coaching", "breathwork", "alte-servicii", "group-breathwork"]
+services:
+  [
     {
-      name: "Rebirthing Breathwork - Sesiune individuală",
-      summary: "Sesiune individuală de respirație : în persoană",
+      name: "Rebirthing Breathwork - Individual Session",
+      summary: "Individual breathing session: In-person",
       isGroup: true,
       price: "500lei",
       duration: "180min",
       reserveLink: "https://wa.link/an2opl",
     },
-        {
-      name: "Rebirthing Breathwork - Sesiune
-individuală Online",
-      summary: "Sesiune individuală de respirație : online",
+    {
+      name: "Rebirthing Breathwork - Individual Online Session",
+      summary: "Individual breathing session: Online",
       isGroup: true,
       price: "350lei",
       duration: "180min",
       reserveLink: "https://wa.link/an2opl",
     },
-        {
+    {
       name: "Rebirthing Breathwork - Group Session",
-      summary: "Respirație conștientă conectată în energia de grup",
+      summary: "Conscious connected breathing in group energy",
       isGroup: true,
       price: "180lei",
       duration: "180min",
       reserveLink: "https://wa.link/an2opl",
     },
-       {
+    {
       name: "Rebirthing Breathwork - Cold Water",
-      summary: "Sesiune individuală de respirație în apă
-rece",
+      summary: "Individual breathing session in cold water",
       isGroup: true,
       price: "550lei",
       duration: "180min",
       reserveLink: "https://wa.link/an2opl",
     },
-       {
+    {
       name: "Rebirthing Breathwork - Warm Water",
-      summary: "Sesiune individuală de respirație în apă
-caldă",
+      summary: "Individual breathing session in warm water",
       isGroup: true,
       price: "550lei",
       duration: "180min",
       reserveLink: "https://wa.link/an2opl",
     },
-           {
+    {
       name: "Couple Breathwork Session",
-      summary: "Sesiune de respirație și coaching pentru
-cupluri",
+      summary: "Breathing and coaching session for couples",
       isGroup: true,
       price: "700lei",
       duration: "180min",
       reserveLink: "https://wa.link/an2opl",
     },
-               {
-      name: "Sesiune Theta Healing & Coaching",
-      summary: "Sesiune individuală : claritate, vindecare, creștere și
-aliniere interioară",
+    {
+      name: "Theta Healing & Coaching Session",
+      summary: "Individual session: clarity, healing, growth, and inner alignment",
       isGroup: true,
       price: "250lei",
       duration: "75min",
       reserveLink: "https://wa.link/an2opl",
     },
   ]
-location: " Harmonia Terra/ Online / În natură / La domiciliu" #optional
+location: "Harmonia Terra / Online / In nature / At home" #optional
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
 contact: {
     email: "salut@theshift.ro", #optional
@@ -77,10 +73,10 @@ contact: {
   }
 ---
 
-Ghidez oamenii cu blândețe prin procesul Rebirthing Breathwork și integrez expertiza mea ca NLP Practitioner, Reiki Practitioner, terapeut Theta Healing, facilitator Authentic Relating și organizator de evenimente și retreat-uri dedicate transformării interioare și dezvoltării personale.
+I guide people gently through the Rebirthing Breathwork process and integrate my expertise as an NLP Practitioner, Reiki Practitioner, Theta Healing therapist, Authentic Relating facilitator, and organizer of events and retreats dedicated to inner transformation and personal development.
 
-Am condus peste 300 de persoane prin acest proces, concentrându-mă pe crearea unui spațiu sigur, construirea de relații autentice cu sine și ceilalți, explicarea clară a etapelor și oferirea unui suport energetic și emoțional solid.
+I have guided over 300 people through this process, focusing on creating a safe space, building authentic relationships with oneself and others, clearly explaining the steps, and providing solid energetic and emotional support.
 
-Am explorat peste 50 de țări și am dedicat peste 20 de ani înțelegerii motivațiilor, blocajelor și strategiilor care ajută oamenii să atingă pace, claritate, bucurie și echilibru interior.
+I have explored over 50 countries and dedicated more than 20 years to understanding the motivations, blockages, and strategies that help people achieve peace, clarity, joy, and inner balance.
 
-Aplic și combin tehnici diverse de eliberare emoțională și vindecare, precum Letting Go/Metoda Sedona, pentru a sprijini oamenii să se reconecteze la sinele autentic și să descopere o viață mai plină de claritate, bucurie și sens.
+I apply and combine various techniques for emotional release and healing, such as Letting Go/The Sedona Method, to support people in reconnecting with their authentic selves and discovering a life filled with clarity, joy, and meaning.

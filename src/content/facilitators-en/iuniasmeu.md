@@ -2,62 +2,63 @@
 name: "Iunia Smeu"
 featuredIndex: 16
 images: ["../images/iuniazmeu/iunia.jpg"]
-tags: ["Terapeut", "Medicina Shamanica", "Breathwork"]
+tags: ["Therapist", "Shamanic Medicine", "Breathwork"]
 activities: ["masaj", "terapii-shamanice", "alte-servicii"]
-services: [
+services:
+  [
     {
-      name: "Terapie 1:1",
-      summary: "Terapie : Personalizata",
+      name: "1:1 Therapy",
+      summary: "Therapy: Personalized",
       description:
-        [ 
-        "Etapele unei terapii:",
-        "• informare și conștientizare",
-        "• aliniere in meditație ghidata",
-        "• timeline therapy / EFT",
-        "• asimilare și relaxare",
+        [
+          "Stages of a therapy:",
+          "• Information and awareness",
+          "• Alignment in guided meditation",
+          "• Timeline therapy / EFT",
+          "• Assimilation and relaxation",
         ],
       isGroup: true,
       price: "410lei",
       duration: "150min",
       reserveLink: "https://wa.link/hkqkxe",
     },
-       {
-      name: "Masaj Spinal Flow Energetics",
-      summary: "Masaj : Personalizata",
+    {
+      name: "Spinal Flow Energetics Massage",
+      summary: "Massage: Personalized",
       description:
-        [ 
-        "Etapele unui masaj SFE:",
-        "• informare și conștientizare",
-        "• aliniere in meditație ghidata",
-        "• masaj aromaterapeutic",
-        "• Spinal Flow Energetics",
-        "• baie de sunet",
-        "• asimilare și relaxare",
+        [
+          "Stages of an SFE massage:",
+          "• Information and awareness",
+          "• Alignment in guided meditation",
+          "• Aromatherapy massage",
+          "• Spinal Flow Energetics",
+          "• Sound bath",
+          "• Assimilation and relaxation",
         ],
       isGroup: true,
       price: "550lei",
       duration: "150min",
       reserveLink: "https://wa.link/hkqkxe",
     },
-           {
-      name: "Ritual cu Rapé",
-      summary: "Ritual : Personalizat",
+    {
+      name: "Rapé Ritual",
+      summary: "Ritual: Personalized",
       description:
-        [ 
-        "Etapele unui ritual cu Rapé:",
-        "• informare și conștientizare",
-        "• aliniere in meditație ghidata",
-        "• ritual cu Rapé",
-        "• ETF",
-        "• asimilare și relaxare",
+        [
+          "Stages of a Rapé ritual:",
+          "• Information and awareness",
+          "• Alignment in guided meditation",
+          "• Rapé ritual",
+          "• EFT",
+          "• Assimilation and relaxation",
         ],
       isGroup: true,
       price: "550lei",
       duration: "150min",
       reserveLink: "https://wa.link/hkqkxe",
     },
-    ]
-location: "Fizic / Online, Bucuresti" #optional
+  ]
+location: "Physical / Online, Bucharest" #optional
 contact: {
     email: "Iulia.hij.awe@gmail.com", #optional
     phone: "0762904040",
@@ -66,14 +67,14 @@ contact: {
   }
 ---
 
-Sunt Iunia Smeu: mama, femeie, OM.
-Însă atunci când Universul o cere, îndrum și susțin din rolul de terapeut transpersonal.
-Pe lumea asta și in această viață misiunea pe care am venit să o împlinesc a ajuns timpuriu la mine. De la 19 ani, am început o călătorie interioara care nu am știut atunci că nu va avea sfârșit vreodată: evoluția către Sine.
-Când mi-am dat seama că știu atât de multe încât să realizez că nu știu nimic, am inceput sa mă deschid către a susține călătoriile interioare ale celor din jurul meu.
-Iubesc natura și plantele. Trăiesc cu ele o oarecare simbioza de neexplicat și, intuitiv, știu fiecare planta daca și cum poate sa îmi fie de folos. De asemenea, creez din plante leacuri ale trupului sub forma de creme, uleiuri sau parfumuri.
-Așadar, deși diplomele mă recomanda ca psihoterapeut, modul în care ghidez și susțin este holistic și transpersonal.
-Printre instrumentele pe care le-am folosit in colaborările anterioare se numără: breathwork-ul (holotropic, rebirth), meditația ghidata, Access Bars & EFT, timeline therapy, spinal flow energetics, ceremonia cu Cacao și ritualul cu Rapé.
-In opinia mea, cunoașterea este putere. În mod constant îmi îndrept antenele către noi surse de informații, atât din știința cât și din domeniul ezoteric, care ar putea îmbunătăți practicile din cadrul terapiilor pe care le susțin.
-Mai cred si ca totul este interconectat, așa că întotdeauna în lucrul cu oamenii iau în considerare și aspectele astrale, nu doar experiențele trăite, folosindu-ma de instrumente precum Human Design sau Cheile Genelor.
+I am Iunia Smeu: mother, woman, HUMAN.
+Whenever the Universe calls, I guide and support from the role of a transpersonal therapist.
+In this world and in this life, the mission I came to fulfill reached me early. At the age of 19, I began an inner journey that I did not know at the time would never end: the evolution towards the Self.
+When I realized that I knew so much that I understood I knew nothing, I began to open myself to supporting the inner journeys of those around me.
+I love nature and plants. I live with them in an inexplicable symbiosis and, intuitively, I know each plant and how it can be of use to me. I also create remedies for the body from plants in the form of creams, oils, or perfumes.
+Thus, although my diplomas recommend me as a psychotherapist, the way I guide and support is holistic and transpersonal.
+Among the tools I have used in previous collaborations are: breathwork (holotropic, rebirth), guided meditation, Access Bars & EFT, timeline therapy, spinal flow energetics, cacao ceremony, and Rapé ritual.
+In my opinion, knowledge is power. I constantly direct my antennas towards new sources of information, both from science and the esoteric domain, which could improve the practices within the therapies I support.
+I also believe that everything is interconnected, so I always consider astral aspects, not just lived experiences, using tools such as Human Design or Gene Keys.
 
-Daca simți că ai nevoie de îndrumare și susținere într-un mod blând și revelator, in cadrul terapiilor și evenimentelor pe care le ghidez vei găsi spațiul deschis către asta.
+If you feel the need for guidance and support in a gentle and revealing way, within the therapies and events I guide, you will find the space open for that.

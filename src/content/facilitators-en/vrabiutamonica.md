@@ -2,94 +2,96 @@
 name: "Monica Vrabiuta"
 featuredIndex: 12
 images: ["../images/vrabiutamonica/monicav.jpg"]
-tags: ["Terapeut", "Coach", "Dans Constient"]
-activities: ["masaj", "humandesign", "cheilegenelor", "group-cheilegenelor", "group-humandesign", "group-dans"]
-services: [
+tags: ["Therapist", "Coach", "Conscious Dance"]
+activities:
+  [
+    "masaj",
+    "humandesign",
+    "cheilegenelor",
+    "group-cheilegenelor",
+    "group-humandesign",
+    "group-dans",
+  ]
+services:
+  [
     {
-      name: "MMT pentru relații",
-      summary: "Terapie prin masaj : Întregul corp",
+      name: "MMT for Relationships",
+      summary: "Massage Therapy: Full Body",
       description:
         [
-          "Când fac masaj mă bucur în primul rând că cel sau cea care primește se poate odihni, se poate relaxa, poate să aibă acel timp cu sine, pentru sine care ajută corpul să vină blând către starea de echilibru sufletesc.",
-          "Masajul este în primul rând pentru corp, dar la fel de mult este și pentru suflet.",
-          "Beneficiile terapiei prin masaj: - susține simetria corpului; - relaxează mintea; - tratează spre o stare generală de bine sistemul muscular, osos, cardiovascular, limfatic, nervos; - te conecteaza cu propriul corp și cu părți ale corpului pe care le ignori sau de care nu ești constient/a; - eliberează emoții blocate în diferite părți ale corpului; - ajuta corpul să se îndrepte lin către starea de homeostazie (starea optimă de regenerare,
-auto-vindecare); - îmbunătățește vederea; - îmbunătățește funcționarea organelor; - deblochează contracturile; - liniștește durerea simțită în diferite zone ale corpului; - susține circulația libera a energiei prin corp; - te susține să ai un somn cu adevărat odihnitor.",
-          "O denumesc terapie pentru relații deoarece susțin conexiunile armonioase dintre oameni prin acest masaj. Indiferent dacă te afli sau nu într-o relație, relaxarea corpului este punctul de pornire spre atingerea relațiilor armonioase cu toți oamenii din viața ta.",
+          "When I perform a massage, I am delighted that the recipient can rest, relax, and have that time with themselves, for themselves, which helps the body gently move toward a state of emotional balance.",
+          "Massage is primarily for the body, but it is equally for the soul.",
+          "Benefits of massage therapy: - supports body symmetry; - relaxes the mind; - promotes overall well-being of the muscular, skeletal, cardiovascular, lymphatic, and nervous systems; - connects you with your own body and parts of the body you ignore or are unaware of; - releases emotions blocked in various parts of the body; - helps the body gently move toward homeostasis (the optimal state of regeneration and self-healing); - improves vision; - enhances organ function; - relieves muscle tension; - soothes pain felt in different areas of the body; - supports the free flow of energy through the body; - helps you achieve truly restful sleep.",
+          "I call it therapy for relationships because I support harmonious connections between people through this massage. Whether or not you are in a relationship, relaxing the body is the starting point for achieving harmonious relationships with everyone in your life.",
         ],
       isGroup: true,
       price: "220lei",
       duration: "60min",
       reserveLink: "https://wa.link/h6vb4s",
     },
- {
-      name: "Human Design și Cheile Genelor pentru relații",
-      summary: "Coaching : Sesiune individuala",
+    {
+      name: "Human Design and Gene Keys for Relationships",
+      summary: "Coaching: Individual Session",
       description:
         [
-          "Ca investigator de tot ceea ce înseamnă viață, ofer interpretări și ghidaj prin instrumentele Human Design și Cheile Genelor.",
-          "Cele două sisteme provin din învățăturile din Cartea Schimbărilor - I Ching.",
-          "Eu le folosesc pentru a stimula oamenii să treacă de la deciziile luate exclusiv din minte la deciziile luate în mod integru din tot corpul. Strict pentru acest scop interpretez profilul de Human design si ghidez blând pașii care sunt importanți pentru o viață sănătoasă într-un corp cu un design unic.",
-          "Pe partea emoțională și spirituală introduc Cheile Genelor care aduc profunzime prin înțelegerea Umbrelor și Darurilor omului. Aici folosesc un limbaj simplu și ajut la înțelegerea conceptelor si principiilor de bază umane și universale.",
-          "Ambele instrumente (Human design si Cheile Genelor) necesită o inițiere blândă, pentru ca scopul lor, acela de a ne bucura de viața noastră, liberi, să fie atins prin forțe proprii.",
-          "Pe partea de relații susțin: - atingerea unor subiecte care țin de conștientizarea rănilor noastre moștenite prin ADN; - asumarea celui mai important Dar din profilul cheilor genelor care are legătură cu zona ombilicului, centrul puterii emoționale; - înțelegerea vocației și activarea Darului vocației în corp (prin coloana vertebrală); - parcurgerea Căii karmice, Căii Inteligenței și Căii iubirii.",
+          "As an investigator of everything that life means, I offer interpretations and guidance through the tools of Human Design and Gene Keys.",
+          "The two systems originate from the teachings of the Book of Changes - I Ching.",
+          "I use them to encourage people to move from decisions made solely by the mind to decisions made integrally by the whole body. For this purpose, I interpret the Human Design profile and gently guide the steps that are important for a healthy life in a body with a unique design.",
+          "On the emotional and spiritual side, I introduce the Gene Keys, which bring depth through understanding Shadows and Gifts. Here, I use simple language and help understand basic human and universal concepts and principles.",
+          "Both tools (Human Design and Gene Keys) require gentle initiation so that their purpose, to enjoy our lives freely, can be achieved through our own efforts.",
+          "On the relationship side, I support: - addressing topics related to the awareness of inherited wounds through DNA; - embracing the most important Gift in the Gene Keys profile related to the navel area, the center of emotional power; - understanding vocation and activating the Gift of vocation in the body (through the spine); - traversing the Path of Karma, the Path of Intelligence, and the Path of Love.",
         ],
       isGroup: true,
       price: "200lei",
-      duration: "60 min",
-      reserveLink: "https://wa.link/h6vb4s",
-    },
-     {
-      name: "Human Design și Cheile Genelor pentru relații",
-      summary: "Coaching : Sesiune de grup",
-      description:
-        [
-          "Ca investigator de tot ceea ce înseamnă viață, ofer interpretări și ghidaj prin instrumentele Human Design și Cheile Genelor.",
-          "Cele două sisteme provin din învățăturile din Cartea Schimbărilor - I Ching.",
-          "Eu le folosesc pentru a stimula oamenii să treacă de la deciziile luate exclusiv din minte la deciziile luate în mod integru din tot corpul. Strict pentru acest scop interpretez profilul de Human design si ghidez blând pașii care sunt importanți pentru o viață sănătoasă într-un corp cu un design unic.",
-          "Pe partea emoțională și spirituală introduc Cheile Genelor care aduc profunzime prin înțelegerea Umbrelor și Darurilor omului. Aici folosesc un limbaj simplu și ajut la înțelegerea conceptelor si principiilor de bază umane și universale.",
-          "Ambele instrumente (Human design si Cheile Genelor) necesită o inițiere blândă, pentru ca scopul lor, acela de a ne bucura de viața noastră, liberi, să fie atins prin forțe proprii.",
-          "Pe partea de relații susțin: - atingerea unor subiecte care țin de conștientizarea rănilor noastre moștenite prin ADN; - asumarea celui mai important Dar din profilul cheilor genelor care are legătură cu zona ombilicului, centrul puterii emoționale; - înțelegerea vocației și activarea Darului vocației în corp (prin coloana vertebrală); - parcurgerea Căii karmice, Căii Inteligenței și Căii iubirii.",
-          "Inițierea în sistemele Human Design și Cheile Genelor: strategie și autoritate, secvența de activare, secvența Venus.",
-        ],
-      isGroup: true,
-      price: "200lei",
-      duration: "3 ore",
+      duration: "60min",
       reserveLink: "https://wa.link/h6vb4s",
     },
     {
-      name: "Dans conștient cu tehnică de tribal fusion bellydance - pentru femei",
-      summary: "Dans : Sesiune de grup",
+      name: "Human Design and Gene Keys for Relationships",
+      summary: "Coaching: Group Session",
       description:
         [
-          "Atelier de mișcare conștientă pentru femei care are ca tehnică stilul de dans tribal fusion
-bellydance",
-          "Draga Femeie, dacă treci prin stres și prin stări emoționale puternice atunci dansul poate fi un instrument
-pentru tine de a te echilibra psihic, emoțional și fizic.",
-          "În cazul în care ești mămică și îți dorești să faci ceva pentru sufletul tău și mai ales pentru
-corpul tău, dar nu ai timp pentru tine pentru că îl petreci non-stop cu copilașii atunci acest
-atelier este perfect pentru tine.",
-          "Tribal Fusion Bellydance este un stil de dans de Trib, care pune în mișcare zona pântecului, zona abdomenului, musculatura care susține coloana vertebrală, lucrează postura întregului corp și permite femeilor să se conecteze la starea lor naturală de a fi. Atelierul se întâmplă între femei.",
-          "Beneficiile dansului Tribal Fusion Bellydance:
-- recăpătarea energiei vitale;
-- detensionare musculară;
-- dezvoltare musculară;
-- sănătatea articulațiilor și a coloanei vertebrale;
-- recăpătarea simetriei corpului și menținerea simetriei corpului;
-- echilibrare emoțională;
-- reducerea stresului și gestionarea presiunii mentale și fizice;
-- îmbunătățirea somnului;
-- satisfacție întregii ființe (suflet, minte, emoții, corp);
-- relaxarea și sănătatea pântecului;
-- sănătatea sânilor;
-- conexiuni noi cu alte femei;
-- apartenența la un grup (conținere și sustinere);
-- împuternicirea feminității;
-- asumarea propriei energii masculine;
-- conectarea cu propria putere dinăuntru;
-- modelarea exemplului sănătos de a fi și a simți atât pentru noi însene cât și pentru copiii
-noștri;
-- îmbunătățirea relațiilor cu oamenii din viața noastră.",
-      "Pentru practica de Tribal fusion nu este necesară experiența în vreo tehnică de dans.",
+          "As an investigator of everything that life means, I offer interpretations and guidance through the tools of Human Design and Gene Keys.",
+          "The two systems originate from the teachings of the Book of Changes - I Ching.",
+          "I use them to encourage people to move from decisions made solely by the mind to decisions made integrally by the whole body. For this purpose, I interpret the Human Design profile and gently guide the steps that are important for a healthy life in a body with a unique design.",
+          "On the emotional and spiritual side, I introduce the Gene Keys, which bring depth through understanding Shadows and Gifts. Here, I use simple language and help understand basic human and universal concepts and principles.",
+          "Both tools (Human Design and Gene Keys) require gentle initiation so that their purpose, to enjoy our lives freely, can be achieved through our own efforts.",
+          "On the relationship side, I support: - addressing topics related to the awareness of inherited wounds through DNA; - embracing the most important Gift in the Gene Keys profile related to the navel area, the center of emotional power; - understanding vocation and activating the Gift of vocation in the body (through the spine); - traversing the Path of Karma, the Path of Intelligence, and the Path of Love.",
+          "Initiation into the Human Design and Gene Keys systems: strategy and authority, activation sequence, Venus sequence.",
+        ],
+      isGroup: true,
+      price: "200lei",
+      duration: "3h",
+      reserveLink: "https://wa.link/h6vb4s",
+    },
+    {
+      name: "Conscious Dance with Tribal Fusion Bellydance Technique - for Women",
+      summary: "Dance: Group Session",
+      description: [
+          "A conscious movement workshop for women using the Tribal Fusion Bellydance technique.",
+          "Dear Woman, if you are going through stress and strong emotional states, dance can be a tool for you to achieve psychological, emotional, and physical balance.",
+          "If you are a mother and want to do something for your soul and especially for your body, but you don't have time for yourself because you spend it non-stop with your children, then this workshop is perfect for you.",
+          "Tribal Fusion Bellydance is a tribal dance style that activates the abdominal area, the muscles supporting the spine, works on the posture of the entire body, and allows women to connect to their natural state of being. The workshop takes place among women.",
+          "Benefits of Tribal Fusion Bellydance:
+          - regaining vital energy;
+          - muscle relaxation;
+          - muscle development;
+          - joint and spinal health;
+          - regaining and maintaining body symmetry;
+          - emotional balance;
+          - stress reduction and management of mental and physical pressure;
+          - improved sleep;
+          - satisfaction of the whole being (soul, mind, emotions, body);
+          - relaxation and health of the womb;
+          - breast health;
+          - new connections with other women;
+          - belonging to a group (containment and support);
+          - empowerment of femininity;
+          - embracing one's masculine energy;
+          - connecting with one's inner power;
+          - modeling a healthy example of being and feeling for ourselves and our children;
+          - improving relationships with people in our lives.",
+          "No experience in any dance technique is required for Tribal Fusion practice.",
         ],
       isGroup: true,
       price: "90lei",
@@ -97,13 +99,13 @@ noștri;
       reserveLink: "https://wa.link/h6vb4s",
     },
   ]
-location: "Online / Podul lui Sfredeluș / Zen Float Spa / în natura " #optional
+location: "Online / Podul lui Sfredeluș / Zen Float Spa / in nature" #optional
 contact: {
     email: "monica.dansconstient@gmail.com", #optional
     phone: "0726183753",
-   facebook: "https://www.facebook.com/monica.vrabiuta", #optional
+    facebook: "https://www.facebook.com/monica.vrabiuta", #optional
     whatsapp: "https://wa.link/h6vb4s", #optional
   }
 ---
 
-Monica Vrăbiuță este un investigator al naturii umane, terapeut maseur, dansator de tribal fusion bellydance, coregraf de spectacole ritual-arhetipale, profesor de dans conștient pentru adulți și copii, cât și ghid în relaționare prin instrumentele Human Design și Cheile Genelor.
+Monica Vrabiuta is an investigator of human nature, a massage therapist, a tribal fusion bellydance dancer, a choreographer of ritual-archetypal performances, a conscious dance teacher for adults and children, as well as a relationship guide through the tools of Human Design and Gene Keys.

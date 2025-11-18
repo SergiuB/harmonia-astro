@@ -2,54 +2,53 @@
 name: "Amalia"
 featuredIndex: 15
 images: ["../images/amalia/amalia.jpg"]
-tags: ["Specialist Nutriție", "Echilibru Postural",]
-activities: [ "alte-servicii", "miscare-constienta", "aliniament", "nutritie"]
-services: [
- {
-      name: "Evaluare și echilibrare posturală",
-      summary: "Ședința de evaluare : Ședința de antrenament",
+tags: ["Nutrition Specialist", "Postural Balance"]
+activities: ["alte-servicii", "miscare-constienta", "aliniament", "nutritie"]
+services:
+  [
+    {
+      name: "Postural Evaluation and Balance",
+      summary: "Evaluation Session: Training Session",
       description:
         [
-          "Viziune și Abordare",
-          "Scopul acestui program este de a susține oamenii să atingă un nivel optim de fitness fizic și mental, pregătindu-i pentru provocările activităților sportive și ale vieții de zi cu zi.",
-          "Antrenamentele sunt structurate pe:",
-          "• Rezistență cardio-respiratorie",
-          "• Forță musculară și mobilitate articulară",
-          "• Compoziție corporală sănătoasă",
-"• Flexibilitate și coordonare",
-"Fitnessul mental este la fel de important: dezvoltăm reziliența, claritatea mentală, capacitatea de a transforma stresul în energie constructivă și performanță în condiții de presiune.",
-"Prin clarificarea valorilor personale și comune, participanții construiesc o bază solidă pentru succes — individual și în echipă. Obiectivul final este de a cultiva un nucleu de oameni echilibrați, sănătoși, eficienți și conectați la starea lor de bine.",
-"Clase disponibile",
-"Balance & Movement: Exerciții funcționale pentru echilibru postural, mobilitate, coordonare și stabilitate.
-Lucrăm toate grupele musculare, cu accent pe trunchi, umeri și membre.",
-"Total Body Conditioning: Antrenament complet pentru forță, agilitate și echilibru.
-Tonifiere globală, creșterea rezistenței și mobilității.",
-"Pilates / Pilates Intermediar : Clasă pe saltea bazată pe principiile Pilates – focus pe stabilizarea trunchiului, flexibilitate și postură corectă.",
-"Stick Workout : Antrenament dinamic cu baston – arde calorii, tonifică și crește rezistența, forța și postura.",
+          "Vision and Approach",
+          "The goal of this program is to support people in achieving an optimal level of physical and mental fitness, preparing them for the challenges of sports activities and daily life.",
+          "The training sessions are structured on:",
+          "• Cardio-respiratory endurance",
+          "• Muscle strength and joint mobility",
+          "• Healthy body composition",
+          "• Flexibility and coordination",
+          "Mental fitness is just as important: we develop resilience, mental clarity, the ability to transform stress into constructive energy and performance under pressure.",
+          "By clarifying personal and shared values, participants build a solid foundation for success – individually and as a team. The ultimate goal is to cultivate a core of balanced, healthy, efficient people connected to their well-being.",
+          "Available Classes",
+          "Balance & Movement: Functional exercises for postural balance, mobility, coordination, and stability. We work all muscle groups, focusing on the trunk, shoulders, and limbs.",
+          "Total Body Conditioning: Complete training for strength, agility, and balance. Global toning, increased endurance, and mobility.",
+          "Pilates / Intermediate Pilates: Mat-based class following Pilates principles – focus on trunk stabilization, flexibility, and correct posture.",
+          "Stick Workout: Dynamic training with a stick – burns calories, tones, and increases endurance, strength, and posture.",
         ],
       isGroup: true,
       price: "270lei",
       duration: "45min",
-      reserveLink:  "https://wa.link/4v0r5k",
+      reserveLink: "https://wa.link/4v0r5k",
     },
- {
-      name: "Consiliere nutrițională personalizată",
-      summary: "Anamneză : Evaluare",
+    {
+      name: "Personalized Nutritional Counseling",
+      summary: "Anamnesis: Evaluation",
       description:
         [
-          "Acest serviciu este destinat celor care vor să își ajusteze alimentația în mod corect și eficient, ținând cont de nevoile proprii ale corpului. Ședința include o evaluare clară a progresului deja realizat și propune soluții concrete pentru menținerea sau accelerarea rezultatelor.",
-          "Ce primești:",
-          "• Analiza corporală și a rezultatelor anterioare",
-          "• Discuție individuală (anamneză) despre stilul tău de viață actual",
-          "• Recomandări alimentare adaptate nevoilor tale și combinații corecte pentru mese echilibrate",
-          "• Evaluare posturală",
-"• Plan alimentar personalizat pentru 1 săptămână",
-"Este un pas ideal pentru cei care vor să își mențină forma sau să continue procesul de transformare într-un mod ghidat, sănătos și profesionist.",
+          "This service is intended for those who want to adjust their diet correctly and efficiently, taking into account their body's specific needs. The session includes a clear evaluation of the progress already made and proposes concrete solutions for maintaining or accelerating results.",
+          "What you receive:",
+          "• Body analysis and previous results",
+          "• Individual discussion (anamnesis) about your current lifestyle",
+          "• Dietary recommendations tailored to your needs and correct meal combinations for balanced meals",
+          "• Postural evaluation",
+          "• Personalized meal plan for 1 week",
+          "This is an ideal step for those who want to maintain their shape or continue the transformation process in a guided, healthy, and professional way.",
         ],
       isGroup: true,
       price: "220lei",
       duration: "60min",
-      reserveLink:  "https://wa.link/4v0r5k",
+      reserveLink: "https://wa.link/4v0r5k",
     },
   ]
 location: "Harmonia Terra - Strada Cercului 18 / Online" #optional
@@ -62,22 +61,22 @@ contact: {
   }
 ---
 
-Amalia – Facilitator pentru Echilibru Postural și Nutriție Personalizată
+Amalia – Facilitator for Postural Balance and Personalized Nutrition
 
-Despre mine
-Sunt Amalia, am 41 de ani și îmi dedic viața echilibrului dintre mișcare, alimentație și stare de bine. Sportul și nutriția sunt mai mult decât pasiuni – sunt vocația mea.
+About Me
+I am Amalia, 41 years old, and I dedicate my life to the balance between movement, nutrition, and well-being. Sports and nutrition are more than passions – they are my vocation.
 
-Parcursul meu
-Am început în lumea sportului de performanță, fiind campioană națională și internațională la judo. Această experiență m-a format în profunzime – fizic, mental și emoțional. După retragerea din competiții, am continuat să împărtășesc disciplina și bucuria mișcării prin gimnastică aerobică, pe care am predat-o timp de 15 ani.
+My Journey
+I started in the world of performance sports, being a national and international judo champion. This experience shaped me deeply – physically, mentally, and emotionally. After retiring from competitions, I continued to share the discipline and joy of movement through aerobic gymnastics, which I taught for 15 years.
 
-Combinând mișcarea cu o înțelegere profundă a alimentației, am urmat un master în Nutriție și Siguranță Alimentară la Universitatea de Medicină și Farmacie Carol Davila. Această formare mi-a oferit o perspectivă completă asupra modului în care stilul de viață influențează sănătatea și echilibrul interior.
+Combining movement with a deep understanding of nutrition, I pursued a master's degree in Nutrition and Food Safety at the Carol Davila University of Medicine and Pharmacy. This training gave me a complete perspective on how lifestyle influences health and inner balance.
 
-În ultimii ani, am explorat și alte forme de conexiune cu corpul și natura – surfingul și SUP-ul, pe care le practic cu pasiune de peste 5 ani.
+In recent years, I have explored other forms of connection with the body and nature – surfing and SUP, which I have been practicing passionately for over 5 years.
 
-Ce ofer
-Serviciile mele sunt complet personalizate și adaptate nevoilor individuale. Integrez:
-	•	Evaluare și echilibrare posturală
-	•	Consiliere nutrițională personalizată
-	•	Programe integrate de mișcare și alimentație, gândite să sprijine regenerarea și echilibrul fiecărui corp în parte
+What I Offer
+My services are fully personalized and tailored to individual needs. I integrate:
+• Postural evaluation and balance
+• Personalized nutritional counseling
+• Integrated movement and nutrition programs designed to support the regeneration and balance of each body individually
 
-Lucrez cu blândețe, profesionalism și respect față de ritmul unic al fiecărei persoane.
+I work with gentleness, professionalism, and respect for the unique rhythm of each person.

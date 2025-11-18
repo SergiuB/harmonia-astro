@@ -2,67 +2,67 @@
 name: "Andreea Bouroș"
 featuredIndex: 6
 images: ["../images/Andreeabouros/andreeax.jpg"]
-tags: ["Terapeut", "Maseur"]
+tags: ["Therapist", "Masseur"]
 activities: ["masaj"]
 services:
-       [
-      {
-      name: "Masaj de Relaxare",
-      summary: "Masaj : Întregul corp",
+  [
+    {
+      name: "Relaxation Massage",
+      summary: "Massage: Full Body",
       description:
         [
-          "Este un masaj menit să relaxeze corpul și să pună mintea pe pauză un pic. Folosim elemente de aromaterapie și putem aplica și pietre calde, pentru a amplifica starea de relaxare.",
+          "This massage is designed to relax the body and give the mind a short break. We use aromatherapy elements and can also apply hot stones to enhance the state of relaxation.",
         ],
-           isGroup: true,
-              price: "300lei",
+      isGroup: true,
+      price: "300lei",
       duration: "90min",
       reserveLink: "https://wa.link/n1w5m9",
     },
-         {
-      name: "Masaj Terapeutic",
-      summary: "Masaj : Întregul corp",
+    {
+      name: "Therapeutic Massage",
+      summary: "Massage: Full Body",
       description:
         [
-          "Se lucrează mai intens pe contracturi și/sau dureri cauzate de anumite probleme medicale (dureri de spate, membre etc). Se pot folosi și pietre calde și ventuze.",
+          "This massage focuses more intensively on contractures and/or pain caused by certain medical issues (back pain, limbs, etc.). Hot stones and cupping can also be used.",
         ],
-           isGroup: true,
-              price: "330/400lei",
+      isGroup: true,
+      price: "330/400lei",
       duration: "90/120min",
       reserveLink: "hhttps://wa.link/n1w5m9",
     },
-          {
-      name: "Masaj Lomi Lomi",
-      summary: "Masaj : Întregul corp",
+    {
+      name: "Lomi Lomi Massage",
+      summary: "Massage: Full Body",
       description:
         [
-          "Terapie practicată în Hawaii, denumită și terapia mâinilor iubitoare datorită mișcărilor fluide și de îmbrățișare a corpului. Perfectă pentru regăsirea echilibrului fizic și emotional.",
+          "A therapy practiced in Hawaii, also called the loving hands therapy due to its fluid and embracing movements. Perfect for regaining physical and emotional balance.",
         ],
-           isGroup: true,
-              price: "350/450 lei",
+      isGroup: true,
+      price: "350/450 lei",
       duration: "90/120min",
       reserveLink: "https://wa.link/n1w5m9",
     },
-              {
-      name: "Masaj Flow",
-      summary: "Masaj : Întregul corp",
+    {
+      name: "Flow Massage",
+      summary: "Massage: Full Body",
       description:
         [
-          "Terapie personalizată după nevoile fiecăruia, combinând toate tehnicile cunoscute (masaj de relaxare, terapeutic, Lomi Lomi, aromaterapie, reflexoterapie, drenaj limfatic, cupping). ",
+          "A personalized therapy tailored to each individual's needs, combining all known techniques (relaxation massage, therapeutic, Lomi Lomi, aromatherapy, reflexology, lymphatic drainage, cupping).",
         ],
-           isGroup: true,
-              price: "450lei",
+      isGroup: true,
+      price: "450lei",
       duration: "120min",
       reserveLink: "https://wa.link/n1w5m9",
     },
-                  {
+    {
       name: "1h Flow",
-      summary: "Masaj : Jumătate de corp",
+      summary: "Massage: Half Body",
       description:
         [
-          "Pentru cei care poate nu au timp să stea la o ședință mai lungă și/sau au o nevoie specifică (dureri, disconfort etc).",
+          "For those who may not have time for a longer session and/or have a specific need (pain, discomfort, etc.).",
         ],
-           isGroup: true,
-              price: "230lei",
+      isGroup: true,
+      price: "230lei",
       duration: "60min",
       reserveLink: "https://wa.link/n1w5m9",
     },
@@ -76,6 +76,5 @@ contact: {
   }
 ---
 
-
-După ani petrecuți în călătoria către mine, am descoperit pe pielea mea (la propriu, și la figurat) cât de benefic poate fi masajul, atunci când nu îl abordăm doar ca pe o relaxare a corpului, ci ca pe o terapie holistică (pentru corp, minte, suflet). 
-Am învățat să fac masaj de relaxare, reflexoterapie, masaj terapeutic, drenaj limfatic, masaj Lomi Lomi (“terapia mâinilor iubitoare” din Hawaii, îndrăznesc să îl declar preferatul meu), cupping, obținând și diplome pe parcurs. Îmi place să creez și să susțin un spațiu sigur pentru cei care aleg să se lase pe mâinile mele, misiunea mea fiind să aplic tot ce știu, ținând cont de particulăritățile fiecărei persoane, pentru a ajunge la un echilibru pe toate planurile.
+After years spent on the journey to myself, I discovered firsthand (both literally and figuratively) how beneficial massage can be when approached not just as a relaxation for the body but as a holistic therapy (for body, mind, and soul).
+I learned to perform relaxation massage, reflexology, therapeutic massage, lymphatic drainage, Lomi Lomi massage (the "loving hands therapy" from Hawaii, which I dare to declare my favorite), and cupping, earning certifications along the way. I enjoy creating and maintaining a safe space for those who choose to place themselves in my hands, with my mission being to apply everything I know, taking into account the particularities of each person, to achieve balance on all levels.

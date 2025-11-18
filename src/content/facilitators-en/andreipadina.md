@@ -2,51 +2,61 @@
 name: "Andrei Padina"
 featuredIndex: 6
 images: ["../images/andreipadina/andreipadina.jpeg"]
-tags: ["NeuroTrainer", "Nutriționist", "Instructor"]
-activities: ["neuroptimal", "nutritie", "coaching" , "humangarage" , "miscare-constienta", "alte-servicii", "biohacking"]
-services: [
+tags: ["NeuroTrainer", "Nutritionist", "Instructor"]
+activities:
+  [
+    "neuroptimal",
+    "nutritie",
+    "coaching",
+    "humangarage",
+    "miscare-constienta",
+    "alte-servicii",
+    "biohacking",
+  ]
+services:
+  [
     {
       name: "NeurOptimal",
-      summary: "Neurofeedback : Personalizat",
+      summary: "Neurofeedback: Personalized",
       isGroup: true,
       price: "270lei",
       duration: "45min",
       reserveLink: "https://wa.link/os6gpj",
     },
-        {
-      name: "Plan nutrițional personalizat",
-      summary: "Sesiune : Personalizată",
+    {
+      name: "Personalized Nutritional Plan",
+      summary: "Session: Personalized",
       isGroup: true,
       price: "690lei",
-      duration: "30zile",
+      duration: "30days",
       reserveLink: "https://wa.link/os6gpj",
     },
-        {
-      name: "Evaluare a mobilității și sănătății articulare",
-      summary: "Sesiune : Personalizată",
+    {
+      name: "Mobility and Joint Health Assessment",
+      summary: "Session: Personalized",
       isGroup: true,
       price: "270lei",
       duration: "50min",
       reserveLink: "https://wa.link/os6gpj",
     },
-       {
+    {
       name: "Stress Reset Human Garage",
-      summary: "Sesiune : Personalizată",
+      summary: "Session: Personalized",
       isGroup: true,
       price: "300lei",
       duration: "55min",
       reserveLink: "https://wa.link/os6gpj",
     },
-       {
-      name: "Implementare strategii Biohacking",
-      summary: "Sesiune : Personalizată",
+    {
+      name: "Biohacking Strategy Implementation",
+      summary: "Session: Personalized",
       isGroup: true,
       price: "450lei",
       duration: "60min",
       reserveLink: "https://wa.link/os6gpj",
     },
   ]
-location: "Activitatea se desfășoară atât online, cât și offline, în aer liber sau la domiciliul pacientului, în funcție de serviciul oferit." #optional
+location: "Activities are conducted both online and offline, outdoors or at the patient's home, depending on the service offered." #optional
 contact: {
     email: "andreipadina@yahoo.com", #optional
     phone: "0725292974",
@@ -55,10 +65,10 @@ contact: {
   }
 ---
 
-Mă numesc Andrei Padina și sunt absolvent al Facultății de Sport și Performanță Motrică. Sunt tehnician nutriționist, NeuroTrainer certificat în metoda Neuroptimal, specialist în mobilitate Functional Range Conditioning, certificat în manipularea fascială Human Garage și activare neuromusculară prin metoda Reflexive Performance Reset.
+My name is Andrei Padina, and I am a graduate of the Faculty of Sports and Motor Performance. I am a certified nutrition technician, NeuroTrainer in the Neuroptimal method, specialist in Functional Range Conditioning mobility, certified in Human Garage fascial manipulation, and neuromuscular activation through the Reflexive Performance Reset method.
 
-După 20 de ani de practicare a sportului de performanță, am decis în urmă cu 9 ani să mă concentrez pe longevitate, sănătate mentală, sănătate hormonală și metode de biohacking. Obiectivul meu este să îmi prelungesc viața și să repar repercusiunile activității sportive de performanță.
+After 20 years of practicing performance sports, I decided nine years ago to focus on longevity, mental health, hormonal health, and biohacking methods. My goal is to extend my life and repair the repercussions of performance sports activity.
 
-În plus, practic ice swimming și expunerea la frig utilizând metoda Wim Hof, pentru a îmbunătăți rezistența corpului și a promova sănătatea generală.
+Additionally, I practice ice swimming and cold exposure using the Wim Hof method to enhance body resilience and promote overall health.
 
-Prin cunoștințele și experiența acumulată, ajut oamenii să își îmbunătățească starea de bine și să atingă un echilibru optim între minte și corp. Sunt dedicat promovării unui stil de viață sănătos și echilibrat, bazat pe cele mai noi cercetări și practici din domeniul sănătății și performanței fizice.
+Through the knowledge and experience I have gained, I help people improve their well-being and achieve an optimal balance between mind and body. I am dedicated to promoting a healthy and balanced lifestyle based on the latest research and practices in health and physical performance.

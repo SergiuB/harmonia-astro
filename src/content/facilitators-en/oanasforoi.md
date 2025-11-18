@@ -2,22 +2,23 @@
 name: "Oana Sforoi"
 featuredIndex: 3
 images: ["../images/oanasforoi/OanaS.jpg"]
-tags: ["Terapeut", "Fertility & Womb", "Pelvic Health"]
+tags: ["Therapist", "Fertility & Womb", "Pelvic Health"]
 activities: ["masaj", "alte-servicii"]
-services: [
+services:
+  [
     {
-      name: "Masaj Terapeutic & Ceremonial",
-      summary: "Terapie : Pentru abdomen și pântec",
+      name: "Therapeutic & Ceremonial Massage",
+      summary: "Therapy: For abdomen and womb",
       description:
         [
-          "Este o fuziune de metode somatice care combină tehnicile terapeutice pentru masajul abdominal, pelvin și al spatelui cu metode de bodywork care eliberează tensiunea din corp și minte alături de meditație, sunet și exerciții de vizualizare astfel încât să se simtă ca un dar pentru tine. Poate fi o ocazie de a te odihni în straturile profunde din interiorul tău - pentru a accesa ce are nevoie să se miște și să fie eliberat sau integrat - în special pentru că te va pune în contact cu puterea și energia din pântec.",
-          "Beneficii:",
-          "Tehnicile de Masaj Abdominal au efecte terapeutice recunoscute de a îmbunătăți funcția digestivă și de a susține sistemul endocrin pentru fertilitate și ameliorarea afecțiunilor asociate cu dezechilibre hormonale și afecțiunile asociate cu sistemul reproductiv. Poate fi benefic și ca parte din procesarea somatică a emoțiilor, recuperarea postpartum, vindecare după pierdere de sarcină sau avort, recuperare în perioadele de oboseală cronică sau pur și simplu ca o reconectare cu corpul și pântecul.",
-          "Alte beneficii:",
-          "•Îmbunătățirea senzațiilor la nivel pelvin",
-          "•Stimularea senzației de vitalitate în corp",
-          "•Recalibrarea sistemului nervos", 
-          "•Context regenerativ pentru corp, minte și spirit",
+          "It is a fusion of somatic methods that combine therapeutic techniques for abdominal, pelvic, and back massage with bodywork methods that release tension from the body and mind, along with meditation, sound, and visualization exercises so that it feels like a gift to yourself. It can be an opportunity to rest in the deep layers within you – to access what needs to move and be released or integrated – especially as it will connect you with the power and energy of the womb.",
+          "Benefits:",
+          "Abdominal Massage Techniques have recognized therapeutic effects in improving digestive function and supporting the endocrine system for fertility and alleviating conditions associated with hormonal imbalances and reproductive system issues. It can also be beneficial as part of the somatic processing of emotions, postpartum recovery, healing after miscarriage or abortion, recovery during periods of chronic fatigue, or simply as a reconnection with the body and womb.",
+          "Other benefits:",
+          "•Improvement of sensations in the pelvic area",
+          "•Stimulation of vitality in the body",
+          "•Recalibration of the nervous system",
+          "•Regenerative context for body, mind, and spirit",
         ],
       isGroup: true,
       price: "450lei",
@@ -25,7 +26,7 @@ services: [
       reserveLink: "https://wa.link/yxmwse",
     },
   ]
-location: "Online și offline, la Harmonia Terra" #optional
+location: "Online and offline, at Harmonia Terra" #optional
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
 contact: {
     email: "oanasforoi@gmail.com", #optional
@@ -35,9 +36,9 @@ contact: {
   }
 ---
 
-Sunt Oana, sunt aici să te ghidez înapoi spre spațiul tău de PUTERE - într-o călătorie spre spațiul pelvin, la rădăcina corpului tău, folosind Yoga terapeutică pentru spațiul pelvin, tehnici de respirație, meditații, vizualizare, masaj, exerciții de reflecție - pentru ca acest teritoriu să îți devină unul cunoscut și din care îți poți accesa FORȚA VITALĂ și CREATOARE.
+I am Oana, and I am here to guide you back to your space of POWER – on a journey to the pelvic space, at the root of your body, using therapeutic yoga for the pelvic space, breathing techniques, meditations, visualizations, massage, and reflection exercises – so that this territory becomes familiar to you and from which you can access your VITAL and CREATIVE FORCE.
 
-Specializările care mă susțin pentru această misiune sunt:
+The specializations that support me in this mission are:
 
 Well Woman Yoga: Yoni Shakti Yoga Therapy (Womb Yoga)
 
