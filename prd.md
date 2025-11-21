@@ -68,6 +68,7 @@ Describe the physical location and facilities available for therapists.
 
 ## Calendar Events Integration Notes
 
+- The Google Calendar event description can include an optional `enDescription:` section for the English content. If this marker is present, its content is used for the English locale while the rest of the description is treated as Romanian. If it is absent, the base description is used for both locales. When no explicit separator text is added for Romanian, the `enDescription:` block must appear at the end of the body so the Romanian description is always the leading content.
 - The Google Calendar event description can contain special keys for links:
   - `detailsLink:` followed by either an anchor tag, a full URL (https://...), or a www._ URL (e.g. www.example.com). If a www._ URL is used, it will be converted to https:// automatically.
   - `registerLink:` works the same way as above.
