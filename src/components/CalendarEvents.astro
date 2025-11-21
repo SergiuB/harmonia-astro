@@ -86,10 +86,17 @@ function formatTimeRange(
   return start;
 }
 function parseDescription(description?: string) {
-  if (!description) return { detailsLink: null, registerLink: null, text: "" };
+  if (!description)
+    return {
+      detailsLink: null,
+      registerLink: null,
+      text: "",
+      enDescription: null,
+    };
   let detailsLink = null;
   let registerLink = null;
   let text = description;
+  let enDescription = null;
   // Match anchor tag, plain URL, or www.* for detailsLink
   const detailsMatch = description.match(
     /detailsLink:\s*(?:<a[^>]*href=["']([^"']+)["'][^>]*>.*?<\/a>|(https?:\/\/[^\s<]+)|(www\.[^\s<]+))/,
@@ -112,9 +119,15 @@ function parseDescription(description?: string) {
     }
     text = text.replace(registerMatch[0], "");
   }
+  // Extract enDescription (if present) and remove it from base text
+  const enMatch = text.match(/enDescription:\s*([\s\S]*)$/i);
+  if (enMatch && typeof enMatch.index === "number") {
+    enDescription = enMatch[1].replace(/(<br\s*\/?>)+/g, "\n").trim();
+    text = text.slice(0, enMatch.index);
+  }
   // Remove extra <br> tags and trim
   text = text.replace(/(<br\s*\/?>)+/g, "\n").trim();
-  return { detailsLink, registerLink, text };
+  return { detailsLink, registerLink, text, enDescription };
 }
 ---
 
@@ -156,9 +169,13 @@ function parseDescription(description?: string) {
             </h3>
             <ul class="space-y-2">
               {events.map((event: GoogleCalendarEvent) => {
-                const { detailsLink, registerLink, text } = parseDescription(
-                  event.description,
-                );
+                const {
+                  detailsLink,
+                  registerLink,
+                  text,
+                  enDescription,
+                } = parseDescription(event.description);
+                void enDescription; // Placeholder for future localization work
                 const eventTimeZone =
                   event.start?.timeZone || event.end?.timeZone;
                 return (
