@@ -11,7 +11,10 @@ export interface CalendarEventsProps {
   lang?: Locale;
 }
 
-const { lang = "ro" } = Astro.props;
+const {
+  title = "",
+  lang = "ro",
+} = Astro.props as CalendarEventsProps;
 const t = useTranslations(lang);
 interface GoogleCalendarEvent {
   summary: string;
@@ -32,7 +35,6 @@ interface GoogleCalendarEvent {
 const TOTAL_EVENTS = 50;
 const INITIAL_VISIBLE = 7;
 const LOAD_MORE_INCREMENT = 5;
-const title = Astro.props?.title ?? "";
 const fetchEvents = async () => {
   const now = new Date().toISOString();
   const url = `https://www.googleapis.com/calendar/v3/calendars/${CALENDAR_ID}/events?key=${API_KEY}&timeMin=${now}&maxResults=${TOTAL_EVENTS}&orderBy=startTime&singleEvents=true`;
@@ -183,13 +185,14 @@ function parseDescription(description?: string) {
                   text,
                   enDescription,
                 } = parseDescription(event.description);
-                void enDescription; // Placeholder for future localization work
+                const description =
+                  lang === "en" && enDescription ? enDescription : text;
                 const eventTimeZone =
                   event.start?.timeZone || event.end?.timeZone;
                 return (
                   <CalendarEvent
                     title={event.summary}
-                    description={text}
+                    description={description}
                     timeRange={formatTimeRange(
                       event.start.dateTime,
                       event.end?.dateTime,
