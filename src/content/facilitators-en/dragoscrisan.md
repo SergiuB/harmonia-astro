@@ -42,10 +42,7 @@ location: "Harmonia Terra - Strada Cercului 18"
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA"
 contact:
   {
-    email: "",
-    phone: "0725829897",
-    instagram: "",
-    facebook: "",
+  phone: "0725829897",
   }
 ---
 
