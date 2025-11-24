@@ -104,7 +104,7 @@ services:
         ],
            isGroup: true,
       price: "950lei",
-      duration: "120min",
+      duration: "100min",
       reserveLink: "https://app.simplymeet.me/harmoniaoptima",
     },
     {
