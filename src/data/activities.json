@@ -55,6 +55,10 @@
     "id": "cupping",
     "nameKey": "activity.cupping"
   },
+    {
+    "id": "terapie-carniosacrala",
+    "nameKey": "activity.terapiecarniosacrala"
+  },
   {
     "id": "dans",
     "nameKey": "activity.dans"
@@ -254,6 +258,10 @@
   {
     "id": "group-throat-singing",
     "nameKey": "activity.groupThroatSinging"
+  },
+    {
+    "id": "group-constelatii-familiale",
+    "nameKey": "activity.groupConstelatiiFamiliale"
   },
   {
     "id": "group-qigong",
