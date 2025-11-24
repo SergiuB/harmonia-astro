@@ -102,11 +102,26 @@ function parseDescription(description?: string) {
       registerLink: null,
       text: "",
       enDescription: null,
+      enTitle: null,
     };
+  let text = description;
+  const tokenPattern = "(?:detailsLink|registerLink|enTitle|enDescription)";
+  const extractField = (field: string) => {
+    const regex = new RegExp(
+      `${field}\\s*:\\s*([\\s\\S]*?)(?=(?:\\s|<br\\s*\\/?>|<[^>]+>)*(?:${tokenPattern})\\s*:|$)`,
+      "i",
+    );
+    const match = text.match(regex);
+    if (!match) return null;
+    return {
+      raw: match[0],
+      value: match[1],
+    };
+  };
   let detailsLink = null;
   let registerLink = null;
-  let text = description;
   let enDescription = null;
+  let enTitle = null;
   // Match anchor tag, plain URL, or www.* for detailsLink
   const detailsMatch = description.match(
     /detailsLink:\s*(?:<a[^>]*href=["']([^"']+)["'][^>]*>.*?<\/a>|(https?:\/\/[^\s<]+)|(www\.[^\s<]+))/,
@@ -129,15 +144,24 @@ function parseDescription(description?: string) {
     }
     text = text.replace(registerMatch[0], "");
   }
+  // Extract enTitle (if present) and remove it from base text
+  const enTitleMatch = extractField("enTitle");
+  if (enTitleMatch) {
+    enTitle = enTitleMatch.value
+      .replace(/<[^>]+>/g, " ")
+      .replace(/\s+/g, " ")
+      .trim();
+    text = text.replace(enTitleMatch.raw, "");
+  }
   // Extract enDescription (if present) and remove it from base text
-  const enMatch = text.match(/enDescription:\s*([\s\S]*)$/i);
-  if (enMatch && typeof enMatch.index === "number") {
-    enDescription = enMatch[1].replace(/(<br\s*\/?>)+/g, "\n").trim();
-    text = text.slice(0, enMatch.index);
+  const enMatch = extractField("enDescription");
+  if (enMatch) {
+    enDescription = enMatch.value.replace(/(<br\s*\/?>)+/g, "\n").trim();
+    text = text.replace(enMatch.raw, "");
   }
   // Remove extra <br> tags and trim
   text = text.replace(/(<br\s*\/?>)+/g, "\n").trim();
-  return { detailsLink, registerLink, text, enDescription };
+  return { detailsLink, registerLink, text, enDescription, enTitle };
 }
 ---
 
@@ -184,14 +208,17 @@ function parseDescription(description?: string) {
                   registerLink,
                   text,
                   enDescription,
+                  enTitle,
                 } = parseDescription(event.description);
                 const description =
                   lang === "en" && enDescription ? enDescription : text;
+                const eventTitle =
+                  lang === "en" && enTitle ? enTitle : event.summary;
                 const eventTimeZone =
                   event.start?.timeZone || event.end?.timeZone;
                 return (
                   <CalendarEvent
-                    title={event.summary}
+                    title={eventTitle}
                     description={description}
                     timeRange={formatTimeRange(
                       event.start.dateTime,
