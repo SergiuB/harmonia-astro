@@ -2,7 +2,7 @@
 name: "Dragoș Crișan"
 featuredIndex: 4
 tags: ["Terapeut", "Terapie Craniosacrală", "Constelații Familiale",]
-activities: ["masaj", "group-yoga", "alte-servicii", "yoga", "miscare-constienta", "aliniament"]
+activities: ["terapie-carniosacrala", "group-ConstelatiiFamiliale"]
 services: [
  {
       name: "Terapie craniosacrală",
