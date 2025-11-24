@@ -305,7 +305,7 @@ export const ui = {
     // Contact
     "contact.email": "contact@harmoniaworld.org",
     "contact.phone": "+40745255365",
-    "contact.address": "Strada Cercului 18, București",
+    "contact.address": "18 Cercului Street, Bucharest",
     "contact.instagram": "harmonia_terra",
   },
 } as const;
