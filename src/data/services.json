@@ -55,9 +55,9 @@
     "id": "cupping",
     "nameKey": "activity.cupping"
   },
-    {
-    "id": "terapie-carniosacrala",
-    "nameKey": "activity.terapiecarniosacrala"
+  {
+    "id": "terapie-craniosacrala",
+    "nameKey": "activity.terapieCraniosacrala"
   },
   {
     "id": "dans",
@@ -259,7 +259,7 @@
     "id": "group-throat-singing",
     "nameKey": "activity.groupThroatSinging"
   },
-    {
+  {
     "id": "group-constelatii-familiale",
     "nameKey": "activity.groupConstelatiiFamiliale"
   },
