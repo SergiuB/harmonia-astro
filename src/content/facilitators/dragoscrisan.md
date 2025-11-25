@@ -41,8 +41,10 @@ services:
   ]
 location: "Harmonia Terra - Strada Cercului 18" #optional
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
-contact: { phone: "0725829897",
-instagram: "https://www.instagram.com/dragos_crisan/", #optional
+contact: 
+{ 
+phone: "0725829897"
+instagram: "https://www.instagram.com/dragos_crisan/" #optional
 }
 ---
 
