@@ -41,7 +41,9 @@ services:
   ]
 location: "Harmonia Terra - Strada Cercului 18" #optional
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
-contact: { phone: "0725829897" }
+contact: { phone: "0725829897",
+instagram: "https://www.instagram.com/dragos_crisan/", #optional
+}
 ---
 
 Bună! Sunt Dragoș Crișan și te invit să călătorim împreună spre corpul tău. Îl vom asculta, în liniște și cu răbdare, pentru a-l susține exact acolo unde are nevoie și pentru a-l încuraja cu blândețe spre relaxare și echilibru interior. Vom face asta susținuți de intenții curate cu ajutorul terapiei craniosacrale, metoda Upledger.
