@@ -1,10 +1,12 @@
 ---
 name: "Dragoș Crișan"
 featuredIndex: 4
-tags: ["Terapeut", "Terapie Craniosacrală", "Constelații Familiale",]
-activities: ["terapie-carniosacrala", "group-ConstelatiiFamiliale"]
-services: [
- {
+images: ["../images/man-placeholder.png"]
+tags: ["Terapeut", "Terapie Craniosacrală", "Constelații Familiale"]
+activities: ["terapie-craniosacrala", "group-constelatii-familiale"]
+services:
+  [
+    {
       name: "Terapie craniosacrală",
       summary: "Sesiune individuală",
       description:
@@ -17,7 +19,7 @@ services: [
       isGroup: true,
       price: "240lei",
       duration: "75min",
-      reserveLink:  "https://app.simplymeet.me/dragoscrisan ",
+      reserveLink: "https://app.simplymeet.me/dragoscrisan ",
     },
     {
       name: "Workshop Constelații familiale și sistemice",
@@ -31,18 +33,15 @@ services: [
           "echilibrul dintre a da și a primi – mișcarea naturală a relațiilor",
           "Înainte de a coborî în profunzimea transgenerațională, ne întâlnim cu părțile noastre lăuntrice – acele fragmente care ne-au purtat povestea până acum. Le lăsăm să vorbească, să se arate, să fie înțelese, iar apoi.. pe măsură ce terenul interior se deschide, sistemul familial își poate dezvălui mișcările.",
           "Rezonez profund cu această perspectivă care nu acuză și nu repară, dar onorează – constelațiile familiale deschid un drum pe care nu l-am fi putut vedea singuri. E un proces blând și profund, în ritmul fiecăruia, unde nu forțăm nimic, ci urmăm mișcările care apar din interior, asemenea unei respirații pe care o recunoști după mult timp.",
-      ],
+        ],
       price: "360lei",
       duration: "1 zi / 09:00 - 19:00 ",
       reserveLink: "https://wa.link/pck7sk",
     },
-    
   ]
 location: "Harmonia Terra - Strada Cercului 18" #optional
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
-contact: {
-    phone: "0725829897",
-  }
+contact: { phone: "0725829897" }
 ---
 
 Bună! Sunt Dragoș Crișan și te invit să călătorim împreună spre corpul tău. Îl vom asculta, în liniște și cu răbdare, pentru a-l susține exact acolo unde are nevoie și pentru a-l încuraja cu blândețe spre relaxare și echilibru interior. Vom face asta susținuți de intenții curate cu ajutorul terapiei craniosacrale, metoda Upledger.

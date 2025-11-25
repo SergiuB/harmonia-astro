@@ -1,8 +1,9 @@
 ---
 name: "Dragoș Crișan"
 featuredIndex: 4
+images: ["../images/carmina/alinacarmina.png"]
 tags: ["Therapist", "Craniosacral Therapy", "Family Constellations"]
-activities: ["terapie-carniosacrala", "group-ConstelatiiFamiliale"]
+activities: ["terapie-crarniosacrala", "group-constelatii-familiale"]
 services:
   [
     {
@@ -40,10 +41,7 @@ services:
   ]
 location: "Harmonia Terra - Strada Cercului 18"
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA"
-contact:
-  {
-  phone: "0725829897",
-  }
+contact: { phone: "0725829897" }
 ---
 
 Hi! I’m Dragoș Crișan, and I invite you to travel with me into your body. We will listen to it — in silence and with patience — supporting it exactly where it needs, and gently encouraging it toward relaxation and inner balance. We will do this with clear intention through Craniosacral Therapy, using the Upledger method.
