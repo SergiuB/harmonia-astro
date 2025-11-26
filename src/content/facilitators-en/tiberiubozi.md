@@ -339,7 +339,7 @@ locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
 contact: {
     email: "bozitiberiu@gmail.com", #optional
     phone: "0734693145",
-    instagram: "https://www.instagram.com/harmoniaoptima", #optional
+    instagram: "https://www.instagram.com/tiberiubozi.t", #optional
     whatsapp: "https://wa.link/0y6cpq", #optional
   }
 ---
