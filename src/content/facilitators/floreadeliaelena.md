@@ -1,7 +1,7 @@
 ---
 name: "Delia Florea"
 featuredIndex: 2
-images: ["../images/deliaflorea/delia.jpg"]
+images: ["../images/deliaflorea/respiro2.jpg"]
 tags: ["terapeut", "medicină alternativă", "aromaterapie"]
 activities:
   [
