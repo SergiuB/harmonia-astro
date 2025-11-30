@@ -251,7 +251,7 @@ services:
         [
           "Symphony of the Cells is a curated collection of essential oil applications. Protocols are designed to restore physical, emotional and spiritual harmony by targeting specific body systems.",
           "What to expect: This therapy uses up to 10 different essential oils chosen to address pain management, improve sleep quality, reduce stress and anxiety, soothe joints, relieve headaches/migraines, support post-chemotherapy symptoms, ease labour discomfort, fight microbes and improve digestion and immunity. Each blend is tailored to individual needs.",
-          "A back massage is performed prior to the oil application to complete the ritual.",
+          "A back massage is performed after to the oil application to complete the ritual.",
           "*After booking via the website, you will receive a message within 24 hours with instructions for paying a 50% deposit if you do not hold a subscription or gift card.",
           "*Rescheduling or cancellations must be made at least 48 hours before the session. Less than 48 hours' notice results in forfeiture for gift card/subscription holders; deposits are non-refundable for individual payments.",
         ],
