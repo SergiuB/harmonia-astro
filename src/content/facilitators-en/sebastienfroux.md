@@ -3,7 +3,7 @@ name: "Sebastien Froux"
 featuredIndex: 5
 images: ["../images/sebastien/Sebastien.jpg"]
 tags: ["Therapist", "Osteopath", "Bodyworker"]
-activities: ["massage", "osteopathy", "craniosacral-therapy"]
+activities: ["masaj", "osteopatie", "terapie-craniosacrala"]
 services:
   [
     {
@@ -59,7 +59,7 @@ contact:
 ---
 
 Massage has always been a part of my life; I gave my first one at the age of 11.  
-Fifteen years ago, I completed massage school — mostly with the intention of improving my technical skills. For many years, I offered my services for free to friends and clients while working in other fields in parallel (for example: organizing nature events through *evadeazacunoi*), until the world of therapy “called” me.
+Fifteen years ago, I completed massage school — mostly with the intention of improving my technical skills. For many years, I offered my services for free to friends and clients while working in other fields in parallel (for example: organizing nature events through _evadeazacunoi_), until the world of therapy “called” me.
 
 For the past 6 years, I have been offering therapeutic massages, with and without oil. My initiation into Reiki also contributes during the sessions to your well-being.
 
@@ -74,6 +74,7 @@ The first step toward a state of balance is the one we take toward ourselves.
 Therapy is only a tool that supports the path we choose.
 
 My experience:
-- 35 years of massage  
-- …of which 6 years of professional massage  
+
+- 35 years of massage
+- …of which 6 years of professional massage
 - 3 years of osteopathy

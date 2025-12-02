@@ -128,6 +128,10 @@
     "nameKey": "activity.nutritie"
   },
   {
+    "id": "osteopatie",
+    "nameKey": "activity.osteopatie"
+  },
+  {
     "id": "pilates",
     "nameKey": "activity.pilates"
   },
