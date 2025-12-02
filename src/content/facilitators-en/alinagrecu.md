@@ -13,6 +13,7 @@ activities:
     "aliniament",
     "group-pilates",
     "pilates",
+    "terapie-craniosacrala",
   ]
 services:
   [
