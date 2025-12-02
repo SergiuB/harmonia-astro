@@ -73,7 +73,7 @@ Many years may pass before we intervene in the face of our imbalances — only m
 The first step toward a state of balance is the one we take toward ourselves.  
 Therapy is only a tool that supports the path we choose.
 
-**My experience:**  
+My experience:
 - 35 years of massage  
 - …of which 6 years of professional massage  
 - 3 years of osteopathy
