@@ -10,6 +10,7 @@
    - if a new service type needs to be added, see section for adding a new service type below
    - IMPORTANT: do not translate the `activities` field values in the English version of the facilitator (they are unique IDs not texts displayed in the UI). Both versions of the facilitator file must have the same `activities` list.
 3. (optional) use the `featuredIndex` field to put a facilitator at or near the top of the list. Smaller index means closer to the top.
+4. (optional) use `servicesFirst: true` in a facilitator file if you want the services to be the first section in the facilitator detail page.
 
 Any error in the facilitator file format (missing brackets, commas, etc) causes the changes to not be deployed
 

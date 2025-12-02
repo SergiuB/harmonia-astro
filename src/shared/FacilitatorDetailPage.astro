@@ -33,6 +33,7 @@ interface Props {
   location?: string;
   locationUrl?: string;
   contact: Contact;
+  servicesFirst?: boolean;
 }
 
 const {
@@ -45,9 +46,12 @@ const {
   location,
   locationUrl,
   contact,
+  servicesFirst,
 } = Astro.props;
 
 const t = useTranslations(lang);
+const hasServices = services.length > 0;
+const showDescriptionAfterServices = Boolean(servicesFirst) && hasServices;
 ---
 
 <style is:global>
@@ -74,75 +78,95 @@ const t = useTranslations(lang);
           ))
         }
       </div>
-      <div
-        class="prose text-white mt-5 prose-headings:text-white prose-a:text-secondary-blue"
-      >
-        <Content />
-      </div>
-      {
-        services.length && (
-          <div class="mt-4">
-            <h2 class="text-2xl pt-4">{t("facilitator.services")}</h2>
-            <ul>
-              {services.map((service) => (
-                <li
-                  x-data="{ expanded: false }"
-                  class="my-2 border-b border-light  pb-6"
-                >
-                  <div class="flex justify-between">
-                    <div @click="expanded = ! expanded">
-                      <h3 class="text-xl text-secondary-blue underline py-1">
-                        {service.name}
-                      </h3>
-                      <div class="text-xs grid grid-cols-[auto_1px_auto_1px_auto] items-center">
-                        <MarkdownRenderer
-                          markdown={service.price}
-                          class="mr-1"
-                        />
-                        <div class="bg-light h-full" />
+      <div class="flex flex-col">
+        <div
+          class:list={[
+            "mt-5",
+            showDescriptionAfterServices ? "order-2" : "order-1",
+          ]}
+        >
+          {showDescriptionAfterServices && (
+            <h2 class="text-2xl pt-4">{t("facilitator.about")}</h2>
+          )}
+          <div
+            class:list={[
+              "prose text-white prose-headings:text-white prose-a:text-secondary-blue",
+              showDescriptionAfterServices ? "mt-2" : "mt-5",
+            ]}
+          >
+            <Content />
+          </div>
+        </div>
+        {
+          hasServices && (
+            <div
+              class:list={[
+                "mt-4",
+                showDescriptionAfterServices ? "order-1" : "order-2",
+              ]}
+            >
+              <h2 class="text-2xl pt-4">{t("facilitator.services")}</h2>
+              <ul>
+                {services.map((service) => (
+                  <li
+                    x-data="{ expanded: false }"
+                    class="my-2 border-b border-light  pb-6"
+                  >
+                    <div class="flex justify-between">
+                      <div @click="expanded = ! expanded">
+                        <h3 class="text-xl text-secondary-blue underline py-1">
+                          {service.name}
+                        </h3>
+                        <div class="text-xs grid grid-cols-[auto_1px_auto_1px_auto] items-center">
+                          <MarkdownRenderer
+                            markdown={service.price}
+                            class="mr-1"
+                          />
+                          <div class="bg-light h-full" />
 
-                        <MarkdownRenderer
-                          markdown={service.duration}
-                          class="mx-1"
-                        />
-                        <div class="bg-light h-full" />
+                          <MarkdownRenderer
+                            markdown={service.duration}
+                            class="mx-1"
+                          />
+                          <div class="bg-light h-full" />
 
-                        <MarkdownRenderer
-                          markdown={service.summary}
-                          class="ml-1"
-                        />
+                          <MarkdownRenderer
+                            markdown={service.summary}
+                            class="ml-1"
+                          />
+                        </div>
                       </div>
-                    </div>
-                    {service.reserveLink && (
-                      <a
-                        href={service.reserveLink}
-                        class="rounded-xl bg-secondary-blwue uppercase h-7 px-2 pt-1 mt-2"
-                      >
-                        {t("facilitator.reserve")}
-                      </a>
-                    )}
-                  </div>
-                  {(service.description || service.image) && (
-                    <div x-show="expanded" x-transition class="pt-2">
-                      {service.description &&
-                        service.description.map((desc) => (
-                          <p class="py-1 text-sm">{desc}</p>
-                        ))}
-                      {service.image && (
-                        <Image
-                          src={service.image}
-                          alt={service.name}
-                          class="object-cover w-full grayscale-[80%] hover:grayscale-0 transition duration-300 ease-in-out aspect-[3/2] rounded-3xl mt-2"
-                        />
+                      {service.reserveLink && (
+                        <a
+                          href={service.reserveLink}
+                          class="rounded-xl bg-secondary-blwue uppercase h-7 px-2 pt-1 mt-2"
+                        >
+                          {t("facilitator.reserve")}
+                        </a>
                       )}
                     </div>
-                  )}
-                </li>
-              ))}
-            </ul>
-          </div>
-        )
-      }
+                    {(service.description || service.image) && (
+                      <div x-show="expanded" x-transition class="pt-2">
+                        {service.description &&
+                          service.description.map((desc) => (
+                            <p class="py-1 text-sm">{desc}</p>
+                          ))}
+                        {service.image && (
+                          <Image
+                            src={service.image}
+                            alt={service.name}
+                            class="object-cover w-full grayscale-[80%] hover:grayscale-0 transition duration-300 ease-in-out aspect-[3/2] rounded-3xl mt-2"
+                          />
+                        )}
+                      </div>
+                    )}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )
+        }
+      </div>
 
       <div id="gallery" class="mt-6 grid grid-cols-2 gap-2">
         {

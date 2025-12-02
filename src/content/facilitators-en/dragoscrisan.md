@@ -4,6 +4,7 @@ featuredIndex: 3
 images: ["../images/dragoscr/Dragoscr.jpg"]
 tags: ["Therapist", "Craniosacral Therapy", "Family Constellations"]
 activities: ["terapie-craniosacrala", "group-constelatii-familiale"]
+servicesFirst: true
 services:
   [
     {

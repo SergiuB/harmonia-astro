@@ -24,6 +24,7 @@ const facilitatorCollection = defineCollection({
       services: z.array(getServiceSchema(image)),
       location: z.string().optional(),
       locationUrl: z.string().optional(),
+      servicesFirst: z.boolean().optional(),
       contact: z.object({
         email: z.string().email().optional(),
         phone: z.string(),

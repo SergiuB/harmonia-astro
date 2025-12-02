@@ -66,6 +66,7 @@ export const ui = {
 
     // Facilitator detail page
     "facilitator.services": "Servicii",
+    "facilitator.about": "Despre",
     "facilitator.reserve": "Rezervă",
     "facilitator.contact": "Contact",
     "facilitator.location": "Locație:",
@@ -220,6 +221,7 @@ export const ui = {
 
     // Facilitator detail page
     "facilitator.services": "Services",
+    "facilitator.about": "About",
     "facilitator.reserve": "Reserve",
     "facilitator.contact": "Contact",
     "facilitator.location": "Location:",
