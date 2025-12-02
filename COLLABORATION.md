@@ -1,31 +1,53 @@
-## Prima pagina + Meniu
+# Adding new facilitator
 
-Am adaugat imaginea asta pentru pagina de bun venit in care am pus tagline-ul de la logo direct in photoshop ca sa arate estetic:
-![alt text](src/assets/hero-3.jpeg)
+1. Create facilitator file in `src/content/facilitators`, and for English in `src/content/facilitators-en`
+   - Mandatory fields: `name`, `images`, `tags`, `services`, `contact`
+     - Mandatory service fields: `name`, `summary`, `price`, `duration`
+     - Mandatory contact fields: `phone`
+   - Missing mandatory fields will result in a build error, the site will note be deployed and no changes will be visible
+2. The `activities` field should contain only IDs of service types as defined in `src/data/serviceTypes.json`
+   - examples: acupunctura, kinetoterapie etc
+   - if a new service type needs to be added, see section for adding a new service type below
+   - IMPORTANT: do not translate the `activities` field values in the English version of the facilitator (they are unique IDs not texts displayed in the UI). Both versions of the facilitator file must have the same `activities` list.
+3. Any error in the facilitator file format (missing brackets, commas, etc) causes the changes to not be deployed
 
-- ~~la poza vom pune butoanele care vor duce catre: "Activitati" si "Spatiu" care sa aibe aceeasi culoare.~~ **DONE**
-- ~~in meniu sa inlocuim "HUB" cu "Spatiu"~~ **DONE**
-- ~~Scoatem "MEMBERSHIP" din meniu si lasam doar " DEVINO MEMBRU" (nu are sens sa lasam doua butoane in meniu. unul e de ajuns). iar aici, cand apasa pe "DEVINO MEMBRU" sa ne duca catre o pagina noua in care momentan sa avem ceva de genul " WORK IN PROGRES. STAY TUNED, MORE TO COME."~~ **DONE**
-- ~~Meniul sa aibe urmatoarea ordine: ACTIVITATI, EVENIMENTE, FACILITATORI, SPATIU, CONTACT, DEVINO MEMBRU . LA fel si in josul Paginii principale.~~ **DONE**
-- ~~Cat Despre MISIUNE, VALORI, VIZIUNE le pastram exact in aceeasi ordine in care sunt acum pe website. nu le mai sucim. Tot aici las mai jos textele lor care vor fi:~~ **DONE**
-- ~~Misiune: Să conectăm oameni cu experiențe și perspective unice care împreună să construiască o lume în care mintea, corpul, sufletul și mama pământ să trăiască în armonie.~~ **DONE**
-- ~~Valori: _ Solidaritatea întărește comunitatea. _ Omul sfințește locul. \* Binele reprezintă scopul, pentru ca în vederea lui se fac toate celelalte. (aici as vrea sa le vad una dedesuptul celeilalte)~~ **DONE**
-- ~~Viziune: Să creăm spații unde oamenii se hrănesc cu sănătate fizică, echilibru emoțional și împăcare spirituală.~~ **DONE**
-- Am vazut ca ai inceput sa pui si facilitatori pe prima pagina, bravo. Ma gandeam, dupa poza si nume, in loc de descriere sa fie doar 1-3 cuvinte clare cu ce este/ ce face fiecare facilitator. Ex1. Poza / Bozi Tiberiu / *Formator *Terapeut \*Coach . Ex2. Poza/ Andreea X / Instructor etc. iar atunci cand dai click catre pagina "Facilitatori" sa se duca catre toti facilitatorii care vor avea toti la fel. (daca nu ai inteles aici let me know )
-- Legat de Social Media din josul paginii principale, vom lasa doar FACEBOOK, INSTAGRAM si vom adauga si WHATSAPP. si aici sa punem si link-urile lor.
+# Adding a new service type
 
-Cam atat deocamdata <3
+1. Add a new entry in `src/data/serviceTypes.json`
 
-[title](https://www.example.com)
+```
+  {
+    "id": "new-service-type",
+    "nameKey": "activity.newServiceType"
+  },
+```
 
-# Asta e un titlu mare de tot
+Keep the alphabetic order and don't forget the comma separator at the end.
 
-## Un titlu mare
+2. Add translation strings for Romanian and English in the centralized translations file: `src/i18n/ui.ts`
 
-### Un titlu mai mic
+Example: For service type with name key `activity.aliniament` defined in `src/data/serviceTypes.json` we have two entries in `src/i18n/ui.ts`:
 
-Ideile mele:
+`"activity.aliniament": "Aliniament postural",` for Romanian, placed under the `ro` key
 
-- First item
-- Second item
-- Third item
+and
+
+`"activity.aliniament": "Postural Alignment",` for English, placed under the `en` key
+
+IMPORTANT: don't forget the comma at the end, and place each new line in the right place. Use the existing service types as a guide, put it in the same places.
+
+# Adding ativities in the calendar
+
+- The Google Calendar event description can contain special keys for links:
+  - If a `detailsLink` is present, the event title will be a link to it. If not, the title is plain text.
+  - If a `registerLink` is present, a Reserve button will be shown
+  - Example formats supported:
+    - `detailsLink: <a href="https://example.com">link</a>`
+    - `detailsLink: https://example.com`
+    - `detailsLink: www.example.com`
+    - `registerLink: <a href="https://app.simplymeet.me/harmoniaoptima">link</a>`
+    - `registerLink: https://app.simplymeet.me/harmoniaoptima`
+    - `registerLink: www.simplymeet.me/harmoniaoptima`
+- AFTER the description in Romanian you can:
+  - include an optional `enDescription:` section for the English content. If this is present, its content is used for the English locale while the rest of the description is treated as Romanian. If it is absent, the base description is used for both locales.
+  - include an optional `enTitle: <title in English here>` for the English title.
