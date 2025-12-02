@@ -2,7 +2,7 @@
 name: "Alexandru Anton"
 featuredIndex: 7
 images: ["../images/antonalexandru/antonalexandru.jpg"]
-tags: ["Expression Coach", "Throat-singing", "Shamanic Medicine"]
+tags: ["Expression Coach", "Throat-singing", "Shamanic Medicine", "terapie-craniosacrala"]
 activities:
   [
     "coaching",
