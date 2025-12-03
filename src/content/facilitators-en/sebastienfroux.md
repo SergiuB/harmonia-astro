@@ -25,7 +25,7 @@ services:
     },
     {
       name: "Therapeutic Massage",
-      summary: "Manual Therapy: Key Areas",
+      summary: "Manual Therapy : Key Areas",
       isGroup: true,
       price: "275lei",
       duration: "60min",
@@ -33,7 +33,7 @@ services:
     },
     {
       name: "Therapeutic Massage",
-      summary: "Manual Therapy: Full Body",
+      summary: "Manual Therapy : Full Body",
       isGroup: true,
       price: "500lei",
       duration: "120min",
@@ -41,7 +41,7 @@ services:
     },
     {
       name: "Therapeutic Massage Subscription",
-      summary: "Manual Therapy: Full Body",
+      summary: "Manual Therapy : 120 min",
       isGroup: true,
       price: "1300 / 2000 / 3500lei",
       duration: "3 / 5 / 10 sessions",
@@ -77,4 +77,4 @@ My experience:
 
 - 35 years of massage
 - …of which 6 years of professional massage
-- 3 years of osteopathy
+- 4 years of osteopathy
