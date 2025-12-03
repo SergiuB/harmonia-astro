@@ -40,8 +40,8 @@ services:
       reserveLink: "https://wa.link/hjznsl",
     },
             {
-      name: "Abonament Masaj Terapeutic",
-      summary: "Terapie Manuală : Întregul corp",
+      name: "Abonament Masaj Terapeutic ",
+      summary: "Terapie Manuală : 120 min",
            isGroup: true,
               price: "1300 / 2000 / 3500lei",
       duration: "3 / 5 / 10 sesiuni",
@@ -70,4 +70,4 @@ Primul pas catre stare de echilibru este al nostru spre noi insine. Terapia este
 Experienta mea:
 - 35 ani de masaj
 - …din care 6 ani de masaj profesional
-- 3 ani in osteopatie
+- 4 ani in osteopatie
