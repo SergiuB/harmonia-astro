@@ -28,7 +28,7 @@ services:
         ],
       price: "300 lei",
       duration: "60min",
-      reserveLink: "https://app.simplymeet.me/deliaheals",
+      reserveLink: "https://app.simplymeet.me/deliaheals/scanarezyto",
     },
     {
       name: "Harmonic Fusion",
@@ -87,7 +87,7 @@ services:
         ],
       price: "890lei",
       duration: "240min",
-      reserveLink: "https://app.simplymeet.me/deliaheals",
+      reserveLink: "https://app.simplymeet.me/deliaheals/harmonicpamper1",
     },
     {
       name: "Harmonic²",
@@ -113,7 +113,7 @@ services:
         ],
       price: "800lei",
       duration: "90min",
-      reserveLink: "https://app.simplymeet.me/deliaheals",
+      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonic4hands",
     },
     {
       name: "Harmonic Union",
@@ -136,7 +136,7 @@ services:
         ],
       price: "950lei",
       duration: "100min",
-      reserveLink: "https://app.simplymeet.me/deliaheals",
+      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicritual-dgn6r",
     },
         {
   name: "Harmonic Cocoon",
@@ -172,7 +172,7 @@ services:
   isGroup: true,
   price: "800lei",
   duration: "90min",
-  reserveLink: "https://app.simplymeet.me/harmoniaoptima",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmoniccocoon",
 },
     {
       name: "Harmonic Nest",
@@ -204,7 +204,7 @@ services:
         ],
       price: "800lei",
       duration: "90min",
-      reserveLink: "https://app.simplymeet.me/deliaheals",
+      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicnest",
     },
         {
       name: "Abonament Harmonic Fusion",
@@ -226,7 +226,7 @@ services:
       isGroup: true,
       price: "1440lei / 1440lei",
       duration: "6 x 60min / 4 x 90min",
-      reserveLink: "https://app.simplymeet.me/deliaheals",
+      reserveLink: "https://wa.link/hc8cvw",
     },
     {
       name: "Aromaterapie",
@@ -241,7 +241,7 @@ services:
       isGroup: true,
       price: "300lei",
       duration: "60min",
-      reserveLink: "https://app.simplymeet.me/deliaheals",
+      reserveLink: "https://app.simplymeet.me/deliaheals/harmonicspa2-qvhlz",
     },
     {
       name: "Simfonia Celulelor",
@@ -257,7 +257,7 @@ services:
       isGroup: true,
       price: "250lei",
       duration: "30min",
-      reserveLink: "https://app.simplymeet.me/deliaheals",
+      reserveLink: "https://app.simplymeet.me/deliaheals/simfoniacelulelor",
     },
     {
       name: "Aromatouch",
@@ -277,7 +277,7 @@ services:
       isGroup: true,
       price: "300lei",
       duration: "60min",
-      reserveLink: "https://app.simplymeet.me/deliaheals",
+      reserveLink: "https://app.simplymeet.me/deliaheals/aromatouch",
     },
            {
       name: "Kombucha Chat",
@@ -299,7 +299,7 @@ Vom găsi împreună un moment potrivit.",
         ],
       price: "125 lei",
       duration: "60min",
-      reserveLink: "https://app.simplymeet.me/deliaheals",
+      reserveLink: "https://app.simplymeet.me/deliaheals/kombucha",
     },
          {
       name: "Harmonic Alignment",
