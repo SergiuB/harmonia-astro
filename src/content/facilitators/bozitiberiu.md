@@ -20,8 +20,8 @@ services:
         ],
            isGroup: true,
               price: "600lei",
-      duration: "100min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima",
+      duration: "90min",
+      reserveLink: "https://app.simplymeet.me/harmoniaoptima/e-motionsomaticrelease",
     },
     {
       name: "Harmonic Reborn",
@@ -38,7 +38,7 @@ services:
            isGroup: true,
               price: "600lei",
       duration: "120min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima",
+      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicreborn",
     },
         {
       name: "Harmonic Focus",
@@ -59,7 +59,7 @@ services:
            isGroup: true,
               price: "350lei",
       duration: "60min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima",
+      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicfocus",
     },
     {
       name: "Harmonic Maternity Bliss",
@@ -81,7 +81,7 @@ services:
            isGroup: true,
               price: "600lei",
       duration: "120min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima",
+      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicmaternitybliss",
     },
     {
       name: "Harmonic Union",
@@ -105,7 +105,7 @@ services:
            isGroup: true,
       price: "950lei",
       duration: "100min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima",
+      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicritual-dgn6r",
     },
     {
   name: "Harmonic Cocoon",
@@ -141,7 +141,7 @@ services:
   isGroup: true,
   price: "800lei",
   duration: "90min",
-  reserveLink: "https://app.simplymeet.me/harmoniaoptima",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmoniccocoon",
 },
       {
       name: "Harmonic Nest",
@@ -174,7 +174,7 @@ services:
            isGroup: true,
       price: "800lei",
       duration: "90min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima",
+      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicnest",
     },
     {
       name: "Harmonic²",
@@ -201,7 +201,7 @@ services:
            isGroup: true,
       price: "800lei",
       duration: "90min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima",
+      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonic4hands",
     },
     {
       name: "Harmonic Recharge",
@@ -221,7 +221,7 @@ services:
       isGroup: true,
       price: "600lei",
       duration: "120min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima",
+      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicrecharge",
     },
     {
       name: "Harmonic Ritual",
@@ -236,7 +236,7 @@ services:
         ],
       price: "500lei",
       duration: "75min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima",
+      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicritual",
     },
     {
       name: "Abonament Masaj Holistic",
@@ -276,7 +276,7 @@ services:
         ],
       price: "500lei",
       duration: "75min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima",
+      reserveLink: "https://app.simplymeet.me/harmoniaoptima/holisticlifecoach",
     },
          {
       name: "Harmonic Alignment",
