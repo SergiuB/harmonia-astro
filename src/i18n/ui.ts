@@ -15,6 +15,7 @@ export const ui = {
     "nav.contact": "Contact",
     "nav.becomeFacilitator": "Devino facilitator",
     "nav.freeGuidance": "ghidare gratuită",
+    "nav.retreat": "Retreat",
 
     // Services page
     "services.title": "Servicii",
@@ -54,6 +55,31 @@ export const ui = {
     "space.contactUs": "CONTACTEAZĂ-NE",
     "space.whereToFindUs": "Unde ne găsești",
     "space.calendarTitle": "Calendar activități",
+
+    // Respiro page
+    "respiro.introParagraph1":
+      "RESPIRO este un program intensiv de o zi, dedicat reglării sistemului nervos, reconectării cu propriul corp și optimizării stării de bine. Conceput ca un retreat urban, acesta oferă o experiență structurată și profesionistă, ideală pentru persoane și echipe care au nevoie de un reset mental, emoțional și fizic.",
+    "respiro.introParagraph2a":
+      "Programul integrează practici validate — respirație funcțională, mișcare conștientă, terapie prin atingere, diagnoză digitală, sesiuni de sunet, creativitate și reflecție. Formatul restrâns de ",
+    "respiro.participantsHighlight": "8 participanți",
+    "respiro.introParagraph2b":
+      " asigură personalizare, atenție individuală și rezultate reale într-o singură zi, într-un spațiu dedicat sănătății holistice.",
+    "respiro.forWhoTitle": "Cui se adresează RESPIRO",
+    "respiro.forWhoDescription":
+      "RESPIRO este un program versatil potrivit pentru persoane și organizații care urmăresc o zi dedicată echilibrului, reconectării și îmbunătățirii funcționării personale sau de echipă. Formatul poate fi adaptat în funcție de dinamica și obiectivele fiecărui grup.",
+    "respiro.categoriesTitle": "Categorii de participanți",
+    "respiro.categoryIndividuals": "Persoane individuale",
+    "respiro.categoryCouples": "Cupluri",
+    "respiro.categoryFriends": "Grupuri de prieteni",
+    "respiro.categoryFamilies": "Familii extinse",
+    "respiro.categoryBusiness": "Echipe de business",
+    "respiro.categoryCorporations": "Corporații",
+    "respiro.ctaDownload": "Descarcă broșura RESPIRO",
+    "respiro.ctaContact": "Contactează-ne",
+    "respiro.conclusion1":
+      "RESPIRO oferă un cadru profesionist și bine structurat în care participanții beneficiază de o zi completă de resetare și reconectare. Programul poate fi integrat atât în parcursul individual al fiecărei persoane, cât și în strategiile de wellbeing și dezvoltare ale organizațiilor.",
+    "respiro.conclusion2":
+      "O experiență premium, livrată de specialiști certificați, într-un spațiu dedicat sănătății holistice, clarității și performanței.",
 
     // Calendar events
     "calendar.showMore": "Afișează mai mult",
@@ -170,6 +196,7 @@ export const ui = {
     "nav.contact": "Contact",
     "nav.becomeFacilitator": "Become a facilitator",
     "nav.freeGuidance": "free guidance",
+    "nav.retreat": "Retreat",
 
     // Services page
     "services.title": "Services",
@@ -209,6 +236,31 @@ export const ui = {
     "space.contactUs": "CONTACT US",
     "space.whereToFindUs": "Where to find us",
     "space.calendarTitle": "Activities calendar",
+
+    // Respiro page
+    "respiro.introParagraph1":
+      "RESPIRO is a one-day intensive program designed to support nervous system regulation, reconnection with the body, and overall wellbeing. Structured as an urban retreat, it offers a professional and carefully guided experience suitable for both individuals and teams seeking a mental, emotional, and physical reset.",
+    "respiro.introParagraph2a":
+      "The program brings together evidence-based practices — functional breathing, mindful movement, therapeutic touch, digital diagnosis, sound sessions, creativity, and reflection. The small-group format of ",
+    "respiro.participantsHighlight": "8 participants",
+    "respiro.introParagraph2b":
+      " ensures personalization, individual attention, and measurable impact within a single day, in a space dedicated to holistic health and human performance.",
+    "respiro.forWhoTitle": "Who is RESPIRO for",
+    "respiro.forWhoDescription":
+      "RESPIRO is a versatile program suitable for a wide range of participants and group dynamics. It can be adapted to personal objectives, relational needs, or organizational goals, offering a structured environment for balance, reconnection, and enhanced functioning.",
+    "respiro.categoriesTitle": "Participant categories",
+    "respiro.categoryIndividuals": "Individuals",
+    "respiro.categoryCouples": "Couples",
+    "respiro.categoryFriends": "Groups of friends",
+    "respiro.categoryFamilies": "Extended families",
+    "respiro.categoryBusiness": "Business teams",
+    "respiro.categoryCorporations": "Corporations",
+    "respiro.ctaDownload": "Download the RESPIRO Brochure",
+    "respiro.ctaContact": "Contact us",
+    "respiro.conclusion1":
+      "RESPIRO provides a professional, well-structured setting where participants enjoy a full day of reset and reconnection. The program can be integrated into individuals' personal journeys as well as organizational wellbeing and development strategies.",
+    "respiro.conclusion2":
+      "A premium experience delivered by certified specialists, hosted in a space dedicated to holistic health, clarity, and performance.",
 
     // Calendar events
     "calendar.showMore": "Show more",

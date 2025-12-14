@@ -1,0 +1,156 @@
+---
+import "keen-slider/keen-slider.min.css";
+import { Image, getImage } from "astro:assets";
+import { useTranslations } from "../i18n/utils";
+import RootLayout from "../layouts/RootLayout.astro";
+import ContactSection from "../components/ContactSection.astro";
+
+interface Props {
+  lang: "ro" | "en";
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+
+const pageTitle = "RESPIRO – Urban Holistic Retreat";
+import heroImage from "/src/assets/respiro/principala/Respiro_203.jpg";
+const optimizedHeroImage = await getImage({ src: heroImage });
+
+import carousel0 from "/src/assets/respiro/carusel/Respiro_051.jpg";
+import carousel1 from "/src/assets/respiro/carusel/Respiro_070.jpg";
+import carousel2 from "/src/assets/respiro/carusel/Respiro_096.jpg";
+import carousel3 from "/src/assets/respiro/carusel/Respiro_108.jpg";
+import carousel4 from "/src/assets/respiro/carusel/Respiro_159.jpg";
+import carousel5 from "/src/assets/respiro/carusel/Respiro_185.jpg";
+import carousel6 from "/src/assets/respiro/carusel/Respiro_201.jpg";
+import carousel7 from "/src/assets/respiro/carusel/Respiro_216.jpg";
+import carousel8 from "/src/assets/respiro/carusel/Respiro_238.jpg";
+import carousel9 from "/src/assets/respiro/carusel/Respiro_261.jpg";
+
+const images = [
+  carousel0,
+  carousel1,
+  carousel2,
+  carousel3,
+  carousel4,
+  carousel5,
+  carousel6,
+  carousel7,
+  carousel8,
+  carousel9,
+];
+
+const participantCategories = [
+  "respiro.categoryIndividuals",
+  "respiro.categoryCouples",
+  "respiro.categoryFriends",
+  "respiro.categoryFamilies",
+  "respiro.categoryBusiness",
+  "respiro.categoryCorporations",
+];
+---
+
+<RootLayout title={pageTitle} lang={lang}>
+  <section
+    class="relative hero-section h-[60vh] flex flex-col items-center justify-center text-center bg-cover bg-center"
+    style={`background-image: url('${optimizedHeroImage.src}')`}
+  >
+    <span
+      class="absolute inset-0 bg-gradient-to-b from-black/50 via-black/30 to-black/60"
+    ></span>
+    <div class="relative z-10">
+      <h1
+        class="font-black relative text-white text-center leading-tight drop-shadow-[0_10px_25px_rgba(0,0,0,0.7)] white-text-border-lighter"
+        transition:name="facilitators-title"
+      >
+        <span class="block text-5xl tracking-[0.5em] mb-3 uppercase"
+          >RESPIRO</span
+        >
+        <span class="block text-3xl tracking-[0.2em]"
+          >Urban Holistic Retreat</span
+        >
+      </h1>
+    </div>
+  </section>
+  <section
+    class="flex flex-col items-center justify-center bg-primary text-white text-left"
+  >
+    <p class="px-4 py-4 max-w-lg">
+      {t("respiro.introParagraph1")}
+    </p>
+    <p class="px-4 max-w-lg">
+      {t("respiro.introParagraph2a")}
+      <strong class="font-semibold">{t("respiro.participantsHighlight")}</strong
+      >
+      {t("respiro.introParagraph2b")}
+    </p>
+
+    <div id="carousel" class="keen-slider my-4 max-w-lg">
+      {
+        images.map((image) => (
+          <div class="keen-slider__slide ">
+            <Image
+              class="rounded-2xl object-cover w-full h-96"
+              src={image}
+              alt={image.src}
+            />
+          </div>
+        ))
+      }
+    </div>
+
+    <div class="w-full p-4 max-w-lg">
+      <h2 class="text-3xl mb-4">{t("respiro.forWhoTitle")}</h2>
+      <p>{t("respiro.forWhoDescription")}</p>
+      <p class="mt-4 font-semibold text-lg">{t("respiro.categoriesTitle")}</p>
+      <ul class="ml-5 list-disc space-y-1">
+        {participantCategories.map((key) => <li>{t(key)}</li>)}
+      </ul>
+      <div class="flex flex-col items-center justify-center gap-3 mt-6">
+        <a
+          class="px-4 py-4 mt-4 text-secondary-pink rounded-full border-2 border-secondary-pink text-center"
+          href="/respiro.pdf"
+          download
+        >
+          {t("respiro.ctaDownload")}
+        </a>
+        <a
+          class="bg-secondary-pink rounded-full px-11 py-4 text-white uppercase text-center"
+          href="https://wa.me/40745255365"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          {t("respiro.ctaContact")}
+        </a>
+      </div>
+    </div>
+
+    <div class="w-full p-4 max-w-lg">
+      <p>
+        {t("respiro.conclusion1")}
+      </p>
+      <p>
+        {t("respiro.conclusion2")}
+      </p>
+    </div>
+    <ContactSection lang={lang} />
+  </section>
+
+  <script src="@glidejs/glide/dist/glide.min.js"></script>
+
+  <script>
+    import KeenSlider from "keen-slider";
+    ["astro:page-load"].forEach((event) => {
+      document.addEventListener(event, () => {
+        const slider = new KeenSlider("#carousel", {
+          loop: true,
+          slides: {
+            origin: "center",
+            perView: 1.2,
+            spacing: 15,
+          },
+        });
+      });
+    });
+  </script>
+</RootLayout>

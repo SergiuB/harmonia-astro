@@ -27,6 +27,10 @@ const baseLinkDefinitions: Link[] = [
     className: "closable-link",
   },
   {
+    titleKey: "nav.retreat",
+    path: "/respiro",
+  },
+  {
     titleKey: "nav.contact",
     path: "/space/?scrollTo=contact",
     className: "closable-link",

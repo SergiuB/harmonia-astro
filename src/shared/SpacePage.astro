@@ -1,10 +1,10 @@
 ---
 import "keen-slider/keen-slider.min.css";
 import { Image } from "astro:assets";
-import { Icon } from "astro-icon/components";
 import { getImage } from "astro:assets";
 import RootLayout from "../layouts/RootLayout.astro";
 import CalendarEvents from "../components/CalendarEvents.astro";
+import ContactSection from "../components/ContactSection.astro";
 import { useTranslations } from "../i18n/utils";
 
 interface Props {
@@ -140,58 +140,7 @@ const showEvents = import.meta.env.FF_SHOW_EVENTS;
         </div>
       )
     }
-    <div class="w-full p-4 max-w-lg scroll-mt-12" id="contact">
-      <h2 class="text-3xl mb-4">{t("space.whereToFindUs")}</h2>
-      <a
-        href="https://www.instagram.com/harmonia_terra"
-        class="flex flex-row gap-2 items-center py-2"
-      >
-        <Icon
-          name="instagram"
-          class="w-8 h-8 fill-primary bg-white rounded-full p-1"
-        />
-        <p>{t("contact.instagram")}</p>
-      </a>
-      <a
-        href="mailto:contact@harmoniaworld.org"
-        class="flex flex-row gap-2 items-center py-2"
-      >
-        <Icon
-          name="email"
-          class="w-8 h-8 fill-primary bg-white rounded-full p-1"
-        />
-        <p>{t("contact.email")}</p>
-      </a>
-      <a
-        href="https://wa.me/40745255365"
-        class="flex flex-row gap-2 items-center py-2"
-      >
-        <Icon
-          name="whatsapp"
-          class="w-8 h-8 fill-primary bg-white rounded-full p-1"
-        />
-        <p>{t("contact.phone")}</p>
-      </a>
-      <a
-        class="flex flex-row gap-2 items-center py-2"
-        href="https://maps.app.goo.gl/WHitKPypjS4khZfN9"
-      >
-        <Icon
-          name="location"
-          class="w-8 h-8 fill-primary bg-white rounded-full p-1"
-        />
-        <p>{t("contact.address")}</p>
-      </a>
-
-      <iframe
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2848.631727103489!2d26.112324412967578!3d44.44071600101998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b1ff071ad12811%3A0xa60fe7afe8f2297a!2sHarmonia%20Terra!5e0!3m2!1sro!2sro!4v1720017428764!5m2!1sro!2sro"
-        width="100%"
-        height="450"
-        class="border-0 mt-4 rounded-2xl"
-        allowfullscreen=""
-        loading="lazy"
-        referrerpolicy="no-referrer-when-downgrade"></iframe>
-    </div>
+    <ContactSection lang={lang} />
   </section>
 
   <script src="@glidejs/glide/dist/glide.min.js"></script>
