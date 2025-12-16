@@ -13,7 +13,7 @@ const { lang } = Astro.props;
 const t = useTranslations(lang);
 
 const pageTitle = "RESPIRO – Urban Holistic Retreat";
-import heroImage from "/src/assets/respiro/principala/Respiro_203.jpg";
+import heroImage from "/src/assets/respiro/principala/Respiro_09711.jpg";
 const optimizedHeroImage = await getImage({ src: heroImage });
 
 import carousel0 from "/src/assets/respiro/carusel/Respiro_051.jpg";
@@ -52,7 +52,7 @@ const participantCategories = [
 
 <RootLayout title={pageTitle} lang={lang}>
   <section
-    class="relative hero-section h-[60vh] flex flex-col items-center justify-center text-center bg-cover bg-center"
+    class="relative hero-section h-[60vh] flex flex-col items-center justify-start pt-14 text-center bg-cover bg-center"
     style={`background-image: url('${optimizedHeroImage.src}')`}
   >
     <span
