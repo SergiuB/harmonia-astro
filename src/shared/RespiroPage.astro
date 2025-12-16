@@ -52,7 +52,7 @@ const participantCategories = [
 
 <RootLayout title={pageTitle} lang={lang}>
   <section
-    class="relative hero-section h-[60vh] flex flex-col items-center justify-start pt-14 text-center bg-cover bg-center"
+    class="relative hero-section h-[60vh] flex flex-col items-center justify-start pt-14 text-center bg-cover bg-center lg:justify-center"
     style={`background-image: url('${optimizedHeroImage.src}')`}
   >
     <span
@@ -100,7 +100,7 @@ const participantCategories = [
     <div class="w-full p-4 max-w-lg">
       <h2 class="text-3xl mb-4">{t("respiro.forWhoTitle")}</h2>
       <p>{t("respiro.forWhoDescription")}</p>
-      <p class="mt-4 font-semibold text-lg">{t("respiro.categoriesTitle")}</p>
+      <p class="my-4 font-semibold text-lg">{t("respiro.categoriesTitle")}</p>
       <ul class="ml-5 list-disc space-y-1">
         {participantCategories.map((key) => <li>{t(key)}</li>)}
       </ul>
