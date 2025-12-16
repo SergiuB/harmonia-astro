@@ -61,10 +61,11 @@ const participantCategories = [
     <div class="relative z-10">
       <h1
         class="font-black relative text-white text-center leading-tight drop-shadow-[0_2px_7px_rgba(0,0,0,0.3)]"
-        transition:name="facilitators-title"
       >
         <div class="flex flex-col items-center justify-center gap-1">
-          <span class="text-5xl tracking-[0.25em] uppercase pl-3">RESPIRO</span>
+          <span class="text-5xl tracking-[0.25em] uppercase pl-3 breathing-text"
+            >RESPIRO</span
+          >
           <span class="text-2xl">Urban Holistic Retreat</span>
         </div>
       </h1>
@@ -151,4 +152,29 @@ const participantCategories = [
       });
     });
   </script>
+  <style>
+    .breathing-text {
+      animation: breath 6s ease-in-out infinite;
+      transform-origin: center;
+    }
+
+    @keyframes breath {
+      0%,
+      100% {
+        transform: scale(1);
+      }
+      35% {
+        transform: scale(1.05);
+      }
+      60% {
+        transform: scale(0.99);
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .breathing-text {
+        animation: none;
+      }
+    }
+  </style>
 </RootLayout>
