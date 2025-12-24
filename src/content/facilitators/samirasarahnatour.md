@@ -1,6 +1,6 @@
 ---
 name: "Samira Sarah Natour"
-featuredIndex: 6
+featuredIndex: 3
 images: ["../images/samirah/samira.jpg"]
 tags: ["Sound Practitioner", "Terapie Vibrațională"]
 activities: ["alte-servicii", "sound-healing", "group-alteservicii", "group-sound-healing",]
