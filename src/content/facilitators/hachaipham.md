@@ -59,14 +59,6 @@ duration: "10ore",
 reserveLink: "https://wa.link/l1f0gf",
  },
   ]
-location: "Groove Box, Bucuresti / Clase in Aer Liber" #optional
-contact: {
-    email: "vladcodescu@gmail.com", #optional
-    phone: "0724830362",
-    instagram: "https://www.instagram.com/vlad.codescu?igsh=MTg4eWZiNXR0b25x&utm_source=qr", #optional
-    whatsapp: "https://wa.link/knge3b", #optional
-  }
-  ]
 location: "Ateliere online și offline în studiouri și la domiciliu în București." #optional
 contact: {
     email: "hachaipham@protonmail.com", #optional
