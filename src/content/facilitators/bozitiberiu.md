@@ -342,7 +342,7 @@ reserveLink: "https://wa.link/b4f3ug",
           "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
         ],
       price: " 350lei → 2880lei",
-      duration: "60min → 7ore",
+      duration: "60min → 10ore",
       reserveLink: "https://wa.link/b4f3ug",
     },
   ]
