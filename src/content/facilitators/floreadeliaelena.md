@@ -410,7 +410,7 @@ reserveLink: "https://wa.link/l1f0gf",
         ],
       price: "125lei → 1350lei",
       duration: "30min → 10ore",
-      reserveLink: "https://wa.link/hc8cvw",
+      reserveLink: "https://wa.link/lp6t0c",
     },
   ]
 location: "Harmonia Terra, Bucuresti" #optional
