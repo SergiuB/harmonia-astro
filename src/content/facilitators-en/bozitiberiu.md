@@ -287,7 +287,7 @@ services:
       isGroup: true,
       price: "950lei",
       duration: "3h",
-      reserveLink: "https://wa.link/b4f3ug",
+      reserveLink: "https://wa.link/4hj55q",
     },
     {
       name: "7 Stars TERRApy",
