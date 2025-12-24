@@ -1,6 +1,6 @@
 ---
 name: "Dana Mirza"
-featuredIndex: 5
+featuredIndex: 6
 images: ["../images/danamirza/danam.jpg"]
 tags: ["Instructor", "Tai Chi", "Qigong"]
 activities:
