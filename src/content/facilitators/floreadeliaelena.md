@@ -301,6 +301,32 @@ Vom găsi împreună un moment potrivit.",
       duration: "60min",
       reserveLink: "https://app.simplymeet.me/deliaheals/kombucha",
     },
+            {
+      name: "Atelier de făcut Kombucha",
+      summary: "De la borcan la ritual viu",
+      description:
+        [
+          "Te invit la un atelier experiențial de făcut Kombucha, dedicat celor care își doresc să învețe să prepare această băutură vie, probiotică, chiar la ei acasă, într-un mod simplu, conștient și plin de sens.",
+          "În cadrul atelierului vom explora împreună:",
+          "•	ce este Kombucha și care sunt beneficiile ei pentru corp, digestie și energie",
+          "•	istoria Kombucha – de unde provine și cum a fost descoperită această băutură fermentată",
+          "•	degustare ghidată a mai multor tipuri de Kombucha, pentru a înțelege diferențele de gust, fermentare și aromă",
+          "•	procesul complet de preparare a Kombucha de la zero, pas cu pas, într-un mod accesibil, astfel încât să poți continua cu încredere acasă",
+        "Fiecare participant va primi:",
+        "•	un borcan cu SCOBY, ceai și zahăr, gata pregătit pentru prima fermentare",
+        "	•	un suport de curs realizat de mine, cu informații clare și ușor de urmărit",
+        "	•	posibilitatea de a fi adăugat(ă), dacă dorește, într-un grup de WhatsApp de suport, unde poate pune întrebări și primi îndrumare și după atelier",
+        "⏳ Durată: aproximativ 2–3 ore, în funcție de cum curge atelierul, întrebări și dinamica grupului",
+        "Acest atelier nu este doar despre o rețetă, ci despre reconectarea cu procesele naturale, cu răbdarea fermentării și cu bucuria de a crea ceva viu, hrănitor și autentic.",
+        "🔸 Kit Kombucha (opțional):
+Pentru cei care își doresc să prepare Kombucha și în afara atelierului, este disponibil un kit complet de pornire, la prețul de 125 lei.
+Kit-ul se ridică direct de la Harmonia TERRA.",
+          "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
+        ],
+      price: "280lei",
+      duration: "120min",
+      reserveLink: "https://wa.link/hc8cvw",
+    },
          {
       name: "Harmonic Alignment",
       summary: "Pachet Holistic : Întregul corp",
