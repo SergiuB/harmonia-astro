@@ -1,6 +1,6 @@
 ---
 name: "Paul Manea"
-featuredIndex: 4
+featuredIndex: 3
 images: ["../images/paulmanea/PaulManea.jpg"]
 tags: ["Rebirthing", "Breathwork", "Coach"]
 activities: [ "coaching", "breathwork", "alte-servicii", "group-breathwork", ]
