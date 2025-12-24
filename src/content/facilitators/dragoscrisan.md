@@ -1,6 +1,6 @@
 ---
 name: "Dragoș Crișan"
-featuredIndex: 3
+featuredIndex: 4
 images: ["../images/dragoscr/Dragoscr.jpg"]
 tags: ["Terapeut", "Terapie Craniosacrală", "Constelații Familiale"]
 activities: ["terapie-craniosacrala", "group-constelatii-familiale"]
