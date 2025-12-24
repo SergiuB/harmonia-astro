@@ -2,7 +2,7 @@
 name: "Vlad Codescu"
 featuredIndex: 3
 images: ["../images/vladcodescu/vladcodescu.jpg"]
-tags: ["Coach", "Conscious Movement"]
+tags: ["Coach", "Conscious Movement", "Oxygen Advantage"]
 activities: ["miscare-constienta", "alte-servicii", "group-miscare-constienta"]
 services:
   [
@@ -14,7 +14,7 @@ services:
           "The classes aim to mobilize and articulate the entire body. Through natural movements using body weight, you strengthen joints, tendons, improve overall body mobility, and gain strength that you can express in more complex movement environments. Plus, time spent in nature and with people who share the same goal of moving naturally, feeling free in their bodies.",
         ],
       isGroup: true,
-      price: "70lei",
+      price: "100lei",
       duration: "60min",
       reserveLink: "https://wa.link/knge3b",
     },
@@ -49,6 +49,29 @@ services:
       price: "150lei",
       duration: "90min",
       reserveLink: "https://wa.link/knge3b",
+    },
+      {
+    name: "RESPIRO",
+summary: "Urban Holistic Retreat",
+description:
+"RESPIRO is a one-day intensive program dedicated to nervous system regulation, reconnection with the body, and overall wellbeing optimization.",
+"Designed as an urban retreat, RESPIRO offers a structured and professional experience, ideal for individuals and teams seeking a mental, emotional, and physical reset.",
+"The program integrates evidence-informed practices such as functional breathing, conscious movement, touch-based therapy, digital diagnostics, sound sessions, creativity, and guided reflection.",
+"The intimate format, limited to a maximum of 8 participants, ensures personalization, individual attention, and meaningful results within a single day, held in a space dedicated to holistic health.",
+"RESPIRO is a versatile program that can be adapted to the dynamics and objectives of each group.",
+"Who RESPIRO is for:",
+"• individuals",
+"• couples",
+"• groups of friends",
+"• extended families",
+"• business teams",
+"• corporate groups",
+"RESPIRO provides a professional and well-structured framework for a full day of reset and reconnection.",
+"The program can be integrated both into individual personal development journeys and into organizational wellbeing and development strategies.",
+"A premium experience delivered by certified specialists, in a space dedicated to holistic health, clarity, and performance.",
+price: "1250lei / person",
+duration: "10h",
+reserveLink: "https://wa.link/l1f0gf",
     },
   ]
 location: "Origini Hub, Bucharest / Groove Box, Bucharest / Outdoor Classes" #optional
