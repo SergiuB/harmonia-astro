@@ -258,7 +258,7 @@ services:
         ],
       price: "2880lei",
       duration: "6 x 120min",
-      reserveLink: "https://wa.link/b4f3ug",
+      reserveLink: "https://wa.link/7wb9rk",
     },
          {
       name: "Harmonic Alignment",
