@@ -298,6 +298,31 @@ services:
       reserveLink: "https://app.simplymeet.me/deliaheals/kombucha",
     },
     {
+  "name": "Kombucha Making - Workshop",
+  "summary": "From Jar to Living Ritual",
+  "description": [
+    "I invite you to an experiential Kombucha-making workshop, dedicated to those who wish to learn how to prepare this living, probiotic drink at home, in a simple, conscious, and meaningful way.",
+    "During the workshop, we will explore together:",
+    "• what Kombucha is and its benefits for the body, digestion, and energy",
+    "• the history of Kombucha – where it comes from and how this fermented beverage was discovered",
+    "• a guided tasting of several types of Kombucha, to understand differences in flavor, fermentation, and aroma",
+    "• the complete Kombucha preparation process from scratch, step by step, in an accessible way, so you can confidently continue at home",
+    "Each participant will receive:",
+    "• a jar with SCOBY, tea, and sugar, ready for the first fermentation",
+    "• a course handout created by me, with clear and easy-to-follow information",
+    "• the option, if desired, to be added to a WhatsApp support group, where participants can ask questions and receive guidance even after the workshop",
+    "⏳ Duration: approximately 2–3 hours, depending on the flow of the workshop, questions, and group dynamics",
+    "This workshop is not just about a recipe, but about reconnecting with natural processes, the patience of fermentation, and the joy of creating something living, nourishing, and authentic.",
+    "🔸 Kombucha Kit (optional):",
+    "For those who wish to continue making Kombucha beyond the workshop, a complete starter kit is available at the price of 125 RON.",
+    "The kit can be picked up directly from Harmonia TERRA.",
+    "*Rescheduling or cancellations, regardless of the reason, must be made at least 48 hours before the session. In the case of rescheduling or cancellations made less than 48 hours in advance, the session will be forfeited if you hold a gift card or subscription, and for individual payments, the 50% deposit will not be refunded."
+  ],
+  "price": "280 RON",
+  "duration": "120 min",
+  "reserveLink": "https://wa.link/hc8cvw"
+}
+    {
       name: "Harmonic Alignment",
       summary: "Holistic package — full body",
       description:
