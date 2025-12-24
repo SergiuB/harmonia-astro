@@ -319,7 +319,7 @@ description:
 "O experiență premium, livrată de specialiști certificați, într-un spațiu dedicat sănătății holistice, clarității și performanței.",
 price: "1250lei / persoană",
 duration: "10ore",
-reserveLink: "https://wa.link/b4f3ug",
+reserveLink: "https://wa.link/x5mjvd",
  },
     {
       name: "Harmonic GIFT Card",
