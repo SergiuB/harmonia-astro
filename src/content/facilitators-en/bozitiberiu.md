@@ -353,7 +353,7 @@ reserveLink: "https://wa.link/l1f0gf",
           "*Rescheduling or cancellations, for any reason, must be made at least 48 hours before the session. If rescheduled or cancelled less than 48 hours before, the session will be lost for gift card or subscription holders, and for individual payments the 50% deposit will not be refunded.",
         ],
       price: " 350lei → 2880lei",
-      duration: "60min → 7h",
+      duration: "60min → 10h",
       reserveLink: "https://wa.link/b4f3ug",
     },
   ]
