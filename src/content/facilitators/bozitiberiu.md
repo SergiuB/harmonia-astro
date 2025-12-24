@@ -109,7 +109,7 @@ services:
     },
     {
   name: "Harmonic Cocoon",
-  summary: "Masaj Holistic pentru Părinte + Joacă pentru Copii",
+  summary: "Masaj Holistic Părinte + Joacă pentru Copil",
   description: [
     "Harmonic Cocoon este o experiență unică, dedicată părinților care au nevoie de relaxare, dar nu au mereu unde să lase copiii. În timp ce părintele primește un masaj profund de 90 de minute oferit de Tiberiu, copiii se bucură de atenția și prezența Deliei, într-un spațiu sigur și creativ.",
     "Delia creează un mic univers de joacă — desen, puzzle, povești și activități adaptate vârstei copilului — astfel încât cei mici să fie într-un mediu plin de bucurie, iar tu să te poți relaxa complet.",
