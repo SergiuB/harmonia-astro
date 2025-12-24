@@ -363,7 +363,7 @@ Kit-ul se ridică direct de la Harmonia TERRA.",
         ],
       price: "1350lei",
       duration: "7ore",
-      reserveLink: "https://wa.link/hc8cvw",
+      reserveLink: "https://wa.link/99jmn6",
     },
        {  
    name: "RESPIRO",
