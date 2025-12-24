@@ -270,7 +270,7 @@ Anularea ședinței se poate face cu cel târziu de 42 ore înainte de programar
         ],
       price: "1350lei",
       duration: "7ore",
-      reserveLink: "https://wa.link/hc8cvw",
+      reserveLink: "https://wa.link/99jmn6",
     },
             {  
    name: "RESPIRO",
