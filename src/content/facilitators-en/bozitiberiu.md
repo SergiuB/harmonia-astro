@@ -251,25 +251,7 @@ services:
         ],
       price: "2880lei",
       duration: "6 x 120min",
-      reserveLink: "https://wa.link/b4f3ug",
-    },
-    {
-      name: "Holistic Life Coach",
-      summary: "Coaching : Personalized",
-      description:
-        [
-          'With a "down-to-earth" style anchored in reality, I identify as being an ingenious balance between Intuitive coaching and Holistic coaching.',
-          "Intuitive coaching follows the same basic principles and teachings of coaching, such as goal setting, working on values and habits, with the difference that this approach guides through intuition and encourages clients to connect with their deepest parts.",
-          "This style defines me because I believe that in order to guide clients to be whole and complete, it is necessary for them to access their inner resources. Once clients connect with their inner values, determine their passions and true uniqueness, they will be able to receive prosperity in all aspects of their lives.",
-          "In this sense, it is actually about helping them find their own potential with resources they can use anywhere to have a life as they deserve.",
-          "Holistic coaching refers to creating balance in all parts of decision-making. This style defines me because I believe that everything connects in life, so finding the inner harmony of my clients is essential for the decisions and actions they take in life to work.",
-          "If you feel you resonate with my working style, I invite you to explore together towards a healthy expansion of your Self.",
-          "*After making a booking on the website, you will receive a message within 24 hours for payment of the 50% advance, if you do not have a subscription or gift card.",
-          "*Rescheduling or cancellations, regardless of reason, must be made at least 48 hours before the session. In case of rescheduling or cancellations less than 48 hours before, the session will be lost if you have a gift card or subscription, and for individual payments, the 50% advance will not be refunded.",
-        ],
-      price: "500lei",
-      duration: "75min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima/holisticlifecoach",
+      reserveLink: "https://wa.link/7wb9rk",
     },
     {
       name: "Harmonic Alignment",
