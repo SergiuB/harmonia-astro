@@ -358,7 +358,7 @@ services:
         ],
       price: "1350lei",
       duration: "7h",
-      reserveLink: "https://wa.link/hc8cvw",
+      reserveLink: "https://wa.link/99jmn6",
     },
     {
     name: "RESPIRO",
