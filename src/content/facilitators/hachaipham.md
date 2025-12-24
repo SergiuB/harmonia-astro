@@ -35,6 +35,37 @@ services: [
       duration: "90min",
       reserveLink: "https://wa.link/lc3dd9",
     },
+        {  
+   name: "RESPIRO",
+summary: "Urban Holistic Retreat",
+description:
+"RESPIRO este un program intensiv de o zi, dedicat reglării sistemului nervos, reconectării cu propriul corp și optimizării stării de bine.",
+"Conceput ca un retreat urban, RESPIRO oferă o experiență structurată și profesionistă, ideală pentru persoane și echipe care au nevoie de un reset mental, emoțional și fizic.",
+"Programul integrează practici validate precum respirația funcțională, mișcarea conștientă, terapia prin atingere, diagnoza digitală, sesiunile de sunet, creativitatea și reflecția ghidată.",
+"Formatul restrâns, de maximum 8 participanți, asigură personalizare, atenție individuală și rezultate reale într-o singură zi, într-un spațiu dedicat sănătății holistice.",
+"RESPIRO este un program versatil, adaptabil în funcție de dinamica și obiectivele fiecărui grup.",
+"Cui se adresează RESPIRO:",
+"• persoane individuale",
+"• cupluri",
+"• grupuri de prieteni",
+"• familii extinse",
+"• echipe de business",
+"• corporații",
+"RESPIRO oferă un cadru profesionist și bine structurat pentru o zi completă de resetare și reconectare.",
+"Programul poate fi integrat atât în parcursul individual al participanților, cât și în strategiile de wellbeing și dezvoltare ale organizațiilor.",
+"O experiență premium, livrată de specialiști certificați, într-un spațiu dedicat sănătății holistice, clarității și performanței.",
+price: "1250lei / persoană",
+duration: "10ore",
+reserveLink: "https://wa.link/l1f0gf",
+ },
+  ]
+location: "Groove Box, Bucuresti / Clase in Aer Liber" #optional
+contact: {
+    email: "vladcodescu@gmail.com", #optional
+    phone: "0724830362",
+    instagram: "https://www.instagram.com/vlad.codescu?igsh=MTg4eWZiNXR0b25x&utm_source=qr", #optional
+    whatsapp: "https://wa.link/knge3b", #optional
+  }
   ]
 location: "Ateliere online și offline în studiouri și la domiciliu în București." #optional
 contact: {
