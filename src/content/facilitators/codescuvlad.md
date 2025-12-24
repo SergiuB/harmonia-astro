@@ -2,7 +2,7 @@
 name: "Vlad Codescu"
 featuredIndex: 3
 images: ["../images/vladcodescu/vladcodescu.jpg"]
-tags: ["Coach", "Miscare Constienta"]
+tags: ["Coach", "Miscare Constienta", "Oxygen Advantage"]
 activities: ["miscare-constienta", "alte-servicii", "group-miscare-constienta"]
 services: [
     {
@@ -16,7 +16,7 @@ exprima in medii mai complexe de miscare. Plus timpul petrecut in natura si cu o
 scop si acela de a se misca natural, simtindu-se liberi in corp.",
         ],
       isGroup: true,
-      price: "70lei",
+      price: "100lei",
       duration: "60min",
       reserveLink: "https://wa.link/knge3b",
     },
@@ -60,8 +60,31 @@ greutatea corpului intr un mod eficient, fluid si organic.",
       duration: "90min",
       reserveLink: "https://wa.link/knge3b",
     },
+           {  
+   name: "RESPIRO",
+summary: "Urban Holistic Retreat",
+description:
+"RESPIRO este un program intensiv de o zi, dedicat reglării sistemului nervos, reconectării cu propriul corp și optimizării stării de bine.",
+"Conceput ca un retreat urban, RESPIRO oferă o experiență structurată și profesionistă, ideală pentru persoane și echipe care au nevoie de un reset mental, emoțional și fizic.",
+"Programul integrează practici validate precum respirația funcțională, mișcarea conștientă, terapia prin atingere, diagnoza digitală, sesiunile de sunet, creativitatea și reflecția ghidată.",
+"Formatul restrâns, de maximum 8 participanți, asigură personalizare, atenție individuală și rezultate reale într-o singură zi, într-un spațiu dedicat sănătății holistice.",
+"RESPIRO este un program versatil, adaptabil în funcție de dinamica și obiectivele fiecărui grup.",
+"Cui se adresează RESPIRO:",
+"• persoane individuale",
+"• cupluri",
+"• grupuri de prieteni",
+"• familii extinse",
+"• echipe de business",
+"• corporații",
+"RESPIRO oferă un cadru profesionist și bine structurat pentru o zi completă de resetare și reconectare.",
+"Programul poate fi integrat atât în parcursul individual al participanților, cât și în strategiile de wellbeing și dezvoltare ale organizațiilor.",
+"O experiență premium, livrată de specialiști certificați, într-un spațiu dedicat sănătății holistice, clarității și performanței.",
+price: "1250lei / persoană",
+duration: "10ore",
+reserveLink: "https://wa.link/l1f0gf",
+ },
   ]
-location: "Origini Hub, Bucuresti / Groove Box, Bucuresti / Clase in Aer Liber" #optional
+location: "Groove Box, Bucuresti / Clase in Aer Liber" #optional
 contact: {
     email: "vladcodescu@gmail.com", #optional
     phone: "0724830362",
