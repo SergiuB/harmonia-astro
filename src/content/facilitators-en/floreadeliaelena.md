@@ -298,9 +298,9 @@ services:
       reserveLink: "https://app.simplymeet.me/deliaheals/kombucha",
     },
     {
-  "name": "Kombucha Making - Workshop",
-  "summary": "From Jar to Living Ritual",
-  "description": [
+  name: "Kombucha Making - Workshop",
+  summary: "From Jar to Living Ritual",
+  description: [
     "I invite you to an experiential Kombucha-making workshop, dedicated to those who wish to learn how to prepare this living, probiotic drink at home, in a simple, conscious, and meaningful way.",
     "During the workshop, we will explore together:",
     "• what Kombucha is and its benefits for the body, digestion, and energy",
@@ -316,11 +316,11 @@ services:
     "🔸 Kombucha Kit (optional):",
     "For those who wish to continue making Kombucha beyond the workshop, a complete starter kit is available at the price of 125 RON.",
     "The kit can be picked up directly from Harmonia TERRA.",
-    "*Rescheduling or cancellations, regardless of the reason, must be made at least 48 hours before the session. In the case of rescheduling or cancellations made less than 48 hours in advance, the session will be forfeited if you hold a gift card or subscription, and for individual payments, the 50% deposit will not be refunded."
+    "*Rescheduling or cancellations, regardless of the reason, must be made at least 48 hours before the session. In the case of rescheduling or cancellations made less than 48 hours in advance, the session will be forfeited if you hold a gift card or subscription, and for individual payments, the 50% deposit will not be refunded.",
   ],
-  "price": "280 RON",
-  "duration": "120 min",
-  "reserveLink": "https://wa.link/hc8cvw"
+  price: "280 RON",
+  duration: "120 min",
+  reserveLink: "https://wa.link/hc8cvw",
 }
     {
       name: "Harmonic Alignment",
