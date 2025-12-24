@@ -1,7 +1,7 @@
 ---
 name: "Samira Sarah Natour"
 featuredIndex: 6
-images: ["../images/samirah/_KW_8785 - Sarah Samira Natour.jpg"]
+images: ["../images/samirah/samira.jpg"]
 tags: ["Sound Practitioner", "Vibrational Therapy"]
 activities:
   [
