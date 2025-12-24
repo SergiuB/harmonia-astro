@@ -381,7 +381,7 @@ description:
 "A premium experience delivered by certified specialists, in a space dedicated to holistic health, clarity, and performance.",
 price: "1250lei / person",
 duration: "10h",
-reserveLink: "https://wa.link/hc8cvw",
+reserveLink: "https://wa.link/l1f0gf",
     },
     {
       name: "Harmonic GIFT Card",
