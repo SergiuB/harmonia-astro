@@ -1,7 +1,7 @@
 ---
 name: "Alina Carmina"
 featuredIndex: 4
-images: ["../images/carmina/alinacarmina.png"]
+images: ["../images/carmina/alinacarmina.jpg"]
 tags: ["Therapist", "Holistic Approach", "Alternative Medicine"]
 activities:
   [
