@@ -1,6 +1,6 @@
 ---
 name: "Dana Mîrza"
-featuredIndex: 5
+featuredIndex: 6
 images: ["../images/danamirza/danam.jpg"]
 tags: ["Instructor", "Tai Chi", "Qigong",]
 activities: ["group-qigong", "group-tai-chi", "alte-servicii", "group-miscare-constienta", "group-meditatii-ghidate"]
