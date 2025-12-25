@@ -3,8 +3,15 @@ name: "Samira Sarah Natour"
 featuredIndex: 3
 images: ["../images/samirah/samira.jpg"]
 tags: ["Sound Practitioner", "Terapie Vibrațională"]
-activities: ["alte-servicii", "sound-healing", "group-alteservicii", "group-sound-healing",]
-services: [
+activities:
+  [
+    "alte-servicii",
+    "sound-healing",
+    "group-alteservicii",
+    "group-sound-healing",
+  ]
+services:
+  [
     {
       name: "Sonoterapie",
       summary: "Sesiune individuală",
@@ -12,8 +19,8 @@ services: [
         [
           "Descriere serviciu:",
           "Fiecare celulă din corpul nostru este unică și rezonează cu propria frecvență. Folosind o varietate de tehnici diferite și instrumente muzicale terapeutice, alchimia se produce la nivel celular. Alchimia aduce echilibru pe plan fizic, emoțional, mental, spiritual și energetic. Frecvența vibrațională a instrumentelor muzicale terapeutice, dar și a vocii echilibrează emisferele creierului și înmoaie sistemul nervos. ",
-          "Bolurile terapeutice ajută trupul să intre într-o stare de relaxare profundă și conduc creierul în starea theta, o stare adânc meditativă. Respirația se adâncește, bătăile inimii descresc, tensiunea arterială coboară, corpul se relaxează, iar noua stare este mai receptivă la vindecare profundă, eliberând stresul, tensiunile și grijile. Alchimizarea prin sunet permite aprofundarea conexiunii cu noi înșine și aduce claritate emoțională și mentală. 
-Pe lângă acestea, o sesiune de terapie individuală de alchimie prin sunet ajută la ameliorarea durerilor fizice, la îmbunătățirea tiparelor de somn și ajută cu stresul și anxietate.",
+          "Bolurile terapeutice ajută trupul să intre într-o stare de relaxare profundă și conduc creierul în starea theta, o stare adânc meditativă. Respirația se adâncește, bătăile inimii descresc, tensiunea arterială coboară, corpul se relaxează, iar noua stare este mai receptivă la vindecare profundă, eliberând stresul, tensiunile și grijile. Alchimizarea prin sunet permite aprofundarea conexiunii cu noi înșine și aduce claritate emoțională și mentală.",
+          "Pe lângă acestea, o sesiune de terapie individuală de alchimie prin sunet ajută la ameliorarea durerilor fizice, la îmbunătățirea tiparelor de somn și ajută cu stresul și anxietate.",
           "Recomand să începi cu 3 sau 4 ședințe, una la câte o săptămână sau din doua in doua săptămâni.",
           "Informații necesare:",
           "Înainte de sesiune, recomand un timp de reflecție, doar tu cu tine, în care aduci în atenție ce anume ai vrea să lucrezi, care este prioritatea. Ce simți că e viu în tine, ce simți că vrei să eliberezi. Încearcă să nu mănânci cu două ore înainte sau ia o masă lejeră. Hidratează-te bine și vino îmbrăcată comod.",
@@ -23,7 +30,7 @@ Pe lângă acestea, o sesiune de terapie individuală de alchimie prin sunet aju
       duration: "60min / 3 x 60min",
       reserveLink: "https://wa.link/r57uxf",
     },
-     {
+    {
       name: "Sesiuni holistice de lucru cu vocea",
       summary: "Sesiune individuală",
       description:
@@ -47,18 +54,17 @@ Pe lângă acestea, o sesiune de terapie individuală de alchimie prin sunet aju
       duration: "60min / 3 x 60min",
       reserveLink: "https://wa.link/r57uxf",
     },
-        {
+    {
       name: "Alchimie prin sunet",
       summary: "Sesiune dedicată cuplurilor",
-      description:
-        [
+      description: [
           "Descriere serviciu:",
           "Fiți creatorii noii voastre relații, mai profunde și mai conștiente. Oferiți-vă o experiență ca o călătorie sonoră care vă va imersa în sunetele sacre ce vă vor restabili energia și vă vor revigora. Conectați-vă dincolo de corpul fizic, la nivel de spirit, și permiteți sunetelor să vă ridice vibrația la frecvența pură a iubirii.",
-          "Sunetul susține deschiderea, curățarea și echilibrarea întregului sistem energetic prin refacerea câmpului auric, amplificând intenția înspre vindecare și transformare. Individual, se curăță și se armonizează sistemul energetic, iar apoi, împreună, se întărește legătura. Alchimia prin sunete aduce echilibru pe plan fizic, emoțional, mental, spiritual și energetic și ajută la deblocarea energiilor și a emoțiilor vechi, stagnante, pentru a face loc unor legături noi, mai sănătoase și mai puternice. 
-Frecvența vibrațională a instrumentelor muzicale terapeutice, dar și a vocii echilibrează emisferele creierului și înmoaie sistemul nervos.",
+          "Sunetul susține deschiderea, curățarea și echilibrarea întregului sistem energetic prin refacerea câmpului auric, amplificând intenția înspre vindecare și transformare. Individual, se curăță și se armonizează sistemul energetic, iar apoi, împreună, se întărește legătura. Alchimia prin sunete aduce echilibru pe plan fizic, emoțional, mental, spiritual și energetic și ajută la deblocarea energiilor și a emoțiilor vechi, stagnante, pentru a face loc unor legături noi, mai sănătoase și mai puternice.",
+          "Frecvența vibrațională a instrumentelor muzicale terapeutice, dar și a vocii echilibrează emisferele creierului și înmoaie sistemul nervos.",
           "Bolurile terapeutice ajută trupul să intre într-o stare de relaxare profundă și conduc creierul în starea theta, o stare adânc meditativă. Respirația se adâncește, bătăile inimii descresc, tensiunea arterială coboară, corpul se relaxează, iar noua stare este mai receptivă la vindecare profundă, eliberând stresul, tensiunile și grijile. Alchimizarea prin sunet permite aprofundarea conexiunii cu noi înșine și aduce claritate emoțională și mentală.",
-          "Aceste sesiuni înlesnesc crearea de noi căi neuronale pentru a construi o relație mai puternică, presărând semințe de bucurie și de recunoștință unul față de celălalt. 
-În timpul unei sesiuni de cuplu, propun exerciții de parteneriat care aduc mai multă intimitate și conexiune la un nivel mai profund emoțional și spiritual.",
+          "Aceste sesiuni înlesnesc crearea de noi căi neuronale pentru a construi o relație mai puternică, presărând semințe de bucurie și de recunoștință unul față de celălalt.
+          În timpul unei sesiuni de cuplu, propun exerciții de parteneriat care aduc mai multă intimitate și conexiune la un nivel mai profund emoțional și spiritual.",
           "Beneficiile unei sesiuni de alchimie prin sunete pentru cupluri:",
           "❂  ajută la abordarea și rezolvarea problemelor emoționale profunde sau a traumelor stocate în corpul fizic, emoțional sau mental",
           "❂  ajută la îmbunătățirea iubirii de sine și a iubirii unul față de celălalt",
@@ -74,29 +80,31 @@ Frecvența vibrațională a instrumentelor muzicale terapeutice, dar și a vocii
       duration: "120min",
       reserveLink: "https://wa.link/r57uxf",
     },
-            {  
-   name: "RESPIRO",
-summary: "Urban Holistic Retreat",
-description:
-"RESPIRO este un program intensiv de o zi, dedicat reglării sistemului nervos, reconectării cu propriul corp și optimizării stării de bine.",
-"Conceput ca un retreat urban, RESPIRO oferă o experiență structurată și profesionistă, ideală pentru persoane și echipe care au nevoie de un reset mental, emoțional și fizic.",
-"Programul integrează practici validate precum respirația funcțională, mișcarea conștientă, terapia prin atingere, diagnoza digitală, sesiunile de sunet, creativitatea și reflecția ghidată.",
-"Formatul restrâns, de maximum 8 participanți, asigură personalizare, atenție individuală și rezultate reale într-o singură zi, într-un spațiu dedicat sănătății holistice.",
-"RESPIRO este un program versatil, adaptabil în funcție de dinamica și obiectivele fiecărui grup.",
-"Cui se adresează RESPIRO:",
-"• persoane individuale",
-"• cupluri",
-"• grupuri de prieteni",
-"• familii extinse",
-"• echipe de business",
-"• corporații",
-"RESPIRO oferă un cadru profesionist și bine structurat pentru o zi completă de resetare și reconectare.",
-"Programul poate fi integrat atât în parcursul individual al participanților, cât și în strategiile de wellbeing și dezvoltare ale organizațiilor.",
-"O experiență premium, livrată de specialiști certificați, într-un spațiu dedicat sănătății holistice, clarității și performanței.",
-price: "1250lei / persoană",
-duration: "10ore",
-reserveLink: "https://wa.link/l1f0gf",
- },
+    {
+      name: "RESPIRO",
+      summary: "Urban Holistic Retreat",
+      description:
+        [
+          "RESPIRO este un program intensiv de o zi, dedicat reglării sistemului nervos, reconectării cu propriul corp și optimizării stării de bine.",
+          "Conceput ca un retreat urban, RESPIRO oferă o experiență structurată și profesionistă, ideală pentru persoane și echipe care au nevoie de un reset mental, emoțional și fizic.",
+          "Programul integrează practici validate precum respirația funcțională, mișcarea conștientă, terapia prin atingere, diagnoza digitală, sesiunile de sunet, creativitatea și reflecția ghidată.",
+          "Formatul restrâns, de maximum 8 participanți, asigură personalizare, atenție individuală și rezultate reale într-o singură zi, într-un spațiu dedicat sănătății holistice.",
+          "RESPIRO este un program versatil, adaptabil în funcție de dinamica și obiectivele fiecărui grup.",
+          "Cui se adresează RESPIRO:",
+          "• persoane individuale",
+          "• cupluri",
+          "• grupuri de prieteni",
+          "• familii extinse",
+          "• echipe de business",
+          "• corporații",
+          "RESPIRO oferă un cadru profesionist și bine structurat pentru o zi completă de resetare și reconectare.",
+          "Programul poate fi integrat atât în parcursul individual al participanților, cât și în strategiile de wellbeing și dezvoltare ale organizațiilor.",
+          "O experiență premium, livrată de specialiști certificați, într-un spațiu dedicat sănătății holistice, clarității și performanței.",
+        ],
+      price: "1250lei / persoană",
+      duration: "10ore",
+      reserveLink: "https://wa.link/l1f0gf",
+    },
   ]
 location: "Harmonia Terra, Bucuresti" #optional
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional

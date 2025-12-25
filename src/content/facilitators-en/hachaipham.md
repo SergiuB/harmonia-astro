@@ -3,8 +3,17 @@ name: "Hac Hai Pham"
 featuredIndex: 3
 images: ["../images/hachai/hachai.jpg"]
 tags: ["Terapeut", "Breathwork", "innerdance"]
-activities: ["breathwork", "group-innerdance", "alte-servicii", "innerdance", "group-breathwork", "group-alteservicii"]
-services: [
+activities:
+  [
+    "breathwork",
+    "group-innerdance",
+    "alte-servicii",
+    "innerdance",
+    "group-breathwork",
+    "group-alteservicii",
+  ]
+services:
+  [
     {
       name: "Breath of Freedom",
       summary: "Breath of Freedom: Sesiune individuală",
@@ -12,7 +21,7 @@ services: [
         [
           "Veți porni într-o călătorie ghidată pentru a vă reconecta cu frumusețea vieții.",
           "Folosim setarea intențiilor și Respirația Rebirthing (respirație conștientă conectată) pentru a elibera energiile stagnante și traumele și a trece de la confuzie la claritate.",
-          "*A se lua la cunoștință faptul că sesiunile pe care le facilitez sunt ghidate în limba engleză."
+          "*A se lua la cunoștință faptul că sesiunile pe care le facilitez sunt ghidate în limba engleză.",
         ],
       isGroup: true,
       price: "300 Ron",
@@ -28,35 +37,37 @@ services: [
           "Acest proces modelează ciclul de somn. Astfel, după ședințe, poți avea vise mai vii și mai multe, care îți dezvăluie anumite aspecte ce erau anterior neclare.",
           "În timpul ședinței, te întinzi și asculți o călătorie ghidată prin sunet.",
           "Procesul poate fi asistat cu tehnici corporale pentru a activa anumite zone ale creierului.",
-          "*A se lua la cunoștință faptul că sesiunile pe care le facilitez sunt ghidate în limba engleză."
+          "*A se lua la cunoștință faptul că sesiunile pe care le facilitez sunt ghidate în limba engleză.",
         ],
       isGroup: true,
       price: "300 Ron",
       duration: "90min",
       reserveLink: "https://wa.link/lc3dd9",
     },
-      {
-    name: "RESPIRO",
-summary: "Urban Holistic Retreat",
-description:
-"RESPIRO is a one-day intensive program dedicated to nervous system regulation, reconnection with the body, and overall wellbeing optimization.",
-"Designed as an urban retreat, RESPIRO offers a structured and professional experience, ideal for individuals and teams seeking a mental, emotional, and physical reset.",
-"The program integrates evidence-informed practices such as functional breathing, conscious movement, touch-based therapy, digital diagnostics, sound sessions, creativity, and guided reflection.",
-"The intimate format, limited to a maximum of 8 participants, ensures personalization, individual attention, and meaningful results within a single day, held in a space dedicated to holistic health.",
-"RESPIRO is a versatile program that can be adapted to the dynamics and objectives of each group.",
-"Who RESPIRO is for:",
-"• individuals",
-"• couples",
-"• groups of friends",
-"• extended families",
-"• business teams",
-"• corporate groups",
-"RESPIRO provides a professional and well-structured framework for a full day of reset and reconnection.",
-"The program can be integrated both into individual personal development journeys and into organizational wellbeing and development strategies.",
-"A premium experience delivered by certified specialists, in a space dedicated to holistic health, clarity, and performance.",
-price: "1250lei / person",
-duration: "10h",
-reserveLink: "https://wa.link/l1f0gf",
+    {
+      name: "RESPIRO",
+      summary: "Urban Holistic Retreat",
+      description:
+        [
+          "RESPIRO is a one-day intensive program dedicated to nervous system regulation, reconnection with the body, and overall wellbeing optimization.",
+          "Designed as an urban retreat, RESPIRO offers a structured and professional experience, ideal for individuals and teams seeking a mental, emotional, and physical reset.",
+          "The program integrates evidence-informed practices such as functional breathing, conscious movement, touch-based therapy, digital diagnostics, sound sessions, creativity, and guided reflection.",
+          "The intimate format, limited to a maximum of 8 participants, ensures personalization, individual attention, and meaningful results within a single day, held in a space dedicated to holistic health.",
+          "RESPIRO is a versatile program that can be adapted to the dynamics and objectives of each group.",
+          "Who RESPIRO is for:",
+          "• individuals",
+          "• couples",
+          "• groups of friends",
+          "• extended families",
+          "• business teams",
+          "• corporate groups",
+          "RESPIRO provides a professional and well-structured framework for a full day of reset and reconnection.",
+          "The program can be integrated both into individual personal development journeys and into organizational wellbeing and development strategies.",
+          "A premium experience delivered by certified specialists, in a space dedicated to holistic health, clarity, and performance.",
+        ],
+      price: "1250lei / person",
+      duration: "10h",
+      reserveLink: "https://wa.link/l1f0gf",
     },
   ]
 location: "Ateliere online și offline în studiouri și la domiciliu în București." #optional
