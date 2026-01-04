@@ -12,9 +12,19 @@ interface Props {
 const { lang } = Astro.props;
 const t = useTranslations(lang);
 
-const pageTitle = "RESPIRO – Urban Holistic Retreat";
-import heroImage from "/src/assets/respiro/principala/Respiro_09711.jpg";
-const optimizedHeroImage = await getImage({ src: heroImage });
+const pageTitle = "RESPIRO Urban Holistic Retreat";
+import heroImage from "/src/assets/new-design/portrait_retreat.jpg";
+import heroDesktopImage from "/src/assets/new-design/landscape_retreat.jpg";
+const optimizedHeroImage = await getImage({
+  src: heroImage,
+  width: 1600,
+  quality: 95,
+});
+const optimizedHeroDesktopImage = await getImage({
+  src: heroDesktopImage,
+  width: 1920,
+  quality: 95,
+});
 
 import carousel0 from "/src/assets/respiro/carusel/Respiro_096.jpg";
 import carousel1 from "/src/assets/respiro/carusel/Respiro_051.jpg";
@@ -52,27 +62,17 @@ const participantCategories = [
 
 <RootLayout title={pageTitle} lang={lang}>
   <section
-    class="relative hero-section h-[60vh] flex flex-col items-center justify-start pt-14 text-center bg-cover bg-center lg:justify-center"
+    class="relative hero-section h-[calc(100vh-7rem)] flex flex-col items-center justify-center text-center bg-cover bg-center lg:hidden"
     style={`background-image: url('${optimizedHeroImage.src}')`}
   >
-    <span
-      class="absolute inset-0 bg-gradient-to-b from-black/50 via-black/30 to-black/60"
-    ></span>
-    <div class="relative z-10">
-      <h1
-        class="font-black relative text-white text-center leading-tight drop-shadow-[0_2px_7px_rgba(0,0,0,0.3)]"
-      >
-        <div class="flex flex-col items-center justify-center gap-1">
-          <span class="text-5xl tracking-[0.25em] uppercase pl-3 breathing-text"
-            >RESPIRO</span
-          >
-          <span class="text-2xl">Urban Holistic Retreat</span>
-        </div>
-      </h1>
-    </div>
   </section>
   <section
-    class="flex flex-col items-center justify-center bg-primary text-white text-left"
+    class="relative hero-section h-[calc(100vh-7rem)] flex flex-col items-center justify-center text-center bg-cover bg-center max-lg:hidden"
+    style={`background-image: url('${optimizedHeroDesktopImage.src}')`}
+  >
+  </section>
+  <section
+    class="flex flex-col items-center justify-center bg-light text-primary text-left"
   >
     <p class="px-4 py-4 max-w-lg">
       {t("respiro.introParagraph1")}
@@ -107,14 +107,14 @@ const participantCategories = [
       </ul>
       <div class="flex flex-col items-center justify-center gap-3 mt-6">
         <a
-          class="px-4 py-4 mt-4 text-secondary-pink rounded-full border-2 border-secondary-pink text-center"
+          class="px-4 py-4 mt-4 text-primary rounded-full border-2 border-primary text-center"
           href="/respiro.pdf"
           download
         >
           {t("respiro.ctaDownload")}
         </a>
         <a
-          class="bg-secondary-pink rounded-full px-11 py-4 text-white uppercase text-center"
+          class="bg-primary rounded-full px-11 py-4 text-light uppercase text-center"
           href="https://wa.link/l1f0gf"
           target="_blank"
           rel="noopener noreferrer"

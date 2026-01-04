@@ -1,5 +1,5 @@
 ---
-import LogoMVV, { DarkBlue } from "./LogoMVV.astro";
+import LogoIcon from "./LogoIcon.astro";
 
 interface Props {
   colorAccent?: string;
@@ -8,30 +8,28 @@ interface Props {
   description: string;
   descriptionSecond?: string;
   descriptionThird?: string;
+  class?: string;
 }
 const {
   appearsFromRight = false,
-  colorAccent,
   title,
   description,
   descriptionSecond,
   descriptionThird,
+  class: className,
 } = Astro.props;
 ---
 
 <>
-  <LogoMVV
+  <LogoIcon
     class:list={[
       "css-animation logo-mvv w-32 h-32 opacity-0  transition delay-300",
       {
         "translate-x-full rotate-180": !appearsFromRight,
         "from-right -translate-x-full -rotate-180": appearsFromRight,
       },
+      className,
     ]}
-    accentFill1={colorAccent}
-    accentFill2={DarkBlue}
-    accentFill3={colorAccent}
-    accentFill4={colorAccent}
   />
   <h1 class="text-primary text-5xl text-center mt-6">{title}</h1>
   <div>

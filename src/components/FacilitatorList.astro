@@ -47,9 +47,9 @@ const facilitators = (
         <Image
           src={facilitator.data.images[0]}
           alt={facilitator.data.name}
-          class="rounded-3xl object-cover"
-          width={150}
-          height={150}
+          class="rounded-3xl object-cover w-40 h-40"
+          width={1000}
+          height={1000}}
         />
 
         <div class="flex flex-col  gap-3 py-2 w-36">
@@ -58,7 +58,7 @@ const facilitators = (
             {facilitator.data.tags.map((tag) => (
               <p
                 transition:name={`facilitators-tag-${tag}-${idx}`}
-                class="bg-secondary-teal rounded-xl  text-xxs font-semibold text-red  text-center p-1.5 uppercase"
+                class="bg-primary rounded-xl  text-xxs font-semibold text-light  text-center p-1.5 uppercase"
               >
                 {tag}
               </p>

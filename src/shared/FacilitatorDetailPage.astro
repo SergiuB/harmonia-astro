@@ -61,7 +61,7 @@ const showDescriptionAfterServices = Boolean(servicesFirst) && hasServices;
 </style>
 
 <RootLayout title={name} lang={lang}>
-  <section class="bg-primary py-10 text-white">
+  <section class="bg-secondary py-10 text-light">
     <div class="container mx-auto max-w-screen-sm px-4">
       <h1 class="text-5xl pt-4 pb-3" transition:name="facilitators-title">
         {name}
@@ -71,7 +71,7 @@ const showDescriptionAfterServices = Boolean(servicesFirst) && hasServices;
           tags.map((tag) => (
             <p
               transition:name={`facilitators-tag-${tag}`}
-              class="bg-secondary-teal rounded-xl  text-xxs font-semibold text-red  text-center p-1.5 uppercase"
+              class="bg-primary rounded-xl  text-xxs font-semibold text-red  text-center p-1.5 uppercase"
             >
               {tag}
             </p>
@@ -85,12 +85,14 @@ const showDescriptionAfterServices = Boolean(servicesFirst) && hasServices;
             showDescriptionAfterServices ? "order-2" : "order-1",
           ]}
         >
-          {showDescriptionAfterServices && (
-            <h2 class="text-2xl pt-4">{t("facilitator.about")}</h2>
-          )}
+          {
+            showDescriptionAfterServices && (
+              <h2 class="text-2xl pt-4">{t("facilitator.about")}</h2>
+            )
+          }
           <div
             class:list={[
-              "prose text-white prose-headings:text-white prose-a:text-secondary-blue",
+              "prose text-light prose-headings:text-light prose-a:text-secondary",
               showDescriptionAfterServices ? "mt-2" : "mt-5",
             ]}
           >
@@ -114,7 +116,7 @@ const showDescriptionAfterServices = Boolean(servicesFirst) && hasServices;
                   >
                     <div class="flex justify-between">
                       <div @click="expanded = ! expanded">
-                        <h3 class="text-xl text-secondary-blue underline py-1">
+                        <h3 class="text-xl text-dark underline py-1 cursor-pointer">
                           {service.name}
                         </h3>
                         <div class="text-xs grid grid-cols-[auto_1px_auto_1px_auto] items-center">
@@ -139,7 +141,7 @@ const showDescriptionAfterServices = Boolean(servicesFirst) && hasServices;
                       {service.reserveLink && (
                         <a
                           href={service.reserveLink}
-                          class="rounded-xl bg-secondary-blwue uppercase h-7 px-2 pt-1 mt-2"
+                          class="rounded-xl bg-primary uppercase h-7 px-2 pt-1 mt-2"
                         >
                           {t("facilitator.reserve")}
                         </a>
@@ -177,16 +179,14 @@ const showDescriptionAfterServices = Boolean(servicesFirst) && hasServices;
               data-pswp-height={image.height}
               target="_blank"
               class:list={[
-                "overflow-hidden border-[1px] border-primary hover:border-secondary",
+                "overflow-hidden",
                 { "col-span-2 ": imageArr.length % 2 && idx === 0 },
               ]}
             >
               <Image
                 src={image}
                 alt={name}
-                class="object-cover w-full grayscale-[80%] hover:grayscale-0 transition duration-300 ease-in-out aspect-[3/2] rounded-3xl "
-                width="525"
-                height="350"
+                class="object-cover w-full grayscale-[80%] hover:grayscale-0 rounded-3xl "
               />
             </a>
           ))
@@ -198,9 +198,9 @@ const showDescriptionAfterServices = Boolean(servicesFirst) && hasServices;
           {
             location && (
               <>
-                <p class="text-white ">{t("facilitator.location")}</p>
+                <p class="text-light ">{t("facilitator.location")}</p>
                 {locationUrl ? (
-                  <a href={locationUrl} class="text-white underline col-span-5">
+                  <a href={locationUrl} class="text-light underline col-span-5">
                     {location}
                   </a>
                 ) : (
@@ -210,20 +210,20 @@ const showDescriptionAfterServices = Boolean(servicesFirst) && hasServices;
             )
           }
 
-          <p class="text-white">{t("facilitator.phone")}</p>
+          <p class="text-light">{t("facilitator.phone")}</p>
           <a
             href={`tel:${contact.phone}`}
-            class="text-white underline col-span-5"
+            class="text-light underline col-span-5"
           >
             {contact.phone}
           </a>
           {
             contact.email && (
               <>
-                <p class="text-white">{t("facilitator.email")}</p>
+                <p class="text-light">{t("facilitator.email")}</p>
                 <a
                   href={`mailto:${contact.email}`}
-                  class="text-white underline col-span-5"
+                  class="text-light underline col-span-5"
                 >
                   {contact.email}
                 </a>
@@ -233,14 +233,14 @@ const showDescriptionAfterServices = Boolean(servicesFirst) && hasServices;
           {
             contact.website && (
               <>
-                <p class="text-white">{t("facilitator.website")}</p>
+                <p class="text-light">{t("facilitator.website")}</p>
                 <a
                   href={
                     contact.website.startsWith("http")
                       ? contact.website
                       : `https://${contact.website}`
                   }
-                  class="text-white underline col-span-5"
+                  class="text-light underline col-span-5"
                 >
                   {contact.website}
                 </a>
@@ -248,18 +248,18 @@ const showDescriptionAfterServices = Boolean(servicesFirst) && hasServices;
             )
           }
 
-          <p class="text-white">{t("facilitator.social")}</p>
+          <p class="text-light">{t("facilitator.social")}</p>
           <div class="flex gap-2 col-span-5">
             {
               contact.facebook && (
-                <a href={contact.facebook} class="text-white underline">
+                <a href={contact.facebook} class="text-light underline">
                   Facebook
                 </a>
               )
             }
             {
               contact.instagram && (
-                <a href={contact.instagram} class="text-white underline">
+                <a href={contact.instagram} class="text-light underline">
                   Instagram
                 </a>
               )

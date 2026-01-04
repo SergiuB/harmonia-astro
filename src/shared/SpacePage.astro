@@ -14,11 +14,18 @@ interface Props {
 const { lang } = Astro.props;
 const t = useTranslations(lang);
 
-const pageTitle = t("space.title");
-import heroImage from "/src/assets/spatiu-hero.jpg";
-import heroDesktopImage from "/src/assets/spatiu-hero-desktop.jpg";
-const optimizedHeroImage = await getImage({ src: heroImage });
-const optimizedHeroDesktopImage = await getImage({ src: heroDesktopImage });
+import heroImage from "/src/assets/new-design/portrait_spatiu.jpg";
+import heroDesktopImage from "/src/assets/new-design/landscape_spatiu.jpg";
+const optimizedHeroImage = await getImage({
+  src: heroImage,
+  width: 1600,
+  quality: 95,
+});
+const optimizedHeroDesktopImage = await getImage({
+  src: heroDesktopImage,
+  width: 1920,
+  quality: 95,
+});
 
 import hub0 from "/src/assets/hub/hub0.jpg";
 import hub1 from "/src/assets/hub/hub1.jpg";
@@ -53,32 +60,18 @@ const images = [
 const showEvents = import.meta.env.FF_SHOW_EVENTS;
 ---
 
-<RootLayout title={pageTitle} lang={lang}>
+<RootLayout title={t("space.title")} lang={lang}>
   <section
-    class="relative hero-section h-[60vh] flex flex-col items-center justify-center text-center bg-cover bg-center lg:hidden"
+    class="relative hero-section h-[calc(100vh-7rem)] flex flex-col items-center justify-center text-center bg-cover bg-center 2xl:hidden"
     style={`background-image: url('${optimizedHeroImage.src}')`}
   >
-    <h1
-      class="text-5xl font-black drop-shadow-lg relative w-60 white-text-border"
-      transition:name="facilitators-title"
-    >
-      {t("space.title")}
-    </h1>
   </section>
   <section
-    class="relative hero-section h-[60vh] flex flex-col items-center justify-center text-center bg-cover bg-center max-lg:hidden"
+    class="relative hero-section h-[calc(100vh-7rem)] flex flex-col items-center justify-center text-center bg-cover bg-center max-2xl:hidden"
     style={`background-image: url('${optimizedHeroDesktopImage.src}')`}
   >
-    <h1
-      class="text-6xl font-black drop-shadow-lg relative w-[28rem] white-text-border"
-      transition:name="facilitators-title"
-    >
-      {t("space.title")}
-    </h1>
   </section>
-  <section
-    class="flex flex-col items-center justify-center bg-primary text-white"
-  >
+  <section class="flex flex-col items-center justify-center">
     <p class="px-4 py-4 max-w-lg">
       {t("space.description1")}
     </p>
@@ -112,7 +105,7 @@ const showEvents = import.meta.env.FF_SHOW_EVENTS;
       <div class="flex items-center justify-center">
         <a
           id="rules"
-          class="px-10 py-4 mt-4 text-secondary-pink rounded-full border-2 border-secondary-pink text-center"
+          class="px-10 py-4 mt-4 text-primary rounded-full border-2 border-primary text-center"
           target="_blank"
           rel="noopener noreferrer"
           href="/spatiu.pdf"
@@ -122,7 +115,7 @@ const showEvents = import.meta.env.FF_SHOW_EVENTS;
       </div>
       <div class="flex items-center justify-center">
         <a
-          class="bg-secondary-pink rounded-full px-10 py-4 m-4 text-white uppercase text-center"
+          class="bg-primary rounded-full px-10 py-4 m-4 text-light uppercase text-center"
           href="https://wa.link/rjscoo"
         >
           {t("space.contactUs")}
