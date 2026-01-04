@@ -2,12 +2,12 @@
 import Menu from "./Menu.astro";
 import MenuButton from "./MenuButton.astro";
 import MenuItems from "./MenuItems.astro";
-import LogoMVV from "./LogoMVV.astro";
-import HarmoniaText from "./HarmoniaText.astro";
 import LanguageSwitcher from "./LanguageSwitcher.astro";
 import { useTranslations } from "../i18n/utils";
 import { getLocalizedLinks } from "../content/links";
 import type { Locale } from "../config/i18n";
+import LogoIcon from "./LogoIcon.astro";
+import Logo from "./Logo.astro";
 
 interface Props {
   lang?: Locale;
@@ -26,14 +26,14 @@ const navigationLinks = getLocalizedLinks(lang);
   }
 </style>
 <header
-  class="z-20 sticky top-0 my-4 py-2 px-4 h-16 flex justify-between gap-5 bg-white items-center container mx-auto"
+  class="z-20 sticky top-0 my-4 py-2 px-4 h-16 flex justify-between gap-5 bg-light items-center container mx-auto"
 >
   <div>
     <a href={`/${lang}`} class="flex gap-2">
       <div id="logo-container">
-        <LogoMVV class="w-9 h-9" />
+        <LogoIcon class="w-9 h-9 fill-primary" />
       </div>
-      <HarmoniaText class="h-9" />
+      <Logo class="h-9 fill-primary" />
     </a>
   </div>
   <div class="flex items-center gap-1.5">
@@ -41,13 +41,8 @@ const navigationLinks = getLocalizedLinks(lang);
     <Menu>
       <MenuItems class="z-10">
         <div
-          class="css-animation bg-white fixed top-0 left-0 w-full h-full transition-transform -translate-y-full group-[.open]:translate-y-0 flex flex-col justify-center items-center"
+          class="css-animation bg-light fixed top-0 left-0 w-full h-full transition-transform -translate-y-full group-[.open]:translate-y-0 flex flex-col justify-center items-center"
         >
-          <div
-            class="css-animation absolute -top-36 -left-64 group-[.open]:scale-75 opacity-50 scale-0 transition-transform delay-100"
-          >
-            <LogoMVV class="w-[513px] h-[485px]" />
-          </div>
           <ul
             class="w-full h-full z-10 flex flex-col justify-center items-center backdrop-blur-md lg:gap-5 uppercase"
           >
@@ -55,7 +50,7 @@ const navigationLinks = getLocalizedLinks(lang);
               class="css-animation mb-6 opacity-0 -translate-x-20 group-[.open]:translate-x-0 group-[.open]:opacity-100 group-[.open]:delay-150 transition-all"
             >
               <a
-                class="css-animation rounded-full px-10 py-2 uppercase transition-colors text-secondary-pink border-2 border-secondary-pink text-center"
+                class="css-animation rounded-full px-10 py-2 uppercase transition-colors text-primary border-2 border-primary text-center"
                 href={`/${lang}/ghidare`}
               >
                 {t("nav.freeGuidance")}
@@ -77,7 +72,7 @@ const navigationLinks = getLocalizedLinks(lang);
               class="css-animation mt-6 opacity-0 -translate-x-20 group-[.open]:translate-x-0 group-[.open]:opacity-100 group-[.open]:delay-150 transition-all"
             >
               <a
-                class="css-animation bg-primary rounded-full px-10 py-2 text-white uppercase transition-colors"
+                class="css-animation bg-primary rounded-full px-10 py-2 text-light uppercase transition-colors"
                 href={`/${lang}/new-facilitator`}
               >
                 {t("nav.becomeFacilitator")}
@@ -91,7 +86,7 @@ const navigationLinks = getLocalizedLinks(lang);
   </div>
 </header>
 
-<div class="header-shadow z-10 fixed top-0 h-16 w-full bg-white"></div>
+<div class="header-shadow z-10 fixed top-0 h-16 w-full bg-light"></div>
 <!--
 <a href="/">Home</a>
 <a href="/about/">About</a>

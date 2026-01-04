@@ -11,10 +11,7 @@ export interface CalendarEventsProps {
   lang?: Locale;
 }
 
-const {
-  title = "",
-  lang = "ro",
-} = Astro.props as CalendarEventsProps;
+const { title = "", lang = "ro" } = Astro.props as CalendarEventsProps;
 const t = useTranslations(lang);
 interface GoogleCalendarEvent {
   summary: string;
@@ -240,7 +237,7 @@ function parseDescription(description?: string) {
       <button
         x-show="visibleCount < totalEvents"
         @click="showMore()"
-        class="w-full mt-4 px-4 py-2 text-secondary-pink border border-secondary-pink rounded-full transition-colors"
+        class="w-full mt-4 px-4 py-2 text-secondary border border-secondary rounded-full transition-colors"
       >
         {t("calendar.loadMore")}
       </button>

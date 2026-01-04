@@ -1,9 +1,9 @@
 ---
 import MVV from "../components/MVV.astro";
 import FacilitatorList from "../components/FacilitatorList.astro";
+import HeroLinks from "../components/HeroLinks.astro";
 import RootLayout from "../layouts/RootLayout.astro";
 import { getImage } from "astro:assets";
-import heroImage from "/src/assets/hero-last.jpg";
 import { useTranslations } from "../i18n/utils";
 
 interface Props {
@@ -13,7 +13,11 @@ interface Props {
 const { lang } = Astro.props;
 const t = useTranslations(lang);
 
-const optimizedBackgroundImage = await getImage({ src: heroImage });
+import heroImage from "/src/assets/new-design/portrait_homepage.jpg";
+import heroDesktopImage from "/src/assets/new-design/landscape_homepage.jpg";
+const optimizedHeroImage = await getImage({ src: heroImage });
+const optimizedHeroDesktopImage = await getImage({ src: heroDesktopImage });
+
 const pageTitle = "Harmonia";
 
 // All content now comes from translations
@@ -21,29 +25,16 @@ const pageTitle = "Harmonia";
 
 <RootLayout title={pageTitle} lang={lang}>
   <section
-    class="relative hero-section h-[calc(100vh-8rem)] flex flex-col items-center justify-between pb-32 pt-32 text-center bg-cover bg-center"
-    style={`background-image: url('${optimizedBackgroundImage.src}')`}
+    class="relative hero-section h-[calc(100vh-7rem)] flex flex-col items-center justify-end text-center bg-cover bg-center lg:hidden"
+    style={`background-image: url('${optimizedHeroImage.src}')`}
   >
-    <h1
-      class="text-4xl lg:text-6xl font-black uppercase drop-shadow relative top-[45%] md:top-[35%] w-60 md:w-96 place-self-center white-text-border-lighter"
-    >
-      Healing in oneness
-    </h1>
-
-    <div class="flex gap-2">
-      <a
-        class="bg-dark border-2 border-white bg-opacity-50 text-white uppercase px-4 py-2 rounded-full w-40 hover:bg-opacity-100 hover:bg-secondary-blue hover:text-dark hover:cursor-pointer"
-        href={`/${lang}/services`}
-      >
-        {t("nav.services")}
-      </a>
-      <a
-        class="bg-dark border-2 border-white bg-opacity-50 text-white uppercase px-4 py-2 rounded-full w-40 hover:bg-opacity-100 hover:bg-secondary-blue hover:text-dark hover:cursor-pointer"
-        href={`/${lang}/space`}
-      >
-        {t("nav.space")}
-      </a>
-    </div>
+    <HeroLinks lang={lang} class="mb-32" />
+  </section>
+  <section
+    class="relative hero-section h-[calc(100vh-7rem)] flex flex-col items-center justify-end text-center bg-cover bg-center max-lg:hidden"
+    style={`background-image: url('${optimizedHeroDesktopImage.src}')`}
+  >
+    <HeroLinks lang={lang} class="mb-32" />
   </section>
 
   <section
@@ -51,14 +42,14 @@ const pageTitle = "Harmonia";
   >
     <div class="flex flex-col items-center justify-center max-w-lg">
       <MVV
-        colorAccent="#0FCBFF"
+        class="fill-primary"
         title={t("home.mission.title")}
         description={t("home.mission.description")}
       />
     </div>
     <div class="flex flex-col items-center justify-center max-w-lg">
       <MVV
-        colorAccent="#FF969F"
+        class="fill-primary"
         title={t("home.values.title")}
         description={t("home.values.description")}
         descriptionSecond={t("home.values.descriptionSecond")}
@@ -68,7 +59,7 @@ const pageTitle = "Harmonia";
     </div>
     <div class="flex flex-col items-center justify-center max-w-lg">
       <MVV
-        colorAccent="#00C3CD"
+        class="fill-primary"
         title={t("home.vision.title")}
         description={t("home.vision.description")}
       />
@@ -76,7 +67,7 @@ const pageTitle = "Harmonia";
   </section>
 
   <section
-    class="flex flex-col items-center justify-center bg-primary py-24 text-white"
+    class="flex flex-col items-center justify-center bg-secondary py-24 text-light"
   >
     <h1 class="text-6xl" transition:name="facilitators-title">
       {t("facilitators.title")}
@@ -88,7 +79,7 @@ const pageTitle = "Harmonia";
     <div class="flex flex-col items-center justify-center gap-10">
       <button
         data-aos="flip-up"
-        class="css-animation bg-secondary-pink text-primary uppercase px-4 py-2 rounded-full w-60 h-12 hover:bg-opacity-100 hover:bg-secondary-blue"
+        class="css-animation bg-light text-primary uppercase px-4 py-2 rounded-full w-60 h-12 hover:text-light hover:bg-primary"
       >
         <a href={`/${lang}/facilitators`}>{t("facilitators.seeAll")}</a>
       </button>

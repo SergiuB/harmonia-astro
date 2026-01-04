@@ -33,16 +33,14 @@ const filteredActivities = activities.filter((activity) =>
 ---
 
 <RootLayout title={pageTitle} lang={lang}>
-  <section
-    class="flex flex-col items-center justify-center bg-primary py-24 text-white"
-  >
+  <section class="flex flex-col items-center justify-center py-24">
     <h1 class="text-6xl mb-8" transition:name="facilitators-title">
       {pageTitle}
     </h1>
 
     <div class="flex items-center justify-center mb-8">
       <a
-        class="bg-secondary-pink rounded-full px-6 py-2 text-white uppercase text-center text-sm"
+        class="bg-primary rounded-full px-6 py-2 text-light uppercase text-center text-sm"
         href={`/${lang}/ghidare`}
       >
         {t("services.freeGuidance")}
@@ -64,7 +62,7 @@ const filteredActivities = activities.filter((activity) =>
               <li class="py-2 text-center w-1/2 box-border even:clear-left">
                 <a
                   href={`/${lang}/services/${activity.id}`}
-                  class=" text-secondary-blue py-1"
+                  class=" text-secondary py-1"
                   transition:name={`activity-${activity.id}`}
                 >
                   {t(activity.nameKey)}
@@ -87,7 +85,7 @@ const filteredActivities = activities.filter((activity) =>
               <li class="py-2  text-center w-1/2 box-border even:clear-left">
                 <a
                   href={`/${lang}/services/${activity.id}`}
-                  class=" text-secondary-blue py-1"
+                  class=" text-secondary py-1"
                   transition:name={`activity-${activity.id}`}
                 >
                   {t(activity.nameKey)}

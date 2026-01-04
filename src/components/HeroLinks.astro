@@ -1,0 +1,30 @@
+---
+import { useTranslations } from "../i18n/utils";
+import type { Locale } from "../config/i18n";
+
+interface Props {
+  lang: Locale;
+  class?: string;
+}
+
+const { lang, class: className } = Astro.props;
+const t = useTranslations(lang);
+
+const linkClass =
+  "bg-primary border-2 border-light bg-opacity-50 text-light uppercase px-4 py-2 rounded-full w-40 hover:border-light hover:bg-light hover:text-primary hover:bg-opacity-100 hover:cursor-pointer";
+---
+
+<div class:list={["flex gap-2", className]}>
+  <a
+    class={linkClass}
+    href={`/${lang}/services`}
+  >
+    {t("nav.services")}
+  </a>
+  <a
+    class={linkClass}
+    href={`/${lang}/space`}
+  >
+    {t("nav.space")}
+  </a>
+</div>

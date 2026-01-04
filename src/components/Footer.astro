@@ -5,6 +5,8 @@ import { getLocalizedLinks } from "../content/links";
 import { Icon } from "astro-icon/components";
 import { useTranslations } from "../i18n/utils";
 import type { Locale } from "../config/i18n";
+import Logo from "./Logo.astro";
+import LogoIcon from "./LogoIcon.astro";
 
 interface Props {
   lang: Locale;
@@ -16,12 +18,12 @@ const links = getLocalizedLinks(lang);
 ---
 
 <footer
-  class="flex flex-col items-center justify-center bg-secondary-pink py-24 text-white"
+  class="flex flex-col items-center justify-center bg-primary py-24 text-light"
 >
   <ul class="flex flex-col justify-center items-center gap-8 uppercase">
     <li>
       <a
-        class="css-animation rounded-full px-10 py-2 uppercase transition-color text-primary border-2 text-center transition-colors"
+        class="css-animation rounded-full px-10 py-2 uppercase transition-color border-2 text-center transition-colors"
         href={`/${lang}/ghidare`}
       >
         {t("footer.freeGuidance")}
@@ -30,7 +32,7 @@ const links = getLocalizedLinks(lang);
     {
       links.map(({ url, title }) => (
         <li>
-          <a class="hover:text-secondary-blue  transition-colors" href={url}>
+          <a class="hover:text-secondary  transition-colors" href={url}>
             {title}
           </a>
         </li>
@@ -38,7 +40,7 @@ const links = getLocalizedLinks(lang);
     }
     <li>
       <a
-        class="css-animation bg-primary rounded-full px-10 py-2 text-white uppercase hover:bg-secondary-blue hover:text-primary transition-colors"
+        class="css-animation bg-light rounded-full px-10 py-2 text-primary uppercase transition-colors"
         href={`/${lang}/new-facilitator`}
       >
         {t("footer.becomeFacilitator")}
@@ -46,17 +48,11 @@ const links = getLocalizedLinks(lang);
     </li>
   </ul>
   <div class="flex items-center justify-center gap-2 py-16">
-    <LogoMVV
-      accentFill1={DarkBlue}
-      accentFill2={DarkBlue}
-      accentFill3={DarkBlue}
-      accentFill4={DarkBlue}
-      class="h-14 w-14"
-    />
-    <HarmoniaText class="h-14" />
+    <LogoIcon class="h-14 w-14 fill-light" />
+    <Logo class="h-14 fill-light" />
   </div>
   <div>
-    <p class="text-center uppercase text-sm border-b-primary pb-2 border-b-2">
+    <p class="text-center uppercase text-sm border-b-light pb-2 border-b-2">
       {t("footer.tagline")}
     </p>
     <div class="flex items-center justify-center gap-2 mt-2">

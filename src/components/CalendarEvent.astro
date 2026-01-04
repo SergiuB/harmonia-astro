@@ -67,7 +67,7 @@ const t = useTranslations(lang);
       detailsLink ? (
         <a
           href={detailsLink}
-          class="text-xl font-semibold text-secondary-blue underline mt-2 inline-block"
+          class="text-xl font-semibold text-secondary underline mt-2 inline-block"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -81,7 +81,7 @@ const t = useTranslations(lang);
       registerLink && (
         <a
           href={registerLink}
-          class="rounded-xl bg-secondary-pink uppercase h-7 px-4 pt-1 mt-2 text-white text-sm"
+          class="rounded-xl bg-secondary uppercase h-7 px-4 pt-1 mt-2 text-light text-sm"
         >
           {t("calendar.participate")}
         </a>
@@ -92,20 +92,20 @@ const t = useTranslations(lang);
   <div
     x-show="expanded"
     x-collapse
-    class="overflow-hidden prose mt-2 text-white prose-headings:text-white prose-p:text-white prose-li:text-white prose-strong:text-white prose-a:text-white"
+    class="overflow-hidden prose mt-2 text-primary prose-headings:text-primary prose-p:text-primary prose-li:text-primary prose-strong:text-primary prose-a:text-primary prose-hr:border-primary"
     set:html={description}
   />
   <div
     x-show="!expanded"
     x-collapse
     x-ref="content"
-    class="line-clamp-3 overflow-hidden prose mt-2 text-white prose-headings:text-white prose-p:text-white prose-li:text-white prose-strong:text-white prose-a:text-white"
+    class="line-clamp-3 overflow-hidden prose mt-2 text-primary prose-headings:text-primary prose-p:text-primary prose-li:text-primary prose-strong:text-primary prose-a:text-primary prose-hr:border-primary"
     set:html={description}
   />
   <button
     x-show="hasOverflow"
     @click="toggleExpanded()"
-    class="block mt-2 text-secondary-blue underline text-sm cursor-pointer"
+    class="block mt-2 text-secondary underline text-sm cursor-pointer"
   >
     <span
       x-text={`expanded ? '${t("calendar.showLess")}' : '${t("calendar.showMore")}'`}
