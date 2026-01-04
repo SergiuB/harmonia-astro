@@ -15,8 +15,16 @@ const t = useTranslations(lang);
 
 import heroImage from "/src/assets/new-design/portrait_homepage.jpg";
 import heroDesktopImage from "/src/assets/new-design/landscape_homepage.jpg";
-const optimizedHeroImage = await getImage({ src: heroImage });
-const optimizedHeroDesktopImage = await getImage({ src: heroDesktopImage });
+const optimizedHeroImage = await getImage({
+  src: heroImage,
+  width: 1600,
+  quality: 95,
+});
+const optimizedHeroDesktopImage = await getImage({
+  src: heroDesktopImage,
+  width: 1920,
+  quality: 95,
+});
 
 const pageTitle = "Harmonia";
 

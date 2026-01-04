@@ -15,8 +15,16 @@ const t = useTranslations(lang);
 const pageTitle = "RESPIRO Urban Holistic Retreat";
 import heroImage from "/src/assets/new-design/portrait_retreat.jpg";
 import heroDesktopImage from "/src/assets/new-design/landscape_retreat.jpg";
-const optimizedHeroImage = await getImage({ src: heroImage });
-const optimizedHeroDesktopImage = await getImage({ src: heroDesktopImage });
+const optimizedHeroImage = await getImage({
+  src: heroImage,
+  width: 1600,
+  quality: 95,
+});
+const optimizedHeroDesktopImage = await getImage({
+  src: heroDesktopImage,
+  width: 1920,
+  quality: 95,
+});
 
 import carousel0 from "/src/assets/respiro/carusel/Respiro_096.jpg";
 import carousel1 from "/src/assets/respiro/carusel/Respiro_051.jpg";

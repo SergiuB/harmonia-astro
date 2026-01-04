@@ -16,8 +16,16 @@ const t = useTranslations(lang);
 
 import heroImage from "/src/assets/new-design/portrait_spatiu.jpg";
 import heroDesktopImage from "/src/assets/new-design/landscape_spatiu.jpg";
-const optimizedHeroImage = await getImage({ src: heroImage });
-const optimizedHeroDesktopImage = await getImage({ src: heroDesktopImage });
+const optimizedHeroImage = await getImage({
+  src: heroImage,
+  width: 1600,
+  quality: 95,
+});
+const optimizedHeroDesktopImage = await getImage({
+  src: heroDesktopImage,
+  width: 1920,
+  quality: 95,
+});
 
 import hub0 from "/src/assets/hub/hub0.jpg";
 import hub1 from "/src/assets/hub/hub1.jpg";
