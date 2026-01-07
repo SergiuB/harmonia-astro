@@ -114,7 +114,7 @@ services:
       reserveLink: "https://wa.link/yfb2tx",
     },
   ]
-location: "on site - Harmonia Terra, str. Cercului, nr.18 ; online" #optional
+location: "Harmonia Terra, str. Cercului, nr.18" #optional
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
 contact: {
     email: "stefisandu28@gmail.com", #optional
