@@ -120,7 +120,6 @@ contact: {
     email: "stefisandu28@gmail.com", #optional
     phone: "0731821495",
     instagram: "https://www.instagram.com/mai.incet",
-    facebook: "https://www.facebook.com/carmin.carmi",
     whatsapp: "https://wa.link/yfb2tx", #optional
   }
 ---
