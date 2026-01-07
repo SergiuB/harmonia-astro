@@ -124,7 +124,6 @@ contact: {
     whatsapp: "https://wa.link/yfb2tx", #optional
   }
 ---
-A few words about me, my therapeutic approach, and what defines my work with people.
 
 My name is Ștefi Sandu, and in recent years I have made understanding the relationship between mind and body a priority—first for my own process, and later in order to share with others the techniques that have supported me.
 
