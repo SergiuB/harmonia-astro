@@ -126,7 +126,7 @@ contact: {
 ---
 A few words about me, my therapeutic approach, and what defines my work with people.
 
-My name is Stefi Sandu, and in recent years I have made understanding the relationship between mind and body a priority—first for my own process, and later in order to share with others the techniques that have supported me.
+My name is Ștefi Sandu, and in recent years I have made understanding the relationship between mind and body a priority—first for my own process, and later in order to share with others the techniques that have supported me.
 
 I studied Trauma Informed Kundalini Yoga with Sat Dharam Kaur (co-founder of Compassionate Inquiry and founder of Saibhung Institute), a Yoga Alliance accredited training, in Amritsar, India; I am currently in my second year of Somatic Experiencing® training (Peter Levine), completed Suicide Attention Training within Compassionate Inquiry, trained in sound healing with Aidan McIntyre, am a facilitator of voice through neosomatics (Andrei Pintican method), and a certified fitness trainer (Fitness Education School).
 
