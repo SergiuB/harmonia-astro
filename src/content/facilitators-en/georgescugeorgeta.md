@@ -2,7 +2,7 @@
 name: "Georgeta Georgescu"
 featuredIndex: 6
 images: ["../images/georgeta/georgeta1.jpg"]
-tags: ["Therapist", "Energy Cleansing", "Spiritual Development"]
+tags: ["Therapist", "Energy Cleansing",]
 activities: ["other-services", "shamanic-therapies"]
 services: [
  {
