@@ -124,8 +124,7 @@ contact: {
     whatsapp: "https://wa.link/yfb2tx", #optional
   }
 ---
-Spune câteva cuvinte despre tine, abordarea ta terapeutică și ce te definește în lucrul cu oamenii.
-*
+
 Numele meu este Ștefi Sandu, iar în ultimii ani am făcut din înțelegerea relației dintre minte și corp o prioritate – mai întâi pentru propriul meu proces, iar mai apoi pentru a împărtăși și cu cei din jurul meu tehnicile care m-au susținut.
 
 Am studiat Trauma Informed Kundalini Yoga alături de Sat Dharam Kaur (co-fondatoare Compassionate Inquiry și fondatoare Saibhung Institute), curs acreditat de Yoga Alliance, în Amritsar, India; sunt în anul doi de formare în Somatic Experiencing® (Peter Levine), am parcurs cursul Suicide Attention Training în cadrul Compassionate Inquiry, m-am format în sound healing alături de Aidan McIntyre, sunt facilitator de rost prin neosomatică (metoda Andrei Pintican) și antrenor de fitness (Fitness Education School).
