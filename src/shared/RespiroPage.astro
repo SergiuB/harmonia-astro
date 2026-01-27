@@ -120,13 +120,13 @@ const participantCategories = [
               <li class="font-medium border-b border-primary/20 pb-3">
                 <div class="flex items-center justify-between gap-3">
                   <div>
-                    <h3>{edition.name}</h3>
+                    <h3 class="mb-1">{edition.name}</h3>
                     <div class="text-sm text-primary/80 grid grid-cols-[auto_1px_auto_1px_auto]  items-center">
                       <p class="mr-1">
                         {dateFormatter.format(new Date(edition.date))}
                       </p>
                       <div class="bg-primary h-full" />
-                      <p class="mx-1">
+                      <p class="mx-1 min-w-[90px]">
                         {edition.startTime}–{edition.endTime}
                       </p>
                       <div class="bg-primary h-full" />
