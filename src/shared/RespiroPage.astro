@@ -11,6 +11,10 @@ interface Props {
 
 const { lang } = Astro.props;
 const t = useTranslations(lang);
+const dateFormatter = new Intl.DateTimeFormat(
+  lang === "ro" ? "ro-RO" : "en-US",
+  { day: "numeric", month: "long" },
+);
 
 const pageTitle = "RESPIRO Urban Holistic Retreat";
 import heroImage from "/src/assets/new-design/portrait_retreat.jpg";
@@ -36,6 +40,7 @@ import carousel6 from "/src/assets/respiro/carusel/Respiro_203.jpg";
 import carousel7 from "/src/assets/respiro/carusel/Respiro_216.jpg";
 import carousel8 from "/src/assets/respiro/carusel/Respiro_238.jpg";
 import carousel9 from "/src/assets/respiro/carusel/Respiro_261.jpg";
+import availableEditions from "../data/availableEditions.json";
 
 const images = [
   carousel0,
@@ -59,16 +64,6 @@ const participantCategories = [
   "respiro.categoryCorporations",
 ] as const;
 
-const availableEditions = [
-  {
-    name: "respiro.edition1Name",
-    details: "respiro.edition1Details",
-  },
-  {
-    name: "respiro.edition2Name",
-    details: "respiro.edition2Details",
-  },
-] as const;
 ---
 
 <RootLayout title={pageTitle} lang={lang}>
@@ -121,14 +116,25 @@ const availableEditions = [
       <div>
         <p class="my-4 font-semibold text-lg">{t("respiro.editionsTitle")}</p>
         <ul class="ml-5 list-disc space-y-2">
-          {availableEditions.map((edition) => (
-            <li class="font-medium">
-              <span class="block">{t(edition.name)}</span>
-              <span class="block text-sm text-primary/80">
-                {t(edition.details)}
-              </span>
-            </li>
-          ))}
+          {
+            availableEditions.map((edition) => (
+              <li class="font-medium">
+                <span class="block">{edition.name}</span>
+                <span class="block text-sm text-primary/80">
+                  {dateFormatter.format(new Date(edition.date))} |{" "}
+                  {edition.startTime}–{edition.endTime} |{" "}
+                  {edition.availableSlots === 0
+                    ? t("respiro.slotsSoldOut")
+                    : edition.availableSlots === 1
+                      ? t("respiro.slotAvailableSingular")
+                      : t("respiro.slotsAvailable").replace(
+                          "{count}",
+                          String(edition.availableSlots),
+                        )}
+                </span>
+              </li>
+            ))
+          }
         </ul>
       </div>
       <div class="flex flex-col items-center justify-center gap-3 mt-6">

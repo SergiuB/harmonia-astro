@@ -1,0 +1,16 @@
+[
+  {
+    "name": "RESPIRO 01",
+    "date": "2026-02-28",
+    "startTime": "09:00",
+    "endTime": "19:00",
+    "availableSlots": 0
+  },
+  {
+    "name": "RESPIRO 02",
+    "date": "2026-03-28",
+    "startTime": "09:00",
+    "endTime": "19:00",
+    "availableSlots": 4
+  }
+]
