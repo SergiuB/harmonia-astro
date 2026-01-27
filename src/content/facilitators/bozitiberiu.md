@@ -15,6 +15,10 @@ services:
           "Prin (E)Motion Somatic Release voi lucra cu tine pentru a crea un mediu sigur, de susținere, în care poți explora și elibera straturi psiho-emoționale și tensiuni sau traume somatizate în corp care ar putea avea un impact asupra vieții tale de zi cu zi. Metoda folosește o serie de tehnici pentru a activa mecanismul de vibrație natural al corpului precum: mișcări ușoare de stretching, presopunctură pe anumite zone, tehnici de respirație sau atingeri blânde. Aceste tehnici ajută la eliberarea tensiunii și a traumei reținute din corp, permițându-vă să vă simțiți mai împământați, prezenți și conectați la sursă.",
           "Un aspect important al unei recuperări de succes după traumă este activarea mecanismului natural de eliberare al organismului, care indică corpului să revină la o stare de odihnă și recuperare. Corpul evocă tremurul pentru a finaliza descărcarea răspunsului de luptă, fugă sau îngheț la care a fost supus în diverse situații din viață.",
           "Dacă ești gata să profiți de mecanismul natural de vibrație al corpului tău și să experimentezi beneficiile transformatoare ale (E)Motion Somatic Release, ești invitat să explorezi această abordarea unică de vindecare.",
+        "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale, stării tale actuale și obiectivelor pentru sesiune.
+În cazul primei întâlniri, această discuție poate dura până la aproximativ 30 de minute, pentru a permite o cunoaștere mai profundă și o evaluare holistică (fizică, emoțională și energetică), dacă se dorește.
+În sesiunile următoare, acest moment este, de regulă, mai scurt (10–15 minute).
+Durata afișată a serviciului include atât discuția inițială, cât și timpul efectiv de lucru cu corpul."
           "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
           "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
         ],
@@ -32,6 +36,10 @@ services:
           "Încă de la începutul carierei am înteles că o atingere vindecătoare este mai mult decât o tehnică în sine. O atingere este vindecătoare atunci când are intenție, un sentiment de iubire și o stare de conștiință. De altfel, am înțeles că intuiția este îndrumătorul mâinilor mele care pot duce masajul peste așteptările beneficiarului.",
           "Pe lângă asta, cu timpul am învățat să ascult tot ceea ce îmi spune clientul, tot ceea ce clientul nu poate pune în cuvinte, tot ceea ce simt prin mâinile mele și să adaptez tot ceea ce fac în functie de informațiile pe care le primesc în acest fel.",
           "(*) După nevoile și preferințele clientului sau după cum voi considera că este mai benefic pentru sănătatea și bunăstarea beneficiarului, Harmonic Reborn poate utiliza o gamă largă de metode holistice și tehnici din diferite culturi precum: Thai, Miofascial, Deep Tissue, Lomi Lomi Hawaiian, Yumeiho, Shiatsu, Ashiatsu, Terapia CranioSacrală, Reflexoterapie, Suedez, Instrumente Shamanice, Sacred Pedi Pudja, Chavutti Thirumal, Barefoot, Drenaj Limfatic, Breathwork, Aromaterapie, Presopunctură, Facial, Facial Intraoral, Boluri Tibetane, Stretching, etc.",
+        "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale, stării tale actuale și obiectivelor pentru sesiune.
+În cazul primei întâlniri, această discuție poate dura până la aproximativ 30 de minute, pentru a permite o cunoaștere mai profundă și o evaluare holistică (fizică, emoțională și energetică), dacă se dorește.
+În sesiunile următoare, acest moment este, de regulă, mai scurt (10–15 minute).
+Durata afișată a serviciului include atât discuția inițială, cât și timpul efectiv de lucru cu corpul."
           "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
           "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
         ],
@@ -75,6 +83,10 @@ services:
           "- Conexiune emoțională cu bebelușul.",
           "- Crearea unui echilibru între corp, minte și suflet.",
           "Programează-te și oferă-ți o experiență unică, creată special pentru tine și pentru această călătorie magică.",
+          "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale, stării tale actuale și obiectivelor pentru sesiune.
+În cazul primei întâlniri, această discuție poate dura până la aproximativ 30 de minute, pentru a permite o cunoaștere mai profundă și o evaluare holistică (fizică, emoțională și energetică), dacă se dorește.
+În sesiunile următoare, acest moment este, de regulă, mai scurt (10–15 minute).
+Durata afișată a serviciului include atât discuția inițială, cât și timpul efectiv de lucru cu corpul."
           "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
           "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
         ],
@@ -216,6 +228,10 @@ services:
           "Suedez este una din cele mai cunoscute și practicate terapii de masaj care oferă o experiență placută de relaxare fizică și mentală.",
           'Terapia CranioSacrală, numită și "Terapia cu Eliberări SomatoEmoționale", este tratamentul care leagă tensiunile din suturile craniene, dinamica lichidului cefalo-rahidian, tiparele migrenoase ale clientului și atingerea foarte fină a terapeutului.',
           "Reflexoterapia este o tehnică specială de masaj digital care se bazează pe principiul că există anumite zone și puncte, din tălpi și pălmi, care sunt conectate prin sistemul nervos la diferite părți corespunzătoare ale corpului.",
+           "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale, stării tale actuale și obiectivelor pentru sesiune.
+În cazul primei întâlniri, această discuție poate dura până la aproximativ 30 de minute, pentru a permite o cunoaștere mai profundă și o evaluare holistică (fizică, emoțională și energetică), dacă se dorește.
+În sesiunile următoare, acest moment este, de regulă, mai scurt (10–15 minute).
+Durata afișată a serviciului include atât discuția inițială, cât și timpul efectiv de lucru cu corpul."
           "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
           "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
         ],
