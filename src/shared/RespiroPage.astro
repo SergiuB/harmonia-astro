@@ -58,6 +58,11 @@ const participantCategories = [
   "respiro.categoryBusiness",
   "respiro.categoryCorporations",
 ] as const;
+
+const availableEditions = [
+  "respiro.edition1",
+  "respiro.edition2",
+] as const;
 ---
 
 <RootLayout title={pageTitle} lang={lang}>
@@ -101,10 +106,18 @@ const participantCategories = [
     <div class="w-full p-4 max-w-lg">
       <h2 class="text-3xl mb-4">{t("respiro.forWhoTitle")}</h2>
       <p>{t("respiro.forWhoDescription")}</p>
-      <p class="my-4 font-semibold text-lg">{t("respiro.categoriesTitle")}</p>
-      <ul class="ml-5 list-disc space-y-1">
-        {participantCategories.map((key) => <li>{t(key)}</li>)}
-      </ul>
+      <div>
+        <p class="my-4 font-semibold text-lg">{t("respiro.categoriesTitle")}</p>
+        <ul class="ml-5 list-disc space-y-1">
+          {participantCategories.map((key) => <li>{t(key)}</li>)}
+        </ul>
+      </div>
+      <div>
+        <p class="my-4 font-semibold text-lg">{t("respiro.editionsTitle")}</p>
+        <ul class="ml-5 list-disc space-y-1">
+          {availableEditions.map((key) => <li>{t(key)}</li>)}
+        </ul>
+      </div>
       <div class="flex flex-col items-center justify-center gap-3 mt-6">
         <a
           class="px-4 py-4 mt-4 text-primary rounded-full border-2 border-primary text-center"

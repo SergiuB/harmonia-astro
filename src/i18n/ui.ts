@@ -74,6 +74,9 @@ export const ui = {
     "respiro.categoryFamilies": "Familii extinse",
     "respiro.categoryBusiness": "Echipe de business",
     "respiro.categoryCorporations": "Corporații",
+    "respiro.editionsTitle": "Ediții RESPIRO disponibile",
+    "respiro.edition1": "RESPIRO 01 – 28 februarie | 09:00–19:00 | Sold out",
+    "respiro.edition2": "RESPIRO 02 – 28 martie | 09:00–19:00 | 4 locuri disponibile",
     "respiro.ctaDownload": "Descarcă broșura RESPIRO",
     "respiro.ctaContact": "Contactează-ne",
     "respiro.conclusion1":
@@ -255,6 +258,9 @@ export const ui = {
     "respiro.categoryFamilies": "Extended families",
     "respiro.categoryBusiness": "Business teams",
     "respiro.categoryCorporations": "Corporations",
+    "respiro.editionsTitle": "Available RESPIRO editions",
+    "respiro.edition1": "RESPIRO 01 – 28 February | 09:00–19:00 | Sold out",
+    "respiro.edition2": "RESPIRO 02 – 28 March | 09:00–19:00 | 4 spots available",
     "respiro.ctaDownload": "Download the RESPIRO Brochure",
     "respiro.ctaContact": "Contact us",
     "respiro.conclusion1":
