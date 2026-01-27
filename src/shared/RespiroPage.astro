@@ -60,8 +60,18 @@ const participantCategories = [
 ] as const;
 
 const availableEditions = [
-  "respiro.edition1",
-  "respiro.edition2",
+  {
+    name: "respiro.edition1Name",
+    date: "respiro.edition1Date",
+    time: "respiro.edition1Time",
+    status: "respiro.edition1Status",
+  },
+  {
+    name: "respiro.edition2Name",
+    date: "respiro.edition2Date",
+    time: "respiro.edition2Time",
+    status: "respiro.edition2Status",
+  },
 ] as const;
 ---
 
@@ -114,8 +124,23 @@ const availableEditions = [
       </div>
       <div>
         <p class="my-4 font-semibold text-lg">{t("respiro.editionsTitle")}</p>
-        <ul class="ml-5 list-disc space-y-1">
-          {availableEditions.map((key) => <li>{t(key)}</li>)}
+        <ul class="ml-5 list-disc space-y-2">
+          {availableEditions.map((edition) => (
+            <li class="font-medium">
+              <span class="block">{t(edition.name)}</span>
+              <span class="block text-sm text-primary/80">
+                <span class="inline-block min-w-[8rem]">
+                  {t(edition.date)}
+                </span>
+                <span class="inline-block min-w-[7rem] text-center">
+                  {t(edition.time)}
+                </span>
+                <span class="inline-block min-w-[10rem] text-right">
+                  {t(edition.status)}
+                </span>
+              </span>
+            </li>
+          ))}
         </ul>
       </div>
       <div class="flex flex-col items-center justify-center gap-3 mt-6">
