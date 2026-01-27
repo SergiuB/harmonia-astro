@@ -92,6 +92,21 @@ function formatTimeRange(
   }
   return start;
 }
+
+// Remove leading/trailing <br> or empty <p> blocks, then trim
+const sanitizeDescriptionText = (value: string) =>
+  value
+    .replace(
+      /^(?:\s*<p[^>]*>\s*(?:(?:"\s*")|&nbsp;|&#160;|\u00A0)\s*<br\s*\/?>\s*<\/p>)+/gi,
+      "",
+    )
+    .replace(/^(?:\s*<p[^>]*>\s*<\/p>)+/gi, "")
+    .replace(
+      /^(?:\s*(?:<br\s*\/?>|<p>\s*<\/p>))+|(?:\s*(?:<br\s*\/?>|<p>\s*<\/p>))+$/gi,
+      "",
+    )
+    .trim();
+
 function parseDescription(description?: string) {
   if (!description)
     return {
@@ -153,11 +168,10 @@ function parseDescription(description?: string) {
   // Extract enDescription (if present) and remove it from base text
   const enMatch = extractField("enDescription");
   if (enMatch) {
-    enDescription = enMatch.value.replace(/(<br\s*\/?>)+/g, "\n").trim();
+    enDescription = sanitizeDescriptionText(enMatch.value);
     text = text.replace(enMatch.raw, "");
   }
-  // Remove extra <br> tags and trim
-  text = text.replace(/(<br\s*\/?>)+/g, "\n").trim();
+  text = sanitizeDescriptionText(text);
   return { detailsLink, registerLink, text, enDescription, enTitle };
 }
 ---
