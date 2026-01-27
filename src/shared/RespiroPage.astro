@@ -63,7 +63,6 @@ const participantCategories = [
   "respiro.categoryBusiness",
   "respiro.categoryCorporations",
 ] as const;
-
 ---
 
 <RootLayout title={pageTitle} lang={lang}>
@@ -115,23 +114,43 @@ const participantCategories = [
       </div>
       <div>
         <p class="my-4 font-semibold text-lg">{t("respiro.editionsTitle")}</p>
-        <ul class="ml-5 list-disc space-y-2">
+        <ul class="space-y-3">
           {
             availableEditions.map((edition) => (
-              <li class="font-medium">
-                <span class="block">{edition.name}</span>
-                <span class="block text-sm text-primary/80">
-                  {dateFormatter.format(new Date(edition.date))} |{" "}
-                  {edition.startTime}–{edition.endTime} |{" "}
-                  {edition.availableSlots === 0
-                    ? t("respiro.slotsSoldOut")
-                    : edition.availableSlots === 1
-                      ? t("respiro.slotAvailableSingular")
-                      : t("respiro.slotsAvailable").replace(
-                          "{count}",
-                          String(edition.availableSlots),
-                        )}
-                </span>
+              <li class="font-medium border-b border-primary/20 pb-3">
+                <div class="flex items-center justify-between gap-3">
+                  <div>
+                    <h3>{edition.name}</h3>
+                    <div class="text-sm text-primary/80 grid grid-cols-[auto_1px_auto_1px_auto]  items-center">
+                      <p class="mr-1">
+                        {dateFormatter.format(new Date(edition.date))}
+                      </p>
+                      <div class="bg-primary h-full" />
+                      <p class="mx-1">
+                        {edition.startTime}–{edition.endTime}
+                      </p>
+                      <div class="bg-primary h-full" />
+                      <p class="ml-1">
+                        {edition.availableSlots === 0
+                          ? t("respiro.slotsSoldOut")
+                          : edition.availableSlots === 1
+                            ? t("respiro.slotAvailableSingular")
+                            : t("respiro.slotsAvailable").replace(
+                                "{count}",
+                                String(edition.availableSlots),
+                              )}
+                      </p>
+                    </div>
+                  </div>
+                  {edition.availableSlots > 0 && edition.reserveLink && (
+                    <a
+                      href={edition.reserveLink}
+                      class="rounded-xl bg-primary uppercase h-7 px-2 pt-1 mt-1 text-light"
+                    >
+                      {t("facilitator.reserve")}
+                    </a>
+                  )}
+                </div>
               </li>
             ))
           }
