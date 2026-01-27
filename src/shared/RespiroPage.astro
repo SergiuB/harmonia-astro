@@ -133,12 +133,7 @@ const participantCategories = [
                       <p class="ml-1">
                         {edition.availableSlots === 0
                           ? t("respiro.slotsSoldOut")
-                          : edition.availableSlots === 1
-                            ? t("respiro.slotAvailableSingular")
-                            : t("respiro.slotsAvailable").replace(
-                                "{count}",
-                                String(edition.availableSlots),
-                              )}
+                          : t("respiro.slotsLimited")}
                       </p>
                     </div>
                   </div>
