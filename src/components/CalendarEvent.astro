@@ -92,14 +92,14 @@ const t = useTranslations(lang);
   <div
     x-show="expanded"
     x-collapse
-    class="overflow-hidden prose mt-2 text-primary prose-headings:text-primary prose-p:text-primary prose-li:text-primary prose-strong:text-primary prose-a:text-primary prose-hr:border-primary prose-p:m-2 prose-hr:m-2"
+    class="overflow-hidden prose mt-2 text-primary prose-headings:text-primary prose-p:text-primary prose-li:text-primary prose-strong:text-primary prose-a:text-primary prose-hr:border-primary prose-p:my-2 prose-hr:my-2"
     set:html={description}
   />
   <div
     x-show="!expanded"
     x-collapse
     x-ref="content"
-    class="line-clamp-3 overflow-hidden prose mt-2 text-primary prose-headings:text-primary prose-p:text-primary prose-li:text-primary prose-strong:text-primary prose-a:text-primary prose-hr:border-primary prose-p:m-2 prose-hr:m-2"
+    class="line-clamp-3 overflow-hidden prose mt-2 text-primary prose-headings:text-primary prose-p:text-primary prose-li:text-primary prose-strong:text-primary prose-a:text-primary prose-hr:border-primary prose-p:my-2 prose-hr:my-2"
     set:html={description}
   />
   <button
