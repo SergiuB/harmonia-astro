@@ -85,8 +85,8 @@ services:
           "*After booking via the website, you will receive a message within 24 hours with instructions for paying a 50% deposit if you do not hold a subscription or gift card.",
           "*Rescheduling or cancellations must be made at least 48 hours before the session. If canceled or rescheduled with less than 48 hours' notice, the session will be forfeited for gift card or subscription holders; for individual payments, the 50% deposit is non-refundable.",
         ],
-      price: "890lei",
-      duration: "240min",
+      price: "950lei",
+      duration: "210min",
       reserveLink: "https://app.simplymeet.me/deliaheals/harmonicpamper1",
     },
     {
