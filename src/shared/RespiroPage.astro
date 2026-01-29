@@ -118,19 +118,18 @@ const participantCategories = [
           {
             availableEditions.map((edition) => (
               <li class="font-medium border-b border-primary/20 pb-3">
-                <div class="flex items-center justify-between gap-3">
+                <div class="flex items-center justify-between gap-1">
                   <div>
                     <h3 class="mb-1">{edition.name}</h3>
-                    <div class="text-sm text-primary/80 grid grid-cols-[auto_1px_auto_1px_auto]  items-center">
-                      <p class="mr-1">
+                    <div class="text-sm text-primary grid grid-cols-2 gap-y-1">
+                      <p class="pr-1">
                         {dateFormatter.format(new Date(edition.date))}
                       </p>
-                      <div class="bg-primary h-full" />
-                      <p class="mx-1 min-w-[90px]">
+                      <p class="pl-1 border-l border-primary">
                         {edition.startTime}–{edition.endTime}
                       </p>
-                      <div class="bg-primary h-full" />
-                      <p class="ml-1">
+                      <p class="pr-1">{edition.price}</p>
+                      <p class="pl-1 border-l border-primary">
                         {edition.availableSlots === 0
                           ? t("respiro.slotsSoldOut")
                           : t("respiro.slotsLimited")}

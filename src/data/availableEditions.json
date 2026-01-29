@@ -4,6 +4,7 @@
     "date": "2026-02-28",
     "startTime": "09:00",
     "endTime": "19:00",
+    "price": "1250 RON/pers.",
     "availableSlots": 0,
     "reserveLink": "https://wa.link/l1f0gf"
   },
@@ -12,6 +13,7 @@
     "date": "2026-03-28",
     "startTime": "09:00",
     "endTime": "19:00",
+    "price": "1250 RON/pers.",
     "availableSlots": 4,
     "reserveLink": "https://wa.link/4f7oap"
   }
