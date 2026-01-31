@@ -69,6 +69,39 @@ Durata afișată a serviciului include atât discuția inițială, cât și timp
       duration: "60min",
       reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicfocus",
     },
+        {
+      name: "Harmonic Prime",
+      summary: "Masaj Holistic : Întregul corp",
+      description:
+        [
+          "O sesiune holistică de 3 ore, creată pentru persoanele care își doresc o experiență extinsă de lucru cu corpul, într-un spațiu de prezență, siguranță și integrare.",
+          "Această sesiune este inspirată din filosofia Harmonic Reborn și extinde procesul într-un ritm mai amplu, oferind timp suficient pentru a lucra în profunzime pe multiple straturi: fizic, fascial, emoțional și energetic.",
+          "În cadrul sesiunii pot fi integrate, în funcție de nevoi și de ceea ce se revelează în moment:",
+          "- manevre fasciale și miofasciale",
+          "- tehnici de masaj holistic cu și fără ulei",
+          "- lucru profund în țesuturi",
+          "- mobilizări articulare și stretching",
+          "- elemente reglare a sistemului nervos",
+          "- momente de integrare și liniște",
+          "Harmonic Prime este dedicat în special:",
+          "- persoanelor care au un program aglomerat și ajung mai rar la terapie",
+          "- celor care își doresc o sesiune mai lungă, completă și integrativă",
+          "- persoanelor plecate din țară care vin ocazional și vor să beneficieze de o sesiune amplă",
+          "- celor care simt nevoia unei resetări profunde",
+          "Această sesiune nu este gândită pentru a fi realizată săptămânal.",
+          "Frecvența recomandată este ocazională sau aproximativ o dată pe lună, în funcție de nevoi.",
+        "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale, stării tale actuale și obiectivelor pentru sesiune.
+În cazul primei întâlniri, această discuție poate dura până la aproximativ 30 de minute, pentru a permite o cunoaștere mai profundă și o evaluare holistică (fizică, emoțională și energetică), dacă se dorește.
+În sesiunile următoare, acest moment este, de regulă, mai scurt (10–15 minute).
+Durata afișată a serviciului include atât discuția inițială, cât și timpul efectiv de lucru cu corpul.",
+          "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
+          "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
+        ],
+      isGroup: true,
+      price: "1100lei",
+      duration: "3 ore",
+      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicascension",
+    },
     {
       name: "Harmonic Maternity Bliss",
       summary: "Masaj Holistic : Dedicat Gravidelor",
