@@ -63,7 +63,7 @@ services:
     },
 {
   name: "Harmonic Prime",
-  summary: "Holistic Massage: Full Body",
+  summary: "Holistic Massage : Full Body",
   description: [
     "A 3-hour holistic session created for those who desire an extended bodywork experience, held in a space of presence, safety, and integration.",
     "This session is inspired by the Harmonic Reborn philosophy and expands the process into a more spacious rhythm, offering sufficient time to work deeply across multiple layers: physical, fascial, emotional, and energetic.",
