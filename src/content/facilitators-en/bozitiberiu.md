@@ -23,24 +23,7 @@ services:
       duration: "90min",
       reserveLink: "https://app.simplymeet.me/harmoniaoptima/e-motionsomaticrelease",
     },
-    {
-      name: "Harmonic Reborn",
-      summary: "Holistic Massage : Whole Body",
-      description:
-        [
-          "A complete, complex and intuitive holistic massage based on well-founded principles and the accumulated experience with which I have evolved as a therapist and as a person over the years and to the present.",
-          "From the beginning of my career I understood that a healing touch is more than a technique in itself. A touch is healing when it has intention, a feeling of love and a state of consciousness. Moreover, I understood that intuition is the guide of my hands that can take the massage beyond the recipient's expectations.",
-          "Besides that, over time I learned to listen to everything the client tells me, everything the client cannot put into words, everything I feel through my hands and to adapt everything I do according to the information I receive in this way.",
-          "(*) Depending on the client's needs and preferences, or when I consider it most beneficial for the recipient's health and well‑being, Harmonic Reborn may use a wide range of holistic methods and techniques from different traditions such as: Thai, myofascial, Deep Tissue, Lomi Lomi (Hawaiian), Yumeiho, Shiatsu, Ashiatsu, CranioSacral Therapy, Reflexology, Swedish, shamanic instruments, Sacred Pedi Puja, Chavutti Thirumal, barefoot techniques, Lymphatic Drainage, Breathwork, Aromatherapy, Acupressure, Facial, Intraoral Facial, Tibetan Bowls, Stretching, etc.",
-          "*After making a booking on the website, you will receive a message within 24 hours for payment of the 50% advance, if you do not have a subscription or gift card.",
-          "*Rescheduling or cancellations, regardless of reason, must be made at least 48 hours before the session. In case of rescheduling or cancellations less than 48 hours before, the session will be lost if you have a gift card or subscription, and for individual payments, the 50% advance will not be refunded.",
-        ],
-      isGroup: true,
-      price: "700lei",
-      duration: "120min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicreborn",
-    },
-    {
+       {
       name: "Harmonic Focus",
       summary: "Holistic Massage : Key Areas",
       description:
@@ -61,6 +44,52 @@ services:
       duration: "60min",
       reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicfocus",
     },
+    {
+      name: "Harmonic Reborn",
+      summary: "Holistic Massage : Whole Body",
+      description:
+        [
+          "A complete, complex and intuitive holistic massage based on well-founded principles and the accumulated experience with which I have evolved as a therapist and as a person over the years and to the present.",
+          "From the beginning of my career I understood that a healing touch is more than a technique in itself. A touch is healing when it has intention, a feeling of love and a state of consciousness. Moreover, I understood that intuition is the guide of my hands that can take the massage beyond the recipient's expectations.",
+          "Besides that, over time I learned to listen to everything the client tells me, everything the client cannot put into words, everything I feel through my hands and to adapt everything I do according to the information I receive in this way.",
+          "(*) Depending on the client's needs and preferences, or when I consider it most beneficial for the recipient's health and well‑being, Harmonic Reborn may use a wide range of holistic methods and techniques from different traditions such as: Thai, myofascial, Deep Tissue, Lomi Lomi (Hawaiian), Yumeiho, Shiatsu, Ashiatsu, CranioSacral Therapy, Reflexology, Swedish, shamanic instruments, Sacred Pedi Puja, Chavutti Thirumal, barefoot techniques, Lymphatic Drainage, Breathwork, Aromatherapy, Acupressure, Facial, Intraoral Facial, Tibetan Bowls, Stretching, etc.",
+          "*After making a booking on the website, you will receive a message within 24 hours for payment of the 50% advance, if you do not have a subscription or gift card.",
+          "*Rescheduling or cancellations, regardless of reason, must be made at least 48 hours before the session. In case of rescheduling or cancellations less than 48 hours before, the session will be lost if you have a gift card or subscription, and for individual payments, the 50% advance will not be refunded.",
+        ],
+      isGroup: true,
+      price: "700lei",
+      duration: "120min",
+      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicreborn",
+    },
+     {
+  name: "Harmonic Prime",
+  summary: "Holistic Massage : Full Body",
+  description: [
+    "A 3-hour holistic session created for those who desire an extended bodywork experience, held in a space of presence, safety, and integration.",
+    "This session is inspired by the Harmonic Reborn philosophy and expands the process into a more spacious rhythm, offering sufficient time to work deeply across multiple layers: physical, fascial, emotional, and energetic.",
+    "During the session, the following may be integrated, depending on your needs and what reveals itself in the moment:",
+    "- fascial and myofascial techniques",
+    "- holistic massage techniques with and without oil",
+    "- deep tissue work",
+    "- joint mobilization and stretching",
+    "- nervous system regulation elements",
+    "- moments of integration and stillness",
+    "Harmonic Prime is especially dedicated to:",
+    "- people with busy schedules who attend therapy less frequently",
+    "- those who want a longer, complete, and integrative session",
+    "- people living abroad who visit occasionally and want to benefit from an extensive session",
+    "- those who feel the need for a deep reset",
+    "This session is not designed to be done weekly.",
+    "The recommended frequency is occasional or approximately once a month, depending on individual needs.",
+    "*Each session includes a short initial conversation dedicated to understanding your needs, your current state, and your goals for the session. During the first meeting, this conversation may last up to approximately 30 minutes, allowing for deeper connection and a holistic assessment (physical, emotional, and energetic), if desired. In subsequent sessions, this moment is usually shorter (10–15 minutes). The displayed duration of the service includes both the initial conversation and the actual bodywork time.",
+    "*After completing your booking on the website, you will receive a message within 24 hours regarding the payment of a 50% deposit, if you do not hold a subscription or gift card.",
+    "*Rescheduling or cancellations, regardless of the reason, must be made at least 48 hours before the session. In the case of rescheduling or cancellations made less than 48 hours in advance, the session will be forfeited if you hold a gift card or subscription, and for individual payments, the 50% deposit will not be refunded."
+  ],
+  isGroup: true,
+  price: "1100 RON",
+  duration: "3 hours",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicascension",
+},
     {
       name: "Harmonic Maternity Bliss",
       summary: "Holistic Massage : Dedicated to Pregnant Women",
