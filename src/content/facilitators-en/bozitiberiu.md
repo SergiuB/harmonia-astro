@@ -61,7 +61,7 @@ services:
       duration: "60min",
       reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicfocus",
     },
-{
+    {
   name: "Harmonic Prime",
   summary: "Holistic Massage : Full Body",
   description: [
@@ -89,7 +89,7 @@ services:
   price: "1100 RON",
   duration: "3 hours",
   reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicascension",
-}
+},
     {
       name: "Harmonic Maternity Bliss",
       summary: "Holistic Massage : Dedicated to Pregnant Women",
