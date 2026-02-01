@@ -187,7 +187,7 @@ services:
   price: "450lei",
   duration: "120min",
   reserveLink: "https://wa.link/1by6y3",
-}
+},
     {
       name: "7 Stars TERRApy",
       summary: "Holistic Package: Personalized",
