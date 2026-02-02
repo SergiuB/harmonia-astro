@@ -35,6 +35,7 @@ services:
           "Before descending into the depth of transgenerational dynamics, we meet our inner parts — the fragments that have carried our story until now. We allow them to speak, to be seen, to be understood, and then… as the inner ground opens, the family system can reveal its movements.",
           "I deeply resonate with this perspective that neither blames nor seeks to repair, but honors — family constellations open a path we could not have seen alone. It is a gentle and profound process, unfolding at each person’s pace, where nothing is forced; we simply follow the movements arising from within, like a breath you recognize after a long time.",
         ],
+        isGroup: true,
       price: "360lei",
       duration: "1 day",
       reserveLink: "https://wa.link/pck7sk",
