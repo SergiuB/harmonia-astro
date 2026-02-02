@@ -36,7 +36,7 @@ services:
           "I deeply resonate with this perspective that neither blames nor seeks to repair, but honors — family constellations open a path we could not have seen alone. It is a gentle and profound process, unfolding at each person’s pace, where nothing is forced; we simply follow the movements arising from within, like a breath you recognize after a long time.",
         ],
       price: "360lei",
-      duration: "1 day / 09:30 - 18:00",
+      duration: "1 day",
       reserveLink: "https://wa.link/pck7sk",
     },
   ]
