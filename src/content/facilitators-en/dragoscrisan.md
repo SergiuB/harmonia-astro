@@ -18,8 +18,8 @@ services:
           "In essence, I am a facilitator who creates a safe space where your body can relax, express itself, and reorganize without limiting interventions. A place where nothing is forced and nothing is corrected — we simply listen and support what the body is already expressing.",
         ],
       isGroup: true,
-      price: "240lei",
-      duration: "75min",
+      price: "300lei",
+      duration: "60min",
       reserveLink: "https://app.simplymeet.me/dragoscrisan",
     },
     {
@@ -36,7 +36,7 @@ services:
           "I deeply resonate with this perspective that neither blames nor seeks to repair, but honors — family constellations open a path we could not have seen alone. It is a gentle and profound process, unfolding at each person’s pace, where nothing is forced; we simply follow the movements arising from within, like a breath you recognize after a long time.",
         ],
       price: "360lei",
-      duration: "1 day / 09:00 - 19:00",
+      duration: "1 day / 09:30 - 18:00",
       reserveLink: "https://wa.link/pck7sk",
     },
   ]
