@@ -18,8 +18,8 @@ services:
           "De fapt, eu sunt un facilitator care creează un spațiu sigur în care corpul tău poate să se relaxeze, să se exprime și să se reașeze fără intervenții limitative. Un loc unde nu forțăm nimic și nu corectăm nimic – doar ascultăm și sprijinim ceea ce deja corpul exprimă.",
         ],
       isGroup: true,
-      price: "240lei",
-      duration: "75min",
+      price: "300lei",
+      duration: "60min",
       reserveLink: "https://app.simplymeet.me/dragoscrisan ",
     },
     {
@@ -36,7 +36,7 @@ services:
           "Rezonez profund cu această perspectivă care nu acuză și nu repară, dar onorează – constelațiile familiale deschid un drum pe care nu l-am fi putut vedea singuri. E un proces blând și profund, în ritmul fiecăruia, unde nu forțăm nimic, ci urmăm mișcările care apar din interior, asemenea unei respirații pe care o recunoști după mult timp.",
         ],
       price: "360lei",
-      duration: "1 zi / 09:00 - 19:00 ",
+      duration: "1 zi / 09:30 - 18:00 ",
       reserveLink: "https://wa.link/pck7sk",
     },
   ]
