@@ -36,7 +36,7 @@ services:
           "Rezonez profund cu această perspectivă care nu acuză și nu repară, dar onorează – constelațiile familiale deschid un drum pe care nu l-am fi putut vedea singuri. E un proces blând și profund, în ritmul fiecăruia, unde nu forțăm nimic, ci urmăm mișcările care apar din interior, asemenea unei respirații pe care o recunoști după mult timp.",
         ],
       price: "360lei",
-      duration: "1 zi / 09:30 - 18:00 ",
+      duration: "1 zi",
       reserveLink: "https://wa.link/pck7sk",
     },
   ]
