@@ -35,6 +35,7 @@ services:
           "Înainte de a coborî în profunzimea transgenerațională, ne întâlnim cu părțile noastre lăuntrice – acele fragmente care ne-au purtat povestea până acum. Le lăsăm să vorbească, să se arate, să fie înțelese, iar apoi.. pe măsură ce terenul interior se deschide, sistemul familial își poate dezvălui mișcările.",
           "Rezonez profund cu această perspectivă care nu acuză și nu repară, dar onorează – constelațiile familiale deschid un drum pe care nu l-am fi putut vedea singuri. E un proces blând și profund, în ritmul fiecăruia, unde nu forțăm nimic, ci urmăm mișcările care apar din interior, asemenea unei respirații pe care o recunoști după mult timp.",
         ],
+          isGroup: true,
       price: "360lei",
       duration: "1 zi",
       reserveLink: "https://wa.link/pck7sk",
