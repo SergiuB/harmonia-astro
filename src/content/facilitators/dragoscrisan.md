@@ -37,7 +37,7 @@ services:
         ],
           isGroup: true,
       price: "360lei",
-      duration: "1 zi",
+      duration: "1 zi / 09:30 - 18:00",
       reserveLink: "https://wa.link/pck7sk",
     },
   ]
