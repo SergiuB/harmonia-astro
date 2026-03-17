@@ -18,7 +18,7 @@ services:
            isGroup: true,
               price: "250/350/450lei",
       duration: "60/90/120min",
-      reserveLink: "https://wa.link/2c7age",
+      reserveLink: "https://wa.link/4kxtsf",
     },
          {
       name: "Reflexoterapie",
@@ -32,7 +32,7 @@ services:
            isGroup: true,
               price: "250lei",
       duration: "60min",
-      reserveLink: "https://wa.link/2c7age",
+      reserveLink: "https://wa.link/4kxtsf",
     },
          {
       name: "Masaj Deep Tissue & Terapeutic",
@@ -51,7 +51,7 @@ services:
            isGroup: true,
               price: "250/350/450lei",
       duration: "60/90/120min",
-      reserveLink: "https://wa.link/2c7age",
+      reserveLink: "https://wa.link/4kxtsf",
     },
   ]
 location: "Harmonia Terra, Bucuresti" #optional
