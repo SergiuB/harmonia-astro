@@ -39,7 +39,7 @@ services:
       isGroup: true,
       price: "350lei / 400lei",
       duration: "60min / 90min",
-      reserveLink: "https://wa.link/djgx8y",
+      reserveLink: "https://wa.link/l7w5wi",
     },
     {
       name: "Yoga",
@@ -63,7 +63,7 @@ services:
         ],
       price: "300lei / 500lei",
       duration: "90 min : 1pers / 2pers",
-      reserveLink: "https://wa.link/djgx8y",
+      reserveLink: "https://wa.link/l7w5wi",
     },
     {
       name: "My workout of the week – MyWoW",
@@ -83,7 +83,7 @@ services:
         ],
       price: "350lei",
       duration: "90min",
-      reserveLink: "https://wa.link/djgx8y",
+      reserveLink: "https://wa.link/l7w5wi",
     },
     {
       name: "Reflexotherapy",
@@ -97,7 +97,7 @@ services:
         ],
       price: "300lei",
       duration: "60min",
-      reserveLink: "https://wa.link/djgx8y",
+      reserveLink: "https://wa.link/l7w5wi",
     },
     {
       name: "Yoga (Yin, Hatha, Vinyasa)",
@@ -116,7 +116,7 @@ services:
       isGroup: true,
       price: "70lei",
       duration: "105min",
-      reserveLink: "https://wa.link/djgx8y",
+      reserveLink: "https://wa.link/l7w5wi",
     },
     {
       name: "Postural Alignment",
@@ -154,7 +154,7 @@ services:
       isGroup: true,
       price: "350lei",
       duration: "90min",
-      reserveLink: "https://wa.link/djgx8y",
+      reserveLink: "https://wa.link/l7w5wi",
     },
 {
   name: "Qi Nei Zang – Abdominal Massage",
@@ -186,7 +186,7 @@ services:
   ],
   price: "450lei",
   duration: "120min",
-  reserveLink: "https://wa.link/1by6y3",
+  reserveLink: "https://wa.link/l7w5wi",
 },
     {
       name: "7 Stars TERRApy",
