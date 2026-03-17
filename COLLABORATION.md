@@ -54,3 +54,11 @@ IMPORTANT: don't forget the comma at the end, and place each new line in the rig
 - AFTER the description in Romanian you can:
   - include an optional `enDescription:` section for the English content. If this is present, its content is used for the English locale while the rest of the description is treated as Romanian. If it is absent, the base description is used for both locales.
   - include an optional `enTitle: <title in English here>` for the English title.
+
+# Updating PDFs
+
+1. go to https://github.com/SergiuB/harmonia-astro/tree/main/public
+
+2. Add file / Upload file - choose either a file named respiro.pdf or spatiu.pdf (names must match).
+
+3. By uploading these files the existing ones will be overwritten, and a build will be automatically triggered to deploy the site with the new files.
