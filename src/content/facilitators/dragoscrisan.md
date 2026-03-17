@@ -41,7 +41,7 @@ services:
       reserveLink: "https://app.simplymeet.me/dragoscrisan/1770058491",
     },
      {
-      name: "Constelații familiale și sistemice",
+      name: "Sesiune individuală de Constelații familiale și sistemice",
       summary: "Sesiune individuală",
       description:
         [
@@ -83,14 +83,10 @@ instagram: "https://www.instagram.com/dragos_crisan/", #optional
 }
 ---
 
-Bună! Sunt Dragoș Crișan și te invit să călătorim împreună spre corpul tău. Îl vom asculta, în liniște și cu răbdare, pentru a-l susține exact acolo unde are nevoie și pentru a-l încuraja cu blândețe spre relaxare și echilibru interior. Vom face asta susținuți de intenții curate cu ajutorul terapiei craniosacrale, metoda Upledger.
+
+Bună! Sunt Dragoș Crișan și te invit să călătorim împreună spre corpul tău. Îl vom asculta, în liniște și cu răbdare, pentru a-l susține exact acolo unde are nevoie și pentru a-l încuraja cu blândețe spre relaxare și echilibru interior. 
+
 
 Aici poți descoperi certificările mele → https://www.iahp.com/DragosCrisan/
 
-Călătoria mea înspre lucrul cu oamenii a început odată cu prima bătaie de inimă și a continuat cu fiecare experiență de viață, urmând să se concretizeze într-un ritm firesc din august 2022, când am început procesul meu terapeutic – o călătorie care m-a învățat că profunzimea adevărată nu vine din teorie, ci din curajul de a ne întâlni cu noi înșine și cu abisul propriului inconștient.
-
-Astfel, fiecare trăire a devenit parte din fundamentul felului în care privesc și observ omul – ca pe o declarație de dragoste.. o structură de valori, emoții și dinamici complexe prin care iubirea se exprimă capătând sensuri și forme unice, mereu în transformare.
-
-Lucrez astăzi printr-o abordare holistică și integrativă, bazată pe prezență, ascultare și respectul față de ritmul unic al fiecărei persoane – nimic nu este greșit și nimic nu trebuie reparat. Totul capătă un sens atunci când este văzut, ascultat și blând adresat.. simptomul ne invită la introspecție și ne vorbește în limbajul propriu despre ceea ce mintea încă nu este pregătită să privească. Corpul este cel care ne ascultă și ne iubește necondiționat – el se modelează clipă de clipă după chipul și asemănarea interiorului nostru.
-
-Pentru mine, lucrul terapeutic nu este o profesie, ci o formă de prezență.. o mișcare a sufletului care ne conduce cu răbdare și înțelepciune spre locul potrivit. Mă pregătesc, în paralel, pentru a deveni terapeut psihanalist – un pas firesc în evoluția unui proces care nu se încheie niciodată, ci continuă să crească împreună cu mine și cu oamenii care vin spre mine.
+Lucrez printr-o abordare holistică și integrativă, bazată pe prezență, ascultare și respectul față de ritmul unic al fiecărei persoane – nimic nu este greșit și nimic nu trebuie reparat. Totul capătă un sens atunci când este văzut, ascultat și blând adresat.. simptomul ne invită la introspecție și ne vorbește în limbajul propriu despre ceea ce mintea încă nu este pregătită să privească. Corpul este cel care ne ascultă și ne iubește necondiționat – el se modelează clipă de clipă după chipul și asemănarea interiorului nostru.
