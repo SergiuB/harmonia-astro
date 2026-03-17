@@ -319,7 +319,7 @@ Hai și tu, să asculți ce are de povestit!",
         ],
       price: " 300lei → 1350lei",
       duration: "60min → 10ore",
-      reserveLink: "https://wa.link/djgx8y",
+      reserveLink: "https://wa.link/l7w5wi",
     },
   ]
 location: "Harmonia Terra - Strada Cercului 18 / Sambodhi Studio - Strada Popa Rusu, București" #optional
