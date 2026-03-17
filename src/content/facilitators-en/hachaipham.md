@@ -26,7 +26,7 @@ services:
       isGroup: true,
       price: "300 Ron",
       duration: "90min",
-      reserveLink: "https://wa.link/lc3dd9",
+      reserveLink: "wa.link/95t23y",
     },
     {
       name: "innerdance",
@@ -42,7 +42,7 @@ services:
       isGroup: true,
       price: "300 Ron",
       duration: "90min",
-      reserveLink: "https://wa.link/lc3dd9",
+      reserveLink: "wa.link/95t23y",
     },
     {
       name: "RESPIRO",
