@@ -36,7 +36,7 @@ principiile taijiquan-ului, concepte din medicina chineză tradițională (teori
       isGroup: true,
       price: "75lei / 265lei / 550lei",
       duration: "ședința / 4 ședințe / 9 ședințe ",
-      reserveLink:  "https://wa.link/hyn899",
+      reserveLink:  "wa.link/uq7fvx",
     }, 
   ]
 location: "Harmonia Terra / Centrul Eka / în aer liber / online" #optional
