@@ -18,7 +18,7 @@ services:
       isGroup: true,
       price: "100lei",
       duration: "60min",
-      reserveLink: "https://wa.link/knge3b",
+      reserveLink: "https://wa.link/ix35db",
     },
     { name: "Sesiuni private 1:1", summary: "Miscare Constienta", description: [
           "La sesiunile private imi place sa introduc studentii in acest concept al practicii.",
@@ -30,7 +30,7 @@ services:
           greutatea corpului intr un mod eficient, fluid si organic.",
           "Cat de rapid ma adaptez la difertite sporturi sau contexte de miscare? Cat de bine stapanesc abilitati precum: echilibrul, coordonarea, ritmul, fluiditatea in miscare? Ce optiuni de miscare am? Cat de bine imi cunosc corpul?",
           "Acestea sunt intrebari la care incercam sa raspundem cu fiecare sesiune individuala.",
-        ], isGroup: true, price: "300lei / 1600lei / 1800lei", duration: "90min / 8 x 90min / 12 x 90min", reserveLink: "https://wa.link/knge3b" },
+        ], isGroup: true, price: "300lei / 1600lei / 1800lei", duration: "90min / 8 x 90min / 12 x 90min", reserveLink: "https://wa.link/ix35db" },
     {
       name: "Sesiuni private : Mini grupa",
       summary: "Miscare Constienta",
@@ -48,7 +48,7 @@ services:
       isGroup: true,
       price: "150lei",
       duration: "90min",
-      reserveLink: "https://wa.link/knge3b",
+      reserveLink: "https://wa.link/ix35db",
     },
     {
       name: "RESPIRO",
