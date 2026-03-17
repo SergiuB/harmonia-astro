@@ -1,6 +1,6 @@
 ---
 name: "Chiver Adrian"
-featuredIndex: 4
+featuredIndex: 5
 images: ["../images/mimi/mimi.jpg"]
 tags: ["Terapeut", "Holistic Approach", "Integrative Journeys"]
 activities:
