@@ -52,7 +52,7 @@ services:
       isGroup: true,
       price: "350lei / 400lei",
       duration: "60min / 90min",
-      reserveLink: "https://wa.link/djgx8y",
+      reserveLink: "https://wa.link/l7w5wi",
     },
     { name: "Yoga", summary: "Clasa Privată de Yoga", description: [
           "În yoga, învățarea corectă a elementelor de bază și asigurarea unei alinieri adecvate sunt esențiale. Fără
@@ -87,7 +87,7 @@ services:
           "*Anularea programării: Anularea ședinței se poate face cu cel târziu de 42 ore înainte de programare, altfel se va plăti integral,
           iar în caz de urgențe medicale neprevăzute, se va plăti jumătate din cost, datorită cheltuielilor pentru
           rezervarea spațiului și timpul alocat care se pierde. Vă mulțumim pentru înțelegere!",
-        ], price: "300lei / 500lei", duration: "90 min : 1pers / 2pers", reserveLink: "https://wa.link/djgx8y" },
+        ], price: "300lei / 500lei", duration: "90 min : 1pers / 2pers", reserveLink: "https://wa.link/l7w5wi" },
     {
       name: "My workout of the week – MyWoW",
       summary: "Ședința de evaluare : Ședința de
@@ -137,7 +137,7 @@ services:
         ],
       price: "350lei",
       duration: "90min",
-      reserveLink: "https://wa.link/djgx8y",
+      reserveLink: "https://wa.link/l7w5wi",
     },
     { name: "Reflexoterapie", summary: "Masaj : Picioare", description: [
           "Reflexoterapia se bazează pe un principiu simplu, dar extrem de eficient: fiecare organ din corpul nostru
@@ -155,7 +155,7 @@ services:
           Anularea ședinței se poate face cu cel târziu de 42 ore înainte de programare, altfel se va plăti integral,
           iar în caz de urgențe medicale neprevăzute, se va plăti jumătate din cost, datorită cheltuielilor pentru
           rezervarea spațiului și timpul alocat care se pierde. Vă mulțumim pentru înțelegere!",
-        ], price: "300lei", duration: "60min", reserveLink: "https://wa.link/djgx8y" },
+        ], price: "300lei", duration: "60min", reserveLink: "https://wa.link/l7w5wi" },
     {
       name: "Yoga (Yin, Hatha, Vinyasa)",
       summary: "Yoga : Clasă de grup",
@@ -182,7 +182,7 @@ services:
       isGroup: true,
       price: "70lei",
       duration: "105min",
-      reserveLink: "https://wa.link/djgx8y",
+      reserveLink: "https://wa.link/l7w5wi",
     },
     { name: "Aliniament Postural ", summary: "Ședința de evaluare : Ședința de
         antrenament", description: [
@@ -214,7 +214,7 @@ services:
           "*Preț: Ședință evaluare (60-90 min): 300 lei | Ședință antrenament (90 min): 350 lei",
           "*Anularea programării:
           Anularea ședinței se poate face cu cel târziu de 42 ore înainte de programare, altfel se va plăti integral, iar în caz de urgențe medicale neprevăzute, se va plăti jumătate din cost, datorită cheltuielilor pentru rezervarea spațiului și timpul alocat care se pierde. Vă mulțumim pentru înțelegere!",
-        ], isGroup: true, price: "350lei", duration: "90min", reserveLink: "https://wa.link/djgx8y" },
+        ], isGroup: true, price: "350lei", duration: "90min", reserveLink: "https://wa.link/l7w5wi" },
     {
       name: "QiNeiZang - Masaj Abdominal",
       summary: "Masaj : Organe interne ",
@@ -250,7 +250,7 @@ Hai și tu, să asculți ce are de povestit!",
         ],
       price: "450lei",
       duration: "120min",
-      reserveLink: "https://wa.link/1by6y3",
+      reserveLink: "https://wa.link/l7w5wi",
     },
     {
       name: "7 Stars TERRApy",
