@@ -83,14 +83,8 @@ instagram: "https://www.instagram.com/dragos_crisan/", #optional
 }
 ---
 
-Hi! I’m Dragoș Crișan, and I invite you to travel with me into your body. We will listen to it — in silence and with patience — supporting it exactly where it needs, and gently encouraging it toward relaxation and inner balance. We will do this with clear intention through Craniosacral Therapy, using the Upledger method.
+Hello! I’m Dragoș Crișan, and I invite you to journey together toward your body. We will listen to it, in stillness and with patience, to support it exactly where it needs and to gently guide it toward relaxation and inner balance.
 
 Here you can explore my certifications → https://www.iahp.com/DragosCrisan/
 
-My journey into working with people began with my very first heartbeat and continued through every life experience, eventually taking shape naturally in August 2022 when I began my personal therapeutic process — a journey that taught me that true depth does not come from theory, but from the courage to meet ourselves and the abyss of our own unconscious.
-
-Each experience has since become part of the foundation from which I view and understand people — as a declaration of love… a structure of values, emotions, and complex dynamics through which love expresses itself, taking on unique forms that are always in transformation.
-
-Today, I work through a holistic and integrative approach grounded in presence, listening, and respect for each person’s unique rhythm — nothing is wrong, and nothing needs to be fixed. Everything gains meaning when it is seen, heard, and gently addressed… the symptom invites us into introspection and tells us, in its own language, what the mind is not yet ready to look at. The body is the one that listens to us and loves us unconditionally — it shapes itself moment by moment in the image and likeness of our inner world.
-
-For me, therapeutic work is not a profession, but a form of presence… a movement of the soul that guides us with patience and wisdom toward what is right for us. In parallel, I am preparing to become a psychoanalytic therapist — a natural step in the evolution of a process that never truly ends, but continues to grow together with me and with the people who come toward me.
+I work through a holistic and integrative approach, based on presence, deep listening, and respect for each person’s unique rhythm — nothing is wrong and nothing needs to be fixed. Everything begins to make sense when it is seen, heard, and gently addressed. The symptom invites us into introspection and speaks in its own language about what the mind is not yet ready to face. The body is the one that listens to us and loves us unconditionally — it reshapes itself moment by moment in the image of our inner world.
