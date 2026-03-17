@@ -43,7 +43,7 @@ services:
       isGroup: true,
       price: "75lei / 265lei / 550lei",
       duration: "session / 4 sessions / 9 sessions",
-      reserveLink: "https://wa.link/hyn899",
+      reserveLink: "wa.link/uq7fvx",
     },
   ]
 location: "Harmonia Terra / Eka Center / Outdoors / Online" #optional
