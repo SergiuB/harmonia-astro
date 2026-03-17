@@ -28,7 +28,7 @@ services:
       isGroup: true,
       price: "250lei / 600lei",
       duration: "60min / 3 x 60min",
-      reserveLink: "https://wa.link/r57uxf",
+      reserveLink: "https://wa.link/ujphuo",
     },
     {
       name: "Sesiuni holistice de lucru cu vocea",
@@ -52,7 +52,7 @@ services:
       isGroup: true,
       price: "250lei / 600lei",
       duration: "60min / 3 x 60min",
-      reserveLink: "https://wa.link/r57uxf",
+      reserveLink: "https://wa.link/ujphuo",
     },
     {
       name: "Alchimie prin sunet",
@@ -78,7 +78,7 @@ services:
       isGroup: true,
       price: "450lei",
       duration: "120min",
-      reserveLink: "https://wa.link/r57uxf",
+      reserveLink: "https://wa.link/ujphuo",
     },
     {
       name: "RESPIRO",
