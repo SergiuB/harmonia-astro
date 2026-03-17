@@ -21,7 +21,7 @@ services:
            isGroup: true,
               price: "275lei",
       duration: "60min",
-      reserveLink: "https://wa.link/hjznsl",
+      reserveLink: "https://wa.link/0rph7y",
     },
          {
       name: "Masaj Terapeutic",
@@ -29,7 +29,7 @@ services:
            isGroup: true,
               price: "275lei",
       duration: "60min",
-      reserveLink: "https://wa.link/hjznsl",
+      reserveLink: "https://wa.link/0rph7y",
     },
         {
       name: "Masaj Terapeutic",
@@ -37,7 +37,7 @@ services:
            isGroup: true,
               price: "500lei",
       duration: "120min",
-      reserveLink: "https://wa.link/hjznsl",
+      reserveLink: "https://wa.link/0rph7y",
     },
             {
       name: "Abonament Masaj Terapeutic ",
@@ -45,7 +45,7 @@ services:
            isGroup: true,
               price: "1300 / 2000 / 3500lei",
       duration: "3 / 5 / 10 sesiuni",
-      reserveLink: "https://wa.link/hjznsl",
+      reserveLink: "https://wa.link/0rph7y",
     },
   ]
 location: "Harmonia Terra, Bucuresti" #optional
