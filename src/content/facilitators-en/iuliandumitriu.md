@@ -18,7 +18,7 @@ services:
       isGroup: true,
       price: "250/350/450lei",
       duration: "60/90/120min",
-      reserveLink: "https://wa.link/2c7age",
+      reserveLink: "https://wa.link/4kxtsf",
     },
     {
       name: "Reflexology",
@@ -32,7 +32,7 @@ services:
       isGroup: true,
       price: "250lei",
       duration: "60min",
-      reserveLink: "https://wa.link/2c7age",
+      reserveLink: "https://wa.link/4kxtsf",
     },
     {
       name: "Deep Tissue & Therapeutic Massage",
@@ -51,7 +51,7 @@ services:
       isGroup: true,
       price: "250/350/450lei",
       duration: "60/90/120min",
-      reserveLink: "https://wa.link/2c7age",
+      reserveLink: "https://wa.link/4kxtsf",
     },
   ]
 location: "Harmonia Terra, Bucharest" #optional
