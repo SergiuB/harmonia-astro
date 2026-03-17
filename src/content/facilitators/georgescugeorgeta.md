@@ -18,7 +18,7 @@ services: [
       isGroup: false,
       price: "300 lei",
       duration: "60 min",
-      reserveLink: "https://wa.link/vra6st",
+      reserveLink: "https://wa.link/467igh",
     },
   ]
 location: "Harmonia Terra & Calea Moșilor Nr 270" #optional
