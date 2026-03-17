@@ -23,7 +23,7 @@ services:
       isGroup: true,
       price: "450lei",
       duration: "150min",
-      reserveLink: "https://wa.link/yxmwse",
+      reserveLink: "https://wa.link/md0mnx",
     },
   ]
 location: "Online and offline, at Harmonia Terra" #optional
@@ -32,7 +32,7 @@ contact: {
     email: "oanasforoi@gmail.com", #optional
     phone: "0745257208",
     instagram: "https://www.instagram.com/pelvicroots", #optional
-    whatsapp: "https://wa.link/yxmwse", #optional
+    whatsapp: "https://wa.link/md0mnx", #optional
   }
 ---
 
