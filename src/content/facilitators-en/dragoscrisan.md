@@ -41,7 +41,7 @@ services:
       reserveLink: "https://wa.link/pck7sk",
     },
        {
-      name: "Family and Systemic Constellations",
+      name: "Family and Systemic Constellations Individual session",
       summary: "Individual session",
       description:
         [
