@@ -119,22 +119,22 @@ const showDescriptionAfterServices = Boolean(servicesFirst) && hasServices;
                         <h3 class="text-xl text-dark underline py-1 cursor-pointer">
                           {service.name}
                         </h3>
-                        <div class="text-xs grid grid-cols-[auto_1px_auto_1px_auto] items-center">
+                        <div class="mt-1 flex flex-wrap items-center text-xs leading-tight">
                           <MarkdownRenderer
                             markdown={service.price}
-                            class="mr-1"
+                            class="[&>p]:m-0 [&>p]:leading-tight"
                           />
-                          <div class="bg-light h-full" />
+                          <div class="mx-1 h-3 w-px bg-light" />
 
                           <MarkdownRenderer
                             markdown={service.duration}
-                            class="mx-1"
+                            class="[&>p]:m-0 [&>p]:leading-tight"
                           />
-                          <div class="bg-light h-full" />
+                          <div class="mx-1 h-3 w-px bg-light" />
 
                           <MarkdownRenderer
                             markdown={service.summary}
-                            class="ml-1"
+                            class="[&>p]:m-0 [&>p]:leading-tight"
                           />
                         </div>
                       </div>
