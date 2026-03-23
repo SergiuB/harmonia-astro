@@ -3,7 +3,7 @@ name: "Strîmbei Sebastian"
 featuredIndex: 4
 images: ["../images/ssebastian/ssebastian.jpeg"]
 tags: ["Therapist", "Bodyworker", "Holistic Approach"]
-activities: ["massage"]
+activities: ["masaj"]
 services:
   [
     {
