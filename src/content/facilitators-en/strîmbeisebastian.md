@@ -12,7 +12,7 @@ services:
       isGroup: true,
       price: "455 RON",
       duration: "120 min",
-      reserveLink: "https://wa.link/c0zkow",
+      reserveLink: "https://wa.link/9y82ve",
     },
     {
       name: "Therapeutic Massage – Deep & Soft Tissue Release – Cupping",
@@ -20,7 +20,7 @@ services:
       isGroup: true,
       price: "375 RON",
       duration: "90 min",
-      reserveLink: "https://wa.link/c0zkow",
+      reserveLink: "https://wa.link/9y82ve",
     },
     {
       name: "Chiropractic & Osteopathy",
@@ -28,7 +28,7 @@ services:
       isGroup: true,
       price: "250 RON",
       duration: "60 min",
-      reserveLink: "https://wa.link/c0zkow",
+      reserveLink: "https://wa.link/9y82ve",
     },
   ]
 location: "Harmonia Terra, Bucharest"
@@ -38,7 +38,7 @@ contact:
   phone: "0755388619"
   instagram: "https://www.instagram.com/bodyflow.sebastian?igsh=MWw2bGJkMTJnOHRleg%3D%3D&utm_source=qr"
   facebook: "https://www.facebook.com/share/1CUrtioysE/?mibextid=wwXIfr"
-  whatsapp: "https://wa.link/ohlros"
+  whatsapp: "https://wa.link/9y82ve"
 ---
 
 For me, massage is not just a profession — it is a living art, a dialogue beyond words, and a sacred space of transformation. For nearly two years, I have been working with massage therapy, conscious touch, and sound healing.
