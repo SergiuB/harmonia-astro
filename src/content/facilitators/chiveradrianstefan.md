@@ -1,5 +1,5 @@
 ---
-name: "Chiver Adrian"
+name: "Adrian Chiver"
 featuredIndex: 5
 images: ["../images/mimi/mimi.jpg"]
 tags: ["Terapeut", "Holistic Approach", "Integrative Journeys"]
