@@ -2,7 +2,7 @@
 name: "Strîmbei Sebastian"
 featuredIndex: 4
 images: ["../images/ssebastian/ssebastian.jpeg"]
-tags: ["Terapeut", "Bodyworker", "Holistic Approach"]
+tags: ["Terapeut", "Bodyworker"]
 activities: ["masaj", "osteopatie"]
 services:
   [
