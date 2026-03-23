@@ -1,5 +1,5 @@
 ---
-name: "Strîmbei Sebastian"
+name: "Sebastian Strîmbei"
 featuredIndex: 4
 images: ["../images/ssebastian/ssebastian.jpeg"]
 tags: ["Terapeut", "Bodyworker"]
