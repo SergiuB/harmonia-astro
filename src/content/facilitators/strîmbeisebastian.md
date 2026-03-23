@@ -31,7 +31,7 @@ services:
       reserveLink: "https://wa.link/ohlros",
     },
   ]
-location: "Harmonia Terra, Domiciliu, Centrul Holistic Emes (bd Aviatorilor) Bucuresti" #optional
+location: "Harmonia Terra, București" #optional
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
 contact: {
     email: "strimbei.sebastian@yahoo.com", #optional
