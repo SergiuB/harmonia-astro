@@ -31,7 +31,7 @@ services:
       reserveLink: "https://wa.link/ohlros",
     },
   ]
-location: "Harmonia Terra, Home Visits, Emes Holistic Center (Aviatorilor Blvd), Bucharest"
+location: "Harmonia Terra, Bucharest"
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA"
 contact:
   email: "strimbei.sebastian@yahoo.com"
