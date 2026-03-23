@@ -12,7 +12,7 @@ services:
       isGroup: true,
       price: "455 RON",
       duration: "120 min",
-      reserveLink: "https://wa.link/ohlros",
+      reserveLink: "https://wa.link/c0zkow",
     },
     {
       name: "Therapeutic Massage – Deep & Soft Tissue Release – Cupping",
@@ -20,7 +20,7 @@ services:
       isGroup: true,
       price: "375 RON",
       duration: "90 min",
-      reserveLink: "https://wa.link/ohlros",
+      reserveLink: "https://wa.link/c0zkow",
     },
     {
       name: "Chiropractic & Osteopathy",
@@ -28,7 +28,7 @@ services:
       isGroup: true,
       price: "250 RON",
       duration: "60 min",
-      reserveLink: "https://wa.link/ohlros",
+      reserveLink: "https://wa.link/c0zkow",
     },
   ]
 location: "Harmonia Terra, Bucharest"
