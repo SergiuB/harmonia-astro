@@ -34,7 +34,7 @@ services:
       isGroup: true,
       price: "250lei",
       duration: "60min",
-      reserveLink: "https://wa.link/h0ol9r",
+      reserveLink: "https://wa.link/2dhh8b",
     },
     {
       name: "Yoga",
@@ -53,7 +53,7 @@ services:
       isGroup: true,
       price: "250lei",
       duration: "60min",
-      reserveLink: "https://wa.link/h0ol9r",
+      reserveLink: "https://wa.link/2dhh8b",
     },
     {
       name: "Postural Pilates",
@@ -72,7 +72,7 @@ services:
       isGroup: true,
       price: "250lei",
       duration: "60min",
-      reserveLink: "https://wa.link/h0ol9r",
+      reserveLink: "https://wa.link/2dhh8b",
     },
   ]
 location: "Harmonia Terra, World Class Centers, and Origini hub" #optional
