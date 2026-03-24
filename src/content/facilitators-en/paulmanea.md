@@ -12,7 +12,7 @@ services:
       isGroup: true,
       price: "500lei",
       duration: "180min",
-      reserveLink: "https://wa.link/ju99rc",
+      reserveLink: "https://wa.link/11g3of",
     },
     {
       name: "Rebirthing Breathwork - Individual Online Session",
@@ -20,7 +20,7 @@ services:
       isGroup: true,
       price: "350lei",
       duration: "180min",
-      reserveLink: "https://wa.link/ju99rc",
+      reserveLink: "https://wa.link/11g3of",
     },
     {
       name: "Rebirthing Breathwork - Group Session",
@@ -28,7 +28,7 @@ services:
       isGroup: true,
       price: "180lei",
       duration: "180min",
-      reserveLink: "https://wa.link/ju99rc",
+      reserveLink: "https://wa.link/11g3of",
     },
     {
       name: "Rebirthing Breathwork - Cold Water",
@@ -36,7 +36,7 @@ services:
       isGroup: true,
       price: "550lei",
       duration: "180min",
-      reserveLink: "https://wa.link/ju99rc",
+      reserveLink: "https://wa.link/11g3of",
     },
     {
       name: "Rebirthing Breathwork - Warm Water",
@@ -44,7 +44,7 @@ services:
       isGroup: true,
       price: "550lei",
       duration: "180min",
-      reserveLink: "https://wa.link/ju99rc",
+      reserveLink: "https://wa.link/11g3of",
     },
     {
       name: "Couple Breathwork Session",
@@ -52,7 +52,7 @@ services:
       isGroup: true,
       price: "700lei",
       duration: "180min",
-      reserveLink: "https://wa.link/ju99rc",
+      reserveLink: "https://wa.link/11g3of",
     },
     {
       name: "Theta Healing & Coaching Session",
@@ -60,7 +60,7 @@ services:
       isGroup: true,
       price: "250lei",
       duration: "75min",
-      reserveLink: "https://wa.link/ju99rc",
+      reserveLink: "https://wa.link/11g3of",
     },
     {
       name: "RESPIRO",
