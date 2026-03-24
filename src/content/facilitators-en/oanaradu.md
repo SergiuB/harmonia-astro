@@ -18,7 +18,7 @@ services:
       isGroup: true,
       price: "Donation-based",
       duration: "75min",
-      reserveLink: "https://wa.link/vm4id1",
+      reserveLink: "https://wa.link/bjn3eo",
     },
   ]
 location: "Harmonia Terra - inside; Parcul Carol - outside" #optional
