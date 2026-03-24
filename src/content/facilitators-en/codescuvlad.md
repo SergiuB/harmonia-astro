@@ -16,7 +16,7 @@ services:
       isGroup: true,
       price: "100lei",
       duration: "60min",
-      reserveLink: "https://wa.link/ix35db",
+      reserveLink: "https://wa.link/ehkon8",
     },
     {
       name: "Private 1:1 Sessions",
@@ -32,7 +32,7 @@ services:
       isGroup: true,
       price: "300lei / 1600lei / 1800lei",
       duration: "90min / 8 x 90min / 12 x 90min",
-      reserveLink: "https://wa.link/ix35db",
+      reserveLink: "https://wa.link/ehkon8",
     },
     {
       name: "Private Sessions: Mini Group",
@@ -48,7 +48,7 @@ services:
       isGroup: true,
       price: "150lei",
       duration: "90min",
-      reserveLink: "https://wa.link/ix35db",
+      reserveLink: "https://wa.link/ehkon8",
     },
     {
       name: "RESPIRO",
