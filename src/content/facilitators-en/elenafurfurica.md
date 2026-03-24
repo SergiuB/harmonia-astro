@@ -18,7 +18,7 @@ services:
       isGroup: true,
       price: "220lei",
       duration: "50min+",
-      reserveLink: "https://wa.link/4qcqs2",
+      reserveLink: "https://wa.link/fg80vm",
     },
     {
       name: "Rhythmic Massage",
@@ -34,7 +34,7 @@ services:
       isGroup: true,
       price: "270lei",
       duration: "45min+",
-      reserveLink: "https://wa.link/4qcqs2",
+      reserveLink: "https://wa.link/fg80vm",
     },
     {
       name: "Pilates",
@@ -55,7 +55,7 @@ services:
       isGroup: true,
       price: "220lei",
       duration: "50min+",
-      reserveLink: "https://wa.link/4qcqs2",
+      reserveLink: "https://wa.link/fg80vm",
     },
   ]
 location: "Harmonia Terra - Strada Cercului 18 / Titan Area / Online" #optional
