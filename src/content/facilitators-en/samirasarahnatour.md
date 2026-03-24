@@ -27,7 +27,7 @@ services:
       isGroup: true,
       price: "250lei / 600lei",
       duration: "60min / 3 x 60min",
-      reserveLink: "https://wa.link/ujphuo",
+      reserveLink: "https://wa.link/y1u4sb",
     },
     {
       name: "Holistic voice work sessions",
@@ -51,7 +51,7 @@ services:
       isGroup: true,
       price: "250lei / 600lei",
       duration: "60min / 3 x 60min",
-      reserveLink: "https://wa.link/ujphuo",
+      reserveLink: "https://wa.link/y1u4sb",
     },
     {
       name: "Sound alchemy",
@@ -76,7 +76,7 @@ services:
       isGroup: true,
       price: "450lei",
       duration: "120min",
-      reserveLink: "https://wa.link/ujphuo",
+      reserveLink: "https://wa.link/y1u4sb",
     },
     {
       name: "RESPIRO",
