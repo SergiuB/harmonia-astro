@@ -38,7 +38,7 @@ services:
       isGroup: true,
       price: "350lei",
       duration: "90min",
-      reserveLink: "https://wa.link/uxdng0",
+      reserveLink: "https://wa.link/ddb95k",
     },
     {
       name: "Unknotting the Throat",
@@ -55,7 +55,7 @@ services:
       isGroup: true,
       price: "250lei",
       duration: "90min",
-      reserveLink: "https://wa.link/uxdng0",
+      reserveLink: "https://wa.link/ddb95k",
     },
     {
       name: "Awakening the Voice",
@@ -70,7 +70,7 @@ services:
       isGroup: true,
       price: "250lei / 150lei",
       duration: "3h, Physical / 3h, Online",
-      reserveLink: "https://wa.link/uxdng0",
+      reserveLink: "https://wa.link/ddb95k",
     },
   ]
 location: "Online / At home - Bucharest & Constanta" #optional
