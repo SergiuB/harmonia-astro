@@ -23,7 +23,7 @@ services:
       isGroup: true,
       price: "450lei",
       duration: "150min",
-      reserveLink: "https://wa.link/md0mnx",
+      reserveLink: "https://wa.link/ih5qb7",
     },
   ]
 location: "Online and offline, at Harmonia Terra" #optional
