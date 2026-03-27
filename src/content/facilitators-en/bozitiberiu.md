@@ -271,7 +271,7 @@ services:
           "- Booking frequency: Choose weekly, bi-weekly, every three weeks, or monthly sessions, aligned with your rhythm.",
           "- Validity: The subscription remains active for 4 months from the purchase date.",
           "- Available hours: Bookings are offered only in morning or afternoon slots; the 18:30 evening slot is not part of this package.",
-          "- Payment: The full subscription amount (2,880 lei) is paid before the first appointment.",
+          "- Payment: The full subscription amount (3,360 lei) is paid before the first appointment.",
           "Choose the Harmonic Reborn Subscription to enjoy unique sessions at a reduced price, with flexibility tailored to your needs. This package lets you experience holistic massage in a peaceful, exclusive setting so you can reach the perfect balance between body, mind, and soul.",
           "Limited places: Only three Harmonic Reborn subscriptions are available each month, so secure your spot early to benefit from this offer.",
           "Contact me now to learn more and purchase this advantageous subscription.",
