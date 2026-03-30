@@ -414,8 +414,14 @@ contact: {
   }
 ---
 
-She began her journey into alternative medicine over seven years ago at the renowned Loi Kroh Traditional Thai Massage School in Chiang Mai, where she completed an intensive program and trained as a Thai massage practitioner.
+Delia’s journey began from a personal process — from the desire to understand the body more deeply and how it finds balance when it is truly listened to.
 
-Drawn to the healing properties of essential oils, she devoted time to study aromatherapy with experienced practitioners, refining her skills to offer thoughtful, effective treatments for people seeking wellbeing and balance.
+Her training started 10 years ago in Chiang Mai, at the Loi Kroh School of Traditional Thai Massage, where she studied in an authentic and intensive environment, building the foundation of her bodywork practice. Over time, she continued to explore other directions, including aromatherapy, gradually integrating tools that supported her own process.
 
-Today, Delia provides her own holistic therapies that combine a variety of techniques and tools to restore balance and harmony across the whole body.
+Within Harmonia Terra, she shares what has worked for her, in a thoughtful way, adapted to each individual.
+
+In her work, she uses high-quality essential oils and assessment tools such as Zyto scans, to identify imbalances and support the regulation process in a personalized way.
+
+Whether it is about relaxation or a deeper process, each session is tailored to you and to what you need in that moment — supporting the release of tension in the body, calming the nervous system, and creating a clearer reconnection with yourself.
+
+She creates a space where you can come without pressure, where things are allowed to settle in their own rhythm, and from which you can leave with more clarity, presence, and balance.
