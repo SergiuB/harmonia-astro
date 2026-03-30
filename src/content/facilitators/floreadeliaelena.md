@@ -419,8 +419,14 @@ contact: {
   }
 ---
 
-Pornește pe drumul ei către terapiile din medicina alternativă acum mai bine de 7 ani, la cunoscuta Școală de Masaj Tradițional Thailandez Loi Kroh din Chiangmai. Aici, a absolvit un program intensiv, devenind practicant de masaj thailandez.
+Parcursul Deliei a început dintr-un proces personal — din dorința de a înțelege mai profund corpul și modul în care acesta se echilibrează atunci când este ascultat.
 
-Ulterior, captivată proprietățile uleiurilor esențiale, ea și-a dedicat timpul explorând beneficiile aromaterapiei alături de experți, dezvoltându-și abilitățile pentru a oferi tratamente exceptionale celor în căutarea stării de bine.
+Formarea ei a început în urma cu 10 ani, in Chiang Mai, în cadrul Școlii de Masaj Tradițional Thailandez Loi Kroh, unde a studiat într-un mediu autentic și intensiv, punând bazele lucrului cu corpul. De-a lungul timpului, a continuat să exploreze și alte direcții, printre care aromaterapia, integrând treptat instrumente care i-au susținut propriul proces.
 
-Acum, Delia oferă oamenilor propriile ei terapii holistice care îmbină diverse tehnici și instrumente pentru a aduce echilibru și armonie pe întregul organism uman.
+În cadrul Harmonia Terra, împărtășește mai departe ceea ce a funcționat pentru ea, într-o manieră atentă și adaptată fiecărei persoane.
+
+În lucrul ei, utilizează uleiuri esențiale de calitate și instrumente de evaluare precum scanările Zyto, pentru a identifica dezechilibrele și a susține procesul de reglare într-un mod cât mai personalizat.
+
+Fie că este vorba despre relaxare sau despre un proces mai profund, fiecare sesiune este construită în funcție de tine și de ceea ce ai nevoie în acel moment — susținând reducerea tensiunii din corp, liniștirea sistemului nervos și o reconectare mai clară cu tine.
+
+Creează un spațiu în care poți veni fără presiune, unde lucrurile se pot așeza în ritmul lor și de unde poți pleca cu mai multă claritate, prezență și echilibru.
