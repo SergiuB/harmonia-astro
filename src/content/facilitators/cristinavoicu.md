@@ -24,7 +24,7 @@ services: [
       isGroup: true,
       price: "1800 lei",
       duration: "6 x 60min",
-      reserveLink:  "wa.link/g10wo1",
+      reserveLink:  "https://wa.link/wwl9jn",
     },
  {
       name: "Face Yoga – program de antrenament facial",
@@ -45,7 +45,7 @@ services: [
       isGroup: true,
       price: "490 lei",
       duration: "5 x 60min",
-      reserveLink:  "wa.link/g10wo1",
+      reserveLink:  "https://wa.link/wwl9jn",
     },
      {
       name: "Face Yoga – program de antrenament facial",
@@ -66,7 +66,7 @@ Programul se desfășoară pe parcursul a 5 săptămâni, cu întâlniri săptă
       isGroup: true,
       price: "650 lei",
       duration: "5 x 60min",
-      reserveLink:  "wa.link/g10wo1",
+      reserveLink:  "https://wa.link/wwl9jn",
     },
          {
       name: "Drenaj limfatic facial – metodă braziliană",
@@ -82,7 +82,7 @@ Recomandat în caz de retenție de apă, oboseală facială, inflamație ușoar�
       isGroup: true,
       price: "400 lei",
       duration: "60min",
-      reserveLink:  "wa.link/g10wo1",
+      reserveLink:  "https://wa.link/wwl9jn",
     },
              {
       name: "Terapie facială sculpturală și intraorală",
@@ -100,7 +100,7 @@ Tehnica intraorală este inclusă atunci când este necesar și se realizează �
       isGroup: true,
       price: "500 lei / 1800 lei / 2700 lei / 4200 lei",
       duration: "120min / 4 x 120min / 6 x 120min / 10 x 120min",
-      reserveLink:  "wa.link/g10wo1",
+      reserveLink:  "https://wa.link/wwl9jn",
     },
                {
       name: "Postural Alignment – fundația echilibrului facial și corporal",
@@ -127,7 +127,7 @@ Pentru rezultate reale și durabile, este recomandată parcurgerea întregului p
       isGroup: true,
       price: "3600 lei",
       duration: "10 x 90min",
-      reserveLink:  "wa.link/g10wo1",
+      reserveLink:  "https://wa.link/wwl9jn",
     },
   ]
 location: "Harmonia Terra / Online / Chitila, jud. Ilfov" #optional
@@ -136,7 +136,7 @@ contact: {
     email: "cristinaarpasanu@gmail.com", #optional
     phone: "0721027231",
     instagram: "https://www.instagram.com/cristina.facekinetic",
-    whatsapp: "wa.link/g10wo1", #optional
+    whatsapp: "https://wa.link/wwl9jn", #optional
   }
 ---
 
