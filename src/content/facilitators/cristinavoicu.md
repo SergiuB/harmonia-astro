@@ -1,6 +1,6 @@
 ---
 name: "Cristina Voicu"
-featuredIndex: 6
+featuredIndex: 5
 images: ["../images/cristinavoicu/cristinavoicu.png"]
 tags: ["Terapeut","Tratamente Faciale", "Face Yoga"]
 activities: ["masaj", "tratament-facial", "alte-servicii", "aliniament"]
