@@ -136,3 +136,16 @@ contact: {
     whatsapp: "wa.link/g10wo1",
   }
 ---
+Integrative approach to facial aesthetics, based on functionality, posture, and body awareness.
+
+My approach is rooted in physiotherapy and extends into an integrative understanding of the relationship between the body, the face, and expression.
+
+I see the face as a reflection of inner balance. Tone, mobility, and the way it changes over time are closely connected to posture, breathing, and patterns of tension within the body.
+
+I work non-invasively, supporting the body’s natural processes and encouraging a more conscious and gentle relationship with oneself. For me, care is not about correction, but about support and alignment.
+
+In my practice, I integrate facial therapy and Postural Alignment principles, alongside techniques such as EIM Facial Gua Sha and Face Yoga. This approach allows me to work at the root level and support the return to balance.
+
+Each session is a personalized process, guided with attention, clarity, and respect for each person’s rhythm.
+
+I create a space where care becomes a form of reconnection, and transformation naturally unfolds from the inside out.
