@@ -3,7 +3,7 @@ name: "Cristina Voicu"
 featuredIndex: 5
 images: ["../images/cristinavoicu/cristinavoicu.png"]
 tags: ["Terapeut","Tratamente Faciale", "Face Yoga"]
-activities: ["masaj", "tratament-facial", "alte-servicii", "aliniament"]
+activities: ["masaj", "tratamente-faciale", "alte-servicii", "aliniament"]
 services: [
  {
       name: "Ecology In Motion Facial Gua Sha",
