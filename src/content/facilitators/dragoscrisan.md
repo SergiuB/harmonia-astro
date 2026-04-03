@@ -86,12 +86,12 @@ instagram: "https://www.instagram.com/dragos_crisan/", #optional
 ---
 
 
-Bună! Sunt Dragoș Crișan și te invit te invit la o întâlnire cu corpul tău. Îl vom asculta, în liniște și cu răbdare, pentru a-l susține exact acolo unde are nevoie și pentru a-l încuraja cu blândețe spre relaxare și echilibru interior. 
+Bună! Sunt Dragoș Crișan și te invit la o întâlnire cu corpul tău. Îl vom asculta, în liniște și cu răbdare, pentru a-l susține exact acolo unde are nevoie și pentru a-l încuraja cu blândețe spre relaxare și echilibru interior. 
 
 Aici poți descoperi certificările mele in Terapia craniosacrală → https://www.iahp.com/DragosCrisan/.
 
 Lucrez printr-o abordare holistică și integrativă, bazată pe prezență, ascultare și respectul față de ritmul unic al fiecărei persoane – nimic nu este greșit și nimic nu trebuie reparat. Totul capătă un sens atunci când este văzut, ascultat și blând adresat – simptomul ne invită la introspecție și ne vorbește în limbaj propriu despre ceea ce mintea încă nu este pregătită să privească. Corpul este cel care ne ascultă și ne iubește necondiționat.. el se modelează clipă de clipă după chipul și asemănarea interiorului nostru.
 
-Profunzimea reală nu vine din teorie, ci din curajul de a ne întâlni cu noi înșine și cu abisul propriului inconștient. În acest proces, privesc și observ omul ca pe o declarație de dragoste – o structură vie de valori, emoții și dinamici complexe prin care iubirea universala se exprimă, capătând sensuri și forme unice.
+Profunzimea reală nu vine din teorie, ci din curajul de a ne întâlni cu noi înșine și cu abisul propriului inconștient. În acest proces, privesc și observ omul ca pe o declarație de dragoste – o structură vie de valori, emoții și dinamici complexe prin care iubirea universala se exprimă, căpătând sensuri și forme unice.
 
 Pentru mine, lucrul terapeutic nu este o profesie, ci o formă de prezență, o mișcare a sufletului care ne conduce cu răbdare și înțelepciune spre locul potrivit.
