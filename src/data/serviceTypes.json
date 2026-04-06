@@ -184,6 +184,10 @@
     "nameKey": "activity.throatSinging"
   },
   {
+    "id": "tratamente-faciale",
+    "nameKey": "activity.tratamenteFaciale"
+  },
+  {
     "id": "yoga",
     "nameKey": "activity.yoga"
   },

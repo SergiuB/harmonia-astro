@@ -7,10 +7,10 @@ activities:
   [
     "breathwork",
     "group-innerdance",
-    "other-services",
+    "alte-servicii",
     "innerdance",
     "group-breathwork",
-    "group-other-services",
+    "group-alteservicii",
   ]
 services:
   [
