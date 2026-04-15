@@ -132,7 +132,9 @@ const participantCategories = [
                       <p class="pl-1 border-l border-primary">
                         {edition.availableSlots === 0
                           ? t("respiro.slotsSoldOut")
-                          : t("respiro.slotsLimited")}
+                          : edition.availableSlots <= 3
+                            ? t("respiro.slotsLastSpots")
+                            : t("respiro.slotsLimited")}
                       </p>
                     </div>
                   </div>
