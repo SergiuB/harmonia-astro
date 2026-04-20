@@ -59,18 +59,6 @@ services:
       duration: "150min",
       reserveLink: "https://app.simplymeet.me/dragoscrisan/1772036607",
     },
-    {
-      name: "Craniosacral Therapy – Introductory Free Session",
-      summary: "Individual session",
-      description:
-        [
-          "Craniosacral therapy is a gentle and present way of connecting with the body — through light touch and deep listening, the body is invited to access its natural capacity for self-regulation...",
-        ],
-      isGroup: true,
-      price: "0 lei",
-      duration: "45min",
-      reserveLink: "https://app.simplymeet.me/dragoscrisan/1773501474",
-    },
   ]
 location: "Harmonia Terra - 18 Cercului Street"
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA"
