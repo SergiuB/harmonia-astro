@@ -206,7 +206,7 @@ services:
         ],
       price: "1650lei",
       duration: "7h",
-      reserveLink: "https://wa.link/99jmn6",
+      reserveLink: "https://wa.link/xetvyt",
     },
     {
       name: "RESPIRO",
@@ -231,7 +231,7 @@ services:
         ],
       price: "1500lei / person",
       duration: "10h",
-      reserveLink: "https://wa.link/l1f0gf",
+      reserveLink: "https://wa.link/s3x43w",
     },
     {
       name: "Harmonic GIFT Card",
@@ -253,9 +253,9 @@ services:
           "*After booking through the website you will receive a message within 24 hours to pay a 50% deposit if you do not have a subscription or gift card.",
           "*Rescheduling or cancellations for any reason must be made at least 48 hours before the session. Reprogramming or cancellations less than 48 hours before will forfeit the session if you hold a gift card or subscription. For individual payments, the 50% deposit will not be refunded.",
         ],
-      price: "300lei → 1350lei",
+      price: "300lei → 1650lei",
       duration: "60min → 10h",
-      reserveLink: "https://wa.link/djgx8y",
+      reserveLink: "https://wa.link/1a7oli",
     },
   ]
 location: "Harmonia Terra - Strada Cercului 18 / Sambodhi Studio - Strada Popa Rusu, Bucharest" #optional
