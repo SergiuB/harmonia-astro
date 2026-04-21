@@ -73,7 +73,7 @@ services:
         ],
       price: "1500lei / person",
       duration: "10h",
-      reserveLink: "https://wa.link/l1f0gf",
+      reserveLink: "https://wa.link/s3x43w",
     },
   ]
 location: "Origini Hub, Bucharest / Groove Box, Bucharest / Outdoor Classes" #optional
