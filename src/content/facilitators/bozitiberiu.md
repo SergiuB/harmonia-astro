@@ -90,7 +90,7 @@ Durata afișată a serviciului include atât discuția inițială, cât și timp
   price: "700lei",
   duration: "100min",
   reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicflow",
-}
+},
      {
       name: "Harmonic Prime",
       summary: "Masaj Holistic : Întregul corp",
