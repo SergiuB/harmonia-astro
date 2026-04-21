@@ -71,7 +71,7 @@ Durata afișată a serviciului include atât discuția inițială, cât și timp
     },
     {
   name: "Harmonic Flow",
-  summary: "Masaj holistic : Flow terapeutic avansat",
+  summary: "Masaj holistic : Întregul corp",
   description:
     [
       "Harmonic Flow este un masaj holistic avansat, în care tehnica și intuiția se îmbină într-un proces fluid, continuu și ghidat.",
