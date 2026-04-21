@@ -122,7 +122,7 @@ Durata afișată a serviciului include atât discuția inițială, cât și timp
       isGroup: true,
       price: "1100lei",
       duration: "3 ore",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicascension",
+      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicprime",
     },
     {
       name: "Harmonic Maternity Bliss",
