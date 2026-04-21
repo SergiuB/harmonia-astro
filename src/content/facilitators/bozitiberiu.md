@@ -87,7 +87,7 @@ Durata afișată a serviciului include atât discuția inițială, cât și timp
       "*Această sesiune nu este recomandată ca primă experiență pentru persoanele foarte tensionate, rigide sau care nu au mai lucrat cu corpul. Pentru început, este recomandată o sesiune de tip Harmonic Reborn, care pregătește corpul pentru un nivel mai profund de lucru."
     ],
   isGroup: true,
-  price: "750lei",
+  price: "700lei",
   duration: "120min",
   reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicflow",
 },
