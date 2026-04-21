@@ -110,7 +110,7 @@ services:
   isGroup: true,
   price: "1100 RON",
   duration: "3 hours",
-  reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicascension",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicprime",
 },
     {
       name: "Harmonic Maternity Bliss",
