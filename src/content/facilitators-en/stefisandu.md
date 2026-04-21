@@ -36,7 +36,7 @@ services:
       isGroup: true,
       price: "250 lei",
       duration: "90 min",
-      reserveLink: "https://wa.link/yfb2tx",
+      reserveLink: "https://wa.link/5l27d7",
     },
     {
       name: "MAI.ÎNCET series",
@@ -59,7 +59,7 @@ services:
       isGroup: true,
       price: "220 lei",
       duration: "60 min",
-      reserveLink: "https://wa.link/yfb2tx",
+      reserveLink: "https://wa.link/5l27d7",
     },
     {
       name: "MAI.ÎNCET series",
@@ -84,7 +84,7 @@ services:
       isGroup: true,
       price: "120 lei",
       duration: "120 min",
-      reserveLink: "https://wa.link/yfb2tx",
+      reserveLink: "https://wa.link/5l27d7",
     },
     {
       name: "Lunch Break Reset – online",
@@ -111,7 +111,7 @@ services:
       isGroup: true,
       price: "44 lei",
       duration: "30 min",
-      reserveLink: "https://wa.link/yfb2tx",
+      reserveLink: "https://wa.link/5l27d7",
     },
   ]
 location: "Harmonia Terra, str. Cercului, nr.18" #optional
