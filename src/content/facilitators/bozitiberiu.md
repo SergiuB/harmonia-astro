@@ -69,7 +69,39 @@ Durata afișată a serviciului include atât discuția inițială, cât și timp
       duration: "120min",
       reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicreborn",
     },
-      {
+    {
+  name: "Harmonic Flow",
+  summary: "Masaj holistic : Flow terapeutic avansat",
+  description:
+    [
+      "Harmonic Flow este un masaj holistic avansat, în care tehnica și intuiția se îmbină într-un proces fluid, continuu și ghidat.",
+
+      "Este creat pentru persoanele care sunt deja conectate cu propriul corp și care pot intra cu ușurință într-o stare de relaxare, deschidere și încredere, permițându-și să se lase ghidate și să se predea procesului.",
+
+      "Spre deosebire de alte masaje holistice, precum Harmonic Reborn, unde accentul este pus pe nevoi specifice ale corpului, această experiență permite corpului să intre într-un flow continuu, în care tehnicile se leagă natural, iar intervenția devine mai fluidă, mai creativă și mai expresivă.",
+
+      "Lucrul combină elemente de deep tissue, fascie, mobilizări, stretching, flow și atingere intuitivă, integrate într-un ritm natural, adaptat în timp real în funcție de ceea ce corpul permite și cere.",
+
+      "Această sesiune este potrivită pentru persoanele care au mai lucrat cu corpul lor, pentru cei care se pot relaxa și se pot lăsa ghidați, pentru cei care își doresc o experiență autentică în arta masajului și pentru cei deschiși către un stil de lucru mai dinamic, fluid și integrativ.",
+
+      "Harmonic Flow este mai puțin ghidat de o structură fixă și mai mult de flow, permițând folosirea unor tehnici variate și mai avansate și creând o experiență continuă, fără întreruperi, în care profunzimea terapeutică se îmbină cu o dimensiune senzorială rafinată.",
+
+      "Beneficii posibile includ relaxare profundă și reglarea sistemului nervos, creșterea mobilității, eliberarea tensiunilor, reconectarea cu corpul și senzațiile, precum și accesul la stări de prezență și fluiditate.",
+
+      "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale și a stării tale din acel moment. Durata acestui moment este inclusă în timpul total al sesiunii.",
+
+      "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
+
+      "*Reprogramările sau anulările trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În caz contrar, avansul nu va fi returnat sau sesiunea va fi considerată efectuată.",
+
+      "*Această sesiune nu este recomandată ca primă experiență pentru persoanele foarte tensionate, rigide sau care nu au mai lucrat cu corpul. Pentru început, este recomandată o sesiune de tip Harmonic Reborn, care pregătește corpul pentru un nivel mai profund de lucru."
+    ],
+  isGroup: true,
+  price: "700lei",
+  duration: "100min",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicflow",
+}
+     {
       name: "Harmonic Prime",
       summary: "Masaj Holistic : Întregul corp",
       description:
