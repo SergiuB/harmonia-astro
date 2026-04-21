@@ -347,7 +347,7 @@ services:
         ],
       price: "1650lei",
       duration: "7h",
-      reserveLink: "https://wa.link/6ojhuz",
+      reserveLink: "https://wa.link/32mm10",
     },
     {
       name: "RESPIRO",
@@ -372,7 +372,7 @@ services:
         ],
       price: "1500lei / person",
       duration: "10h",
-      reserveLink: "https://wa.link/x5mjvd",
+      reserveLink: "https://wa.link/s3x43w",
     },
     {
       name: "Harmonic GIFT Card",
@@ -391,7 +391,7 @@ services:
         ],
       price: " 400lei → 3360lei",
       duration: "60min → 10h",
-      reserveLink: "https://wa.link/lp6t0c",
+      reserveLink: "https://wa.link/1a7oli",
     },
   ]
 location: "Harmonia Terra, Bucuresti" #optional
