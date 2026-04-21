@@ -79,7 +79,7 @@ services:
       "*This session is not recommended as a first experience for people with high levels of tension, rigidity, or no previous bodywork experience. In such cases, a Harmonic Reborn session is recommended first, to prepare the body for deeper work."
     ],
   isGroup: true,
-  price: "750lei",
+  price: "700lei",
   duration: "120min",
   reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicflow",
 },
