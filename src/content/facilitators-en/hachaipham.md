@@ -67,7 +67,7 @@ services:
         ],
       price: "1500 RON / person",
       duration: "10h",
-      reserveLink: "https://wa.link/l1f0gf",
+      reserveLink: "https://wa.link/s3x43w",
     },
   ]
 location: "Online and offline workshops in studios and at-home sessions in Bucharest."
