@@ -229,7 +229,7 @@ services:
           "The program can be integrated both into individual personal development journeys and into organizational wellbeing and development strategies.",
           "A premium experience delivered by certified specialists, in a space dedicated to holistic health, clarity, and performance.",
         ],
-      price: "1250lei / person",
+      price: "1500lei / person",
       duration: "10h",
       reserveLink: "https://wa.link/l1f0gf",
     },
