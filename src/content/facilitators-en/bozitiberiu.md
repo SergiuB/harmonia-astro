@@ -62,16 +62,16 @@ services:
       reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicreborn",
     },
     {
-  name: "Harmonic Flow",
+  name: "Harmonic Reborn Flow",
   summary: "Holistic massage : Whole Body",
   description:
     [
-      "Harmonic Flow is an advanced holistic massage where technique and intuition come together in a fluid, continuous and guided process.",
+      "Harmonic Reborn Flow is an advanced holistic massage where technique and intuition come together in a fluid, continuous and guided process.",
       "It is designed for people who are already connected with their body and can easily enter a state of relaxation, openness and trust, allowing themselves to let go and be guided through the experience.",
       "Unlike other holistic massages such as Harmonic Reborn, where the focus is on specific needs of the body, this session allows the body to enter a continuous flow, where techniques naturally connect and the work becomes more fluid, creative and expressive.",
       "The session combines deep tissue, fascia work, mobilization, stretching, flow and intuitive touch, all integrated in a natural rhythm and adapted in real time based on what the body allows and needs.",
       "This session is suitable for people who have previous experience with bodywork, for those who can relax and trust the process, for those who want to experience the art of massage, and for those open to a more dynamic, fluid and integrative approach.",
-      "Harmonic Flow is less about a fixed structure and more about flow, allowing a wider range of techniques and more advanced work, creating a continuous experience without interruptions, where therapeutic depth meets a refined sensory experience.",
+      "Harmonic Reborn Flow is less about a fixed structure and more about flow, allowing a wider range of techniques and more advanced work, creating a continuous experience without interruptions, where therapeutic depth meets a refined sensory experience.",
       "Possible benefits include deep relaxation, nervous system regulation, improved mobility, release of physical tension, reconnection with the body and sensations, and access to states of presence and flow.",
       "*Each session includes a short initial conversation to understand your needs and current state. This time is included in the total duration of the session.",
       "*After booking through the website, you will receive a message within 24 hours to complete a 50% advance payment, unless you already have a subscription or gift card.",
@@ -79,8 +79,8 @@ services:
       "*This session is not recommended as a first experience for people with high levels of tension, rigidity, or no previous bodywork experience. In such cases, a Harmonic Reborn session is recommended first, to prepare the body for deeper work."
     ],
   isGroup: true,
-  price: "700lei",
-  duration: "100min",
+  price: "750lei",
+  duration: "120min",
   reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicflow",
 },
      {
