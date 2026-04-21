@@ -65,7 +65,7 @@ services:
           "Programul poate fi integrat atât în parcursul individual al participanților, cât și în strategiile de wellbeing și dezvoltare ale organizațiilor.",
           "O experiență premium, livrată de specialiști certificați, într-un spațiu dedicat sănătății holistice, clarității și performanței.",
         ],
-      price: "1250lei / persoană",
+      price: "1500lei / persoană",
       duration: "10ore",
       reserveLink: "https://wa.link/l1f0gf",
     },
