@@ -63,7 +63,7 @@ services:
     },
     {
   name: "Harmonic Flow",
-  summary: "Holistic massage : Advanced therapeutic flow",
+  summary: "Holistic massage : Whole Body",
   description:
     [
       "Harmonic Flow is an advanced holistic massage where technique and intuition come together in a fluid, continuous and guided process.",
