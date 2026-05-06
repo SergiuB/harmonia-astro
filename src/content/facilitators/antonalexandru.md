@@ -84,10 +84,12 @@ contact: {
   }
 ---
 
-Absolvent al facultatii de psihologie, m-am antrenat in metodele ancestrale de vindecare din mai multe traditii si in terapia traumei transgenerationale.
+Absolvent al Facultății de Psihologie, m-am antrenat în metodele ancestrale de vindecare din mai multe tradiții și în terapia traumei transgeneraționale.
 
-In 2010 am avut primul contact cu cantarea guturala siberiana (throat-singing) si de-atunci continui sa aprofundez armonizarea la toate nivelurile cu ajutorul sunetelor produse constient.
+În 2010 am avut primul contact cu cântarea guturală siberiană (throat singing), iar de atunci continui să aprofundez armonizarea la toate nivelurile cu ajutorul sunetelor produse conștient.
 
-Am calatorit in Tuva, Yakutia, Altai si Mongolia si in urma acestor experiente mi-am descoperit pasiunea de a trezi viata prin cantec. 
+Am călătorit în Tuva, Yakutia, Altai și Mongolia, iar în urma acestor experiențe mi-am descoperit pasiunea de a trezi viața prin cântec.
 
-Din 2013 practic budismul tibetan si integrez in atelierele pe care le tin intelepciunea milenara a descoperirii adevaratei noastre naturi, care este prezenta in fiecare dintre noi, in fiecare moment.
+Din 2013 practic budismul tibetan și integrez în atelierele pe care le susțin înțelepciunea milenară a descoperirii adevăratei noastre naturi, care este prezentă în fiecare dintre noi, în fiecare moment.
+
+În prezent, sunt în formare ca terapeut craniosacral biodinamic, într-un program de 2 ani, și sunt entuziasmat să explorez în profunzime puntea dintre vibrațiile conștiente și integrarea somatică.
