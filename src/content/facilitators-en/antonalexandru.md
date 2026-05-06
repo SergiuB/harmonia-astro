@@ -83,10 +83,12 @@ contact: {
   }
 ---
 
-A graduate of the Faculty of Psychology, I have trained in ancestral healing methods from various traditions and transgenerational trauma therapy.
+A graduate of the Faculty of Psychology, I have trained in ancestral healing methods from multiple traditions, as well as in transgenerational trauma therapy.
 
-In 2010, I had my first contact with Siberian throat singing (throat-singing), and since then, I have continued to deepen harmonization at all levels with the help of consciously produced sounds.
+In 2010, I had my first contact with Siberian throat singing, and since then I have continued to deepen my exploration of harmonization at all levels through consciously produced sound.
 
-I have traveled to Tuva, Yakutia, Altai, and Mongolia, and as a result of these experiences, I discovered my passion for awakening life through song.
+I have traveled to Tuva, Yakutia, Altai, and Mongolia, and through these experiences I discovered my passion for awakening life through song.
 
-Since 2013, I have been practicing Tibetan Buddhism and integrating the millennial wisdom of discovering our true nature, which is present in each of us, at every moment, into the workshops I hold.
+Since 2013, I have been practicing Tibetan Buddhism, integrating into my workshops the ancient wisdom of discovering our true nature — a presence that exists within each of us, in every moment.
+
+Currently, I am training as a biodynamic craniosacral therapist in a two-year program, and I am deeply interested in exploring the bridge between conscious vibrations and somatic integration.
