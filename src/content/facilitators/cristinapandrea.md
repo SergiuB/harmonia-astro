@@ -7,14 +7,21 @@ activities: ["masaj", "medicina-traditionala-chineza", "acupunctura", "cupping"]
 services:
   [
   {
-      name: "Acupunctură",
+      name: "Acupunctură - Pacient Nou",
       summary: "Terapie Holistică : Medicina Chineză",
-        price: "200lei / 500lei/ 1000lei /1500 lei",
-      duration: "60min / 3sesiuni / 6sesiuni / 10sesiuni",
+        price: "200lei",
+      duration: "60min",
       reserveLink: "https://wa.link/r2rx9p",
     },
       {
-      name: "Cupping : Ventuze",
+      name: "Acupunctură - Pacient Vechi",
+      summary: "Terapie Holistică : Medicina Chineză",
+        price: "500 / 1000 / 1500 lei",
+      duration: "3 / 6 / 10 sesiuni",
+      reserveLink: "https://wa.link/r2rx9p",
+    },
+      {
+      name: "Cupping",
       summary: "Ventuze : Medicina Chineză",
         price: "100lei",
       duration: "20min",
@@ -23,22 +30,22 @@ services:
           {
       name: "Masaj “Lymphatic dranage”",
       summary: "Drenaj Limfatic",
-        price: "280lei / 340lei",
-      duration: "50min / 75min",
+        price: "280 / 340lei",
+      duration: "50 / 75min",
       reserveLink: "https://wa.link/r2rx9p",
     },
     {
       name: "Masaj “Prenatal”",
       summary: "Terapie prin masaj",
-        price: "280lei / 340lei",
-      duration: "50min / 75min",
+        price: "280 / 340lei",
+      duration: "50 / 75min",
       reserveLink: "https://wa.link/r2rx9p",
     },
         {
       name: "Acupunctură & Masaj”",
       summary: "Terapie Holistică : Medicina Chineză",
-        price: "280lei / 340lei",
-      duration: "50min / 75min",
+        price: "280 / 340lei",
+      duration: "50 / 75min",
       reserveLink: "https://wa.link/r2rx9p",
     },
   ]
