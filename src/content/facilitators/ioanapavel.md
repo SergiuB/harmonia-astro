@@ -25,7 +25,7 @@ services:
     ],
   isGroup: true,
   price: "180 lei / 300 lei",
-  duration: "40min / 60min+",
+  duration: "40min / 60min",
   reserveLink: "wa.link/aycp1c",
 },
 {
