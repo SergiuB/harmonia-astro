@@ -87,4 +87,4 @@ I am Ioana, and my journey began by becoming my own therapist. Since childhood, 
 
 Over time, I worked as an editor, teacher, and later as a psychologist and personal development counselor. Alongside this path, I pursued trainings in therapies such as EFT, Theta Healing, and Craniosacral Therapy.
 
-I wish to continue going deeper into the direction of body reset and body-based work, because I have come to understand that these practices can have a profound impact on real processes of healing and reconnection.
+I wish to continue going deeper into the direction of body reset and body-based work, because I have come to understand that these practices can have a profound impact on real processes of healing and reconnection with oneself.
