@@ -26,7 +26,7 @@ services:
   isGroup: true,
   price: "180 lei / 300 lei",
   duration: "40min / 60min",
-  reserveLink: "wa.link/aycp1c",
+  reserveLink: "https://wa.link/71oh2y",
 },
 {
   name: "RESET TOUCH",
@@ -51,7 +51,7 @@ services:
   isGroup: true,
   price: "100 lei / 150 lei / 320 lei",
   duration: "15min / 30min / 50min",
-  reserveLink: "wa.link/aycp1c",
+  reserveLink: "https://wa.link/71oh2y",
 },
 {
   name: "Dans Extatic pentru Femei",
@@ -71,7 +71,7 @@ services:
   isGroup: true,
   price: "190 lei",
   duration: "90min",
-  reserveLink: "wa.link/aycp1c",
+  reserveLink: "https://wa.link/71oh2yc",
 },
   ]
 location: "Harmonia Terra, Bucuresti" #optional
