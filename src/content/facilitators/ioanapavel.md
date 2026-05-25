@@ -88,4 +88,4 @@ Eu sunt Ioana, iar călătoria mea a început prin a deveni propriul meu terapeu
 
 De-a lungul timpului, am lucrat ca redactor, profesoară, apoi ca psiholog și consilier în dezvoltare personală. În paralel, am urmat formări în terapii precum EFT, Theta Healing și Terapie Craniosacrală.
 
-Îmi doresc să continui tot mai profund pe direcția de body reset și lucru cu corpul, pentru că am înțeles că aceste practici pot avea un impact profund în procesele reale de vindecare și reconectare.
+Îmi doresc să continui tot mai profund pe direcția de body reset și lucru cu corpul, pentru că am înțeles că aceste practici pot avea un impact profund în procesele reale de vindecare și reconectare cu sine.
