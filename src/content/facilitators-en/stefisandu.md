@@ -1,7 +1,7 @@
 ---
 name: "Ștefi Sandu"
 featuredIndex: 4
-images: ["../images/stefisandu/Stefisandu.jpg"]
+images: ["../images/stefisandu/stefi.png"]
 tags: ["Kundalini Yoga", "Somatic Work", "Sound Healing"]
 activities:
   [
