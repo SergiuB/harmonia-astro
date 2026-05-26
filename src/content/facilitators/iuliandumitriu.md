@@ -1,7 +1,7 @@
 ---
 name: "Iulian Dumitriu"
 featuredIndex: 6
-images: ["../images/iuliandumitriu/Iulian.jpg"]
+images: ["../images/iuliandumitriu/daniel.png"]
 tags: ["Terapeut", "Maseur"]
 activities: ["masaj"]
 services:
