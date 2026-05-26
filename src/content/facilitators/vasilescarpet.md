@@ -89,4 +89,12 @@ contact: {
     whatsapp: "https://wa.link/06o6wu", #optional
   }
 ---
+Vasile Scarpet este lector, consultant și terapeut Ayurveda, cu o practică dedicată medicinei tradiționale indiene și principiilor de echilibrare holistică.
 
+Studiază Ayurveda din anul 2005 în cadrul A.M.N. România (Asociația de Promovare a Medicinelor Neconvenționale), aprofundând constant modul în care alimentația, stilul de viață și terapiile specifice pot susține armonia dintre corp, minte și emoții.
+
+Din anul 2012, susține seminarii și întâlniri dedicate cunoașterii sistemului Ayurveda, abordând teme precum tipologiile ayurvedice fundamentale — Vata, Pitta și Kapha, nutriția ayurvedică, efectele subtile ale gusturilor și condimentelor, precum și integrarea practicilor ayurvedice în viața de zi cu zi.
+
+În practica sa, oferă consultații ayurvedice personalizate și ședințe private de masaj ayurvedic, adaptate constituției și nevoilor fiecărei persoane.
+
+Abordarea lui urmărește susținerea echilibrului natural al organismului prin recomandări personalizate de stil de viață, nutriție și terapii complementare, într-un mod blând, practic și profund conectat la principiile tradiționale Ayurveda.
