@@ -1,7 +1,7 @@
 ---
 name: "Ioana Pavel"
 featuredIndex: 6
-images: ["../images/IoanaPavel/ioanapavel.jpg"]
+images: ["../images/IoanaPavel/ioanapavel.png"]
 tags: ["Therapist", "Coach", "Conscious Movement"]
 services:
   [
