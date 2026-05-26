@@ -1,7 +1,7 @@
 ---
 name: "Andreea Bouroș"
 featuredIndex: 6
-images: ["../images/Andreeabouros/andreeax.jpg"]
+images: ["../images/Andreeabouros/ax.png"]
 tags: ["Therapist", "Masseur"]
 activities: ["masaj"]
 services:
