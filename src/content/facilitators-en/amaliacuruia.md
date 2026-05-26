@@ -1,7 +1,7 @@
 ---
 name: "Amalia"
 featuredIndex: 15
-images: ["../images/amalia/amalia.jpg"]
+images: ["../images/amalia/amalia.png"]
 tags: ["Nutrition Specialist", "Postural Balance"]
 activities: ["alte-servicii", "miscare-constienta", "aliniament", "nutritie"]
 services:
