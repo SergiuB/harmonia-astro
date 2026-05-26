@@ -164,6 +164,10 @@
     "nameKey": "activity.terapiaBach"
   },
   {
+    "id": "terapia-energetica",
+    "nameKey": "activity.terapiaenergetica"
+  },
+  {
     "id": "terapia-sphere",
     "nameKey": "activity.terapiaSphere"
   },
