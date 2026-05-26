@@ -1,7 +1,7 @@
 ---
 name: "Paul Hostiuc"
 featuredIndex: 5
-images: ["../images/hostiucpaul/paulh.jpg"]
+images: ["../images/hostiucpaul/paulgh.png"]
 tags: ["Therapist", "Chinese Medicine", "Acupuncture"]
 activities: ["masaj", "medicina-traditionala-chineza", "acupunctura", "cupping"]
 services:
