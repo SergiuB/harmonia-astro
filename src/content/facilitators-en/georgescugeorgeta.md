@@ -1,6 +1,6 @@
 ---
 name: "Georgeta Georgescu"
-featuredIndex: 6
+featuredIndex: 11
 images: ["../images/georgeta/georgeta.png"]
 tags: ["Therapist", "Energy Cleansing"]
 activities: ["alte-servicii", "terapii-shamanice", "terapia-energetica"]
