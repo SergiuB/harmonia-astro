@@ -75,7 +75,7 @@ services: [
         ],
       isGroup: true,
       price: "250 lei",
-      duration: "2h",
+      duration: "2 ore",
       reserveLink: "https://wa.link/06o6wu",
     },
       {
@@ -96,7 +96,7 @@ services: [
         ],
       isGroup: true,
       price: "700 lei",
-      duration: "180min",
+      duration: "3 ore",
       reserveLink: "https://wa.link/",
     },
   ]
