@@ -7,7 +7,8 @@ activities:
   [
     "masaj",
     "alte-servicii",
-    "tratamente-faciale"
+    "tratamente-faciale",
+    "masaj-holistic"
   ]
 services:
   [
