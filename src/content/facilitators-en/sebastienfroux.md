@@ -1,6 +1,6 @@
 ---
 name: "Sebastien Froux"
-featuredIndex: 5
+featuredIndex: 18
 images: ["../images/sebastien/sf.png"]
 tags: ["Therapist", "Osteopath", "Bodyworker"]
 activities: ["masaj", "osteopatie", "terapie-craniosacrala"]
