@@ -1,6 +1,6 @@
 ---
 name: "Elena Furfurică"
-featuredIndex: 6
+featuredIndex: 15
 images: ["../images/elenafarfurica/elena.png"]
 tags: ["Terapeut", "Instructor", "Pilates"]
 activities: ["masaj", "group-pilates", "pilates", "aliniament", "kinetoterapie"]
