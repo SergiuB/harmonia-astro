@@ -96,7 +96,7 @@ services: [
     ],
   isGroup: true,
   price: "700 lei",
-  duration: "180min",
+  duration: "3h",
   reserveLink: "https://wa.link/",
 },
   ]
