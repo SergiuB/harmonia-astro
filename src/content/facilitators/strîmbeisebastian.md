@@ -40,7 +40,7 @@ services:
     },
                  {
       name: "Lomi Lomi Hakuna - Masaj Hawaiian",
-      summary: ""Masaj hawaian : Flow : Relaxare profundă : Întregul corp",
+      summary: "Masaj hawaian : Flow : Relaxare profundă : Întregul corp",
       isGroup: true,
       price: "400lei",
       duration: "120min",
