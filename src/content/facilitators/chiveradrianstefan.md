@@ -1,6 +1,6 @@
 ---
 name: "Adrian Chiver"
-featuredIndex: 3
+featuredIndex: 6
 images: ["../images/mimi/mimi.png"]
 tags: ["Terapeut", "Holistic Approach", "Integrative Journeys"]
 activities:
