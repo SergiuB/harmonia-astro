@@ -1,6 +1,6 @@
 ---
 name: "Vasile Scarpet"
-featuredIndex: 6
+featuredIndex: 23
 images: ["../images/vasilescarpet/vasilescarpet1.png"]
 tags: ["Ayurveda", "Consultant", "Terapeut"]
 activities: ["ayurveda", "masaj", "alte-servicii", "group-alteservicii"]
