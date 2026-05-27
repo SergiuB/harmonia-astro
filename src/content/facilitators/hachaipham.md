@@ -1,6 +1,6 @@
 ---
 name: "Hac Hai Pham"
-featuredIndex: 4
+featuredIndex: 14
 images: ["../images/hachai/hachai.jpg"]
 tags: ["Terapeut", "Breathwork", "innerdance"]
 activities:
