@@ -1,7 +1,7 @@
 ---
 name: "Alexandru Anton"
 featuredIndex: 22
-images: ["../images/antonalexandru/anton.png"]
+images: ["../images/antonalexandru/alexanton.png"]
 tags: ["Expression Coach", "Throat-singing", "Shamanic Medicine"]
 activities:
   [
