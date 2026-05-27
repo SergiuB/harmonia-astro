@@ -7,45 +7,38 @@ activities: ["masaj", "medicina-traditionala-chineza", "acupunctura", "cupping"]
 services:
   [
   {
-      name: "Acupunctură - Pacient Nou",
+      name: "Signature Acupunctură – Pacient Nou",
       summary: "Terapie Holistică : Medicina Chineză",
-        price: "200lei",
+      price: "250lei",
       duration: "60min",
       reserveLink: "https://wa.link/r2rx9p",
     },
-      {
-      name: "Acupunctură - Pacient Vechi",
+    {
+      name: "Signature Acupunctură Package",
       summary: "Terapie Holistică : Medicina Chineză",
-        price: "500lei / 1000lei / 1500lei",
-      duration: "3 / 6 / 10 sesiuni",
-      reserveLink: "https://wa.link/r2rx9p",
-    },
-      {
-      name: "Cupping",
-      summary: "Ventuze : Medicina Chineză",
-        price: "100lei",
-      duration: "20min",
-      reserveLink: "https://wa.link/r2rx9p",
-    },
-          {
-      name: "Masaj “Lymphatic dranage”",
-      summary: "Drenaj Limfatic",
-        price: "280lei / 340lei",
-      duration: "50min / 75min",
+      price: "600lei / 925lei / 1750lei",
+      duration: "3 sesiuni / 6 sesiuni / 10 sesiuni",
       reserveLink: "https://wa.link/r2rx9p",
     },
     {
-      name: "Masaj “Prenatal”",
-      summary: "Terapie prin masaj",
-        price: "280lei / 340lei",
-      duration: "50min / 75min",
+      name: "Ultimate Signature",
+      summary: "Acupunctură : Personalised Integrative Bodywork",
+      price: "375lei",
+      duration: "75min",
       reserveLink: "https://wa.link/r2rx9p",
     },
-        {
-      name: "Acupunctură & Masaj”",
-      summary: "Terapie Holistică : Medicina Chineză",
-        price: "280lei / 340lei",
-      duration: "50min / 75min",
+    {
+      name: "Add-on Cupping",
+      summary: "Ventuze : Medicina Chineză",
+      price: "100lei",
+      duration: "25min",
+      reserveLink: "https://wa.link/r2rx9p",
+    },
+    {
+      name: "Add-on Personalised Bodywork",
+      summary: "Bodywork Integrativ Personalizat",
+      price: "180lei",
+      duration: "25min",
       reserveLink: "https://wa.link/r2rx9p",
     },
   ]
@@ -59,6 +52,9 @@ instagram: "https://www.instagram.com/healing_touch_medicine", #optional
 ---
 
 
-Sunt cetățean român si mi am urmat pasiunea pentru medicina integrativă la prestigiosul Pacific College of Health and Science din New York, una dintre instituțiile de top din Statele Unite în domeniul educației în acupunctură și medicină chineză. Alte cursuri de pregatire, Terapeut Masaj, Profesor de Yoga certificat Hatha Vinyasa si Kundalini yoga, 
-Thai Yoga Massage – Vedic Conservatory, Reki level 1 si Cursuri de medicină integrativă. 
-Pentru mine, lucrul terapeutic nu este o profesie, ci o formă de prezență, o mișcare a sufletului care ne conduce cu răbdare și înțelepciune spre locul potrivit.
+Cristina Pandrea a practicat și s-a format în New York timp de peste un deceniu. Este expert în combinarea acupuncturii cu soluții pe bază de plante, sigure și naturale, pentru o sănătate holistică completă. Deține pregătire avansată în tehnici de medicină tradițională asiatică pentru managementul durerii, reducerea stresului, afecțiuni inflamatorii și optimizarea sănătății generale. Aceste tehnici includ Acupunctură, Tui Na, Acupresură, Cupping și Gua Sha. Este specializată în probleme musculo-scheletale, precum și în fertilitate și sănătatea femeii. Cu peste 10 ani de experiență, Cristina este dedicată îmbunătățirii sănătății și bunăstării pacienților săi.
+
+A obținut diploma de master în Acupunctură în cadrul Medicinei Tradiționale Chineze la prestigiosul Pacific College of Health and Science din New York City. 
+
+Competența sa clinică se întinde  pe unele dintre cele mai respectate instituții medicale și educaționale din New York —Universitate Columbia, renumitul Spital Lebanon, precum și mai multe centre de wellness de elită: Ora Acupuncture Clinic din New York, Naturopathica Hampton New York, Gurney's Montauk și Healing Family Chiropractic din Brooklyn — unde a dezvoltat o abordare personalizată, orientată spre rezultate, care respectă atât înțelepciunea străveche, cât și știința modernă.
+
