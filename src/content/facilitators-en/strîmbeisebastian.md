@@ -6,29 +6,45 @@ tags: ["Therapist", "Bodyworker"]
 activities: ["masaj", "osteopatie", "masaj-holistic"]
 services:
   [
-    {
+     {
       name: "BodyFlow Fusion",
-      summary: "Table Thai, Lomi Lomi, Abdominal Shiatsu, Therapeutic, Somatic Release: Full Body & Key Points",
+      summary: "Table Thai, Lomi Lomi, Abdominal Shiatsu, Therapeutic, Somatic Release : Full body & key points",
       isGroup: true,
-      price: "455 RON",
-      duration: "120 min",
-      reserveLink: "https://wa.link/9y82ve",
+      price: "420lei",
+      duration: "120min",
+      reserveLink: "https://wa.link/c0zkow",
     },
     {
-      name: "Therapeutic Massage – Deep & Soft Tissue Release – Cupping",
-      summary: "Full Body: Decontracting: Fascial Release: Pathological",
+      name: "Therapeutic Massage - Deep & Soft Tissue Release - Cupping",
+      summary: "Full body : Muscle release : Fascial release : Therapeutic approach",
       isGroup: true,
-      price: "375 RON",
-      duration: "90 min",
-      reserveLink: "https://wa.link/9y82ve",
+      price: "300lei",
+      duration: "90min",
+      reserveLink: "https://wa.link/c0zkow",
     },
     {
       name: "Chiropractic & Osteopathy",
-      summary: "HVLA Techniques: Full Body & Key Points",
+      summary: "HVLA Techniques : Full body & key points",
       isGroup: true,
-      price: "250 RON",
-      duration: "60 min",
-      reserveLink: "https://wa.link/9y82ve",
+      price: "250lei",
+      duration: "60min",
+      reserveLink: "https://wa.link/c0zkow",
+    },
+    {
+      name: "Thai Massage",
+      summary: "Energy meridians : Stretching : Acupressure : Full body",
+      isGroup: true,
+      price: "350lei",
+      duration: "90min",
+      reserveLink: "https://wa.link/c0zkow",
+    },
+    {
+      name: "Lomi Lomi Hakuna - Hawaiian Massage",
+      summary: "Hawaiian massage : Flow : Deep relaxation : Full body",
+      isGroup: true,
+      price: "400lei",
+      duration: "120min",
+      reserveLink: "https://wa.link/c0zkow",
     },
   ]
 location: "Harmonia Terra, Bucharest"
