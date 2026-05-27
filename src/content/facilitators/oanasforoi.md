@@ -1,6 +1,6 @@
 ---
 name: "Oana Sforoi"
-featuredIndex: 5
+featuredIndex: 17
 images: ["../images/oanasforoi/oanas.png"]
 tags: ["Terapeut", "Fertility & Womb", "Pelvic Health"]
 activities: ["masaj", "alte-servicii"]
