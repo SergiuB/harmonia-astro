@@ -1,7 +1,7 @@
 ---
 name: "Alexandru Anton"
 featuredIndex: 22
-images: ["../images/antonalexandru/anton.png"]
+images: ["../images/antonalexandru/alexanton.png"]
 tags: ["Coach Exprimare", "Throat-singing", "Medicina Shamanica"]
 activities: ["coaching", "terapii-shamanice", "throat-singing", "group-throat-singing","group-alteservicii", "alte-servicii", "terapie-craniosacrala"]
 services: [
