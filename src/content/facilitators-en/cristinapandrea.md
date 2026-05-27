@@ -6,59 +6,60 @@ tags: ["Therapist", "Chinese Medicine", "Acupuncture"]
 activities: ["masaj", "medicina-traditionala-chineza", "acupunctura", "cupping"]
 services:
   [
-  {
-      name: "Acupuncture - New Patient",
+---
+name: "Cristina Pandrea"
+featuredIndex: 5
+images: ["../images/cristinapandrea/cristinapandrea.png"]
+tags: ["Therapist", "Chinese Medicine", "Acupuncture"]
+activities: ["masaj", "medicina-traditionala-chineza", "acupunctura", "cupping"]
+services:
+  [
+    {
+      name: "Signature Acupuncture – New Patient",
       summary: "Holistic Therapy : Chinese Medicine",
-      price: "200 lei",
+      price: "250lei",
       duration: "60min",
-      reserveLink: "https://wa.link/511f8i",
+      reserveLink: "https://wa.link/r2rx9p",
     },
     {
-      name: "Acupuncture - Returning Patient",
+      name: "Signature Acupuncture Package",
       summary: "Holistic Therapy : Chinese Medicine",
-      price: "500lei / 1000lei / 1500lei",
-      duration: "3 / 6 / 10 sessions",
-      reserveLink: "https://wa.link/511f8i",
+      price: "600lei / 925lei / 1750lei",
+      duration: "3 sessions / 6 sessions / 10 sessions",
+      reserveLink: "https://wa.link/r2rx9p",
     },
     {
-      name: "Cupping",
+      name: "Ultimate Signature",
+      summary: "Acupuncture : Personalised Integrative Bodywork",
+      price: "375lei",
+      duration: "75min",
+      reserveLink: "https://wa.link/r2rx9p",
+    },
+    {
+      name: "Add-on Cupping",
       summary: "Cupping Therapy : Chinese Medicine",
       price: "100lei",
-      duration: "20min",
-      reserveLink: "https://wa.link/511f8i",
+      duration: "25min",
+      reserveLink: "https://wa.link/r2rx9p",
     },
     {
-      name: "Lymphatic Drainage Massage",
-      summary: "Lymphatic Drainage",
-      price: "280lei / 340 lei",
-      duration: "50min / 75min",
-      reserveLink: "https://wa.link/511f8i",
-    },
-    {
-      name: "Prenatal Massage",
-      summary: "Massage Therapy",
-      price: "280lei / 340 lei",
-      duration: "50min / 75min",
-      reserveLink: "https://wa.link/511f8i",
-    },
-    {
-      name: "Acupuncture & Massage",
-      summary: "Holistic Therapy : Chinese Medicine",
-      price: "280lei / 340 lei",
-      duration: "50min / 75min",
-      reserveLink: "https://wa.link/511f8i",
+      name: "Add-on Personalised Bodywork",
+      summary: "Personalised Integrative Bodywork",
+      price: "180lei",
+      duration: "25min",
+      reserveLink: "https://wa.link/r2rx9p",
     },
   ]
-location: "Harmonia Terra - 18 Cercului Street"
-locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA"
+location: "Harmonia Terra - Strada Cercului 18" #optional
+locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
 contact: { 
-email: "cris.pandrea.koh@gmail.com",
+email: "cris.pandrea.koh@gmail.com", #optional
 phone: "0775262781",
-instagram: "https://www.instagram.com/healing_touch_medicine",
+instagram: "https://www.instagram.com/healing_touch_medicine", #optional
 }
 ---
-I am a Romanian citizen and I pursued my passion for integrative medicine at the prestigious Pacific College of Health and Science in New York, one of the top institutions in the United States for education in acupuncture and Chinese medicine.
+Cristina Pandrea practiced and trained in New York for over a decade, She is an expert in combining acupuncture with safe and natural herbal solutions to achieve comprehensive holistic health. She has advanced training in traditional Asian medicine techniques for pain management, stress relief, inflammatory disorders and optimizing overall health. These techniques include Acupuncture, Tui Na, Acupressure, Cupping and Gua Sha. She specializes in musculoskeletal issues as well as fertility and women's health. With over 10 years of experience, Cristina is dedicated to improving a patient's health and wellness.
 
-Additional training includes Massage Therapy, certified Hatha Vinyasa and Kundalini Yoga Teacher training, Thai Yoga Massage – Vedic Conservatory, Reiki Level 1, and courses in integrative medicine.
+She obtained her masters degree in Traditional Chinese Medicine Acupuncture at the prestigios college Pacific College of Health and Science in New York City, USA.
 
-For me, therapeutic work is not just a profession, but a form of presence — a movement of the soul that patiently and wisely guides us toward the right place.
+Her clinical mastery and proficiency spans some of New York's most respected medical and educational establishments — the venerable Columbia University, renowned Lebanon Hospital as well and several esteemed wellness establishments, Ora Acupuncture Clinic in New York, Naturopathica Hampton New York, Gurney's Montauk, and Healing Family Chiropractic in Brooklyn — where she developed a personalised, results-based approach to treatment that honours both ancient wisdom and modern science.
