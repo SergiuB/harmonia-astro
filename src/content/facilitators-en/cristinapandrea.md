@@ -6,14 +6,6 @@ tags: ["Therapist", "Chinese Medicine", "Acupuncture"]
 activities: ["masaj", "medicina-traditionala-chineza", "acupunctura", "cupping"]
 services:
   [
----
-name: "Cristina Pandrea"
-featuredIndex: 5
-images: ["../images/cristinapandrea/cristinapandrea.png"]
-tags: ["Therapist", "Chinese Medicine", "Acupuncture"]
-activities: ["masaj", "medicina-traditionala-chineza", "acupunctura", "cupping"]
-services:
-  [
     {
       name: "Signature Acupuncture – New Patient",
       summary: "Holistic Therapy : Chinese Medicine",
