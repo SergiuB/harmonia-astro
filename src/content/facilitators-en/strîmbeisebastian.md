@@ -3,7 +3,7 @@ name: "Sebastian Strîmbei"
 featuredIndex: 8
 images: ["../images/ssebastian/sebi.png"]
 tags: ["Therapist", "Bodyworker"]
-activities: ["masaj", "osteopatie"]
+activities: ["masaj", "osteopatie", "masaj-holistic"]
 services:
   [
     {
