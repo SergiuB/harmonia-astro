@@ -1,6 +1,6 @@
 ---
 name: "Ioana Pavel"
-featuredIndex: 6
+featuredIndex: 19
 images: ["../images/IoanaPavel/ioanapavel.png"]
 tags: ["Terapeut", "Coach", "Miscare Constienta"]
 activities: ["masaj", "coaching", "alte-servicii"]
