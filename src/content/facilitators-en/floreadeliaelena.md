@@ -10,6 +10,7 @@ activities:
     "alte-servicii",
     "scanare-zyto",
     "cupping",
+    "masaj-holistic"
   ]
 services:
   [
