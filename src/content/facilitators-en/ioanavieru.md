@@ -31,8 +31,8 @@ services:
       "• reconnection with your intuition",
     ],
   isGroup: true,
-  price: "77 lei",
-  duration: "30min",
+  price: "150 lei",
+  duration: "60min",
   reserveLink: "https://wa.link/dmfab7",
 },
 {
@@ -69,8 +69,8 @@ services:
       "Rescheduling or cancellations must be made at least 48h in advance.",
     ],
   isGroup: true,
-  price: "77 lei",
-  duration: "30min",
+  price: "150 lei",
+  duration: "60min",
   reserveLink: "https://wa.link/dmfab7",
 },
 {
