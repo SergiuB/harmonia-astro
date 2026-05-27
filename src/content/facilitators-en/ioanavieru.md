@@ -1,6 +1,6 @@
 ---
 name: "Ioana Vieru"
-featuredIndex: 6
+featuredIndex: 21
 images: ["../images/ioanavieru/ioanavieru1.png"]
 tags: ["ThetaHealing", "Tarot", "Energy Therapy"]
 activities: [ "tarot", "tetha-healing", "terapia-energetica","alte-servicii"]
