@@ -3,7 +3,7 @@ name: "Adrian Chiver"
 featuredIndex: 6
 images: ["../images/mimi/mimi.png"]
 tags: ["Therapist", "Holistic Approach", "Integrative Journeys"]
-activities: ["masaj", "alte-servicii"]
+activities: ["masaj", "alte-servicii", "tratamente-faciale"]
 services:
   [
     {
