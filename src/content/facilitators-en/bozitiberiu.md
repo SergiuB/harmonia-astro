@@ -3,7 +3,7 @@ name: "Tiberiu Bozi"
 featuredIndex: 1
 images: ["../images/tibibozi/respiro1.jpg"]
 tags: ["Therapist", "Bodyworker", "Holistic Approach"]
-activities: ["masaj", "coaching", "tre", "alte-servicii"]
+activities: ["masaj", "coaching", "tre", "alte-servicii", "masaj-holistic"]
 services:
   [
     {
