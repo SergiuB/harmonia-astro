@@ -11,6 +11,7 @@ activities:
     "yoga",
     "miscare-constienta",
     "aliniament",
+    "masaj-holistic"
   ]
 services:
   [
