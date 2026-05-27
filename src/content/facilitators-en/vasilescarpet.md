@@ -78,6 +78,27 @@ services: [
       duration: "2h",
       reserveLink: "https://wa.link/mjgrbr",
     },
+    {
+  name: "Ayurvedic Consultation & Massage Package",
+  summary: "Holistic evaluation : body therapy",
+  description:
+    [
+      "This package combines a personalized Ayurvedic consultation with an Ayurvedic massage session, offering a complete experience of evaluation and harmonization.",
+
+      "The process begins with identifying the dominant constitution and possible imbalances, followed by personalized recommendations and a massage session adapted to individual needs.",
+
+      "This package is suitable for those seeking an integrative approach focused on prevention, balance, and reconnection with the body.",
+
+      "🔹 Includes:",
+      "• personalized Ayurvedic consultation",
+      "• general lifestyle and nutrition recommendations",
+      "• one Ayurvedic massage session",
+    ],
+  isGroup: true,
+  price: "700 lei",
+  duration: "180min",
+  reserveLink: "https://wa.link/",
+},
   ]
 location: "Harmonia Terra" #optional
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
