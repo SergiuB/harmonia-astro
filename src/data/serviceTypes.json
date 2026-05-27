@@ -103,6 +103,10 @@
     "id": "masaj",
     "nameKey": "activity.masaj"
   },
+    {
+    "id": "masaj-holistic",
+    "nameKey": "activity.masajHolistic"
+  },
   {
     "id": "medicina-traditionala-chineza",
     "nameKey": "activity.medicinaTraditionala"
