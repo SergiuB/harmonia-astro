@@ -78,6 +78,27 @@ services: [
       duration: "2h",
       reserveLink: "https://wa.link/06o6wu",
     },
+      {
+      name: "Pachet Consultație & Masaj Ayurvedic",
+      summary: "Evaluare holistică : terapie corporală",
+      description:
+        [
+          "Acest pachet îmbină consultația ayurvedică personalizată cu o ședință de masaj ayurvedic, oferind o experiență completă de evaluare și armonizare.",
+
+          "Procesul începe prin identificarea tipologiei dominante și a eventualelor dezechilibre, urmat de recomandări adaptate și o sesiune de masaj susținută conform nevoilor personale.",
+
+          "Pachetul este potrivit pentru persoanele care își doresc o abordare integrativă, orientată către prevenție, echilibru și reconectare cu propriul corp.",
+
+          "🔹 Include:",
+          "• consultație ayurvedică personalizată",
+          "• recomandări generale de stil de viață și nutriție",
+          "• o ședință de masaj ayurvedic",
+        ],
+      isGroup: true,
+      price: "700 lei",
+      duration: "180min",
+      reserveLink: "https://wa.link/",
+    },
   ]
 location: "Harmonia Terra" #optional
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
