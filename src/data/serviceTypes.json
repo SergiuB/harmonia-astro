@@ -51,6 +51,10 @@
     "id": "coaching",
     "nameKey": "activity.coaching"
   },
+    {
+    "id": "constelatii-familiale",
+    "nameKey": "activity.ConstelatiiFamiliale"
+  },
   {
     "id": "cupping",
     "nameKey": "activity.cupping"
