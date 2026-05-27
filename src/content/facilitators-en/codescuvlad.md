@@ -1,6 +1,6 @@
 ---
 name: "Vlad Codescu"
-featuredIndex: 3
+featuredIndex: 12
 images: ["../images/vladcodescu/vladcodescu.jpg"]
 tags: ["Coach", "Conscious Movement", "Oxygen Advantage"]
 activities: ["miscare-constienta", "alte-servicii", "group-miscare-constienta"]
