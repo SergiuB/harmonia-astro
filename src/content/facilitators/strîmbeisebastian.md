@@ -1,6 +1,6 @@
 ---
 name: "Sebastian Strîmbei"
-featuredIndex: 4
+featuredIndex: 3
 images: ["../images/ssebastian/sebi.png"]
 tags: ["Terapeut", "Bodyworker"]
 activities: ["masaj", "osteopatie"]
