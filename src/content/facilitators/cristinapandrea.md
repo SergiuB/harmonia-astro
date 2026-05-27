@@ -1,6 +1,6 @@
 ---
 name: "Cristina Pandrea"
-featuredIndex: 4
+featuredIndex: 3
 images: ["../images/cristinapandrea/cristinapandrea.png"]
 tags: ["Terapeut", "Medicină Chineză", "Acupunctură"]
 activities: ["masaj", "medicina-traditionala-chineza", "acupunctura", "cupping"]
