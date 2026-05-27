@@ -31,8 +31,8 @@ services:
       "• reconectare cu propria intuiție",
     ],
   isGroup: true,
-  price: "77 lei",
-  duration: "30min",
+  price: "150 lei",
+  duration: "60min",
   reserveLink: "https://wa.link/920br0",
 },
 {
@@ -69,8 +69,8 @@ services:
       "Reprogramările sau anulările trebuie efectuate cu minimum 48h înainte.",
     ],
   isGroup: true,
-  price: "77 lei",
-  duration: "30min",
+  price: "150 lei",
+  duration: "60min",
   reserveLink: "https://wa.link/920br0",
 },
 {
