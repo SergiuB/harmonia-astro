@@ -312,15 +312,14 @@ Durata afișată a serviciului include atât discuția inițială, cât și timp
     },
     {
       name: "Abonament Masaj Holistic",
-      summary: "Pachet : 6 Sesiuni : Locuri limitate",
+      summary: "Pachet : 6 Sesiuni : Harmonic Reborn",
       description:
         [
           "Detalii Abonament:",
           "- Număr sesiuni: 6 sesiuni de Masaj Holistic - Harmonic Reborn",
           "- Reducere: Beneficiați de 20% discount din prețul total al serviciilor, ceea ce aduce prețul final la 3360lei ( în loc de 4200lei).",
-          "- Frecvența Programărilor: Puteți alege să participați la ședințe săptămânal, la două săptămâni, la trei săptămâni sau lunar, în funcție de preferințele și nevoile dumneavoastră.",
-          "- Valabilitate: Abonamentul este valabil timp de 4 luni de la data achiziției",
-          "- Ore Disponibile: Programările pot fi făcute exclusiv în sloturile de dimineață sau după-amiază.  Sloturile de seară (18:30) nu sunt disponibile în cadrul acestui abonament.",
+          "- Frecvența Programărilor: Programările pot fi stabilite flexibil, în funcție de preferințele și nevoile dumneavoastră. Totuși, pentru continuitatea procesului terapeutic și rezultate optime, recomandarea noastră este ca sesiunile să fie realizate o dată la două săptămâni.",
+          "- Valabilitate: Abonamentul este valabil timp de 3 luni de la data achiziției.",
           "- Plata: Suma totală a abonamentului (3360 lei) va fi achitată integral înainte de prima programare.",
           "Alegeți Abonamentul Harmonic Reborn pentru a vă bucura de sesiuni unice, cu un preț redus și o flexibilitate adaptată nevoilor dumneavoastră. Acest abonament vă permite să experimentați masajul holistic într-un cadru liniștit și exclusiv, oferindu-vă posibilitatea de a atinge echilibrul perfect între trup, minte și suflet.",
           "Locuri Limitate: În fiecare lună, sunt disponibile 3 abonamente Harmonic Reborn, așa că vă recomand să-ti rezervi locul cât mai curând pentru a beneficia de acest pachet.",
