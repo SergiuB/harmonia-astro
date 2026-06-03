@@ -70,11 +70,11 @@ Durata afișată a serviciului include atât discuția inițială, cât și timp
       reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicreborn",
     },
     {
-  name: "Harmonic Reborn Flow",
+  name: "Harmonic Flow",
   summary: "Masaj holistic : Întregul corp",
   description:
     [
-      "Harmonic Reborn Flow este un masaj holistic avansat, în care tehnica și intuiția se îmbină într-un proces fluid, continuu și ghidat.",
+      "Harmonic Flow este un masaj holistic avansat, în care tehnica și intuiția se îmbină într-un proces fluid, continuu și ghidat.",
       "Este creat pentru persoanele care sunt deja conectate cu propriul corp și care pot intra cu ușurință într-o stare de relaxare, deschidere și încredere, permițându-și să se lase ghidate și să se predea procesului.",
       "Spre deosebire de alte masaje holistice, precum Harmonic Reborn, unde accentul este pus pe nevoi specifice ale corpului, această experiență permite corpului să intre într-un flow continuu, în care tehnicile se leagă natural, iar intervenția devine mai fluidă, mai creativă și mai expresivă.",
       "Lucrul combină elemente de deep tissue, fascie, mobilizări, stretching, flow și atingere intuitivă, integrate într-un ritm natural, adaptat în timp real în funcție de ceea ce corpul permite și cere.",
@@ -88,7 +88,7 @@ Durata afișată a serviciului include atât discuția inițială, cât și timp
     ],
   isGroup: true,
   price: "700lei",
-  duration: "120min",
+  duration: "100min",
   reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicflow",
 },
      {
@@ -359,7 +359,7 @@ description:
       
       "Simfonia Celulelor continuă procesul prin aplicarea intuitivă și direcționată a uleiurilor esențiale, menită să susțină corpul în procesele sale naturale de reglare, echilibrare și reconectare.",
       
-      "Harmonic Focus Massage aduce corpul într-o stare profundă de relaxare și prezență prin tehnici adaptate nevoilor tale, combinând elemente de masaj holistic, lucru fascial și eliberare a tensiunilor acumulate în corp.",
+      "Masajul Harmonic Focus aduce corpul într-o stare profundă de relaxare și prezență prin tehnici adaptate nevoilor tale, combinând elemente de masaj holistic, lucru fascial și eliberare a tensiunilor acumulate în corp.",
       
       "Experiența este completată de Cranio Relief — Facial Journey, o călătorie cranio-sacrală și facială cu elemente Kobido, dedicată relaxării profunde, eliberării tensiunilor și reconectării cu o stare de calm și siguranță interioară.",
       
@@ -374,7 +374,7 @@ description:
   isGroup: true,
   price: "1100lei",
   duration: "4ore",
-  reserveLink: "https://wa.link/6ojhuz",
+  reserveLink: "https://wa.link/7vnh4i",
 },
     {
       name: "7 Stars TERRApy",
