@@ -358,7 +358,7 @@ description:
 "RESET TERRApy is an approximately 4-hour holistic package created to support nervous system regulation, body reconnection, and the restoration of physical, emotional, and mental balance. The experience combines holistic assessment, applied aromatherapy, therapeutic touch, and deep relaxation techniques in a fluid process of reset and integration.",
   "The protocol begins with a Zyto Scan & Interpretation — a holistic assessment that offers insight into the body’s energetic, functional, and emotional imbalances. Based on this evaluation, the direction of the entire experience is tailored accordingly.",
   
-  "Symphony of the Cells continues the process through the intuitive and targeted application of essential oils, designed to support the body’s natural processes of regulation, balance, and reconnection.",
+  "Symphony of the Cells continues the process through the systematic application of essential oils, using Symphony of the Cells™ protocols created to support the body’s different systems and its natural processes of balance and regulation.",
   
   "The Harmonic Focus Massage brings the body into a profound state of relaxation and presence through techniques adapted to your individual needs, combining elements of holistic massage, fascial work, and the release of accumulated tension stored within the body.",
   
@@ -374,7 +374,7 @@ description:
 ],
 isGroup: true,
 price: "1100lei",
-duration: "4hours",
+duration: "4h",
 reserveLink: "https://wa.link/7vnh4i",
 },
     {
