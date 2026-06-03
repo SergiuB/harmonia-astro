@@ -350,6 +350,33 @@ Durata afișată a serviciului include atât discuția inițială, cât și timp
       reserveLink: "https://wa.link/4hj55q",
     },
     {
+name: "RESET TERRApy",
+summary: "Pachet Holistic : Întregul corp",
+description:
+[
+"RESET TERRApy este un pachet holistic de aproximativ 4 ore, creat pentru reglarea sistemului nervos, reconectarea cu corpul și susținerea echilibrului fizic, emoțional și mental. Experiența îmbină evaluarea holistică, aromaterapia aplicată, terapia prin atingere și tehnicile de relaxare profundă, într-un proces fluid de reset și integrare.",
+      "Protocolul începe cu Zyto Scan & Interpretare — o analiză holistică ce oferă o perspectivă asupra dezechilibrelor energetice, funcționale și emoționale ale corpului. Pe baza acestei evaluări, este construită direcția întregii experiențe.",
+      
+      "Simfonia Celulelor continuă procesul prin aplicarea intuitivă și direcționată a uleiurilor esențiale, menită să susțină corpul în procesele sale naturale de reglare, echilibrare și reconectare.",
+      
+      "Harmonic Focus Massage aduce corpul într-o stare profundă de relaxare și prezență prin tehnici adaptate nevoilor tale, combinând elemente de masaj holistic, lucru fascial și eliberare a tensiunilor acumulate în corp.",
+      
+      "Experiența este completată de Cranio Relief — Facial Journey, o călătorie cranio-sacrală și facială cu elemente Kobido, dedicată relaxării profunde, eliberării tensiunilor și reconectării cu o stare de calm și siguranță interioară.",
+      
+      "Cele patru etape se completează natural, creând o experiență holistică profundă de reset, integrare și recalibrare a corpului și sistemului nervos.",
+      
+      "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale, stării actuale și direcției protocolului. Durata afișată a serviciului include atât acest moment introductiv, cât și timpul efectiv al experienței terapeutice.",
+      
+      "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
+      
+      "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
+    ],
+  isGroup: true,
+  price: "1100lei",
+  duration: "4ore",
+  reserveLink: "https://wa.link/6ojhuz",
+},
+    {
       name: "7 Stars TERRApy",
       summary: "Pachet Holistic : Personalizat",
       description:
