@@ -325,7 +325,7 @@ services:
     },
     {
       name: "Harmonic Alignment",
-      summary: "Holistic package — full body",
+      summary: "Holistic Package : Full body",
       description:
         [
           "A unique package designed to bring body and mind into deep balance and harmony.",
