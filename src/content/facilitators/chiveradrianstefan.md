@@ -115,7 +115,7 @@ description:
 "RESET TERRApy este un pachet holistic de aproximativ 4 ore, creat pentru reglarea sistemului nervos, reconectarea cu corpul și susținerea echilibrului fizic, emoțional și mental. Experiența îmbină evaluarea holistică, aromaterapia aplicată, terapia prin atingere și tehnicile de relaxare profundă, într-un proces fluid de reset și integrare.",
       "Protocolul începe cu Zyto Scan & Interpretare — o analiză holistică ce oferă o perspectivă asupra dezechilibrelor energetice, funcționale și emoționale ale corpului. Pe baza acestei evaluări, este construită direcția întregii experiențe.",
       
-      "Simfonia Celulelor continuă procesul prin aplicarea intuitivă și direcționată a uleiurilor esențiale, menită să susțină corpul în procesele sale naturale de reglare, echilibrare și reconectare.",
+    "Simfonia Celulelor continuă procesul prin aplicarea sistematică a uleiurilor esențiale, utilizând protocoalele Symphony of the Cells™, concepute pentru a susține diferitele sisteme ale corpului și procesele sale naturale de echilibrare și reglare.",
       
       "Masajul Harmonic Focus aduce corpul într-o stare profundă de relaxare și prezență prin tehnici adaptate nevoilor tale, combinând elemente de masaj holistic, lucru fascial și eliberare a tensiunilor acumulate în corp.",
       
