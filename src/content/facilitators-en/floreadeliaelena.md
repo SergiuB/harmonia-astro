@@ -341,6 +341,33 @@ services:
       duration: "3h",
       reserveLink: "https://wa.link/hc8cvw",
     },
+        {
+name: "RESET TERRApy",
+summary: "Holistic Package : Full Body",
+description:
+[
+"RESET TERRApy is an approximately 4-hour holistic package created to support nervous system regulation, body reconnection, and the restoration of physical, emotional, and mental balance. The experience combines holistic assessment, applied aromatherapy, therapeutic touch, and deep relaxation techniques in a fluid process of reset and integration.",
+  "The protocol begins with a Zyto Scan & Interpretation — a holistic assessment that offers insight into the body’s energetic, functional, and emotional imbalances. Based on this evaluation, the direction of the entire experience is tailored accordingly.",
+  
+  "Symphony of the Cells continues the process through the systematic application of essential oils, using Symphony of the Cells™ protocols created to support the body’s different systems and its natural processes of balance and regulation.",
+  
+  "The Harmonic Focus Massage brings the body into a profound state of relaxation and presence through techniques adapted to your individual needs, combining elements of holistic massage, fascial work, and the release of accumulated tension stored within the body.",
+  
+  "The experience is completed with Cranio Relief — Facial Journey, a craniosacral and facial therapy experience with Kobido-inspired elements, dedicated to deep relaxation, tension release, and reconnecting with a state of inner calm and safety.",
+  
+  "The four stages naturally complement one another, creating a deeply holistic experience of reset, integration, and recalibration for both the body and nervous system.",
+  
+  "*Each session includes a short initial consultation dedicated to understanding your needs, current state, and the direction of the protocol. The displayed duration includes both this introductory discussion and the effective therapeutic experience.",
+  
+  "*After completing your booking through the website, you will receive a message within 24 hours regarding the 50% deposit payment, unless you already own a membership or gift card.",
+  
+  "*Rescheduling or cancellations, regardless of the reason, must be made at least 48 hours before the session. In the case of rescheduling or cancellations made less than 48 hours in advance, the session will be considered lost if you own a gift card or membership, and for individual payments, the 50% deposit will not be refunded.",
+],
+isGroup: true,
+price: "1100lei",
+duration: "4h",
+reserveLink: "https://wa.link/7vnh4i",
+},
     {
       name: "7 Stars TERRApy",
       summary: "Personalized holistic package",
