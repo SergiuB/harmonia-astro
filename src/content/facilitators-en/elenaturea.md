@@ -1,7 +1,7 @@
 ```js
 ---
 name: "Elena Țurea"
-featuredIndex: 6
+featuredIndex: 5
 images: ["../images/elenaturea/elenaturea.png"]
 tags: ["Intuitive Healing Mentor", "Emotion Code", "Energy Clearing"]
 activities: ["alte-servicii", "terapia-energetica"]
