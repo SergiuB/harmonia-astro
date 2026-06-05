@@ -50,7 +50,7 @@ services: [
     reserveLink: "https://wa.link/7nnvyu",
   },
 ]
-location: "Harmonia Terra & Online"
+location: "Harmonia Terra"
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA"
 contact: {
   email: "turea.elena@gmail.com",
