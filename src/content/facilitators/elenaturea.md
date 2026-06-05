@@ -3,7 +3,7 @@
 name: "Elena Țurea"
 featuredIndex: 5
 images: ["../images/elenaturea/elenaturea.png"]
-tags: ["Mentor Vindecare Intuitivă", "Codul Emoțiilor", "Curățare Energetică"]
+tags: ["Vindecare Intuitivă", "Codul Emoțiilor", "Curățare Energetică"]
 activities: ["alte-servicii", "terapia-energetica"]
 services: [
   {
@@ -75,4 +75,4 @@ Am scris cartea „Acceptarea Darurilor – De la durere la misiune de viață�
 
 Cartea este atât povestea mea personală, cât și un ghid practic pentru transformare. Este o carte născută din experiență, menită să te însoțească pe drumul tău spre vindecare, acceptare și aliniere.
 
-Te îmbrățișez cu toată dragostea! 🤍🙏
+Te îmbrățișez cu toată dragostea! 
