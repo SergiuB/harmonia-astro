@@ -1,7 +1,7 @@
 
 ---
 name: "Elena Țurea"
-featuredIndex: 6
+featuredIndex: 5
 images: ["../images/elenaturea/elenaturea.png"]
 tags: ["Mentor Vindecare Intuitivă", "Codul Emoțiilor", "Curățare Energetică"]
 activities: ["alte-servicii", "terapia-energetica"]
