@@ -1,4 +1,3 @@
-```js
 ---
 name: "Elena Țurea"
 featuredIndex: 5
@@ -76,4 +75,3 @@ I wrote the book “Accepting the Gifts – From Pain to Life Mission” from th
 The book is both my personal story and a practical guide for transformation. It is a book born from experience, created to accompany you on your path toward healing, acceptance, and alignment.
 
 I embrace you with all my love!
-```
