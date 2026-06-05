@@ -3,7 +3,7 @@
 name: "Elena Țurea"
 featuredIndex: 5
 images: ["../images/elenaturea/elenaturea.png"]
-tags: ["Intuitive Healing Mentor", "Emotion Code", "Energy Clearing"]
+tags: ["Intuitive Healing", "Emotion Code", "Energy Clearing"]
 activities: ["alte-servicii", "terapia-energetica"]
 services: [
   {
@@ -75,5 +75,5 @@ I wrote the book “Accepting the Gifts – From Pain to Life Mission” from th
 
 The book is both my personal story and a practical guide for transformation. It is a book born from experience, created to accompany you on your path toward healing, acceptance, and alignment.
 
-I embrace you with all my love! 🤍🙏
+I embrace you with all my love!
 ```
