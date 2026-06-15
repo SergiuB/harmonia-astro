@@ -2,7 +2,7 @@
 
 name: "Diana Brosiu"
 featuredIndex: 11
-images: ["../images/dianabro/dianabro.png"]
+images: ["../images/dianabro/Dianabro.png"]
 tags: ["Astrologer", "Tarot Reader", "Shamanic Practitioner"]
 activities: ["alte-servicii", "terapii-shamanice" , "terapia-energetica", "astrologie", "tarot"]
 
