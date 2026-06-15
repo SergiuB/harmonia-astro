@@ -4,7 +4,8 @@ featuredIndex: 11
 images: ["../images/dianabro/Dianabro.png"]
 tags: ["Astrolog", "Tarot Reader", "Terapeut Șamanic"]
 activities: ["alte-servicii", "terapii-shamanice" , "terapia-energetica", "astrologie", "tarot"]
-services: [
+services: 
+[
 {
       name: "Astrologie",
       summary: "Hartă Natală : Claritate : Ghidare Personalizată",
@@ -30,7 +31,7 @@ services: [
           "• reconectare cu propriul potențial",
           "Astrologia nu îți spune cine trebuie să fii. Ea îți oferă o hartă care te poate ajuta să înțelegi mai bine cine ești și ce posibilități ai la dispoziție.",
         ],
-      isGroup: false,
+      isGroup: true,
       price: "350lei",
       duration: "60min",
       reserveLink: "https://wa.link/71bsgd/",
@@ -63,7 +64,7 @@ services: [
           "• reconectarea cu bucuria, autenticitatea și energia personală",
           "În esență, terapia șamanică urmărește să reducă „zgomotul” energetic acumulat de-a lungul vieții, pentru ca sufletul să își poată exprima mai liber potențialul. Atunci când eliberăm ceea ce nu ne mai servește, facem loc pentru mai multă iubire, abundență, sănătate și împlinire.",
         ],
-      isGroup: false,
+      isGroup: true,
       price: "350lei",
       duration: "75min",
       reserveLink: "https://wa.link/71bsgd/",
@@ -105,7 +106,7 @@ services: [
           "• Cum pot manifesta mai ușor ceea ce îmi doresc?",
           "Tarotul nu îți spune ce trebuie să faci. Îți oferă o perspectivă mai amplă asupra situației, astfel încât să poți lua decizii conștiente și asumate.",
         ],
-      isGroup: false,
+      isGroup: true,
       price: "350lei",
       duration: "60min",
       reserveLink: "https://wa.link/71bsgd/",
@@ -117,7 +118,6 @@ contact: {
     email: "dynamicsofblooming@gmail.com", #optional
     phone: "0744532997",
     instagram: "https://www.instagram.com/diana.brosiu.urban.mystic",
-    facebook: "https://www.facebook.com/share/1GkUJmcHrV/",
     whatsapp: "https://wa.link/71bsgd", #optional
   }
 ---
