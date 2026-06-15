@@ -16,7 +16,7 @@ services:
           "🔹 În cadrul sesiunii putem explora:",
           "• cunoaștere de sine și evoluție personală",
           "• vocație, carieră și abundență",
-          "• compatibilitate de cuplu (sinastrie)",
+          "• compatibilitate de cuplu",
           "• compatibilitate părinte–copil",
           "• tranzite și previziuni astrologice",
           "• astrologie geografică și relocare",
