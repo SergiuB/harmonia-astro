@@ -4,9 +4,8 @@ featuredIndex: 11
 images: ["../images/dianabro/Dianabro.png"]
 tags: ["Astrolog", "Tarot Reader", "Terapeut Șamanic"]
 activities: ["alte-servicii", "terapii-shamanice" , "terapia-energetica", "astrologie", "tarot"]
-services: 
-[
-{
+services:   [
+      {
       name: "Astrologie",
       summary: "Hartă Natală : Claritate : Ghidare Personalizată",
       description:
