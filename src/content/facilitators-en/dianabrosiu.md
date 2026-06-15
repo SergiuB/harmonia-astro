@@ -13,10 +13,7 @@ summary: "Natal Chart : Clarity : Personalized Guidance",
 description:
 [
 "A natal chart is not just an astrological diagram, but a unique energetic blueprint and a map of your potential. Through this session, we explore how your natal energies are reflected in your personality, relationships, career, and overall life direction.",
-
-```
       "My approach goes beyond traditional predictive astrology, transforming astrological symbols and planetary configurations into practical tools for self-awareness, clarity, and personal development.",
-
       "🔹 During the session we can explore:",
       "• self-discovery and personal growth",
       "• vocation, career, and abundance",
@@ -24,11 +21,8 @@ description:
       "• parent-child compatibility",
       "• astrological transits and forecasts",
       "• astrocartography and relocation astrology",
-
       "Together, we identify the innate strengths, challenges, lessons, and opportunities reflected in your chart, offering a clearer perspective on the life stages you are navigating and the directions you may consciously choose.",
-
       "This session is designed for those seeking clarity, guidance, and a deeper understanding of their personal journey.",
-
       "🔹 Potential benefits:",
       "• deeper understanding of your identity",
       "• greater clarity in decision-making",
@@ -36,26 +30,21 @@ description:
       "• understanding relationship dynamics",
       "• navigating life transitions more consciously",
       "• reconnecting with your true potential",
-
       "Astrology does not tell you who you should be. It offers a map that can help you better understand who you are and what possibilities are available to you.",
     ],
-  isGroup: true,
+  isGroup: false,
   price: "350 RON",
   duration: "60min",
   reserveLink: "https://wa.link/zc74g8",
 },
-
 {
   name: "Shamanic Healing Sessions",
   summary: "Transformation : Energy Release : Reconnection",
   description:
     [
       "A space for deep transformation, dedicated to releasing the blockages that influence your life and reconnecting with the authentic resources of your soul.",
-
       "From a shamanic perspective, each of us carries an energetic matrix shaped by personal experiences, family inheritance, beliefs, emotions, and life stories accumulated over time. Some support us, while others unconsciously limit us.",
-
       "Through these sessions, we work to identify and transform the patterns that prevent you from living with greater ease, clarity, joy, and fulfillment.",
-
       "🔹 Topics we may explore:",
       "• attracting and sustaining financial abundance and prosperity",
       "• releasing repetitive relationship patterns",
@@ -66,7 +55,6 @@ description:
       "• exploring recurring themes connected to past-life experiences",
       "• harmonizing transgenerational and family-system patterns",
       "• reconnecting with personal power, intuition, and life purpose",
-
       "🔹 Potential benefits:",
       "• greater clarity and confidence in your path",
       "• emotional relief and release",
@@ -75,26 +63,21 @@ description:
       "• increased vitality and presence",
       "• reducing self-sabotage and recurring blocks",
       "• reconnecting with joy, authenticity, and personal energy",
-
       "At its core, shamanic healing seeks to reduce the energetic 'noise' accumulated throughout life, allowing the soul to express its potential more freely. When we release what no longer serves us, we create space for more love, abundance, health, and fulfillment.",
     ],
-  isGroup: true,
+  isGroup: false,
   price: "350 RON",
   duration: "75min",
   reserveLink: "https://wa.link/zc74g8",
 },
-
 {
   name: "Tarot & Intuitive Guidance",
   summary: "Clarity : Relationships : Personal Direction",
   description:
     [
       "I like to say that Tarot is a spiritual version of Google. You bring a question, and the cards become a mirror reflecting what may not yet be fully clear to you.",
-
       "Tarot is not about predicting a fixed and unchangeable future. It is about understanding the present energy, the patterns influencing a situation, and the most likely directions toward which things are moving.",
-
       "Sometimes the answer confirms what you already knew deep within. Other times, it provides exactly the missing perspective needed for the puzzle pieces to fall into place.",
-
       "🔹 Topics we may explore:",
       "• romantic relationships and compatibility",
       "• understanding an existing relationship or meaningful connection",
@@ -106,7 +89,6 @@ description:
       "• understanding karmic lessons and recurring life patterns",
       "• navigating periods of confusion or transition",
       "• personal and spiritual development",
-
       "🔹 What you may gain from a session:",
       "• clarity around a confusing situation",
       "• a fresh perspective on a current challenge",
@@ -115,7 +97,6 @@ description:
       "• validation of your intuition and inner knowing",
       "• practical next steps to move forward with confidence",
       "• a deeper understanding of the lessons life is presenting to you",
-
       "🔹 Frequently asked questions:",
       "• What is preventing me from attracting the relationship I desire?",
       "• What is the true dynamic between me and this person?",
@@ -124,17 +105,14 @@ description:
       "• What is blocking my financial goals?",
       "• What is the karmic lesson behind this experience?",
       "• How can I manifest my desires more easily?",
-
       "Tarot does not tell you what to do. It offers a broader perspective, helping you make conscious and empowered decisions.",
     ],
-  isGroup: true,
+  isGroup: false,
   price: "350 RON",
   duration: "60min",
   reserveLink: "https://wa.link/zc74g8",
 },
-
 ]
-
 location: "Harmonia Terra & Online"
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
 contact: {
