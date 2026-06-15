@@ -114,7 +114,7 @@ description:
 },
 ]
 location: "Harmonia Terra & Online"
-locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
+locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA"
 contact: {
 email: "dynamicsofblooming@gmail.com",
 phone: "0744532997",
