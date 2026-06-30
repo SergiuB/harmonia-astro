@@ -215,7 +215,7 @@ services:
           "*Preț: Ședință evaluare (60-90 min): 300 lei | Ședință antrenament (90 min): 350 lei",
           "*Anularea programării:
           Anularea ședinței se poate face cu cel târziu de 42 ore înainte de programare, altfel se va plăti integral, iar în caz de urgențe medicale neprevăzute, se va plăti jumătate din cost, datorită cheltuielilor pentru rezervarea spațiului și timpul alocat care se pierde. Vă mulțumim pentru înțelegere!",
-        ], isGroup: true, price: "350lei", duration: "90min", reserveLink: "https://wa.link/l7w5wi" },
+        ], isGroup: true, price: "400lei", duration: "90min", reserveLink: "https://wa.link/l7w5wi" },
     {
       name: "QiNeiZang - Masaj Abdominal",
       summary: "Masaj : Organe interne ",
