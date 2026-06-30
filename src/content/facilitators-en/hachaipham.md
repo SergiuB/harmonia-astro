@@ -1,5 +1,5 @@
 ---
-name: "Hac Hai Pham"
+name: "Hai Pham"
 featuredIndex: 14
 images: ["../images/hachai/hachai.jpg"]
 tags: ["Therapist", "Breathwork", "Innerdance"]
