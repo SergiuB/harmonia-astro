@@ -452,4 +452,10 @@ contact: {
   }
 ---
 
-After years of experiencing various healing methods on his own body, studying the human being with passion and practicing massage and other complementary therapies with dedication, Tiberiu Bozi offers people his own holistic services created and signed by him such as (E)Motion Somatic Release, Harmonic Reborn, Holistic Life Coach which combine various techniques, instruments, elements and methods to bring harmony on physical, psycho-emotional and spiritual levels.
+My passion for bodywork and understanding the nervous system took shape in London, where I graduated from the ITEC massage school. It was there that I built my solid foundation in massage therapies and came to understand that touch is at its most powerful when guided by absolute presence.
+
+Driven by a desire to offer comprehensive support, I continued my training through various other specialized courses. These focus both on the physical structure (fascia work, deep tension release) and the subtle dynamics of the nervous system (neuro-somatic techniques for releasing stress and trauma stored in the body). In my practice, I integrate a trauma-informed approach, providing a space of complete safety where the body is never forced, but listened to.
+
+Since 2020, I have had the privilege of working closely with thousands of people through individual (1:1) sessions. My experience covers a vast range of cases: from structural issues and acute physical blocks to the release of long-held somatic and energetic blocks accumulated from extended periods of overload.
+
+My sessions are not just applied techniques, but personalized body reconnection experiences designed to dissolve deep stress patterns and restore inner resilience.
