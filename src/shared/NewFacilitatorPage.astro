@@ -14,14 +14,17 @@ const pageTitle = t("nav.becomeFacilitator");
 
 <RootLayout title={pageTitle} lang={lang}>
   <section class="flex flex-col items-center justify-center w-screen">
+    <p
+      class="w-full max-w-3xl px-4 pb-4 text-sm leading-relaxed text-primary/80"
+    >
+      {t("privacy.formsNotice")}
+    </p>
     <iframe
-      src={
-        lang === "en"
-          ? "https://docs.google.com/forms/d/e/1FAIpQLSf-pfaafF_mdphOf0HR0EApWu22P1Qx7w0DEvcCw_BIVQoHpQ/viewform"
-          : "https://docs.google.com/forms/d/e/1FAIpQLSeduo18a8PHoO3m1YIotjLdtbHBBkvrdmXyQFxNt-JXzmRlJw/viewform"
-      }
+      src={lang === "en"
+        ? "https://docs.google.com/forms/d/e/1FAIpQLSf-pfaafF_mdphOf0HR0EApWu22P1Qx7w0DEvcCw_BIVQoHpQ/viewform"
+        : "https://docs.google.com/forms/d/e/1FAIpQLSeduo18a8PHoO3m1YIotjLdtbHBBkvrdmXyQFxNt-JXzmRlJw/viewform"}
       width="100%"
-      height="1250">Loading…</iframe
+      height="1250">{t("common.loading")}</iframe
     >
   </section>
 </RootLayout>

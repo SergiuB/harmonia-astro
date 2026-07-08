@@ -113,7 +113,12 @@ export const ui = {
     // Footer
     "footer.freeGuidance": "Ghidare gratuită",
     "footer.becomeFacilitator": "Devino facilitator",
+    "footer.privacyPolicy": "Politica de confidențialitate",
     "footer.tagline": "healing in oneness",
+
+    // Privacy
+    "privacy.formsNotice":
+      "Acest formular este furnizat prin Google Forms. Datele completate sunt folosite pentru a răspunde solicitării tale și pot fi prelucrate de Google conform propriilor politici.",
 
     // Activities
     "activity.accessBars": "Access Bars",
@@ -304,7 +309,12 @@ export const ui = {
     // Footer
     "footer.freeGuidance": "Free guidance",
     "footer.becomeFacilitator": "Become a facilitator",
+    "footer.privacyPolicy": "Privacy Policy",
     "footer.tagline": "healing in oneness",
+
+    // Privacy
+    "privacy.formsNotice":
+      "This form is provided through Google Forms. The data you submit is used to respond to your request and may be processed by Google according to its own policies.",
 
     // Activities
     "activity.accessBars": "Access Bars",
