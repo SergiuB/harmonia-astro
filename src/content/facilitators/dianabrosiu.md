@@ -122,15 +122,20 @@ contact: {
 ---
 
 Cred că fiecare provocare ascunde o oportunitate de transformare, iar rolul meu este să te ajut să găsești claritatea, resursele și direcția potrivite pentru tine.
+
 În sesiunile mele combin instrumente complementare precum astrologia, tarotul, coachingul sistemic, practicile șamanice și constelațiile sistemice pentru a oferi o perspectivă cât mai completă asupra situațiilor cu care te confrunți.
-Putem explora împreună teme precum: 
-✨ relații de cuplu și dinamici familiale
-✨ direcție profesională și decizii de carieră
-✨ dezvoltare personală și spirituală
-✨ gestionarea blocajelor emoționale și a tiparelor repetitive
-✨ abundență și relația cu succesul
-✨ parenting și înțelegerea nevoilor copilului
-✨ perioade de tranziție și schimbare
-✨ reconectarea cu puterea personală și intuiția
+
+Putem explora împreună teme precum:
+
+- ✨ relații de cuplu și dinamici familiale
+- ✨ direcție profesională și decizii de carieră
+- ✨ dezvoltare personală și spirituală
+- ✨ gestionarea blocajelor emoționale și a tiparelor repetitive
+- ✨ abundență și relația cu succesul
+- ✨ parenting și înțelegerea nevoilor copilului
+- ✨ perioade de tranziție și schimbare
+- ✨ reconectarea cu puterea personală și intuiția
+
 Abordarea mea este una personalizată, bazată pe empatie, căldură și respect pentru ritmul fiecărei persoane. Nu cred în soluții universale, ci în descoperirea acelei căi care este potrivită pentru tine.
-Sunt formata în Coaching Sistemic (acreditare ICF, formare Alain Cardon), NLP Master Practitioner (acreditare IANLP), astrologie acreditată la nivel european prin Școala de Științe Spirituale Barbara Băcăuanu și sunt lector la Fundatia Calea Victoriei, unde susțin cursuri de feng shui, cristale și dezvoltare personală. Toate acestea sunt completate de formarea continuă în linia de shamani Q'ero începută cu Academia Șamanică sub îndrumarea lui Chris Waters. 
+
+Sunt formata în Coaching Sistemic (acreditare ICF, formare Alain Cardon), NLP Master Practitioner (acreditare IANLP), astrologie acreditată la nivel european prin Școala de Științe Spirituale Barbara Băcăuanu și sunt lector la Fundatia Calea Victoriei, unde susțin cursuri de feng shui, cristale și dezvoltare personală. Toate acestea sunt completate de formarea continuă în linia de shamani Q'ero începută cu Academia Șamanică sub îndrumarea lui Chris Waters.
