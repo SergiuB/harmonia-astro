@@ -451,7 +451,7 @@ contact: {
   }
 ---
 
-Pasiunea mea pentru terapiile manuale și înțelegerea sistemului nervos a prins contur în Londra, unde am absolvit școala de masaj ITEC. Acolo mi-am construit bazele în terapiile prin masaj și am înțeles că atingerea este cu atât mai puternică cu cât este ghidată de o prezență totală.
+Pasiunea mea pentru înțelegerea corpului și a sistemului nervos a prins contur în Londra, unde am absolvit școala de masaj ITEC. Acolo mi-am construit bazele în terapiile prin masaj și am înțeles că atingerea este cu atât mai puternică cu cât este ghidată de o prezență totală.
 
 Din dorința de a oferi un suport complet, mi-am continuat formarea prin alte cursuri de specializare. Acestea sunt axate atât pe structura fizică (lucrul cu fascia, eliberarea tensiunilor profunde), cât și pe dinamica subtilă a sistemului nervos (tehnici neuro-somatice de eliberare a stresului și a traumelor stocate în corp). În practica mea, integrez o abordare trauma-informed, oferind un spațiu de deplină siguranță în care corpul nu este forțat, ci ascultat.
 
