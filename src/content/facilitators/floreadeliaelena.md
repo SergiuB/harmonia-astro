@@ -344,6 +344,39 @@ services:
       duration: "3ore",
       reserveLink: "https://wa.link/hc8cvw",
     },
+       {
+name: "ROOT TERRApy",
+summary: "Pachet Holistic : Întregul corp",
+description:
+[
+"Găsește cauza. Restabilește echilibrul. Reconectează-te cu tine.",
+      "ROOT TERRApy este un protocol terapeutic integrativ creat de echipa Harmonia Terra pentru persoanele care își doresc mai mult decât ameliorarea simptomelor. Prin combinarea evaluării funcționale, aromaterapiei personalizate, bodywork-ului holistic și medicinei tradiționale chineze, experiența urmărește identificarea dezechilibrelor și susținerea proceselor naturale de autoreglare ale organismului.",
+      
+ "Fiecare etapă completează următoarea, oferind o abordare personalizată și profundă, adaptată nevoilor fiecărui client.",
+      
+      "Ce include:",
+      "ZYTO Scan – 60 min",
+"Simfonia Celulelor – 30 min",
+"Harmonic Focus – 60 min",
+"Acupunctură – 60 min",
+"sau Acupunctură + Ventuze / dacă este recomandat",
+      
+      "Investiție",
+      
+      "Valoarea serviciilor individuale: 1.300 lei",
+      "Preț ROOT TERRApy: 1.000 lei",
+      
+      "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale, stării actuale și direcției protocolului. Durata afișată a serviciului include atât acest moment introductiv, cât și timpul efectiv al experienței terapeutice.",
+      
+      "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
+      
+      "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
+    ],
+  isGroup: true,
+  price: "1000lei",
+  duration: "3ore 30min",
+  reserveLink: "https://wa.link/1lk865",
+},
         {
 name: "RESET TERRApy",
 summary: "Pachet Holistic : Întregul corp",
