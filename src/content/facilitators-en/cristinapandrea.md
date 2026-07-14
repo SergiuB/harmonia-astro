@@ -68,7 +68,7 @@ services:
 
     "*After booking through our website, you will receive a message within 24 hours with payment instructions for the 50% deposit, unless you have an active membership or gift card.",
 
-    "*Rescheduling or cancellations, regardless of the reason, must be made at least 48 hours before your appointment. If a session is cancelled or rescheduled with less than 48 hours' notice, the session will be considered used for gift card or membership holders. For individual bookings, the 50% deposit is non-refundable."
+    "*Rescheduling or cancellations, regardless of the reason, must be made at least 48 hours before your appointment. If a session is cancelled or rescheduled with less than 48 hours' notice, the session will be considered used for gift card or membership holders. For individual bookings, the 50% deposit is non-refundable.",
   ],
   isGroup: true,
   price: "1000 RON",
