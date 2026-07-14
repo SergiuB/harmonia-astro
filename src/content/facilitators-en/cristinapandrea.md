@@ -41,6 +41,40 @@ services:
       duration: "25min",
       reserveLink: "https://wa.link/8t9r17",
     },
+      {
+  name: "ROOT TERRApy",
+  summary: "Holistic Package : Full Body",
+  description: [
+    "Discover the root cause. Restore balance. Reconnect with yourself.",
+
+    "ROOT TERRApy is an integrative therapeutic protocol created by the Harmonia Terra team for those seeking more than temporary symptom relief. By combining functional assessment, personalized aromatherapy, holistic bodywork, and Traditional Chinese Medicine, this experience is designed to identify underlying imbalances and support the body's natural self-regulation processes.",
+
+    "Each stage naturally complements the next, creating a personalized and comprehensive experience tailored to your individual needs.",
+
+    "What's Included:",
+
+    "ZYTO Scan – 60 min",
+    "Symphony of the Cells – 30 min",
+    "Harmonic Focus – 60 min",
+    "Acupuncture – 60 min",
+    "or Acupuncture + Cupping Therapy, if recommended",
+
+    "Investment",
+
+    "Individual Service Value: 1,300 RON",
+    "ROOT TERRApy Experience: 1,000 RON",
+
+    "*Each session begins with a brief consultation to better understand your current condition, needs, and the direction of your personalized protocol. The duration displayed includes both the consultation and the therapeutic experience.",
+
+    "*After booking through our website, you will receive a message within 24 hours with payment instructions for the 50% deposit, unless you have an active membership or gift card.",
+
+    "*Rescheduling or cancellations, regardless of the reason, must be made at least 48 hours before your appointment. If a session is cancelled or rescheduled with less than 48 hours' notice, the session will be considered used for gift card or membership holders. For individual bookings, the 50% deposit is non-refundable."
+  ],
+  isGroup: true,
+  price: "1000 RON",
+  duration: "3h 30min",
+  reserveLink: "https://wa.link/aq8cyu",
+},
   ]
 location: "Harmonia Terra - Strada Cercului 18" #optional
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
