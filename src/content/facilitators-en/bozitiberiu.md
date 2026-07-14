@@ -383,7 +383,7 @@ services:
   price: "1000 RON",
   duration: "3h 30min",
   reserveLink: "https://wa.link/aq8cyu",
-}
+},
     {
 name: "RESET TERRApy",
 summary: "Holistic Package : Full Body",
