@@ -105,7 +105,7 @@ description:
 isGroup: true,
 price: "1100lei",
 duration: "4h",
-reserveLink: "https://wa.link/7vnh4i",
+reserveLink: "https://wa.link/kzxk2i",
 },
   ]
 location: "Harmonia Terra – Strada Cercului 18, Bucharest"
