@@ -62,7 +62,7 @@ services:
       reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicreborn",
     },
     {
-  name: "Harmonic Reborn Flow",
+  name: "Harmonic Flow",
   summary: "Holistic massage : Whole Body",
   description:
     [
