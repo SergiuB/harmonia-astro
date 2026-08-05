@@ -6,6 +6,30 @@ tags: ["Terapeut", "Bodyworker", "Holistic Approach"]
 activities: ["masaj-holistic", "masaj", "coaching", "tre", "alte-servicii"]
 services:
   [
+{
+  name: "ARRIVE",
+  summary: "Bodywork • Reset Localizat",
+  description:
+    [
+      "ARRIVE este o sesiune concentrată de bodywork, creată pentru momentele în care corpul îți cere atenție, dar timpul este limitat. În 30 de minute lucrăm asupra unei zone a corpului care are cea mai mare nevoie de susținere.",
+
+      "Sesiunea începe cu o scurtă conversație - 1 min-  pentru a înțelege starea ta din acel moment și pentru a identifica zona asupra căreia vom lucra. Poate fi vorba despre spate, gât, umeri, zona lombară, abdomen, maxilar, cap, picioare sau altă regiune care necesită atenție.",
+
+      "Prin tehnici de bodywork, sesiunea este adaptată în funcție de nevoile corpului tău, fără un protocol rigid.",
+
+      "ARRIVE este alegerea potrivită dacă ai nevoie de o intervenție rapidă, îți dorești să întreții rezultatele obținute în sesiunile mai lungi sau vrei să descoperi stilul meu de lucru înainte de a experimenta o experiență completă. Este, de asemenea, o opțiune excelentă pentru cei care preferă sesiuni regulate de întreținere sau își doresc o variantă mai accesibilă pentru a integra bodywork-ul în rutina lor de îngrijire.",
+
+      "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale și stabilirii direcției terapiei. Durata afișată include atât această discuție, cât și timpul efectiv de lucru cu corpul.",
+
+      "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
+
+      "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
+    ],
+  isGroup: true,
+  price: "200lei",
+  duration: "30min",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/arrive",
+},
     {
       name: "(E)Motion Somatic Release",
       summary: "Terapie Holistică : Întregul corp",
