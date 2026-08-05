@@ -8,7 +8,7 @@ services:
   [
 {
   name: "ARRIVE",
-  summary: "Bodywork • Reset Localizat",
+  summary: "Bodywork • O Zonă Cheie",
   description:
     [
       "ARRIVE este o sesiune concentrată de bodywork, creată pentru momentele în care corpul îți cere atenție, dar timpul este limitat. În 30 de minute lucrăm asupra unei zone a corpului care are cea mai mare nevoie de susținere.",
@@ -30,120 +30,307 @@ services:
   duration: "30min",
   reserveLink: "https://app.simplymeet.me/harmoniaoptima/arrive",
 },
-    {
-      name: "(E)Motion Somatic Release",
-      summary: "Terapie Holistică : Întregul corp",
-      description:
-        [
-          "De-a lungul timpului, am observat că tremurul este un mecanism natural al organismului, menit să relaxeze fascia, țesutul muscular și celular. Tremurul este codificat în ADN-ul nostru. Practic suntem codificați genetic pentru a tremura. Chiar dacă tremurul este generat din sistemul limbic al creierului, el nu este sub controlul nostru conștient. Cu alte cuvinte, tehnicile care produc tremur ocolesc creierul gânditor, oferindu-ne acces direct la creierul reptilian inconștient. Acest lucru ne permite să aducem schimbări pe care altfel nu le-am putea realiza.",
-          "Prin (E)Motion Somatic Release voi lucra cu tine pentru a crea un mediu sigur, de susținere, în care poți explora și elibera straturi psiho-emoționale și tensiuni sau traume somatizate în corp care ar putea avea un impact asupra vieții tale de zi cu zi. Metoda folosește o serie de tehnici pentru a activa mecanismul de vibrație natural al corpului precum: mișcări ușoare de stretching, presopunctură pe anumite zone, tehnici de respirație sau atingeri blânde. Aceste tehnici ajută la eliberarea tensiunii și a traumei reținute din corp, permițându-vă să vă simțiți mai împământați, prezenți și conectați la sursă.",
-          "Un aspect important al unei recuperări de succes după traumă este activarea mecanismului natural de eliberare al organismului, care indică corpului să revină la o stare de odihnă și recuperare. Corpul evocă tremurul pentru a finaliza descărcarea răspunsului de luptă, fugă sau îngheț la care a fost supus în diverse situații din viață.",
-          "Dacă ești gata să profiți de mecanismul natural de vibrație al corpului tău și să experimentezi beneficiile transformatoare ale (E)Motion Somatic Release, ești invitat să explorezi această abordarea unică de vindecare.",
-        "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale, stării tale actuale și obiectivelor pentru sesiune.
-În cazul primei întâlniri, această discuție poate dura până la aproximativ 30 de minute, pentru a permite o cunoaștere mai profundă și o evaluare holistică (fizică, emoțională și energetică), dacă se dorește.
-În sesiunile următoare, acest moment este, de regulă, mai scurt (10–15 minute).
-Durata afișată a serviciului include atât discuția inițială, cât și timpul efectiv de lucru cu corpul.",
-          "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
-          "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
-        ],
-      isGroup: true,
-      price: "700lei",
-      duration: "90min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima/e-motionsomaticrelease",
-    },
-    {
-      name: "Harmonic Focus",
-      summary: "Masaj Holistic : Zone Cheie",
-      description:
-        [
-          "Harmonic Focus este o sesiune inspirată din profunzimea Harmonic Reborn, concentrată pe una sau două zone ale corpului – Exemplu: spate, abdomen, maxilar și cap, picioare sau altă zonă pe care o vom stabili împreună în urma unei scurte conversații de început.",
-          "Alocăm aproximativ 5 minute pentru această discuție, iar restul pentru terapie activă, personalizată în funcție de nevoile tale din acel moment. Este o experiență adaptabilă, intuitivă și atentă, care onorează ceea ce corpul tău îți cere.",
-          "Este potrivită pentru tine dacă:",
-          "– nu ai timp pentru o sesiune completă, dar simți nevoia unei reconectări reale",
-          "– cauți o întreținere între sesiunile lungi",
-          "– simți disconfort localizat și ai nevoie de o abordare țintită",
-          "– ai un buget mai redus, dar vrei să primești o formă profundă de îngrijire",
-          "– vrei să descoperi stilul meu înainte de a experimenta o sesiune completă",
-          "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
-          "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
-        ],
-      isGroup: true,
-      price: "400lei",
-      duration: "60min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicfocus",
-    },
-       {
-      name: "Harmonic Reborn",
-      summary: "Masaj Holistic : Întregul corp",
-      description:
-        [
-          "Un masaj holistic complet, complex și intuitiv bazat pe principii fondate și pe cumulul de experiență dobândit cu care am evoluat ca terapeut și ca om de-a lungul anilor și până în prezent.",
-          "Încă de la începutul carierei am înteles că o atingere vindecătoare este mai mult decât o tehnică în sine. O atingere este vindecătoare atunci când are intenție, un sentiment de iubire și o stare de conștiință. De altfel, am înțeles că intuiția este îndrumătorul mâinilor mele care pot duce masajul peste așteptările beneficiarului.",
-          "Pe lângă asta, cu timpul am învățat să ascult tot ceea ce îmi spune clientul, tot ceea ce clientul nu poate pune în cuvinte, tot ceea ce simt prin mâinile mele și să adaptez tot ceea ce fac în functie de informațiile pe care le primesc în acest fel.",
-          "(*) După nevoile și preferințele clientului sau după cum voi considera că este mai benefic pentru sănătatea și bunăstarea beneficiarului, Harmonic Reborn poate utiliza o gamă largă de metode holistice și tehnici din diferite culturi precum: Thai, Miofascial, Deep Tissue, Lomi Lomi Hawaiian, Yumeiho, Shiatsu, Ashiatsu, Terapia CranioSacrală, Reflexoterapie, Suedez, Instrumente Shamanice, Sacred Pedi Pudja, Chavutti Thirumal, Barefoot, Drenaj Limfatic, Breathwork, Aromaterapie, Presopunctură, Facial, Facial Intraoral, Boluri Tibetane, Stretching, etc.",
-        "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale, stării tale actuale și obiectivelor pentru sesiune.
-În cazul primei întâlniri, această discuție poate dura până la aproximativ 30 de minute, pentru a permite o cunoaștere mai profundă și o evaluare holistică (fizică, emoțională și energetică), dacă se dorește.
-În sesiunile următoare, acest moment este, de regulă, mai scurt (10–15 minute).
-Durata afișată a serviciului include atât discuția inițială, cât și timpul efectiv de lucru cu corpul.",
-          "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
-          "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
-        ],
-      isGroup: true,
-      price: "700lei",
-      duration: "120min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicreborn",
-    },
-    {
-  name: "Harmonic Flow",
-  summary: "Masaj holistic : Întregul corp",
+{
+  name: "RECHARGE",
+  summary: "Bodywork • Două Zone Cheie",
   description:
     [
-      "Harmonic Flow este un masaj holistic avansat, în care tehnica și intuiția se îmbină într-un proces fluid, continuu și ghidat.",
-      "Este creat pentru persoanele care sunt deja conectate cu propriul corp și care pot intra cu ușurință într-o stare de relaxare, deschidere și încredere, permițându-și să se lase ghidate și să se predea procesului.",
-      "Spre deosebire de alte masaje holistice, precum Harmonic Reborn, unde accentul este pus pe nevoi specifice ale corpului, această experiență permite corpului să intre într-un flow continuu, în care tehnicile se leagă natural, iar intervenția devine mai fluidă, mai creativă și mai expresivă.",
-      "Lucrul combină elemente de deep tissue, fascie, mobilizări, stretching, flow și atingere intuitivă, integrate într-un ritm natural, adaptat în timp real în funcție de ceea ce corpul permite și cere.",
-      "Această sesiune este potrivită pentru persoanele care au mai lucrat cu corpul lor, pentru cei care se pot relaxa și se pot lăsa ghidați, pentru cei care își doresc o experiență autentică în arta masajului și pentru cei deschiși către un stil de lucru mai dinamic, fluid și integrativ.",
-      "Harmonic Flow este mai puțin ghidat de o structură fixă și mai mult de flow, permițând folosirea unor tehnici variate și mai avansate și creând o experiență continuă, fără întreruperi, în care profunzimea terapeutică se îmbină cu o dimensiune senzorială rafinată.",
-      "Beneficii posibile includ relaxare profundă și reglarea sistemului nervos, creșterea mobilității, eliberarea tensiunilor, reconectarea cu corpul și senzațiile, precum și accesul la stări de prezență și fluiditate.",
-      "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale și a stării tale din acel moment. Durata acestui moment este inclusă în timpul total al sesiunii.",
+      "RECHARGE este o sesiune de bodywork de 60 de minute. În cadrul acestei experiențe lucrăm, de regulă, asupra a două zone importante ale corpului sau asupra unei jumătăți de corp, în funcție de nevoile tale.",
+
+      "Sesiunea începe cu o scurtă conversație pentru a înțelege starea ta din acel moment și pentru a stabili împreună direcția terapiei. Fiecare sesiune este personalizată și adaptată corpului tău, fără un protocol rigid.",
+
+      "Prin tehnici de bodywork, lucru fascial, presopunctură și mobilizări blânde, susținem reducerea tensiunilor, relaxarea sistemului nervos și redobândirea unei stări de echilibru și vitalitate.",
+
+      "RECHARGE este alegerea potrivită dacă îți dorești să acorzi mai multă atenție corpului tău, fără a avea nevoie de o sesiune completă de întreg corp. Este ideal pentru întreținere regulată, recuperare după perioade solicitante sau pentru cei care își doresc să integreze bodywork-ul în rutina lor de wellbeing.",
+
+      "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale și stabilirii direcției terapiei. Durata afișată include atât această discuție, cât și timpul efectiv de lucru cu corpul.",
+
       "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
-      "*Reprogramările sau anulările trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În caz contrar, avansul nu va fi returnat sau sesiunea va fi considerată efectuată.",
-      "*Această sesiune nu este recomandată ca primă experiență pentru persoanele foarte tensionate, rigide sau care nu au mai lucrat cu corpul. Pentru început, este recomandată o sesiune de tip Harmonic Reborn, care pregătește corpul pentru un nivel mai profund de lucru."
+
+      "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
+    ],
+  isGroup: true,
+  price: "400lei",
+  duration: "60min",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/recharge",
+},
+{
+  name: "FLOW",
+  summary: "Bodywork • Întregul Corp",
+  description:
+    [
+      "FLOW este o experiență de bodywork în care tehnica, intuiția și prezența se îmbină într-un proces fluid, continuu și ghidat de nevoile corpului. Este creată pentru persoanele care își doresc mai mult decât relaxare și sunt pregătite să se lase purtate de ritmul natural al sesiunii.",
+
+      "Sesiunea începe cu o scurtă conversație pentru a înțelege starea ta din acel moment și pentru a adapta experiența în funcție de corpul tău. Fiecare sesiune este unică și construită intuitiv, fără un protocol rigid, urmând ceea ce corpul permite și are nevoie în acel moment.",
+
+      "Pe parcursul celor 90 de minute lucrăm asupra întregului corp printr-o combinație armonioasă de tehnici de bodywork, lucru fascial, deep tissue, mobilizări, stretching și atingere intuitivă. Mișcările se leagă natural între ele, creând o experiență continuă, expresivă și profundă.",
+
+      "FLOW este recomandat persoanelor care au mai experimentat bodywork sau care își doresc o experiență autentică, dinamică și integrativă. Este ideal pentru cei care caută mai multă mobilitate, libertate de mișcare, flexibilitate și o reconectare profundă cu propriul corp.",
+
+      "Beneficiile pot include reducerea tensiunilor musculare, îmbunătățirea mobilității și posturii, reglarea sistemului nervos, creșterea conștientizării corporale și accesul la o stare profundă de prezență și fluiditate.",
+
+      "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale și stabilirii direcției terapiei. Durata afișată include atât această discuție, cât și timpul efectiv de lucru cu corpul.",
+
+      "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
+
+      "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
+    ],
+  isGroup: true,
+  price: "600lei",
+  duration: "90min",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/flow",
+},
+{
+  name: "MATERNITY",
+  summary: "Bodywork • Îngrijire Prenatală",
+  description:
+    [
+      "MATERNITY este o experiență de bodywork prenatal, creată special pentru a susține confortul fizic și emoțional al femeii în timpul sarcinii. Fiecare sesiune este adaptată etapei în care te afli și nevoilor corpului tău, oferindu-ți un spațiu sigur pentru relaxare, reconectare și îngrijire.",
+
+      "Sesiunea începe cu o scurtă conversație pentru a înțelege cum te simți în acel moment și pentru a adapta experiența în funcție de schimbările prin care trece corpul tău. Poziționarea, tehnicile și ritmul sunt alese cu grijă pentru a oferi cât mai mult confort și siguranță.",
+
+      "Pe parcursul celor 90 de minute lucrăm asupra întregului corp prin tehnici blânde de bodywork, mobilizări ușoare și atingere conștientă, menite să reducă tensiunile musculare, să îmbunătățească circulația și să ofere o stare profundă de relaxare și echilibru.",
+
+      "MATERNITY este recomandat viitoarelor mame care își doresc un moment dedicat lor, în care să încetinească ritmul, să reducă disconfortul acumulat și să își susțină corpul în această perioadă unică de transformare.",
+
+      "Beneficiile pot include reducerea durerilor de spate și bazin, diminuarea tensiunilor musculare, îmbunătățirea circulației, relaxarea sistemului nervos și crearea unei conexiuni mai profunde cu propriul corp și cu bebelușul.",
+
+      "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale și stabilirii direcției terapiei. Durata afișată include atât această discuție, cât și timpul efectiv de lucru cu corpul.",
+
+      "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
+
+      "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat."
+    ],
+  isGroup: true,
+  price: "600lei",
+  duration: "90min",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/maternity",
+},
+{
+  name: "REGULATE",
+  summary: "Bodywork • Întregul Corp",
+  description:
+    [
+      "REGULATE este o experiență de bodywork creată pentru a susține reglarea sistemului nervos și restabilirea echilibrului dintre corp și minte. Este dedicată persoanelor care trăiesc într-un ritm alert, resimt stres, oboseală sau tensiuni persistente și simt nevoia să încetinească.",
+
+      "Sesiunea începe cu o scurtă conversație pentru a înțelege starea ta din acel moment și pentru a adapta experiența în funcție de nevoile corpului tău. Fiecare sesiune este personalizată și construită intuitiv, fără un protocol rigid.",
+
+      "Pe parcursul celor 90 de minute lucrăm asupra întregului corp prin tehnici de bodywork, lucru fascial, presopunctură, mobilizări și atingere conștientă. Scopul nu este doar reducerea tensiunilor musculare, ci și crearea condițiilor în care sistemul nervos poate ieși din starea de suprasolicitare și poate reveni către un echilibru natural.",
+
+      "REGULATE este recomandat persoanelor care se confruntă cu stres cronic, suprasolicitare fizică sau mentală, tulburări ale somnului, tensiuni musculare persistente sau care își doresc să integreze bodywork-ul ca parte a unei rutine regulate de îngrijire și prevenție.",
+
+      "Beneficiile pot include relaxare profundă, reducerea tensiunilor musculare, reglarea sistemului nervos, îmbunătățirea conștientizării corporale și susținerea capacității naturale a organismului de autoreglare.",
+
+      "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale și stabilirii direcției terapiei. Durata afișată include atât această discuție, cât și timpul efectiv de lucru cu corpul.",
+
+      "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
+
+      "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
+    ],
+  isGroup: true,
+  price: "600lei",
+  duration: "90min",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/regulate",
+},
+{
+  name: "RELEASE",
+  summary: "Somatic Therapy • Întregul Corp",
+  description:
+    [
+      "RELEASE este experiența de Somatic Therapy, creată pentru persoanele care își doresc să exploreze relația profundă dintre corp, sistemul nervos și experiențele de viață. Dincolo de relaxare, această sesiune urmărește să creeze un spațiu sigur în care organismul își poate activa propriile mecanisme naturale de autoreglare.",
+
+      "În funcție de nevoile fiecărei persoane, sesiunea poate integra exerciții inspirate din tehnici de respirație, mișcare conștientă, TRE, stretching, presopunctură și alte abordări somatice, susținând capacitatea naturală a organismului de a reduce tensiunea acumulată și de a reveni către o stare de echilibru.",
+
+      "În anumite situații, organismul poate răspunde prin vibrații sau tremur spontan. Acesta este un răspuns fiziologic natural al sistemului nervos, observat și în abordări precum Trauma Release Exercises (TRE®), prin care corpul poate diminua tensiunea acumulată și își poate susține procesele naturale de autoreglare.",
+
+      "RELEASE este recomandat persoanelor care se confruntă cu stres cronic, suprasolicitare, dificultăți de relaxare, tensiuni persistente sau care își doresc o explorare mai profundă a relației dintre corp, emoții și sistemul nervos.",
+
+      "Beneficiile pot include reglarea sistemului nervos, reducerea tensiunilor fizice și emoționale, creșterea conștientizării corporale, îmbunătățirea stării de prezență și susținerea capacității naturale a organismului de autoreglare.",
+
+      "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale, stării tale actuale și obiectivelor pentru sesiune. În cazul primei întâlniri, această discuție poate dura până la aproximativ 30 de minute, pentru a permite o cunoaștere mai profundă și o evaluare holistică (fizică, emoțională și energetică), dacă se dorește. În sesiunile următoare, acest moment este, de regulă, mai scurt (10–15 minute). Durata afișată a serviciului include atât această discuție, cât și timpul efectiv de lucru cu corpul.",
+
+      "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
+
+      "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
+    ],
+  isGroup: true,
+  price: "600lei",
+  duration: "90min",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/release",
+},
+{
+  name: "RITUAL",
+  summary: "Bodywork • Întregul Corp",
+  description:
+    [
+      "RITUAL este o experiență de bodywork inspirată din filosofia și fluiditatea masajului hawaiian Lomi Lomi, în care mișcările lungi, fluide și continue transformă sesiunea într-un adevărat ritual de relaxare și reconectare. Spre deosebire de celelalte experiențe de bodywork, această sesiune utilizează o cantitate mai generoasă de ulei, permițând mișcări ample și neîntrerupte pe întregul corp.",
+
+      "Pe parcursul celor 90 de minute, tehnicile sunt realizate folosind palmele, antebrațele și, uneori, coatele, într-un ritm lent și armonios. Mișcările continue creează o senzație de susținere și îmbrățișare, invitând corpul și sistemul nervos să intre într-o stare profundă de relaxare și prezență.",
+
+      "RITUAL este recomandat persoanelor care își doresc să încetinească ritmul, să lase deoparte grijile cotidiene și să își ofere un moment autentic de îngrijire. Este o experiență dedicată celor care apreciază atingerea conștientă, fluiditatea mișcărilor și puterea unui ritual de reconectare cu propriul corp.",
+
+      "Beneficiile pot include relaxare profundă, reducerea stresului și a tensiunilor musculare, reglarea sistemului nervos, îmbunătățirea circulației și o stare accentuată de calm, prezență și echilibru.",
+
+      "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale și stabilirii direcției terapiei. Durata afișată include atât această discuție, cât și timpul efectiv de lucru cu corpul.",
+
+      "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
+
+      "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
+    ],
+  isGroup: true,
+  price: "600lei",
+  duration: "90min",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/ritual",
+},
+     {
+  name: "REBORN",
+  summary: "Signature Bodywork • Întregul Corp",
+  description:
+    [
+      "REBORN este experiența signature a metodei Tiberiu Bozi și reprezintă cea mai completă formă de bodywork pe care o ofer. Cele 120 de minute permit timp suficient pentru ca fiecare etapă a sesiunii să se desfășoare fără grabă, respectând ritmul natural al corpului.",
+
+      "Sesiunea începe cu o conversație dedicată înțelegerii stării tale actuale și a nevoilor corpului. Fiecare experiență este construită intuitiv, fără un protocol fix, adaptând tehnicile și ritmul în funcție de ceea ce corpul tău transmite în acel moment.",
+
+      "Pe parcursul sesiunii lucrăm asupra întregului corp printr-o abordare integrativă ce poate include tehnici de bodywork, lucru fascial, mobilizări, stretching, presopunctură și atingere intuitivă. Timpul suplimentar permite o explorare mai profundă a zonelor care necesită atenție, fără a compromite fluiditatea experienței.",
+
+      "REBORN este recomandat persoanelor care își doresc experiența completă, fie ca primă întâlnire, fie ca parte a unui proces constant de îngrijire și reconectare cu propriul corp.",
+
+      "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale și stabilirii direcției terapiei. Durata afișată include atât această discuție, cât și timpul efectiv de lucru cu corpul.",
+
+      "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
+
+      "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
     ],
   isGroup: true,
   price: "700lei",
-  duration: "100min",
-  reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicflow",
+  duration: "120min",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/reborn",
+},
+{
+  name: "ARRIVE Membership",
+  summary: "Pachet • 6 Sesiuni",
+  description:
+    [
+      "ARRIVE Membership este creat pentru persoanele care își doresc să integreze bodywork-ul în rutina lor săptămânală. Prin sesiuni concentrate de 30 de minute, poți interveni rapid asupra unei zone cheie a corpului și preveni acumularea tensiunilor.",
+
+      "Detalii abonament:",
+
+      "- Număr sesiuni: 6 sesiuni ARRIVE (30 minute).",
+
+      "- Reducere: Beneficiezi de 20% discount din valoarea totală a serviciilor. Preț final: 960 lei (în loc de 1200 lei).",
+
+      "- Frecvență recomandată: două sesiuni pe săptămână.",
+
+      "- Valabilitate: 4 săptămâni de la data achiziției.",
+
+      "- Plata: abonamentul se achită integral înainte de prima programare.",
+
+      "ARRIVE Membership este ideal pentru întreținere regulată, prevenție și pentru persoanele care își doresc să acorde atenție constantă corpului lor.",
+
+      "*Programările pot fi modificate cu minimum 48 de ore înainte de sesiune.",
+
+      "*Sesiunile neefectuate în perioada de valabilitate nu se reportează.",
+    ],
+  isGroup: true,
+  price: "960lei",
+  duration: "6 x 30min",
+  reserveLink: "https://wa.link/7wb9rk",
+},
+{
+  name: "RECHARGE Membership",
+  summary: "Pachet • 6 Sesiuni",
+  description:
+    [
+      "RECHARGE Membership este dedicat celor care își doresc să își mențină energia, mobilitatea și starea de bine prin sesiuni regulate de bodywork.",
+
+      "Detalii abonament:",
+
+      "- Număr sesiuni: 6 sesiuni RECHARGE (60 minute).",
+
+      "- Reducere: Beneficiezi de 20% discount din valoarea totală a serviciilor. Preț final: 1920 lei (în loc de 2400 lei).",
+
+      "- Frecvență recomandată: o sesiune pe săptămână.",
+
+      "- Valabilitate: 6 săptămâni de la data achiziției.",
+
+      "- Plata: abonamentul se achită integral înainte de prima programare.",
+
+      "RECHARGE Membership este potrivit pentru persoanele care își doresc să transforme bodywork-ul într-un obicei constant de îngrijire și prevenție.",
+
+      "*Programările pot fi modificate cu minimum 48 de ore înainte de sesiune.",
+
+      "*Sesiunile neefectuate în perioada de valabilitate nu se reportează.",
+    ],
+  isGroup: true,
+  price: "1920lei",
+  duration: "6 x 60min",
+  reserveLink: "https://wa.link/7wb9rk",
+},
+{
+  name: "FLOW Membership",
+  summary: "Pachet • 6 Sesiuni",
+  description:
+    [
+      "FLOW Membership oferă flexibilitatea de a alege experiența de 90 de minute care răspunde cel mai bine nevoilor tale din acel moment.",
+
+      "Detalii abonament:",
+
+      "- Număr sesiuni: 6 sesiuni a câte 90 minute.",
+
+      "- Servicii incluse: FLOW, REGULATE, RELEASE, RITUAL sau MATERNITY.",
+
+      "- Reducere: Beneficiezi de 20% discount din valoarea totală a serviciilor. Preț final: 2880 lei (în loc de 3600 lei).",
+
+      "- Frecvență recomandată: o sesiune pe săptămână.",
+
+      "- Valabilitate: 8 săptămâni de la data achiziției.",
+
+      "- Plata: abonamentul se achită integral înainte de prima programare.",
+
+      "FLOW Membership este alegerea ideală pentru persoanele care își doresc libertatea de a alterna experiențele de bodywork în funcție de nevoile corpului și ale momentului.",
+
+      "*Programările pot fi modificate cu minimum 48 de ore înainte de sesiune.",
+
+      "*Sesiunile neefectuate în perioada de valabilitate nu se reportează.",
+    ],
+  isGroup: true,
+  price: "2880lei",
+  duration: "6 x 90min",
+  reserveLink: "https://wa.link/7wb9rk",
+},
+{
+  name: "REBORN Membership",
+  summary: "Pachet • 6 Sesiuni",
+  description:
+    [
+      "REBORN Membership este creat pentru persoanele care își doresc să experimenteze în mod constant forma completă a metodei Tiberiu Bozi.",
+
+      "Detalii abonament:",
+
+      "- Număr sesiuni: 6 sesiuni REBORN (120 minute).",
+
+      "- Reducere: Beneficiezi de 20% discount din valoarea totală a serviciilor. Preț final: 3360 lei (în loc de 4200 lei).",
+
+      "- Frecvență recomandată: o sesiune la 7-14 zile.",
+
+      "- Valabilitate: 8 săptămâni de la data achiziției.",
+
+      "- Plata: abonamentul se achită integral înainte de prima programare.",
+
+      "REBORN Membership este cea mai bună alegere pentru persoanele care își doresc un proces constant de îngrijire, reglare și reconectare prin experiența completă a metodei Tiberiu Bozi.",
+
+      "*Programările pot fi modificate cu minimum 48 de ore înainte de sesiune.",
+
+      "*Sesiunile neefectuate în perioada de valabilitate nu se reportează.",
+    ],
+  isGroup: true,
+  price: "3360lei",
+  duration: "6 x 120min",
+  reserveLink: "https://wa.link/7wb9rk",
 },
     {
-      name: "Harmonic Maternity Bliss",
-      summary: "Masaj Holistic : Dedicat Gravidelor",
-      description:
-        [
-          "Un masaj holistic, creat special pentru viitoarele mame, care își doresc un moment de relaxare profundă, alinare și conexiune interioară. Acest masaj folosește diverse tehnici care sunt special adaptate pentru a susține confortul fizic și emoțional al mamei și al bebelușului.",
-          "Fiecare mișcare este gândită pentru a reduce tensiunile musculare, a îmbunătăți circulația și a oferi o senzație de ușurare în zonele care resimt cea mai mare presiune în timpul sarcinii.",
-          "Beneficii:",
-          "- Relaxare profundă și reducerea stresului.",
-          "- Ușurarea tensiunilor din spate, șolduri și picioare.",
-          "- Susținerea circulației și reducerea edemelor.",
-          "- Conexiune emoțională cu bebelușul.",
-          "- Crearea unui echilibru între corp, minte și suflet.",
-          "Programează-te și oferă-ți o experiență unică, creată special pentru tine și pentru această călătorie magică.",
-          "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale, stării tale actuale și obiectivelor pentru sesiune.
-În cazul primei întâlniri, această discuție poate dura până la aproximativ 30 de minute, pentru a permite o cunoaștere mai profundă și o evaluare holistică (fizică, emoțională și energetică), dacă se dorește.
-În sesiunile următoare, acest moment este, de regulă, mai scurt (10–15 minute).
-Durata afișată a serviciului include atât discuția inițială, cât și timpul efectiv de lucru cu corpul.",
-          "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
-          "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
-        ],
-      isGroup: true,
-      price: "700lei",
-      duration: "120min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicmaternitybliss",
-    },
-    {
-      name: "Harmonic Union",
-      summary: "Masaj Holistic : Dedicat Cuplurilor",
+      name: "Harmonic UNION",
+      summary: "Bodywork • Dedicat Cuplurilor",
       description:
         [
           "Descoperiți Echilibrul Energiilor Masculine și Feminine în Cuplu",
@@ -162,12 +349,12 @@ Durata afișată a serviciului include atât discuția inițială, cât și timp
         ],
       isGroup: true,
       price: "1100lei",
-      duration: "100min",
+      duration: "90min",
       reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicritual-dgn6r",
     },
     {
-      name: "Harmonic Cocoon",
-      summary: "Masaj Holistic Părinte + Joacă pentru Copil",
+      name: "Harmonic COCOON",
+      summary: "Bodywork Părinte + Joacă pentru Copil",
       description:
         [
           "Harmonic Cocoon este o experiență unică, dedicată părinților care au nevoie de relaxare, dar nu au mereu unde să lase copiii. În timp ce părintele primește un masaj profund de 90 de minute oferit de Tiberiu, copiii se bucură de atenția și prezența Deliei, într-un spațiu sigur și creativ.",
@@ -203,8 +390,8 @@ Durata afișată a serviciului include atât discuția inițială, cât și timp
       reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmoniccocoon",
     },
     {
-      name: "Harmonic Nest",
-      summary: "Masaj Holistic : Părinte & Copil",
+      name: "Harmonic NEST",
+      summary: "Bodywork • Părinte & Copil",
       description:
         [
           "Această experiență unică oferă părintelui posibilitatea de a se bucura de un masaj profund relaxant, în timp ce copilul său primește propriul său masaj adaptat nevoilor sale, fie în aceeași cameră, fie separat, în funcție de preferințe.",
@@ -237,7 +424,7 @@ Durata afișată a serviciului include atât discuția inițială, cât și timp
     },
     {
       name: "Harmonic²",
-      summary: "Masaj cu 4 mâini : Întregul corp",
+      summary: "Masaj cu 4 mâini • Întregul corp",
       description: [
           "Experimentează Armonia Supremă cu Harmonic²",
           "Dacă ai avut plăcerea de a experimenta masajele inovative oferite de Tiberiu și Delia, Harmonic² îți va aduce o nouă dimensiune de relaxare și echilibru interior. Dacă nu ai avut încă ocazia să descoperi serviciile lor, îți vom dezvălui ce face acest masaj la patru mâini atât de special.
@@ -263,68 +450,8 @@ Durata afișată a serviciului include atât discuția inițială, cât și timp
       reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonic4hands",
     },
     {
-      name: "Harmonic Recharge",
-      summary: "Masaj Holistic : Întregul corp",
-      description:
-        [
-          "O terapie prin masaj a cărei filozofie este bazată pe efectuarea de operațiuni cu specificitate înaltă pentru fiecare client, cu mare accent pe calitatea atingerii.",
-          "Pentru a aduce clientului bunăstarea fizică, mentală și emoțională de care are nevoie, tehnicile acestei terapii sunt provenite din următoarele tipuri de masaj: Deep Tissue, Shiatsu, Suedez, Terapia CranioSacrală și Reflexoterapia clasică.",
-          "Deep Tissue are scopul de a reda mobilitatea și de a elibera tensiunea întregului corp având ca țintă principală masa musculară, articulațiile, tendoanele și țesutul conjunctiv (fascia).",
-          "Shiatsu este o formă de masaj ce își are originea în Japonia, ce are la bază elemente de terapii occidentale și presiunea pe traseele meridianelor energetice preluate din medicina tradițională chineză.",
-          "Suedez este una din cele mai cunoscute și practicate terapii de masaj care oferă o experiență placută de relaxare fizică și mentală.",
-          'Terapia CranioSacrală, numită și "Terapia cu Eliberări SomatoEmoționale", este tratamentul care leagă tensiunile din suturile craniene, dinamica lichidului cefalo-rahidian, tiparele migrenoase ale clientului și atingerea foarte fină a terapeutului.',
-          "Reflexoterapia este o tehnică specială de masaj digital care se bazează pe principiul că există anumite zone și puncte, din tălpi și pălmi, care sunt conectate prin sistemul nervos la diferite părți corespunzătoare ale corpului.",
-           "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale, stării tale actuale și obiectivelor pentru sesiune.
-În cazul primei întâlniri, această discuție poate dura până la aproximativ 30 de minute, pentru a permite o cunoaștere mai profundă și o evaluare holistică (fizică, emoțională și energetică), dacă se dorește.
-În sesiunile următoare, acest moment este, de regulă, mai scurt (10–15 minute).
-Durata afișată a serviciului include atât discuția inițială, cât și timpul efectiv de lucru cu corpul.",
-          "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
-          "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
-        ],
-      isGroup: true,
-      price: "700lei",
-      duration: "120min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicrecharge",
-    },
-    {
-      name: "Harmonic Ritual",
-      summary: "Masaj Holistic : Întregul corp",
-      description:
-        [
-          "Harmonic Ritual, spus și ”Terapia mâinilor iubitoare”, are rădăcini Hawaiiene și se realizează prin utilizarea pălmilor, antebrațelor cât și a coatelor, fiind posibil executate în același moment pe două părți extinse ale corpului, creându-se sentimentul de îmbrățisare. Aceste mișcări fac în așa fel încât corpul să se relaxeze complet, să fie într-o stare de eliberare și să existe o armonie între partea fizică, mentală și spirituală.",
-          "Scopul acestei terapii este de a-ți celebra și vindeca întreaga ființă actionând cu armonie pe toate sistemele sale.",
-          "Pentru ca acest ritual sa aibă rezultate benefice, este important ca relația dintre terapeut și client să fie una cât mai deschisă. Terapeutul nu se va limita doar la starea corpului, ci va avea in vedere și restul părților(mental, emoțional, spiritual) ce țin de sănătatea clientului. Acest lucru îl va ajuta pe terapeut să își dea seama de resursele pe care clientul le are sau disfuncțiile care il pot împiedica în procesul de vindecare.",
-          "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
-          "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
-        ],
-      price: "600lei",
-      duration: "75min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicritual",
-    },
-    {
-      name: "Abonament Masaj Holistic",
-      summary: "Pachet : 6 Sesiuni : Harmonic Reborn",
-      description:
-        [
-          "Detalii Abonament:",
-          "- Număr sesiuni: 6 sesiuni de Masaj Holistic - Harmonic Reborn",
-          "- Reducere: Beneficiați de 20% discount din prețul total al serviciilor, ceea ce aduce prețul final la 3360lei ( în loc de 4200lei).",
-          "- Frecvența Programărilor: Programările pot fi stabilite flexibil, în funcție de preferințele și nevoile dumneavoastră. Totuși, pentru continuitatea procesului terapeutic și rezultate optime, recomandarea noastră este ca sesiunile să fie realizate o dată la două săptămâni.",
-          "- Valabilitate: Abonamentul este valabil timp de 3 luni de la data achiziției.",
-          "- Plata: Suma totală a abonamentului (3360 lei) va fi achitată integral înainte de prima programare.",
-          "Alegeți Abonamentul Harmonic Reborn pentru a vă bucura de sesiuni unice, cu un preț redus și o flexibilitate adaptată nevoilor dumneavoastră. Acest abonament vă permite să experimentați masajul holistic într-un cadru liniștit și exclusiv, oferindu-vă posibilitatea de a atinge echilibrul perfect între trup, minte și suflet.",
-          "Locuri Limitate: În fiecare lună, sunt disponibile 3 abonamente Harmonic Reborn, așa că vă recomand să-ti rezervi locul cât mai curând pentru a beneficia de acest pachet.",
-          "Contactează-mă acum pentru a afla mai multe detalii și pentru a achizitiona acest abonament avantajos.",
-          "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
-          "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
-        ],
-      price: "3360lei",
-      duration: "6 x 120min",
-      reserveLink: "https://wa.link/7wb9rk",
-    },
-    {
-      name: "Harmonic Alignment",
-      summary: "Pachet Holistic : Întregul corp",
+      name: "Harmonic ALIGNMENT",
+      summary: "Pachet Holistic • Întregul corp",
       description:
         [
           "Un pachet unic, creat pentru a aduce corpul și mintea într-o stare profundă de echilibru și armonie.",
@@ -342,7 +469,7 @@ Durata afișată a serviciului include atât discuția inițială, cât și timp
     },
     {
 name: "RESET TERRApy",
-summary: "Pachet Holistic : Întregul corp",
+summary: "Pachet Holistic • Întregul corp",
 description:
 [
 "RESET TERRApy este un pachet holistic de aproximativ 4 ore, creat pentru reglarea sistemului nervos, reconectarea cu corpul și susținerea echilibrului fizic, emoțional și mental. Experiența îmbină evaluarea holistică, aromaterapia aplicată, terapia prin atingere și tehnicile de relaxare profundă, într-un proces fluid de reset și integrare.",
@@ -369,7 +496,7 @@ description:
 },
    {
 name: "ROOT TERRApy",
-summary: "Pachet Holistic : Întregul corp",
+summary: "Pachet Holistic • Întregul corp",
 description:
 [
 "Găsește cauza. Restabilește echilibrul. Reconectează-te cu tine.",
@@ -402,7 +529,7 @@ description:
 },
     {
       name: "7 Stars TERRApy",
-      summary: "Pachet Holistic : Personalizat",
+      summary: "Pachet Holistic • Personalizat",
       description:
         [
           "Experimentează Vindecarea Supremă a Corpului, Minții și Sufletului",
@@ -460,8 +587,8 @@ description:
           "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
           "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
         ],
-      price: " 400lei → 3360lei",
-      duration: "60min → 10ore",
+      price: " 200lei → 3360lei",
+      duration: "30min → 10ore",
       reserveLink: "https://wa.link/lp6t0c",
     },
   ]
