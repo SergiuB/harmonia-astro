@@ -207,8 +207,8 @@ services:
   reserveLink: "https://app.simplymeet.me/harmoniaoptima/reborn",
 },
 {
-  name: "ARRIVE Membership",
-  summary: "Pachet • 6 Sesiuni",
+  name: "ARRIVE Membership - 20% OFF",
+  summary: "Pachet • 2 Sesiuni / Săptămână",
   description:
     [
       "ARRIVE Membership este creat pentru persoanele care își doresc să integreze bodywork-ul în rutina lor săptămânală. Prin sesiuni concentrate de 30 de minute, poți interveni rapid asupra unei zone cheie a corpului și preveni acumularea tensiunilor.",
@@ -237,8 +237,8 @@ services:
   reserveLink: "https://wa.link/7wb9rk",
 },
 {
-  name: "RECHARGE Membership",
-  summary: "Pachet • 6 Sesiuni",
+  name: "RECHARGE Membership - 20% OFF",
+  summary: "Pachet • 1 Sesiune / Săptămână",
   description:
     [
       "RECHARGE Membership este dedicat celor care își doresc să își mențină energia, mobilitatea și starea de bine prin sesiuni regulate de bodywork.",
@@ -267,8 +267,8 @@ services:
   reserveLink: "https://wa.link/7wb9rk",
 },
 {
-  name: "FLOW Membership",
-  summary: "Pachet • 6 Sesiuni",
+  name: "FLOW Membership - 20% OFF",
+  summary: "Pachet • 1 Sesiune / Săptămână",
   description:
     [
       "FLOW Membership oferă flexibilitatea de a alege experiența de 90 de minute care răspunde cel mai bine nevoilor tale din acel moment.",
@@ -299,8 +299,8 @@ services:
   reserveLink: "https://wa.link/7wb9rk",
 },
 {
-  name: "REBORN Membership",
-  summary: "Pachet • 6 Sesiuni",
+  name: "REBORN Membership - 20% OFF",
+  summary: "Pachet • 1 Sesiune la 2 Săptămâni",
   description:
     [
       "REBORN Membership este creat pentru persoanele care își doresc să experimenteze în mod constant forma completă a metodei Tiberiu Bozi.",
