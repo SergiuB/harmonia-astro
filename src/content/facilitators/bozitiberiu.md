@@ -184,7 +184,7 @@ services:
 },
      {
   name: "REBORN",
-  summary: "Signature Bodywork • Întregul Corp",
+  summary: "Signature Bodywork",
   description:
     [
       "REBORN este experiența signature a metodei Tiberiu Bozi și reprezintă cea mai completă formă de bodywork pe care o ofer. Cele 120 de minute permit timp suficient pentru ca fiecare etapă a sesiunii să se desfășoare fără grabă, respectând ritmul natural al corpului.",
@@ -573,8 +573,8 @@ description:
       reserveLink: "https://wa.link/x5mjvd",
     },
     {
-      name: "Harmonic GIFT Card",
-      summary: "Gift Card : Personalizat",
+      name: "GIFT Card",
+      summary: "Voucher : Personalizat",
       description:
         [
           "Descoperiți puterea de a dărui sănătate și armonie prin intermediul unui Harmonic Gift Card. Perfect pentru orice ocazie specială, gift cardul permite beneficiarului să aleagă oricare dintre serviciile mele holistice, având valoarea pe care dumneavoastră ați achitat-o.",
