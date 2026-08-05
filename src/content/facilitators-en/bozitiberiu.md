@@ -564,6 +564,33 @@ services:
   duration: "10h",
   reserveLink: "https://wa.link/s3x43w",
 },
+{
+  name: "GIFT Card",
+  summary: "Gift Voucher • Personalised",
+  description:
+    [
+      "Give the gift of wellbeing, relaxation and meaningful self-care with a Harmonia Terra Gift Card. Perfect for birthdays, anniversaries, holidays or any special occasion, the recipient can choose any service or holistic experience from our portfolio, up to the value of the gift card.",
+
+      "Why Choose a Harmonia Terra Gift Card?",
+
+      "Complete Flexibility: The recipient is free to choose from a wide range of bodywork sessions, holistic therapies, memberships and signature experiences, creating a personalised journey that best suits their needs.",
+
+      "Extended Validity: The Gift Card is valid for 3 months from the date of purchase, providing plenty of time to schedule and enjoy the chosen experience.",
+
+      "Available in any value between 200 lei and 3360 lei, the Harmonia Terra Gift Card is more than a present—it is an invitation to slow down, reconnect and invest in personal wellbeing. Whether they choose a single therapy or a complete holistic program, the experience will be tailored to their individual needs.",
+
+      "Offer something truly meaningful. Give the gift of health, balance and self-care through a Harmonia Terra Gift Card.",
+
+      "Thank you for choosing to share the gift of wellbeing.",
+
+      "*Gift Cards are valid for 3 months from the date of purchase and can be redeemed for any eligible service or experience offered by Harmonia Terra.",
+
+      "*Appointments may be rescheduled or cancelled up to 48 hours before the session. For cancellations or rescheduling requests made less than 48 hours in advance, the session will be deducted from the Gift Card or Membership, and deposits for individual bookings are non-refundable.",
+    ],
+  price: "200lei → 3360lei",
+  duration: "30min → 10h",
+  reserveLink: "https://wa.link/x492ks",
+},
   ]
 location: "Harmonia Terra, Bucuresti" #optional
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
