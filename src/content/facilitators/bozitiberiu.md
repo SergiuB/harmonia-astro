@@ -234,7 +234,7 @@ services:
   isGroup: true,
   price: "960lei",
   duration: "6 x 30min",
-  reserveLink: "https://wa.link/7wb9rk",
+  reserveLink: "https://wa.link/ussrzx",
 },
 {
   name: "RECHARGE Membership - 20% OFF",
@@ -264,7 +264,7 @@ services:
   isGroup: true,
   price: "1920lei",
   duration: "6 x 60min",
-  reserveLink: "https://wa.link/7wb9rk",
+  reserveLink: "https://wa.link/3ud4ts",
 },
 {
   name: "FLOW Membership - 20% OFF",
@@ -296,7 +296,7 @@ services:
   isGroup: true,
   price: "2880lei",
   duration: "6 x 90min",
-  reserveLink: "https://wa.link/7wb9rk",
+  reserveLink: "https://wa.link/vqu8f3",
 },
 {
   name: "REBORN Membership - 20% OFF",
@@ -326,7 +326,7 @@ services:
   isGroup: true,
   price: "3360lei",
   duration: "6 x 120min",
-  reserveLink: "https://wa.link/7wb9rk",
+  reserveLink: "https://wa.link/370e6c",
 },
     {
       name: "Harmonic UNION",
