@@ -135,7 +135,7 @@ services:
           "*Rescheduling or cancellations must be made at least 48 hours before the session. If canceled or rescheduled with less than 48 hours' notice, the session will be forfeited for gift card or subscription holders; for individual payments, the 50% deposit is non-refundable.",
         ],
       price: "1100lei",
-      duration: "100min",
+      duration: "90min",
       reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicritual-dgn6r",
     },
     {
