@@ -134,7 +134,7 @@ services:
 },
 {
   name: "RELEASE",
-  summary: "Somatic Therapy • Întregul Corp",
+  summary: "Somatic Therapy",
   description:
     [
       "RELEASE este experiența de Somatic Therapy, creată pentru persoanele care își doresc să exploreze relația profundă dintre corp, sistemul nervos și experiențele de viață. Dincolo de relaxare, această sesiune urmărește să creeze un spațiu sigur în care organismul își poate activa propriile mecanisme naturale de autoreglare.",
