@@ -6,446 +6,564 @@ tags: ["Therapist", "Bodyworker", "Holistic Approach"]
 activities: ["masaj", "coaching", "tre", "alte-servicii", "masaj-holistic"]
 services:
   [
-    {
-      name: "(E)Motion Somatic Release",
-      summary: "Holistic Therapy : Whole Body",
-      description:
-        [
-          "Over time, I have observed that tremor is a natural mechanism of the organism, designed to relax the fascia, muscle and cellular tissue. Tremor is encoded in our DNA. We are practically genetically coded to tremble. Although tremor is generated from the limbic system of the brain, it is not under our conscious control. In other words, techniques that produce tremor bypass the thinking brain, giving us direct access to the unconscious reptilian brain. This allows us to make changes that we otherwise could not achieve.",
-          "Through (E)Motion Somatic Release I will work with you to create a safe, supportive environment where you can explore and release psycho-emotional layers and tensions or traumas somatized in the body that might impact your daily life. The method uses a series of techniques to activate the body's natural vibration mechanism such as: light stretching movements, acupressure on certain areas, breathing techniques or gentle touches. These techniques help release tension and trauma retained in the body, allowing you to feel more grounded, present and connected to source.",
-          "An important aspect of successful trauma recovery is activating the body's natural release mechanism, which signals the body to return to a state of rest and recovery. The body evokes tremor to complete the discharge of the fight, flight or freeze response it has been subjected to in various life situations.",
-          "If you are ready to take advantage of your body's natural vibration mechanism and experience the transformative benefits of (E)Motion Somatic Release, you are invited to explore this unique healing approach.",
-          "*After making a booking on the website, you will receive a message within 24 hours for payment of the 50% advance, if you do not have a subscription or gift card.",
-          "*Rescheduling or cancellations, regardless of reason, must be made at least 48 hours before the session. In case of rescheduling or cancellations less than 48 hours before, the session will be lost if you have a gift card or subscription, and for individual payments, the 50% advance will not be refunded.",
-        ],
-      isGroup: true,
-      price: "700lei",
-      duration: "90min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima/e-motionsomaticrelease",
-    },
-       {
-      name: "Harmonic Focus",
-      summary: "Holistic Massage : Key Areas",
-      description:
-        [
-          "Harmonic Focus is a session inspired by the depth of Harmonic Reborn, focused on one or two areas of the body – Example: back, abdomen, jaw and head, legs or another area that we will establish together following a short initial conversation.",
-          "We allocate approximately 5 minutes for this discussion, and the rest for active therapy, personalized according to your needs at that moment. It is an adaptable, intuitive and attentive experience that honors what your body asks of you.",
-          "It is suitable for you if:",
-          "– you don't have time for a complete session, but you feel the need for real reconnection",
-          "– you are looking for maintenance between long sessions",
-          "– you feel localized discomfort and need a targeted approach",
-          "– you have a smaller budget, but want to receive a profound form of care",
-          "– you want to discover my style before experiencing a complete session",
-          "*After making a booking on the website, you will receive a message within 24 hours for payment of the 50% advance, if you do not have a subscription or gift card.",
-          "*Rescheduling or cancellations, regardless of reason, must be made at least 48 hours before the session. In case of rescheduling or cancellations less than 48 hours before, the session will be lost if you have a gift card or subscription, and for individual payments, the 50% advance will not be refunded.",
-        ],
-      isGroup: true,
-      price: "400lei",
-      duration: "60min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicfocus",
-    },
-    {
-      name: "Harmonic Reborn",
-      summary: "Holistic Massage : Whole Body",
-      description:
-        [
-          "A complete, complex and intuitive holistic massage based on well-founded principles and the accumulated experience with which I have evolved as a therapist and as a person over the years and to the present.",
-          "From the beginning of my career I understood that a healing touch is more than a technique in itself. A touch is healing when it has intention, a feeling of love and a state of consciousness. Moreover, I understood that intuition is the guide of my hands that can take the massage beyond the recipient's expectations.",
-          "Besides that, over time I learned to listen to everything the client tells me, everything the client cannot put into words, everything I feel through my hands and to adapt everything I do according to the information I receive in this way.",
-          "(*) Depending on the client's needs and preferences, or when I consider it most beneficial for the recipient's health and well‑being, Harmonic Reborn may use a wide range of holistic methods and techniques from different traditions such as: Thai, myofascial, Deep Tissue, Lomi Lomi (Hawaiian), Yumeiho, Shiatsu, Ashiatsu, CranioSacral Therapy, Reflexology, Swedish, shamanic instruments, Sacred Pedi Puja, Chavutti Thirumal, barefoot techniques, Lymphatic Drainage, Breathwork, Aromatherapy, Acupressure, Facial, Intraoral Facial, Tibetan Bowls, Stretching, etc.",
-          "*After making a booking on the website, you will receive a message within 24 hours for payment of the 50% advance, if you do not have a subscription or gift card.",
-          "*Rescheduling or cancellations, regardless of reason, must be made at least 48 hours before the session. In case of rescheduling or cancellations less than 48 hours before, the session will be lost if you have a gift card or subscription, and for individual payments, the 50% advance will not be refunded.",
-        ],
-      isGroup: true,
-      price: "700lei",
-      duration: "120min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicreborn",
-    },
-    {
-  name: "Harmonic Flow",
-  summary: "Holistic massage : Whole Body",
+{
+  name: "ARRIVE",
+  summary: "Bodywork • One Key Area",
   description:
     [
-      "Harmonic Reborn Flow is an advanced holistic massage where technique and intuition come together in a fluid, continuous and guided process.",
-      "It is designed for people who are already connected with their body and can easily enter a state of relaxation, openness and trust, allowing themselves to let go and be guided through the experience.",
-      "Unlike other holistic massages such as Harmonic Reborn, where the focus is on specific needs of the body, this session allows the body to enter a continuous flow, where techniques naturally connect and the work becomes more fluid, creative and expressive.",
-      "The session combines deep tissue, fascia work, mobilization, stretching, flow and intuitive touch, all integrated in a natural rhythm and adapted in real time based on what the body allows and needs.",
-      "This session is suitable for people who have previous experience with bodywork, for those who can relax and trust the process, for those who want to experience the art of massage, and for those open to a more dynamic, fluid and integrative approach.",
-      "Harmonic Reborn Flow is less about a fixed structure and more about flow, allowing a wider range of techniques and more advanced work, creating a continuous experience without interruptions, where therapeutic depth meets a refined sensory experience.",
-      "Possible benefits include deep relaxation, nervous system regulation, improved mobility, release of physical tension, reconnection with the body and sensations, and access to states of presence and flow.",
-      "*Each session includes a short initial conversation to understand your needs and current state. This time is included in the total duration of the session.",
-      "*After booking through the website, you will receive a message within 24 hours to complete a 50% advance payment, unless you already have a subscription or gift card.",
-      "*Rescheduling or cancellations must be made at least 48 hours in advance. Otherwise, the advance payment will not be refunded or the session will be considered used.",
-      "*This session is not recommended as a first experience for people with high levels of tension, rigidity, or no previous bodywork experience. In such cases, a Harmonic Reborn session is recommended first, to prepare the body for deeper work."
+      "ARRIVE is a focused bodywork session designed for those moments when your body needs attention, but your time is limited. During these 30 minutes, we concentrate on the area of your body that requires the most care and support.",
+
+      "The session begins with a brief conversation (approximately one minute) to understand how you are feeling and to identify the area we will focus on. This may include your back, neck, shoulders, lower back, abdomen, jaw, head, legs, or any other area that needs attention.",
+
+      "Using a variety of bodywork techniques, each session is fully adapted to your body's needs rather than following a rigid protocol.",
+
+      "ARRIVE is the perfect choice if you need focused relief, want to maintain the benefits of longer sessions, or would like to experience my approach before booking a more comprehensive treatment. It is also an excellent option for those who prefer regular maintenance sessions or are looking for a more accessible way to incorporate bodywork into their wellbeing routine.",
+
+      "*Each session includes a brief consultation to better understand your needs and establish the direction of the treatment. The advertised duration includes both this conversation and the hands-on bodywork session.",
+
+      "*After completing your online booking, you will receive a message within 24 hours with instructions for paying the 50% deposit, unless you are using a membership or gift card.",
+
+      "*Appointments may be rescheduled or cancelled up to 48 hours before the session. For cancellations or rescheduling requests made less than 48 hours in advance, the session will be deducted from your membership or gift card, or the 50% deposit will be retained for individual bookings.",
+    ],
+  isGroup: true,
+  price: "200lei",
+  duration: "30min",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/arrive",
+},
+{
+  name: "RECHARGE",
+  summary: "Bodywork • Two Key Areas",
+  description:
+    [
+      "RECHARGE is a 60-minute bodywork session designed to restore balance where your body needs it most. Depending on your individual needs, we typically work on two key areas of the body or one entire half of the body.",
+
+      "The session begins with a brief conversation to understand how you are feeling and to establish the focus of your treatment. Every session is fully personalised and adapted to your body rather than following a fixed protocol.",
+
+      "Through a combination of bodywork techniques, fascial work, acupressure and gentle mobilisations, the session helps reduce muscular tension, relax the nervous system and restore a greater sense of vitality and balance.",
+
+      "RECHARGE is ideal if you want to dedicate more time to your body without booking a full-body session. It is perfect for regular maintenance, recovery after demanding periods or for anyone looking to integrate bodywork into their ongoing wellbeing routine.",
+
+      "*Each session includes a brief consultation to better understand your needs and establish the direction of the treatment. The advertised duration includes both this conversation and the hands-on bodywork session.",
+
+      "*After completing your online booking, you will receive a message within 24 hours with instructions for paying the 50% deposit, unless you are using a membership or gift card.",
+
+      "*Appointments may be rescheduled or cancelled up to 48 hours before the session. For cancellations or rescheduling requests made less than 48 hours in advance, the session will be deducted from your membership or gift card, or the 50% deposit will be retained for individual bookings.",
+    ],
+  isGroup: true,
+  price: "400lei",
+  duration: "60min",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/recharge",
+},
+{
+  name: "FLOW",
+  summary: "Bodywork • Full Body",
+  description:
+    [
+      "FLOW is a bodywork experience where technique, intuition and presence merge into a fluid, continuous process guided entirely by your body's needs. It is designed for those seeking more than relaxation and who are ready to surrender to the natural rhythm of the session.",
+
+      "The session begins with a brief conversation to understand how you are feeling and to tailor the experience to your body. Every session is unique and intuitively guided rather than following a fixed protocol, allowing your body to lead the process.",
+
+      "Throughout the 90-minute session, we work on the entire body using an integrated combination of bodywork techniques, fascial work, deep tissue therapy, joint mobilisations, stretching and intuitive touch. The movements flow naturally from one to another, creating a seamless, expressive and deeply restorative experience.",
+
+      "FLOW is recommended for those who have previously experienced bodywork or who are looking for an authentic, dynamic and integrative approach. It is ideal for improving mobility, freedom of movement, flexibility and developing a deeper connection with your body.",
+
+      "Benefits may include reduced muscular tension, improved mobility and posture, nervous system regulation, enhanced body awareness and a profound sense of presence and flow.",
+
+      "*Each session includes a brief consultation to better understand your needs and establish the direction of the treatment. The advertised duration includes both this conversation and the hands-on bodywork session.",
+
+      "*After completing your online booking, you will receive a message within 24 hours with instructions for paying the 50% deposit, unless you are using a membership or gift card.",
+
+      "*Appointments may be rescheduled or cancelled up to 48 hours before the session. For cancellations or rescheduling requests made less than 48 hours in advance, the session will be deducted from your membership or gift card, or the 50% deposit will be retained for individual bookings.",
+    ],
+  isGroup: true,
+  price: "600lei",
+  duration: "90min",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/flow",
+},
+{
+  name: "MATERNITY",
+  summary: "Bodywork • Prenatal Care",
+  description:
+    [
+      "MATERNITY is a prenatal bodywork experience specially designed to support a mother's physical and emotional wellbeing throughout pregnancy. Every session is carefully adapted to your stage of pregnancy and your body's unique needs, offering a safe space for relaxation, connection and care.",
+
+      "The session begins with a brief conversation to understand how you are feeling and to tailor the treatment to the changes your body is experiencing. Positioning, techniques and pace are thoughtfully adjusted to maximise both comfort and safety.",
+
+      "During this 90-minute session, we work on the entire body using gentle bodywork techniques, light mobilisations and mindful touch to reduce muscular tension, improve circulation and encourage deep relaxation and balance.",
+
+      "MATERNITY is recommended for expectant mothers who wish to slow down, relieve physical discomfort and support their body throughout this unique and transformative journey.",
+
+      "Benefits may include reduced back and pelvic discomfort, decreased muscular tension, improved circulation, nervous system relaxation and a deeper connection with both your body and your baby.",
+
+      "*Each session includes a brief consultation to better understand your needs and establish the direction of the treatment. The advertised duration includes both this conversation and the hands-on bodywork session.",
+
+      "*After completing your online booking, you will receive a message within 24 hours with instructions for paying the 50% deposit, unless you are using a membership or gift card.",
+
+      "*Appointments may be rescheduled or cancelled up to 48 hours before the session. For cancellations or rescheduling requests made less than 48 hours in advance, the session will be deducted from your membership or gift card, or the 50% deposit will be retained for individual bookings.",
+    ],
+  isGroup: true,
+  price: "600lei",
+  duration: "90min",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/maternity",
+},
+{
+  name: "REGULATE",
+  summary: "Bodywork • Full Body",
+  description:
+    [
+      "REGULATE is a bodywork experience created to support nervous system regulation and restore balance between body and mind. It is designed for those living under constant pressure, experiencing stress, fatigue or persistent tension, and who feel the need to slow down.",
+
+      "The session begins with a brief conversation to understand your current state and tailor the experience to your body's needs. Every session is fully personalised and intuitively guided rather than following a rigid protocol.",
+
+      "Throughout the 90-minute session, we work on the entire body using bodywork techniques, fascial work, acupressure, gentle mobilisations and mindful touch. The intention is not only to release muscular tension but also to create the conditions that allow the nervous system to shift from survival mode back into a natural state of regulation and balance.",
+
+      "REGULATE is recommended for people experiencing chronic stress, physical or mental overload, sleep disturbances, persistent muscular tension or for anyone wishing to integrate bodywork into a consistent wellbeing routine.",
+
+      "Benefits may include deep relaxation, reduced muscular tension, nervous system regulation, improved body awareness and support for the body's natural ability to restore balance.",
+
+      "*Each session includes a brief consultation to better understand your needs and establish the direction of the treatment. The advertised duration includes both this conversation and the hands-on bodywork session.",
+
+      "*After completing your online booking, you will receive a message within 24 hours with instructions for paying the 50% deposit, unless you are using a membership or gift card.",
+
+      "*Appointments may be rescheduled or cancelled up to 48 hours before the session. For cancellations or rescheduling requests made less than 48 hours in advance, the session will be deducted from your membership or gift card, or the 50% deposit will be retained for individual bookings.",
+    ],
+  isGroup: true,
+  price: "600lei",
+  duration: "90min",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/regulate",
+},
+{
+  name: "RELEASE",
+  summary: "Somatic Therapy • Full Body",
+  description:
+    [
+      "RELEASE is the Somatic Therapy experience within the Tiberiu Bozi Method, created for those who wish to explore the profound connection between the body, the nervous system and life experiences. Beyond relaxation, this session provides a safe space where the body can activate its own natural self-regulation mechanisms.",
+
+      "The session begins with a conversation to better understand your current state, your intention for the session and your personal goals. Every experience is fully personalised and guided by your body's responses rather than a fixed protocol.",
+
+      "Depending on your individual needs, the session may include exercises inspired by Trauma Release Exercises (TRE®), conscious breathing, mindful movement, gentle stretching, acupressure and other somatic approaches that support the body's natural ability to reduce accumulated tension and restore balance.",
+
+      "In some cases, the body may respond with spontaneous shaking or neurogenic tremors. This is a natural physiological response of the nervous system, also observed in approaches such as Trauma Release Exercises (TRE®), through which the body may reduce stored tension and support its own self-regulation processes.",
+
+      "RELEASE is recommended for individuals experiencing chronic stress, emotional overload, persistent physical tension, difficulty relaxing or anyone seeking a deeper exploration of the relationship between body, emotions and the nervous system.",
+
+      "Benefits may include nervous system regulation, reduced physical and emotional tension, increased body awareness, a greater sense of presence and support for the body's natural capacity to restore balance.",
+
+      "*Each session includes an initial consultation dedicated to understanding your needs, your current state and your goals for the session. During your first appointment, this conversation may last up to approximately 30 minutes to allow for a deeper holistic assessment (physical, emotional and energetic), if desired. Follow-up sessions generally include a shorter consultation (10–15 minutes). The advertised duration includes both the consultation and the hands-on therapeutic work.",
+
+      "*After completing your online booking, you will receive a message within 24 hours with instructions for paying the 50% deposit, unless you are using a membership or gift card.",
+
+      "*Appointments may be rescheduled or cancelled up to 48 hours before the session. For cancellations or rescheduling requests made less than 48 hours in advance, the session will be deducted from your membership or gift card, or the 50% deposit will be retained for individual bookings.",
+    ],
+  isGroup: true,
+  price: "600lei",
+  duration: "90min",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/e-motionsomaticrelease",
+},
+{
+  name: "RITUAL",
+  summary: "Bodywork • Full Body",
+  description:
+    [
+      "RITUAL is a bodywork experience inspired by Hawaiian traditions, where long, flowing and continuous movements transform the session into a true ritual of relaxation and reconnection. Unlike the other bodywork experiences, this session uses a more generous amount of oil, allowing seamless movements across the entire body.",
+
+      "The session begins with a brief conversation to understand how you are feeling and to personalise the experience according to your needs. Every session is intuitive, unique and free from rigid protocols.",
+
+      "Throughout the 90-minute experience, techniques are performed using the hands, forearms and occasionally the elbows, creating slow, rhythmic and continuous movements. This distinctive style often creates the sensation of being gently embraced, inviting both the body and nervous system into a profound state of relaxation and presence.",
+
+      "RITUAL is recommended for those who wish to slow down, disconnect from everyday demands and dedicate time to themselves. It is ideal for anyone who appreciates mindful touch, fluid movement and the transformative power of intentional self-care.",
+
+      "Benefits may include deep relaxation, reduced stress and muscular tension, improved circulation, nervous system regulation and a lasting sense of calm, presence and inner balance.",
+
+      "*Each session includes a brief consultation to better understand your needs and establish the direction of the treatment. The advertised duration includes both this conversation and the hands-on bodywork session.",
+
+      "*After completing your online booking, you will receive a message within 24 hours with instructions for paying the 50% deposit, unless you are using a membership or gift card.",
+
+      "*Appointments may be rescheduled or cancelled up to 48 hours before the session. For cancellations or rescheduling requests made less than 48 hours in advance, the session will be deducted from your membership or gift card, or the 50% deposit will be retained for individual bookings.",
+    ],
+  isGroup: true,
+  price: "600lei",
+  duration: "90min",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicritual",
+},
+{
+  name: "REBORN",
+  summary: "Signature Bodywork",
+  description:
+    [
+      "REBORN is the signature experience of the Tiberiu Bozi Method and represents the most complete bodywork session I offer. The 120-minute format allows every stage of the experience to unfold naturally, respecting your body's own rhythm without feeling rushed.",
+
+      "The session begins with a conversation dedicated to understanding your current state and your body's needs. Every experience is intuitively designed rather than following a fixed protocol, allowing techniques and rhythm to adapt continuously to your body's responses.",
+
+      "Throughout the session we work on the entire body using an integrative approach that may include bodywork techniques, fascial work, joint mobilisations, stretching, acupressure and intuitive touch. The extended duration allows deeper exploration of areas requiring more attention while preserving the fluidity of the overall experience.",
+
+      "REBORN is recommended for those seeking the complete Tiberiu Bozi Method, whether as a first experience or as part of an ongoing wellbeing journey.",
+
+      "Benefits may include deep relaxation, reduced muscular tension, improved mobility, nervous system regulation, enhanced body awareness and a profound sense of balance, vitality and reconnection.",
+
+      "*Each session includes a brief consultation to better understand your needs and establish the direction of the treatment. The advertised duration includes both this conversation and the hands-on bodywork session.",
+
+      "*After completing your online booking, you will receive a message within 24 hours with instructions for paying the 50% deposit, unless you are using a membership or gift card.",
+
+      "*Appointments may be rescheduled or cancelled up to 48 hours before the session. For cancellations or rescheduling requests made less than 48 hours in advance, the session will be deducted from your membership or gift card, or the 50% deposit will be retained for individual bookings.",
     ],
   isGroup: true,
   price: "700lei",
   duration: "120min",
-  reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicflow",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicreborn",
 },
-    {
-      name: "Harmonic Maternity Bliss",
-      summary: "Holistic Massage : Dedicated to Pregnant Women",
-      description:
-        [
-          "A holistic massage, created especially for expectant mothers who want a moment of deep relaxation, comfort and inner connection. This massage uses various techniques that are specially adapted to support the physical and emotional comfort of both mother and baby.",
-          "Each movement is designed to reduce muscle tension, improve circulation and provide a sense of relief in areas that experience the greatest pressure during pregnancy.",
-          "Benefits:",
-          "- Deep relaxation and stress reduction.",
-          "- Relief of tension in back, hips and legs.",
-          "- Supporting circulation and reducing edema.",
-          "- Emotional connection with the baby.",
-          "- Creating a balance between body, mind and soul.",
-          "Book yourself and offer yourself a unique experience, created especially for you and for this magical journey.",
-          "*After making a booking on the website, you will receive a message within 24 hours for payment of the 50% advance, if you do not have a subscription or gift card.",
-          "*Rescheduling or cancellations, regardless of reason, must be made at least 48 hours before the session. In case of rescheduling or cancellations less than 48 hours before, the session will be lost if you have a gift card or subscription, and for individual payments, the 50% advance will not be refunded.",
-        ],
-      isGroup: true,
-      price: "700lei",
-      duration: "120min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicmaternitybliss",
-    },
-    {
-      name: "Harmonic Union",
-      summary: "Holistic Massage : Dedicated to Couples",
-      description:
-        [
-          "Discover the Balance of Masculine and Feminine Energies in Couples",
-          "Offered by two remarkable therapists: Tiberiu and Delia who present Harmonic Union, the couples massage package, created especially to bring harmony and balance between masculine and feminine.",
-          "Harmonic Union is a transformative experience that offers simultaneous massage for both partners, in an atmosphere of deep relaxation and connection.",
-          "Tiberiu, with his unique energy and passion for healing, will work to relax and revitalize the man's body. His holistic approach ensures the balance and harmonization of all body systems.",
-          "Delia, known for her sensitivity and dedication, will offer the woman a complete and complex massage, focusing on energetic balance and releasing accumulated tensions.",
-          "Benefits of the Harmonic Union Package",
-          "Balancing Masculine and Feminine Energy - This package is ideal for couples who want to balance their yin and yang energies, promoting a deeper and more harmonious connection between partners.",
-          "Harmonization of Body, Mind and Soul - The massages are designed to bring balance and harmony to all aspects of your being, offering a holistic and complete healing experience.",
-          "Transformation and Deep Connection - The treatments offered by Tiberiu and Delia are not just massages, but transformative experiences that will help you connect more deeply with each other and heal on physical, emotional and spiritual levels.",
-          "Book your place now to experience this unique session of balancing and harmonizing energies as a couple.",
-          "*Bookings made through the reservation system may be subject to changes depending on three essential factors: the availability of Tiberiu, Delia and the space where the therapy takes place. We assure you that, in case of adjustments, we will inform you as soon as possible and do our best to find the most suitable solution.",
-          "*After making a booking on the website, you will receive a message within 24 hours for payment of the 50% advance, if you do not have a subscription or gift card.",
-          "*Rescheduling or cancellations, regardless of reason, must be made at least 48 hours before the session. In case of rescheduling or cancellations less than 48 hours before, the session will be lost if you have a gift card or subscription, and for individual payments, the 50% advance will not be refunded.",
-        ],
-      isGroup: true,
-      price: "1100lei",
-      duration: "100min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicritual-dgn6r",
-    },
-    {
-      name: "Harmonic Cocoon",
-      summary: "Holistic Massage for Parent + Play for Children",
-      description:
-        [
-          "Harmonic Cocoon is a unique experience, dedicated to parents who need relaxation but don't always have somewhere to leave their children. While the parent receives a deep 90-minute massage offered by Tiberiu, the children enjoy Delia's attention and presence in a safe and creative space.",
-          "Delia creates a small play universe — drawing, puzzles, stories and activities adapted to the child's age — so that the little ones are in an environment full of joy, and you can relax completely.",
-          "This therapy is an invitation to balance, offering the parent a moment of respite and the child a warm and educational experience, in an atmosphere that breathes harmony and safety.",
-          "How does it work?",
-          "• For the parent – A personalized holistic massage, meant to relax the body, regenerate the nervous system and bring a deep state of inner peace.",
-          "• For children – Gentle play activities, creative and suitable for their age, carried out in a safe and relaxing environment, under Delia's careful supervision.",
-          "This experience offers a double state of well-being:",
-          "✅ Relaxation and reconnection for the parent",
-          "✅ Play, curiosity and confidence for children",
-          "What ages is it recommended for?",
-          "• Children between 3 and 10 years old can participate in play and relaxation activities.",
-          "• For children younger than 3 years old, a preliminary discussion is recommended to adapt the duration and type of activities.",
-          "Benefits for parents:",
-          "✔ An authentic moment of relaxation and physical and emotional regeneration",
-          "✔ The security that the little ones are nearby and in a caring environment",
-          "✔ A therapeutic experience without worries or interruptions",
-          "Benefits for children:",
-          "✔ Activities that stimulate creativity and relaxation",
-          "✔ Connection through presence, attention and gentle play",
-          "✔ A warm and safe environment, full of positive energy",
-          "The team that offers this experience:",
-          "Harmonic Cocoon therapy is offered by Tiberiu & Delia – Tiberiu, through the art of holistic massage, creates a state of deep relaxation for the parent, while Delia transforms the child's time into a playful experience, full of harmony.",
-          "A win-win experience for parents and children — relaxation for you, play for them.",
-          "*Bookings made through the reservation system may be subject to changes depending on the availability of Tiberiu, Delia and the Harmonia Terra space. In case of adjustments, you will be contacted to find the most suitable option.",
-          "*After making a booking on the website, you will receive a message within 24 hours for payment of the 50% advance, if you do not have a subscription or gift card.",
-          "*Rescheduling or cancellations, regardless of reason, must be made at least 48 hours before the session. In case of rescheduling or cancellations less than 48 hours before, the session will be lost if you have a gift card or subscription, and for individual payments, the 50% advance will not be refunded.",
-        ],
-      isGroup: true,
-      price: "900lei",
-      duration: "90min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmoniccocoon",
-    },
-    {
-      name: "Harmonic Nest",
-      summary: "Holistic Massage : Parent & Child",
-      description:
-        [
-          "This unique experience offers the parent the possibility to enjoy a deeply relaxing massage, while their child receives their own massage adapted to their needs, either in the same room or separately, depending on preferences.",
-          "In a world where time for oneself is increasingly rare, Harmonic Nest creates a sanctuary where parents no longer have to choose between personal relaxation and caring for their child. Whether it's about a parent raising their child alone and having no one to leave them with, or simply the desire to spend a good moment together, this therapy is an invitation to balance and connection.",
-          "How does it work?",
-          "• For the parent – A personalized holistic massage, meant to eliminate tensions, restore body balance and bring a deep state of relaxation.",
-          "• For the child – An experience adapted to their age and needs, with gentle movements, relaxing techniques and a safe environment, where they will feel protected and comfortable.",
-          "The massage can take place:",
-          "✅ In the same room, for a feeling of closeness and safety",
-          "✅ In separate rooms, for deeper relaxation, if privacy is preferred",
-          "What ages is it recommended for?",
-          "• Children between 5 and 15 years old can benefit from complete massage sessions.",
-          "• For children under 5 years old, the session can be shorter, adapted to their rhythm and attention.",
-          "A unique experience for parents who:",
-          "✔ Need a moment of respite, but want to be with their child",
-          "✔ Want to create a deeper connection through touch and relaxation",
-          "✔ Want to introduce their child to an environment of balance and wellness",
-          "✔ Want to offer their children a calming experience, especially during periods of stress or agitation",
-          "The team that offers you this experience:",
-          "This therapy is offered by Tiberiu & Delia, each working dedicated with one of you, so that both – parent and child – receive the attention and care you need.",
-          "Transform an ordinary moment into a memorable experience!",
-          "*Bookings made through the reservation system may be subject to changes depending on three essential factors: the availability of Tiberiu, Delia and the space where the therapy takes place. We assure you that, in case of adjustments, we will inform you as soon as possible and will do our best to find the most suitable solution.",
-          "*After making a booking on the website, you will receive a message within 24 hours for payment of the 50% advance, if you do not have a subscription or gift card.",
-          "*Rescheduling or cancellations, regardless of reason, must be made at least 48 hours before the session. In case of rescheduling or cancellations less than 48 hours before, the session will be lost if you have a gift card or subscription, and for individual payments, the 50% advance will not be refunded.",
-        ],
-      isGroup: true,
-      price: "900lei",
-      duration: "90min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicnest",
-    },
-    { name: "Harmonic²", summary: "4-Hand Massage : Whole Body", description: [
-          "Experience Supreme Harmony with Harmonic²",
-          "If you have had the pleasure of experiencing the innovative massages offered by Tiberiu and Delia, Harmonic² will bring you a new dimension of relaxation and inner balance. If you haven't yet had the opportunity to discover their services, we will reveal what makes this four-hand massage so special.
-          ",
-          "About Our Therapists:",
-          "Tiberiu is the creator of unique holistic services such as (E) Motion Somatic Release and Harmonic Reborn. These therapies combine various techniques and innovative methods to bring harmony on physical, psycho-emotional and spiritual levels. In the Harmonic² session, Tiberiu focuses on somatic releases, penetrating deep into the emotional and tense layers of the body, to eliminate stress and restore inner balance.",
-          "Delia, with vast experience in alternative therapies, began her journey over 7 years ago at the renowned Loi Kroh Traditional Thai Massage School in Chiang Mai. Here she completed an intensive program, becoming a Thai massage practitioner. Fascinated by the properties of essential oils, Delia deepened her knowledge in aromatherapy and developed special skills in providing treatments that promote well-being and deep relaxation. Today, Delia combines various techniques and instruments to bring balance and harmony to the entire human organism.",
-          "What Is Harmonic²?",
-          "Harmonic² is a special massage experience in which Tiberiu and Delia collaborate perfectly to offer a 90-minute session with techniques from the Harmonic Reborn and Harmonic Fusion range.",
-          "Unique Characteristics of Four-Hand Massage:",
-          "Synchronized Coverage: Tiberiu and Delia work simultaneously to ensure complete and uniform coverage of the entire body.",
-          "Coordinated Movements: Through synchronized movements, the therapists amplify the sensations of relaxation and stimulation, offering you a multidimensional experience.",
-          "Nervous System Stimulation: Contributes to mental relaxation and mood improvement.",
-          "Allow yourself to discover Harmonic², a massage that reflects the expertise and dedication of Tiberiu and Delia, and transform your well-being into a perfect holistic experience.",
-          "Book now and let yourself be pampered by the perfect harmony of four-hand massage!",
-          "*Bookings made through the reservation system may be subject to changes depending on three essential factors: the availability of Tiberiu, Delia and the space where the therapy takes place. We assure you that, in case of adjustments, we will inform you as soon as possible and will do our best to find the most suitable solution.",
-          "*After making a booking on the website, you will receive a message within 24 hours for payment of the 50% advance, if you do not have a subscription or gift card.",
-          "*Rescheduling or cancellations, regardless of reason, must be made at least 48 hours before the session. In case of rescheduling or cancellations less than 48 hours before, the session will be lost if you have a gift card or subscription, and for individual payments, the 50% advance will not be refunded.",
-        ], isGroup: true, price: "900lei", duration: "90min", reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonic4hands" },
-    {
-      name: "Harmonic Recharge",
-      summary: "Holistic Massage : Whole Body",
-      description:
-        [
-          "A massage therapy whose philosophy is based on performing operations with high specificity for each client, with great emphasis on the quality of touch.",
-          "To bring the client the physical, mental and emotional well-being they need, the techniques of this therapy come from the following types of massage: Deep Tissue, Shiatsu, Swedish, CranioSacral Therapy and classic Reflexotherapy.",
-          "Deep Tissue aims to restore mobility and release tension throughout the body, having as its main target the muscle mass, joints, tendons and connective tissue (fascia).",
-          "Shiatsu is a form of massage that has its origin in Japan, which is based on elements of Western therapies and pressure on energy meridian pathways taken from traditional Chinese medicine.",
-          "Swedish is one of the most known and practiced massage therapies that offers a pleasant experience of physical and mental relaxation.",
-          'CranioSacral Therapy, also called "SomatoEmotional Release Therapy", is the treatment that connects tensions in the cranial sutures, cerebrospinal fluid dynamics, the client''s migraine patterns and the very fine touch of the therapist.',
-          "Reflexotherapy is a special digital massage technique based on the principle that there are certain areas and points, in the soles and palms, that are connected through the nervous system to different corresponding parts of the body.",
-          "*After making a booking on the website, you will receive a message within 24 hours for payment of the 50% advance, if you do not have a subscription or gift card.",
-          "*Rescheduling or cancellations, regardless of reason, must be made at least 48 hours before the session. In case of rescheduling or cancellations less than 48 hours before, the session will be lost if you have a gift card or subscription, and for individual payments, the 50% advance will not be refunded.",
-        ],
-      isGroup: true,
-      price: "700lei",
-      duration: "120min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicrecharge",
-    },
-    {
-      name: "Harmonic Ritual",
-      summary: "Holistic Massage : Whole Body",
-      description:
-        [
-          "Harmonic Ritual, also called 'The Therapy of Loving Hands', has Hawaiian roots and is performed using palms, forearms as well as elbows, being possible to execute simultaneously on two extended parts of the body, creating the feeling of embrace. These movements make the body completely relax, be in a state of liberation and create harmony between the physical, mental and spiritual parts.",
-          "The purpose of this therapy is to celebrate and heal your entire being by acting harmoniously on all its systems.",
-          "For this ritual to have beneficial results, it is important that the relationship between therapist and client be as open as possible. The therapist will not limit themselves only to the state of the body, but will also consider the other parts (mental, emotional, spiritual) that relate to the client's health. This will help the therapist realize what resources the client has or what dysfunctions may hinder them in the healing process.",
-          "*After making a booking on the website, you will receive a message within 24 hours for payment of the 50% advance, if you do not have a subscription or gift card.",
-          "*Rescheduling or cancellations, regardless of reason, must be made at least 48 hours before the session. In case of rescheduling or cancellations less than 48 hours before, the session will be lost if you have a gift card or subscription, and for individual payments, the 50% advance will not be refunded.",
-        ],
-      price: "600lei",
-      duration: "75min",
-      reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicritual",
-    },
-  {
-      name: "Holistic Massage Membership",
-      summary: "Package : 6 Sessions : Harmonic Reborn",
-      description:
-        [
-          "Membership Details:",
-          "- Number of sessions: 6 Holistic Massage – Harmonic Reborn sessions",
-          "- Discount: Benefit from a 20% discount off the total service price, bringing the final price to 3360lei (instead of 4200lei).",
-          "- Scheduling Frequency: Sessions can be scheduled flexibly according to your preferences and needs. However, for continuity of the therapeutic process and optimal results, our recommendation is to book sessions once every two weeks.",
-          "- Validity: The membership is valid for 3 months from the date of purchase.",
-          "- Payment: The full membership amount (3360 lei) must be paid in full before the first appointment.",
-          "Choose the Harmonic Reborn Membership to enjoy unique sessions at a reduced price, with flexibility adapted to your needs. This membership allows you to experience holistic massage in a calm and exclusive setting, offering the opportunity to reach a deeper balance between body, mind, and soul.",
-          "Limited Availability: Only 3 Harmonic Reborn memberships are available each month, so we recommend reserving your spot as soon as possible to benefit from this package.",
-          "Contact me now for more details and to purchase this beneficial membership.",
-          "*After booking through the website, you will receive a message within 24 hours regarding the payment of a 50% deposit, unless you already own a membership or gift card.",
-          "*Rescheduling or cancellations, regardless of the reason, must be made at least 48 hours before the session. In the case of cancellations or rescheduling made less than 48 hours before the appointment, the session will be lost if you own a gift card or membership, and for individual payments, the 50% deposit will not be refunded.",
-        ],
-      price: "3360lei",
-      duration: "6 x 120min",
-      reserveLink: "https://wa.link/7wb9rk",
-    },
-     {
-  name: "Harmonic Prime",
-  summary: "Holistic Massage : Full Body",
-  description: [
-    "A 3-hour holistic session created for those who desire an extended bodywork experience, held in a space of presence, safety, and integration.",
-    "This session is inspired by the Harmonic Reborn philosophy and expands the process into a more spacious rhythm, offering sufficient time to work deeply across multiple layers: physical, fascial, emotional, and energetic.",
-    "During the session, the following may be integrated, depending on your needs and what reveals itself in the moment:",
-    "- fascial and myofascial techniques",
-    "- holistic massage techniques with and without oil",
-    "- deep tissue work",
-    "- joint mobilization and stretching",
-    "- nervous system regulation elements",
-    "- moments of integration and stillness",
-    "Harmonic Prime is especially dedicated to:",
-    "- people with busy schedules who attend therapy less frequently",
-    "- those who want a longer, complete, and integrative session",
-    "- people living abroad who visit occasionally and want to benefit from an extensive session",
-    "- those who feel the need for a deep reset",
-    "This session is not designed to be done weekly.",
-    "The recommended frequency is occasional or approximately once a month, depending on individual needs.",
-    "*Each session includes a short initial conversation dedicated to understanding your needs, your current state, and your goals for the session. During the first meeting, this conversation may last up to approximately 30 minutes, allowing for deeper connection and a holistic assessment (physical, emotional, and energetic), if desired. In subsequent sessions, this moment is usually shorter (10–15 minutes). The displayed duration of the service includes both the initial conversation and the actual bodywork time.",
-    "*After completing your booking on the website, you will receive a message within 24 hours regarding the payment of a 50% deposit, if you do not hold a subscription or gift card.",
-    "*Rescheduling or cancellations, regardless of the reason, must be made at least 48 hours before the session. In the case of rescheduling or cancellations made less than 48 hours in advance, the session will be forfeited if you hold a gift card or subscription, and for individual payments, the 50% deposit will not be refunded."
-  ],
+{
+  name: "ARRIVE Membership • 20% OFF",
+  summary: "2 Sessions / Week",
+  description:
+    [
+      "ARRIVE Membership is designed for those who want to make bodywork part of their weekly routine. Through focused 30-minute sessions, you can regularly care for a key area of your body and help prevent the build-up of tension before it becomes discomfort.",
+
+      "Membership Details:",
+
+      "- 6 ARRIVE sessions (30 minutes each).",
+
+      "- Save 20% compared to booking individual sessions. Membership price: 960 lei (instead of 1200 lei).",
+
+      "- Recommended frequency: 2 sessions per week.",
+
+      "- Valid for 4 weeks from the date of purchase.",
+
+      "- Full payment is required before your first appointment.",
+
+      "ARRIVE Membership is ideal for regular maintenance, prevention and anyone looking for an accessible way to integrate bodywork into their lifestyle.",
+
+      "*Appointments may be rescheduled with at least 48 hours' notice.",
+
+      "*Unused sessions cannot be carried over after the membership expires.",
+    ],
   isGroup: true,
-  price: "1100 RON",
-  duration: "3 hours",
-  reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicascension",
+  price: "960lei",
+  duration: "6 x 30min",
+  reserveLink: "https://wa.link/7wb9rk",
 },
-    {
-      name: "Harmonic Alignment",
-      summary: "Holistic Package : Whole Body",
-      description:
-        [
-          "A unique package, created to bring the body and mind into a deep state of balance and harmony.",
-          "✨ Zyto Scan (60 min) – a subtle diagnosis of the body, which analyzes energy, functional, emotional and mental levels, to discover exactly where imbalances exist.",
-          "✨ Symphony of Cells (30 min) – systematic application of essential oils, directed based on the diagnosis, to support healing and body realignment.",
-          "✨ Harmonic Reborn (90 min) – holistic massage adapted to your needs, which brings the body into homeostasis and releases deep tensions.",
-          "🌿 The three stages naturally complement each other, creating a personalized, intense and transformative experience that helps you benefit to the maximum exactly where your body and mind need it.",
-          "*After making a booking on the website, you will receive a message within 24 hours for payment of the 50% advance, if you do not have a subscription or gift card.",
-          "*Rescheduling or cancellations, regardless of reason, must be made at least 48 hours before the session. In case of rescheduling or cancellations less than 48 hours before, the session will be lost if you have a gift card or subscription, and for individual payments, the 50% advance will not be refunded.",
-        ],
-      isGroup: true,
-      price: "1100lei",
-      duration: "3h",
-      reserveLink: "https://wa.link/4hj55q",
-    },
-    {
+{
+  name: "RECHARGE Membership • 20% OFF",
+  summary: "1 Session / Week",
+  description:
+    [
+      "RECHARGE Membership is designed for those who want to maintain their physical wellbeing through regular bodywork sessions. It offers the ideal balance between consistency and flexibility, helping you restore energy and prevent the accumulation of tension.",
+
+      "Membership Details:",
+
+      "- 6 RECHARGE sessions (60 minutes each).",
+
+      "- Save 20% compared to booking individual sessions. Membership price: 1920 lei (instead of 2400 lei).",
+
+      "- Recommended frequency: 1 session per week.",
+
+      "- Valid for 6 weeks from the date of purchase.",
+
+      "- Full payment is required before your first appointment.",
+
+      "RECHARGE Membership is perfect for those who wish to maintain their body, improve recovery and make bodywork part of their weekly wellbeing routine.",
+
+      "*Appointments may be rescheduled with at least 48 hours' notice.",
+
+      "*Unused sessions cannot be carried over after the membership expires.",
+    ],
+  isGroup: true,
+  price: "1920lei",
+  duration: "6 x 60min",
+  reserveLink: "https://wa.link/7wb9rk",
+},
+{
+  name: "FLOW Membership • 20% OFF",
+  summary: "1 Session / Week",
+  description:
+    [
+      "FLOW Membership gives you the flexibility to choose the 90-minute experience that best matches your body's needs each week. Whether you seek mobility, nervous system regulation, deep relaxation or somatic exploration, your sessions can evolve together with you.",
+
+      "Membership Details:",
+
+      "- 6 sessions (90 minutes each).",
+
+      "- You may choose between FLOW, REGULATE, RELEASE, RITUAL or MATERNITY for each appointment.",
+
+      "- Save 20% compared to booking individual sessions. Membership price: 2880 lei (instead of 3600 lei).",
+
+      "- Recommended frequency: 1 session per week.",
+
+      "- Valid for 8 weeks from the date of purchase.",
+
+      "- Full payment is required before your first appointment.",
+
+      "FLOW Membership is ideal for those who want the freedom to personalise every session while maintaining a consistent bodywork practice.",
+
+      "*Appointments may be rescheduled with at least 48 hours' notice.",
+
+      "*Unused sessions cannot be carried over after the membership expires.",
+    ],
+  isGroup: true,
+  price: "2880lei",
+  duration: "6 x 90min",
+  reserveLink: "https://wa.link/7wb9rk",
+},
+{
+  name: "REBORN Membership • 20% OFF",
+  summary: "1 Session Every 2 Weeks",
+  description:
+    [
+      "REBORN Membership is designed for those who wish to experience the complete Tiberiu Bozi Method on a consistent basis. It offers the deepest and most comprehensive bodywork experience while supporting a long-term journey of wellbeing and self-care.",
+
+      "Membership Details:",
+
+      "- 6 REBORN sessions (120 minutes each).",
+
+      "- Save 20% compared to booking individual sessions. Membership price: 3360 lei (instead of 4200 lei).",
+
+      "- Recommended frequency: 1 session every 2 weeks.",
+
+      "- Valid for 8 weeks from the date of purchase.",
+
+      "- Full payment is required before your first appointment.",
+
+      "REBORN Membership is the best choice for those committed to an ongoing process of recovery, regulation and reconnection through the complete Tiberiu Bozi Method.",
+
+      "*Appointments may be rescheduled with at least 48 hours' notice.",
+
+      "*Unused sessions cannot be carried over after the membership expires.",
+    ],
+  isGroup: true,
+  price: "3360lei",
+  duration: "6 x 120min",
+  reserveLink: "https://wa.link/7wb9rk",
+},
+{
+  name: "Harmonic Union",
+  summary: "Bodywork • Couples Experience",
+  description:
+    [
+      "Harmonic Union is a shared bodywork experience created for two people who wish to relax, reconnect and enjoy quality time together. Whether you are partners, close friends or family members, this experience offers the opportunity to slow down and care for yourselves side by side.",
+
+      "Each session begins with a brief conversation to understand your individual needs and tailor the experience for both participants. Two therapists work simultaneously, ensuring each person receives a personalised treatment while sharing the same peaceful atmosphere.",
+
+      "During the 100-minute session, both participants receive a full-body bodywork treatment using an integrative approach adapted to their individual needs. Although the experience is shared, every session remains unique and personalised.",
+
+      "Harmonic Union is ideal for couples celebrating a special occasion, anniversaries, birthdays or simply anyone wishing to enjoy a meaningful wellness experience together.",
+
+      "Benefits may include deep relaxation, reduced muscular tension, nervous system regulation and the opportunity to reconnect with yourself and each other in a calm and supportive environment.",
+
+      "*Each session includes a brief consultation before the treatment. The advertised duration includes both the consultation and the hands-on bodywork session.",
+
+      "*After completing your online booking, you will receive a message within 24 hours with instructions for paying the 50% deposit, unless you are using a membership or gift card.",
+
+      "*Appointments may be rescheduled or cancelled up to 48 hours before the session. For cancellations or rescheduling requests made less than 48 hours in advance, the 50% deposit will not be refunded.",
+    ],
+  isGroup: true,
+  price: "1100lei",
+  duration: "90min",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicunion",
+},
+{
+  name: "Harmonic Cocoon",
+  summary: "Family Experience • Parent & Child",
+  description:
+    [
+      "Harmonic Cocoon is a family wellbeing experience designed for one parent and one child. While the parent enjoys a personalised bodywork session, the child is gently guided through mindful play and creative activities in a safe and nurturing environment.",
+
+      "This experience allows parents to fully relax, knowing their child is cared for nearby. It transforms self-care into a family-friendly experience without the need for childcare arrangements.",
+
+      "Harmonic Cocoon is ideal for parents seeking quality time for themselves while introducing their children to a calm, welcoming and holistic environment.",
+
+      "Benefits include deep relaxation for the parent, emotional comfort for the child and a positive family experience centred around wellbeing.",
+
+      "*Please contact us before booking to confirm your child's age and discuss any specific needs.",
+
+      "*After completing your online booking, you will receive a message within 24 hours with instructions for paying the 50% deposit.",
+
+      "*Appointments may be rescheduled or cancelled up to 48 hours before the session.",
+    ],
+  isGroup: true,
+  price: "900lei",
+  duration: "90min",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmoniccocoon",
+},
+{
+  name: "Harmonic Nest",
+  summary: "Family Bodywork • Parent & Child",
+  description:
+    [
+      "Harmonic Nest is a shared bodywork experience created for one parent and one child to enjoy together. Through mindful touch, relaxation and connection, this session strengthens the bond between parent and child while introducing the younger participant to the benefits of bodywork in a gentle and playful way.",
+
+      "Each experience is adapted according to the child's age and individual needs, creating a safe, enjoyable and memorable session for both participants.",
+
+      "Harmonic Nest encourages emotional connection, trust and quality time while supporting relaxation and body awareness for both parent and child.",
+
+      "*Please contact us before booking to confirm your child's age and discuss any specific needs.",
+
+      "*After completing your online booking, you will receive a message within 24 hours with instructions for paying the 50% deposit.",
+
+      "*Appointments may be rescheduled or cancelled up to 48 hours before the session.",
+    ],
+  isGroup: true,
+  price: "900lei",
+  duration: "90min",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicnest",
+},
+{
+  name: "Harmonic²",
+  summary: "Four-Hand Bodywork • Full Body",
+  description:
+    [
+      "Harmonic² is an immersive four-hand bodywork experience performed simultaneously by two therapists. The synchronised movements create a unique sensory experience that allows the body and mind to surrender deeply into relaxation.",
+
+      "Working together, both therapists adapt the session intuitively to your needs while maintaining harmony and rhythm throughout the treatment.",
+
+      "This experience is ideal for those seeking profound relaxation, sensory immersion and a truly memorable bodywork session unlike any traditional massage.",
+
+      "Benefits may include deep muscular relaxation, nervous system regulation, enhanced body awareness and a lasting sense of calm and balance.",
+
+      "*Each session includes a brief consultation before the treatment.",
+
+      "*After completing your online booking, you will receive a message within 24 hours with instructions for paying the 50% deposit.",
+
+      "*Appointments may be rescheduled or cancelled up to 48 hours before the session.",
+    ],
+  isGroup: true,
+  price: "900lei",
+  duration: "90min",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonic2",
+},
+{
+  name: "Harmonic Alignment",
+  summary: "Holistic Experience • Full Body",
+  description:
+    [
+      "Harmonic Alignment is a comprehensive holistic experience that combines complementary therapeutic approaches into a personalised journey of wellbeing. Rather than focusing on a single technique, this experience is designed to explore the body from multiple perspectives and create the conditions for greater balance, awareness and vitality.",
+
+      "The session begins with an in-depth conversation to better understand your current physical, emotional and lifestyle needs. Based on this assessment, the experience is tailored specifically to you, allowing the session to evolve naturally according to your body's responses.",
+
+      "Depending on your needs, Harmonic Alignment may integrate bodywork, aromatherapy, breathing techniques, fascial work, mobility, acupressure, somatic practices and other holistic approaches available within the Tiberiu Bozi Method.",
+
+      "This experience is ideal for those looking for a personalised, integrative approach rather than a standard treatment. Every session is unique, offering the time and flexibility needed to address multiple aspects of wellbeing.",
+
+      "Benefits may include deep relaxation, nervous system regulation, improved mobility, increased body awareness and a greater sense of physical, emotional and mental balance.",
+
+      "*Each session includes an in-depth consultation. The advertised duration includes both the consultation and the therapeutic experience.",
+
+      "*After completing your online booking, you will receive a message within 24 hours with instructions for paying the 50% deposit, unless you are using a membership or gift card.",
+
+      "*Appointments may be rescheduled or cancelled up to 48 hours before the session. For cancellations or rescheduling requests made less than 48 hours in advance, the session will be deducted from your membership or gift card, or the 50% deposit will be retained for individual bookings.",
+    ],
+  isGroup: true,
+  price: "1100lei",
+  duration: "3h",
+  reserveLink: "https://wa.link/4hj55q",
+},
+{
+  name: "RESET TERRApy",
+  summary: "Holistic Program • Full Body",
+  description:
+    [
+      "RESET TERRApy is a multidisciplinary holistic experience created by the Harmonia Terra team for those seeking a complete reset of body and mind. By combining complementary therapies into one carefully designed journey, this program supports the body's natural ability to restore balance and vitality.",
+
+      "Each stage of the experience builds upon the previous one, creating a seamless and personalised therapeutic process. Every participant receives an approach tailored to their current needs.",
+
+      "The program may include bodywork, aromatherapy, wellness assessment, acupuncture and other complementary therapies delivered by multiple practitioners working together as one integrated team.",
+
+      "RESET TERRApy is ideal for those looking for more than a single therapy session. It offers a complete holistic experience where different therapeutic perspectives come together to support long-term wellbeing.",
+
+      "*Each therapy includes a short introductory consultation. The advertised duration includes both the consultation and the therapeutic experience.",
+
+      "*After completing your online booking, you will receive a message within 24 hours with instructions regarding the required 50% deposit.",
+
+      "*Appointments may be rescheduled or cancelled up to 48 hours before the session.",
+    ],
+  isGroup: true,
+  price: "1100lei",
+  duration: "4h",
+  reserveLink: "https://wa.link/kzxk2i",
+},
+{
   name: "ROOT TERRApy",
-  summary: "Holistic Package : Full Body",
-  description: [
-    "Discover the root cause. Restore balance. Reconnect with yourself.",
+  summary: "Holistic Program • Full Body",
+  description:
+    [
+      "Find the cause. Restore balance. Reconnect with yourself.",
 
-    "ROOT TERRApy is an integrative therapeutic protocol created by the Harmonia Terra team for those seeking more than temporary symptom relief. By combining functional assessment, personalized aromatherapy, holistic bodywork, and Traditional Chinese Medicine, this experience is designed to identify underlying imbalances and support the body's natural self-regulation processes.",
+      "ROOT TERRApy is an integrative therapeutic experience created by the Harmonia Terra team for those seeking more than symptom relief. By combining functional wellness assessment, personalised aromatherapy, holistic bodywork and Traditional Chinese Medicine, this experience aims to identify underlying imbalances while supporting the body's natural self-regulation processes.",
 
-    "Each stage naturally complements the next, creating a personalized and comprehensive experience tailored to your individual needs.",
+      "Each stage complements the next, creating a deeply personalised journey tailored to your individual needs.",
 
-    "What's Included:",
+      "What's Included:",
 
-    "ZYTO Scan – 60 min",
-    "Symphony of the Cells – 30 min",
-    "Harmonic Focus – 60 min",
-    "Acupuncture – 60 min",
-    "or Acupuncture + Cupping Therapy, if recommended",
+      "ZYTO Wellness Scan – 60 min",
 
-    "Investment",
+      "Symphony of the Cells® – 30 min",
 
-    "Individual Service Value: 1,300 RON",
-    "ROOT TERRApy Experience: 1,000 RON",
+      "Harmonic Focus – 60 min",
 
-    "*Each session begins with a brief consultation to better understand your current condition, needs, and the direction of your personalized protocol. The duration displayed includes both the consultation and the therapeutic experience.",
+      "Acupuncture – 60 min",
 
-    "*After booking through our website, you will receive a message within 24 hours with payment instructions for the 50% deposit, unless you have an active membership or gift card.",
+      "or Acupuncture + Cupping Therapy (when recommended).",
 
-    "*Rescheduling or cancellations, regardless of the reason, must be made at least 48 hours before your appointment. If a session is cancelled or rescheduled with less than 48 hours' notice, the session will be considered used for gift card or membership holders. For individual bookings, the 50% deposit is non-refundable.",
-  ],
+      "Investment:",
+
+      "Individual service value: 1,300 lei",
+
+      "ROOT TERRApy: 1,000 lei",
+
+      "*Each therapy includes a short introductory consultation. The advertised duration includes both the consultation and the therapeutic experience.",
+
+      "*After completing your online booking, you will receive a message within 24 hours with instructions regarding the required 50% deposit.",
+
+      "*Appointments may be rescheduled or cancelled up to 48 hours before the session.",
+    ],
   isGroup: true,
-  price: "1000 RON",
+  price: "1000lei",
   duration: "3h 30min",
   reserveLink: "https://wa.link/aq8cyu",
 },
-    {
-name: "RESET TERRApy",
-summary: "Holistic Package : Full Body",
-description:
-[
-"RESET TERRApy is an approximately 4-hour holistic package created to support nervous system regulation, body reconnection, and the restoration of physical, emotional, and mental balance. The experience combines holistic assessment, applied aromatherapy, therapeutic touch, and deep relaxation techniques in a fluid process of reset and integration.",
-  "The protocol begins with a Zyto Scan & Interpretation — a holistic assessment that offers insight into the body’s energetic, functional, and emotional imbalances. Based on this evaluation, the direction of the entire experience is tailored accordingly.",
-  
-  "Symphony of the Cells continues the process through the systematic application of essential oils, using Symphony of the Cells™ protocols created to support the body’s different systems and its natural processes of balance and regulation.",
-  
-  "The Harmonic Focus Massage brings the body into a profound state of relaxation and presence through techniques adapted to your individual needs, combining elements of holistic massage, fascial work, and the release of accumulated tension stored within the body.",
-  
-  "The experience is completed with Cranio Relief — Facial Journey, a craniosacral and facial therapy experience with Kobido-inspired elements, dedicated to deep relaxation, tension release, and reconnecting with a state of inner calm and safety.",
-  
-  "The four stages naturally complement one another, creating a deeply holistic experience of reset, integration, and recalibration for both the body and nervous system.",
-  
-  "*Each session includes a short initial consultation dedicated to understanding your needs, current state, and the direction of the protocol. The displayed duration includes both this introductory discussion and the effective therapeutic experience.",
-  
-  "*After completing your booking through the website, you will receive a message within 24 hours regarding the 50% deposit payment, unless you already own a membership or gift card.",
-  
-  "*Rescheduling or cancellations, regardless of the reason, must be made at least 48 hours before the session. In the case of rescheduling or cancellations made less than 48 hours in advance, the session will be considered lost if you own a gift card or membership, and for individual payments, the 50% deposit will not be refunded.",
-],
-isGroup: true,
-price: "1100lei",
-duration: "4h",
-reserveLink: "https://wa.link/kzxk2i",
+{
+  name: "7 Stars TERRApy",
+  summary: "Personalised Holistic Program",
+  description:
+    [
+      "7 Stars TERRApy is the most comprehensive holistic experience offered at Harmonia Terra. It brings together multiple therapists and complementary therapies into a fully personalised one-day wellbeing journey.",
+
+      "Rather than following a predefined protocol, every edition is carefully designed around your individual needs, allowing each specialist to contribute from their area of expertise.",
+
+      "This immersive experience may include bodywork, acupuncture, aromatherapy, wellness assessment, somatic therapy, breathing practices and other complementary approaches, creating a truly multidisciplinary therapeutic journey.",
+
+      "7 Stars TERRApy is designed for those who wish to dedicate an entire day to their wellbeing and experience the collective expertise of the Harmonia Terra team.",
+
+      "*Each experience includes consultations with the practitioners involved.",
+
+      "*After completing your booking, you will receive further information regarding payment and scheduling.",
+    ],
+  isGroup: true,
+  price: "1650lei",
+  duration: "7h",
+  reserveLink: "https://wa.link/32mm10",
 },
-    {
-      name: "7 Stars TERRApy",
-      summary: "Holistic Package : Personalized",
-      description:
-        [
-          "Experience Supreme Healing of Body, Mind and Soul",
-          "We are pleased to present our premium holistic therapy package: 7 Stars TERRApy. This exclusive package combines traditional and modern techniques to offer a deep and complete healing experience. You will benefit from 7 hours of specialized treatments that will bring harmony and balance to all aspects of your life.",
-          "What the Package Includes",
-          "Zyto, Harmonic Spa, Symphony of Cells – Delia guides you through a complete experience of harmonization and regeneration. Zyto scanning analyzes the energetic, emotional, mental and physical state, providing a clear picture of subtle imbalances. Harmonic Spa brings deep relaxation through Gua Sha, head massage and Ear Candling, while Symphony of Cells, through the application of Doterra essential oils, supports emotional balance and cellular regeneration.",
-          "QiNeiZang - Alina Carmina uses a deep abdominal massage technique that focuses on internal organs. This treatment helps detoxify the body, improve organ function and release energy blockages.",
-          "Harmonic Reborn - Tiberiu Bozi offers a complete and complex holistic massage that integrates various techniques to bring deep relaxation and revitalization. Harmonic Reborn is designed to balance body, mind and spirit, offering a complete healing experience.",
-          "Book your place now to experience a unique and profound holistic transformation.",
-          "Contact us to learn more details and to make an appointment. Your complete healing is just one step away!",
-          "*After making a booking on the website, you will receive a message within 24 hours for payment of the 50% advance, if you do not have a subscription or gift card.",
-          "*Rescheduling or cancellations, regardless of reason, must be made at least 48 hours before the session. In case of rescheduling or cancellations less than 48 hours before, the session will be lost if you have a gift card or subscription, and for individual payments, the 50% advance will not be refunded.",
-        ],
-      price: "1650lei",
-      duration: "7h",
-      reserveLink: "https://wa.link/32mm10",
-    },
-    {
-      name: "RESPIRO",
-      summary: "Urban Holistic Retreat",
-      description:
-        [
-          "RESPIRO is a one-day intensive program dedicated to nervous system regulation, reconnection with the body, and overall wellbeing optimization.",
-          "Designed as an urban retreat, RESPIRO offers a structured and professional experience, ideal for individuals and teams seeking a mental, emotional, and physical reset.",
-          "The program integrates evidence-informed practices such as functional breathing, conscious movement, touch-based therapy, digital diagnostics, sound sessions, creativity, and guided reflection.",
-          "The intimate format, limited to a maximum of 8 participants, ensures personalization, individual attention, and meaningful results within a single day, held in a space dedicated to holistic health.",
-          "RESPIRO is a versatile program that can be adapted to the dynamics and objectives of each group.",
-          "Who RESPIRO is for:",
-          "• individuals",
-          "• couples",
-          "• groups of friends",
-          "• extended families",
-          "• business teams",
-          "• corporate groups",
-          "RESPIRO provides a professional and well-structured framework for a full day of reset and reconnection.",
-          "The program can be integrated both into individual personal development journeys and into organizational wellbeing and development strategies.",
-          "A premium experience delivered by certified specialists, in a space dedicated to holistic health, clarity, and performance.",
-        ],
-      price: "1500lei / person",
-      duration: "10h",
-      reserveLink: "https://wa.link/s3x43w",
-    },
-    {
-      name: "Harmonic GIFT Card",
-      summary: "Gift Card : Personalized",
-      description:
-        [
-          "Discover the power to give health and harmony through a Harmonic Gift Card. Perfect for any special occasion, the gift card allows the recipient to choose any of my holistic services, having the value you have paid for.",
-          "Harmonic Gift Card Benefits",
-          "Total Flexibility: The recipient can choose from a varied range of holistic therapies and packages, personalizing the experience according to their needs and preferences.",
-          "Extended Validity: Harmonic Gift Card has a validity of 3 months from the date of purchase, providing enough time to schedule and enjoy a healing and relaxation session.",
-          "Regardless of the chosen value, Harmonic Gift Card represents a step towards a deep state of well-being, balance of body, mind and soul. The recipient will be able to opt for holistic therapies, revitalizing massages and complete packages that transform and heal.",
-          "Don't miss the opportunity to give a priceless gift. Purchase a Harmonic Gift Card today and offer your loved ones an unforgettable experience, full of relaxation and healing.",
-          "Thank you for choosing to give health and harmony.",
-          "*After making a booking on the website, you will receive a message within 24 hours to arrange payment of a 50% deposit if you do not have a subscription or gift card.",
-          "*Rescheduling or cancellations, for any reason, must be made at least 48 hours before the session. If rescheduled or cancelled less than 48 hours before, the session will be lost for gift card or subscription holders, and for individual payments the 50% deposit will not be refunded.",
-        ],
-      price: " 400lei → 3360lei",
-      duration: "60min → 10h",
-      reserveLink: "https://wa.link/1a7oli",
-    },
+{
+  name: "RESPIRO",
+  summary: "Urban Holistic Retreat",
+  description:
+    [
+      "RESPIRO is a one-day urban retreat created for those who wish to pause, reconnect and recharge without leaving the city.",
+
+      "Throughout the day, participants experience a carefully curated combination of movement, bodywork, mindfulness and complementary holistic therapies within the peaceful environment of Harmonia Terra.",
+
+      "Each edition is intentionally designed for a small group, creating an intimate atmosphere that encourages genuine connection, relaxation and personal growth.",
+
+      "RESPIRO is an invitation to step away from everyday life and dedicate an entire day to your wellbeing.",
+
+      "*The program and included therapies may vary depending on each edition.",
+
+      "*Advance booking is required due to the limited number of participants.",
+    ],
+  isGroup: true,
+  price: "1500lei / person",
+  duration: "10h",
+  reserveLink: "https://wa.link/s3x43w",
+},
   ]
 location: "Harmonia Terra, Bucuresti" #optional
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
