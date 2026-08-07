@@ -189,6 +189,30 @@ services:
   reserveLink: "https://app.simplymeet.me/harmoniaoptima/recharge",
 },
 {
+  name: "ARRIVE",
+  summary: "Bodywork • One Key Area",
+  description:
+    [
+      "ARRIVE is a focused bodywork session designed for those moments when your body needs attention, but your time is limited. During these 30 minutes, we concentrate on the area of your body that requires the most care and support.",
+
+      "The session begins with a brief conversation (approximately one minute) to understand how you are feeling and to identify the area we will focus on. This may include your back, neck, shoulders, lower back, abdomen, jaw, head, legs, or any other area that needs attention.",
+
+      "Using a variety of bodywork techniques, each session is fully adapted to your body's needs rather than following a rigid protocol.",
+
+      "ARRIVE is the perfect choice if you need focused relief, want to maintain the benefits of longer sessions, or would like to experience my approach before booking a more comprehensive treatment. It is also an excellent option for those who prefer regular maintenance sessions or are looking for a more accessible way to incorporate bodywork into their wellbeing routine.",
+
+      "*Each session includes a brief consultation to better understand your needs and establish the direction of the treatment. The advertised duration includes both this conversation and the hands-on bodywork session.",
+
+      "*After completing your online booking, you will receive a message within 24 hours with instructions for paying the 50% deposit, unless you are using a membership or gift card.",
+
+      "*Appointments may be rescheduled or cancelled up to 48 hours before the session. For cancellations or rescheduling requests made less than 48 hours in advance, the session will be deducted from your membership or gift card, or the 50% deposit will be retained for individual bookings.",
+    ],
+  isGroup: true,
+  price: "200lei",
+  duration: "30min",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/arrive",
+},
+{
   name: "REBORN Membership • 20% OFF",
   summary: "1 Session Every 2 Weeks",
   description:
