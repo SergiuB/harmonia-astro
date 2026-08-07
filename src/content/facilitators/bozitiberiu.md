@@ -6,18 +6,18 @@ tags: ["Terapeut", "Bodyworker", "Holistic Approach"]
 activities: ["masaj-holistic", "masaj", "coaching", "tre", "alte-servicii"]
 services:
   [
-{
-  name: "ARRIVE",
-  summary: "Bodywork • O Zonă Cheie",
+       {
+  name: "REBORN",
+  summary: "Signature Bodywork",
   description:
     [
-      "ARRIVE este o sesiune concentrată de bodywork, creată pentru momentele în care corpul îți cere atenție, dar timpul este limitat. În 30 de minute lucrăm asupra unei zone a corpului care are cea mai mare nevoie de susținere.",
+      "REBORN este experiența signature a metodei Tiberiu Bozi și reprezintă cea mai completă formă de bodywork pe care o ofer. Cele 120 de minute permit timp suficient pentru ca fiecare etapă a sesiunii să se desfășoare fără grabă, respectând ritmul natural al corpului.",
 
-      "Sesiunea începe cu o scurtă conversație - 1 min-  pentru a înțelege starea ta din acel moment și pentru a identifica zona asupra căreia vom lucra. Poate fi vorba despre spate, gât, umeri, zona lombară, abdomen, maxilar, cap, picioare sau altă regiune care necesită atenție.",
+      "Sesiunea începe cu o conversație dedicată înțelegerii stării tale actuale și a nevoilor corpului. Fiecare experiență este construită intuitiv, fără un protocol fix, adaptând tehnicile și ritmul în funcție de ceea ce corpul tău transmite în acel moment.",
 
-      "Prin tehnici de bodywork, sesiunea este adaptată în funcție de nevoile corpului tău, fără un protocol rigid.",
+      "Pe parcursul sesiunii lucrăm asupra întregului corp printr-o abordare integrativă ce poate include tehnici de bodywork, lucru fascial, mobilizări, stretching, presopunctură și atingere intuitivă. Timpul suplimentar permite o explorare mai profundă a zonelor care necesită atenție, fără a compromite fluiditatea experienței.",
 
-      "ARRIVE este alegerea potrivită dacă ai nevoie de o intervenție rapidă, îți dorești să întreții rezultatele obținute în sesiunile mai lungi sau vrei să descoperi stilul meu de lucru înainte de a experimenta o experiență completă. Este, de asemenea, o opțiune excelentă pentru cei care preferă sesiuni regulate de întreținere sau își doresc o variantă mai accesibilă pentru a integra bodywork-ul în rutina lor de îngrijire.",
+      "REBORN este recomandat persoanelor care își doresc experiența completă, fie ca primă întâlnire, fie ca parte a unui proces constant de îngrijire și reconectare cu propriul corp.",
 
       "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale și stabilirii direcției terapiei. Durata afișată include atât această discuție, cât și timpul efectiv de lucru cu corpul.",
 
@@ -26,59 +26,35 @@ services:
       "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
     ],
   isGroup: true,
-  price: "200lei",
-  duration: "30min",
-  reserveLink: "https://app.simplymeet.me/harmoniaoptima/arrive",
+  price: "700lei",
+  duration: "120min",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/reborn",
 },
 {
-  name: "RECHARGE",
-  summary: "Bodywork • Două Zone Cheie",
+  name: "RELEASE",
+  summary: "Somatic Therapy",
   description:
     [
-      "RECHARGE este o sesiune de bodywork de 60 de minute. În cadrul acestei experiențe lucrăm, de regulă, asupra a două zone importante ale corpului sau asupra unei jumătăți de corp, în funcție de nevoile tale.",
+      "RELEASE este experiența de Somatic Therapy, creată pentru persoanele care își doresc să exploreze relația profundă dintre corp, sistemul nervos și experiențele de viață. Dincolo de relaxare, această sesiune urmărește să creeze un spațiu sigur în care organismul își poate activa propriile mecanisme naturale de autoreglare.",
 
-      "Sesiunea începe cu o scurtă conversație pentru a înțelege starea ta din acel moment și pentru a stabili împreună direcția terapiei. Fiecare sesiune este personalizată și adaptată corpului tău, fără un protocol rigid.",
+      "În funcție de nevoile fiecărei persoane, sesiunea poate integra exerciții inspirate din tehnici de respirație, mișcare conștientă, TRE, stretching, presopunctură și alte abordări somatice, susținând capacitatea naturală a organismului de a reduce tensiunea acumulată și de a reveni către o stare de echilibru.",
 
-      "Prin tehnici de bodywork, lucru fascial, presopunctură și mobilizări blânde, susținem reducerea tensiunilor, relaxarea sistemului nervos și redobândirea unei stări de echilibru și vitalitate.",
+      "În anumite situații, organismul poate răspunde prin vibrații sau tremur spontan. Acesta este un răspuns fiziologic natural al sistemului nervos, observat și în abordări precum Trauma Release Exercises (TRE®), prin care corpul poate diminua tensiunea acumulată și își poate susține procesele naturale de autoreglare.",
 
-      "RECHARGE este alegerea potrivită dacă îți dorești să acorzi mai multă atenție corpului tău, fără a avea nevoie de o sesiune completă de întreg corp. Este ideal pentru întreținere regulată, recuperare după perioade solicitante sau pentru cei care își doresc să integreze bodywork-ul în rutina lor de wellbeing.",
+      "RELEASE este recomandat persoanelor care se confruntă cu stres cronic, suprasolicitare, dificultăți de relaxare, tensiuni persistente sau care își doresc o explorare mai profundă a relației dintre corp, emoții și sistemul nervos.",
 
-      "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale și stabilirii direcției terapiei. Durata afișată include atât această discuție, cât și timpul efectiv de lucru cu corpul.",
+      "Beneficiile pot include reglarea sistemului nervos, reducerea tensiunilor fizice și emoționale, creșterea conștientizării corporale, îmbunătățirea stării de prezență și susținerea capacității naturale a organismului de autoreglare.",
+
+      "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale, stării tale actuale și obiectivelor pentru sesiune. În cazul primei întâlniri, această discuție poate dura până la aproximativ 30 de minute, pentru a permite o cunoaștere mai profundă și o evaluare holistică (fizică, emoțională și energetică), dacă se dorește. În sesiunile următoare, acest moment este, de regulă, mai scurt (10–15 minute). Durata afișată a serviciului include atât această discuție, cât și timpul efectiv de lucru cu corpul.",
 
       "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
 
       "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
     ],
   isGroup: true,
-  price: "400lei",
-  duration: "60min",
-  reserveLink: "https://app.simplymeet.me/harmoniaoptima/recharge",
-},
-{
-  name: "FLOW",
-  summary: "Bodywork • Întregul Corp",
-  description:
-    [
-      "FLOW este o experiență de bodywork în care tehnica, intuiția și prezența se îmbină într-un proces fluid, continuu și ghidat de nevoile corpului. Este creată pentru persoanele care își doresc mai mult decât relaxare și sunt pregătite să se lase purtate de ritmul natural al sesiunii.",
-
-      "Sesiunea începe cu o scurtă conversație pentru a înțelege starea ta din acel moment și pentru a adapta experiența în funcție de corpul tău. Fiecare sesiune este unică și construită intuitiv, fără un protocol rigid, urmând ceea ce corpul permite și are nevoie în acel moment.",
-
-      "Pe parcursul celor 90 de minute lucrăm asupra întregului corp printr-o combinație armonioasă de tehnici de bodywork, lucru fascial, deep tissue, mobilizări, stretching și atingere intuitivă. Mișcările se leagă natural între ele, creând o experiență continuă, expresivă și profundă.",
-
-      "FLOW este recomandat persoanelor care au mai experimentat bodywork sau care își doresc o experiență autentică, dinamică și integrativă. Este ideal pentru cei care caută mai multă mobilitate, libertate de mișcare, flexibilitate și o reconectare profundă cu propriul corp.",
-
-      "Beneficiile pot include reducerea tensiunilor musculare, îmbunătățirea mobilității și posturii, reglarea sistemului nervos, creșterea conștientizării corporale și accesul la o stare profundă de prezență și fluiditate.",
-
-      "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale și stabilirii direcției terapiei. Durata afișată include atât această discuție, cât și timpul efectiv de lucru cu corpul.",
-
-      "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
-
-      "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
-    ],
-  isGroup: true,
-  price: "600lei",
+  price: "700lei",
   duration: "90min",
-  reserveLink: "https://app.simplymeet.me/harmoniaoptima/flow",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/release",
 },
 {
   name: "MATERNITY",
@@ -133,21 +109,21 @@ services:
   reserveLink: "https://app.simplymeet.me/harmoniaoptima/regulate",
 },
 {
-  name: "RELEASE",
-  summary: "Somatic Therapy",
+  name: "FLOW",
+  summary: "Bodywork • Întregul Corp",
   description:
     [
-      "RELEASE este experiența de Somatic Therapy, creată pentru persoanele care își doresc să exploreze relația profundă dintre corp, sistemul nervos și experiențele de viață. Dincolo de relaxare, această sesiune urmărește să creeze un spațiu sigur în care organismul își poate activa propriile mecanisme naturale de autoreglare.",
+      "FLOW este o experiență de bodywork în care tehnica, intuiția și prezența se îmbină într-un proces fluid, continuu și ghidat de nevoile corpului. Este creată pentru persoanele care își doresc mai mult decât relaxare și sunt pregătite să se lase purtate de ritmul natural al sesiunii.",
 
-      "În funcție de nevoile fiecărei persoane, sesiunea poate integra exerciții inspirate din tehnici de respirație, mișcare conștientă, TRE, stretching, presopunctură și alte abordări somatice, susținând capacitatea naturală a organismului de a reduce tensiunea acumulată și de a reveni către o stare de echilibru.",
+      "Sesiunea începe cu o scurtă conversație pentru a înțelege starea ta din acel moment și pentru a adapta experiența în funcție de corpul tău. Fiecare sesiune este unică și construită intuitiv, fără un protocol rigid, urmând ceea ce corpul permite și are nevoie în acel moment.",
 
-      "În anumite situații, organismul poate răspunde prin vibrații sau tremur spontan. Acesta este un răspuns fiziologic natural al sistemului nervos, observat și în abordări precum Trauma Release Exercises (TRE®), prin care corpul poate diminua tensiunea acumulată și își poate susține procesele naturale de autoreglare.",
+      "Pe parcursul celor 90 de minute lucrăm asupra întregului corp printr-o combinație armonioasă de tehnici de bodywork, lucru fascial, deep tissue, mobilizări, stretching și atingere intuitivă. Mișcările se leagă natural între ele, creând o experiență continuă, expresivă și profundă.",
 
-      "RELEASE este recomandat persoanelor care se confruntă cu stres cronic, suprasolicitare, dificultăți de relaxare, tensiuni persistente sau care își doresc o explorare mai profundă a relației dintre corp, emoții și sistemul nervos.",
+      "FLOW este recomandat persoanelor care au mai experimentat bodywork sau care își doresc o experiență autentică, dinamică și integrativă. Este ideal pentru cei care caută mai multă mobilitate, libertate de mișcare, flexibilitate și o reconectare profundă cu propriul corp.",
 
-      "Beneficiile pot include reglarea sistemului nervos, reducerea tensiunilor fizice și emoționale, creșterea conștientizării corporale, îmbunătățirea stării de prezență și susținerea capacității naturale a organismului de autoreglare.",
+      "Beneficiile pot include reducerea tensiunilor musculare, îmbunătățirea mobilității și posturii, reglarea sistemului nervos, creșterea conștientizării corporale și accesul la o stare profundă de prezență și fluiditate.",
 
-      "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale, stării tale actuale și obiectivelor pentru sesiune. În cazul primei întâlniri, această discuție poate dura până la aproximativ 30 de minute, pentru a permite o cunoaștere mai profundă și o evaluare holistică (fizică, emoțională și energetică), dacă se dorește. În sesiunile următoare, acest moment este, de regulă, mai scurt (10–15 minute). Durata afișată a serviciului include atât această discuție, cât și timpul efectiv de lucru cu corpul.",
+      "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale și stabilirii direcției terapiei. Durata afișată include atât această discuție, cât și timpul efectiv de lucru cu corpul.",
 
       "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
 
@@ -156,7 +132,7 @@ services:
   isGroup: true,
   price: "600lei",
   duration: "90min",
-  reserveLink: "https://app.simplymeet.me/harmoniaoptima/release",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/flow",
 },
 {
   name: "RITUAL",
@@ -182,18 +158,18 @@ services:
   duration: "90min",
   reserveLink: "https://app.simplymeet.me/harmoniaoptima/ritual",
 },
-     {
-  name: "REBORN",
-  summary: "Signature Bodywork",
+{
+  name: "RECHARGE",
+  summary: "Bodywork • Două Zone Cheie",
   description:
     [
-      "REBORN este experiența signature a metodei Tiberiu Bozi și reprezintă cea mai completă formă de bodywork pe care o ofer. Cele 120 de minute permit timp suficient pentru ca fiecare etapă a sesiunii să se desfășoare fără grabă, respectând ritmul natural al corpului.",
+      "RECHARGE este o sesiune de bodywork de 60 de minute. În cadrul acestei experiențe lucrăm, de regulă, asupra a două zone importante ale corpului sau asupra unei jumătăți de corp, în funcție de nevoile tale.",
 
-      "Sesiunea începe cu o conversație dedicată înțelegerii stării tale actuale și a nevoilor corpului. Fiecare experiență este construită intuitiv, fără un protocol fix, adaptând tehnicile și ritmul în funcție de ceea ce corpul tău transmite în acel moment.",
+      "Sesiunea începe cu o scurtă conversație pentru a înțelege starea ta din acel moment și pentru a stabili împreună direcția terapiei. Fiecare sesiune este personalizată și adaptată corpului tău, fără un protocol rigid.",
 
-      "Pe parcursul sesiunii lucrăm asupra întregului corp printr-o abordare integrativă ce poate include tehnici de bodywork, lucru fascial, mobilizări, stretching, presopunctură și atingere intuitivă. Timpul suplimentar permite o explorare mai profundă a zonelor care necesită atenție, fără a compromite fluiditatea experienței.",
+      "Prin tehnici de bodywork, lucru fascial, presopunctură și mobilizări blânde, susținem reducerea tensiunilor, relaxarea sistemului nervos și redobândirea unei stări de echilibru și vitalitate.",
 
-      "REBORN este recomandat persoanelor care își doresc experiența completă, fie ca primă întâlnire, fie ca parte a unui proces constant de îngrijire și reconectare cu propriul corp.",
+      "RECHARGE este alegerea potrivită dacă îți dorești să acorzi mai multă atenție corpului tău, fără a avea nevoie de o sesiune completă de întreg corp. Este ideal pentru întreținere regulată, recuperare după perioade solicitante sau pentru cei care își doresc să integreze bodywork-ul în rutina lor de wellbeing.",
 
       "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale și stabilirii direcției terapiei. Durata afișată include atât această discuție, cât și timpul efectiv de lucru cu corpul.",
 
@@ -202,69 +178,63 @@ services:
       "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
     ],
   isGroup: true,
-  price: "700lei",
-  duration: "120min",
-  reserveLink: "https://app.simplymeet.me/harmoniaoptima/reborn",
+  price: "400lei",
+  duration: "60min",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/recharge",
 },
 {
-  name: "ARRIVE Membership - 20% OFF",
-  summary: "Pachet • 2 Sesiuni / Săptămână",
+  name: "ARRIVE",
+  summary: "Bodywork • O Zonă Cheie",
   description:
     [
-      "ARRIVE Membership este creat pentru persoanele care își doresc să integreze bodywork-ul în rutina lor săptămânală. Prin sesiuni concentrate de 30 de minute, poți interveni rapid asupra unei zone cheie a corpului și preveni acumularea tensiunilor.",
+      "ARRIVE este o sesiune concentrată de bodywork, creată pentru momentele în care corpul îți cere atenție, dar timpul este limitat. În 30 de minute lucrăm asupra unei zone a corpului care are cea mai mare nevoie de susținere.",
+
+      "Sesiunea începe cu o scurtă conversație - 1 min-  pentru a înțelege starea ta din acel moment și pentru a identifica zona asupra căreia vom lucra. Poate fi vorba despre spate, gât, umeri, zona lombară, abdomen, maxilar, cap, picioare sau altă regiune care necesită atenție.",
+
+      "Prin tehnici de bodywork, sesiunea este adaptată în funcție de nevoile corpului tău, fără un protocol rigid.",
+
+      "ARRIVE este alegerea potrivită dacă ai nevoie de o intervenție rapidă, îți dorești să întreții rezultatele obținute în sesiunile mai lungi sau vrei să descoperi stilul meu de lucru înainte de a experimenta o experiență completă. Este, de asemenea, o opțiune excelentă pentru cei care preferă sesiuni regulate de întreținere sau își doresc o variantă mai accesibilă pentru a integra bodywork-ul în rutina lor de îngrijire.",
+
+      "*Fiecare sesiune include un scurt moment de discuție inițială, dedicat înțelegerii nevoilor tale și stabilirii direcției terapiei. Durata afișată include atât această discuție, cât și timpul efectiv de lucru cu corpul.",
+
+      "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
+
+      "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
+    ],
+  isGroup: true,
+  price: "200lei",
+  duration: "30min",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/arrive",
+},
+{
+  name: "REBORN Membership - 20% OFF",
+  summary: "Pachet • 1 Sesiune la 2 Săptămâni",
+  description:
+    [
+      "REBORN Membership este creat pentru persoanele care își doresc să experimenteze în mod constant forma completă a metodei Tiberiu Bozi.",
 
       "Detalii abonament:",
 
-      "- Număr sesiuni: 6 sesiuni ARRIVE (30 minute).",
+      "- Număr sesiuni: 6 sesiuni REBORN (120 minute).",
 
-      "- Reducere: Beneficiezi de 20% discount din valoarea totală a serviciilor. Preț final: 960 lei (în loc de 1200 lei).",
+      "- Reducere: Beneficiezi de 20% discount din valoarea totală a serviciilor. Preț final: 3360 lei (în loc de 4200 lei).",
 
-      "- Frecvență recomandată: două sesiuni pe săptămână.",
+      "- Frecvență recomandată: o sesiune la 7-14 zile.",
 
-      "- Valabilitate: 4 săptămâni de la data achiziției.",
+      "- Valabilitate: 8 săptămâni de la data achiziției.",
 
       "- Plata: abonamentul se achită integral înainte de prima programare.",
 
-      "ARRIVE Membership este ideal pentru întreținere regulată, prevenție și pentru persoanele care își doresc să acorde atenție constantă corpului lor.",
+      "REBORN Membership este cea mai bună alegere pentru persoanele care își doresc un proces constant de îngrijire, reglare și reconectare prin experiența completă a metodei Tiberiu Bozi.",
 
       "*Programările pot fi modificate cu minimum 48 de ore înainte de sesiune.",
 
       "*Sesiunile neefectuate în perioada de valabilitate nu se reportează.",
     ],
   isGroup: true,
-  price: "960lei",
-  duration: "6 x 30min",
-  reserveLink: "https://wa.link/ussrzx",
-},
-{
-  name: "RECHARGE Membership - 20% OFF",
-  summary: "Pachet • 1 Sesiune / Săptămână",
-  description:
-    [
-      "RECHARGE Membership este dedicat celor care își doresc să își mențină energia, mobilitatea și starea de bine prin sesiuni regulate de bodywork.",
-
-      "Detalii abonament:",
-
-      "- Număr sesiuni: 6 sesiuni RECHARGE (60 minute).",
-
-      "- Reducere: Beneficiezi de 20% discount din valoarea totală a serviciilor. Preț final: 1920 lei (în loc de 2400 lei).",
-
-      "- Frecvență recomandată: o sesiune pe săptămână.",
-
-      "- Valabilitate: 6 săptămâni de la data achiziției.",
-
-      "- Plata: abonamentul se achită integral înainte de prima programare.",
-
-      "RECHARGE Membership este potrivit pentru persoanele care își doresc să transforme bodywork-ul într-un obicei constant de îngrijire și prevenție.",
-
-      "*Programările pot fi modificate cu minimum 48 de ore înainte de sesiune.",
-
-      "*Sesiunile neefectuate în perioada de valabilitate nu se reportează.",
-    ],
-  isGroup: true,
-  price: "1920lei",
-  duration: "6 x 60min",
-  reserveLink: "https://wa.link/3ud4ts",
+  price: "3360lei",
+  duration: "6 x 120min",
+  reserveLink: "https://wa.link/370e6c",
 },
 {
   name: "FLOW Membership - 20% OFF",
@@ -299,34 +269,64 @@ services:
   reserveLink: "https://wa.link/vqu8f3",
 },
 {
-  name: "REBORN Membership - 20% OFF",
-  summary: "Pachet • 1 Sesiune la 2 Săptămâni",
+  name: "RECHARGE Membership - 20% OFF",
+  summary: "Pachet • 1 Sesiune / Săptămână",
   description:
     [
-      "REBORN Membership este creat pentru persoanele care își doresc să experimenteze în mod constant forma completă a metodei Tiberiu Bozi.",
+      "RECHARGE Membership este dedicat celor care își doresc să își mențină energia, mobilitatea și starea de bine prin sesiuni regulate de bodywork.",
 
       "Detalii abonament:",
 
-      "- Număr sesiuni: 6 sesiuni REBORN (120 minute).",
+      "- Număr sesiuni: 6 sesiuni RECHARGE (60 minute).",
 
-      "- Reducere: Beneficiezi de 20% discount din valoarea totală a serviciilor. Preț final: 3360 lei (în loc de 4200 lei).",
+      "- Reducere: Beneficiezi de 20% discount din valoarea totală a serviciilor. Preț final: 1920 lei (în loc de 2400 lei).",
 
-      "- Frecvență recomandată: o sesiune la 7-14 zile.",
+      "- Frecvență recomandată: o sesiune pe săptămână.",
 
-      "- Valabilitate: 8 săptămâni de la data achiziției.",
+      "- Valabilitate: 6 săptămâni de la data achiziției.",
 
       "- Plata: abonamentul se achită integral înainte de prima programare.",
 
-      "REBORN Membership este cea mai bună alegere pentru persoanele care își doresc un proces constant de îngrijire, reglare și reconectare prin experiența completă a metodei Tiberiu Bozi.",
+      "RECHARGE Membership este potrivit pentru persoanele care își doresc să transforme bodywork-ul într-un obicei constant de îngrijire și prevenție.",
 
       "*Programările pot fi modificate cu minimum 48 de ore înainte de sesiune.",
 
       "*Sesiunile neefectuate în perioada de valabilitate nu se reportează.",
     ],
   isGroup: true,
-  price: "3360lei",
-  duration: "6 x 120min",
-  reserveLink: "https://wa.link/370e6c",
+  price: "1920lei",
+  duration: "6 x 60min",
+  reserveLink: "https://wa.link/3ud4ts",
+},
+{
+  name: "ARRIVE Membership - 20% OFF",
+  summary: "Pachet • 2 Sesiuni / Săptămână",
+  description:
+    [
+      "ARRIVE Membership este creat pentru persoanele care își doresc să integreze bodywork-ul în rutina lor săptămânală. Prin sesiuni concentrate de 30 de minute, poți interveni rapid asupra unei zone cheie a corpului și preveni acumularea tensiunilor.",
+
+      "Detalii abonament:",
+
+      "- Număr sesiuni: 6 sesiuni ARRIVE (30 minute).",
+
+      "- Reducere: Beneficiezi de 20% discount din valoarea totală a serviciilor. Preț final: 960 lei (în loc de 1200 lei).",
+
+      "- Frecvență recomandată: două sesiuni pe săptămână.",
+
+      "- Valabilitate: 4 săptămâni de la data achiziției.",
+
+      "- Plata: abonamentul se achită integral înainte de prima programare.",
+
+      "ARRIVE Membership este ideal pentru întreținere regulată, prevenție și pentru persoanele care își doresc să acorde atenție constantă corpului lor.",
+
+      "*Programările pot fi modificate cu minimum 48 de ore înainte de sesiune.",
+
+      "*Sesiunile neefectuate în perioada de valabilitate nu se reportează.",
+    ],
+  isGroup: true,
+  price: "960lei",
+  duration: "6 x 30min",
+  reserveLink: "https://wa.link/ussrzx",
 },
     {
       name: "Harmonic UNION",
