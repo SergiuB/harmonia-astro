@@ -6,18 +6,20 @@ tags: ["Therapist", "Bodyworker", "Holistic Approach"]
 activities: ["masaj", "coaching", "tre", "alte-servicii", "masaj-holistic"]
 services:
   [
-{
-  name: "ARRIVE",
-  summary: "Bodywork • One Key Area",
+  {
+  name: "REBORN",
+  summary: "Signature Bodywork",
   description:
     [
-      "ARRIVE is a focused bodywork session designed for those moments when your body needs attention, but your time is limited. During these 30 minutes, we concentrate on the area of your body that requires the most care and support.",
+      "REBORN is the signature experience of the Tiberiu Bozi Method and represents the most complete bodywork session I offer. The 120-minute format allows every stage of the experience to unfold naturally, respecting your body's own rhythm without feeling rushed.",
 
-      "The session begins with a brief conversation (approximately one minute) to understand how you are feeling and to identify the area we will focus on. This may include your back, neck, shoulders, lower back, abdomen, jaw, head, legs, or any other area that needs attention.",
+      "The session begins with a conversation dedicated to understanding your current state and your body's needs. Every experience is intuitively designed rather than following a fixed protocol, allowing techniques and rhythm to adapt continuously to your body's responses.",
 
-      "Using a variety of bodywork techniques, each session is fully adapted to your body's needs rather than following a rigid protocol.",
+      "Throughout the session we work on the entire body using an integrative approach that may include bodywork techniques, fascial work, joint mobilisations, stretching, acupressure and intuitive touch. The extended duration allows deeper exploration of areas requiring more attention while preserving the fluidity of the overall experience.",
 
-      "ARRIVE is the perfect choice if you need focused relief, want to maintain the benefits of longer sessions, or would like to experience my approach before booking a more comprehensive treatment. It is also an excellent option for those who prefer regular maintenance sessions or are looking for a more accessible way to incorporate bodywork into their wellbeing routine.",
+      "REBORN is recommended for those seeking the complete Tiberiu Bozi Method, whether as a first experience or as part of an ongoing wellbeing journey.",
+
+      "Benefits may include deep relaxation, reduced muscular tension, improved mobility, nervous system regulation, enhanced body awareness and a profound sense of balance, vitality and reconnection.",
 
       "*Each session includes a brief consultation to better understand your needs and establish the direction of the treatment. The advertised duration includes both this conversation and the hands-on bodywork session.",
 
@@ -26,59 +28,37 @@ services:
       "*Appointments may be rescheduled or cancelled up to 48 hours before the session. For cancellations or rescheduling requests made less than 48 hours in advance, the session will be deducted from your membership or gift card, or the 50% deposit will be retained for individual bookings.",
     ],
   isGroup: true,
-  price: "200lei",
-  duration: "30min",
-  reserveLink: "https://app.simplymeet.me/harmoniaoptima/arrive",
+  price: "700lei",
+  duration: "120min",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicreborn",
 },
 {
-  name: "RECHARGE",
-  summary: "Bodywork • Two Key Areas",
+  name: "RELEASE",
+  summary: "Somatic Therapy • Full Body",
   description:
     [
-      "RECHARGE is a 60-minute bodywork session designed to restore balance where your body needs it most. Depending on your individual needs, we typically work on two key areas of the body or one entire half of the body.",
+      "RELEASE is the Somatic Therapy experience within the Tiberiu Bozi Method, created for those who wish to explore the profound connection between the body, the nervous system and life experiences. Beyond relaxation, this session provides a safe space where the body can activate its own natural self-regulation mechanisms.",
 
-      "The session begins with a brief conversation to understand how you are feeling and to establish the focus of your treatment. Every session is fully personalised and adapted to your body rather than following a fixed protocol.",
+      "The session begins with a conversation to better understand your current state, your intention for the session and your personal goals. Every experience is fully personalised and guided by your body's responses rather than a fixed protocol.",
 
-      "Through a combination of bodywork techniques, fascial work, acupressure and gentle mobilisations, the session helps reduce muscular tension, relax the nervous system and restore a greater sense of vitality and balance.",
+      "Depending on your individual needs, the session may include exercises inspired by Trauma Release Exercises (TRE®), conscious breathing, mindful movement, gentle stretching, acupressure and other somatic approaches that support the body's natural ability to reduce accumulated tension and restore balance.",
 
-      "RECHARGE is ideal if you want to dedicate more time to your body without booking a full-body session. It is perfect for regular maintenance, recovery after demanding periods or for anyone looking to integrate bodywork into their ongoing wellbeing routine.",
+      "In some cases, the body may respond with spontaneous shaking or neurogenic tremors. This is a natural physiological response of the nervous system, also observed in approaches such as Trauma Release Exercises (TRE®), through which the body may reduce stored tension and support its own self-regulation processes.",
 
-      "*Each session includes a brief consultation to better understand your needs and establish the direction of the treatment. The advertised duration includes both this conversation and the hands-on bodywork session.",
+      "RELEASE is recommended for individuals experiencing chronic stress, emotional overload, persistent physical tension, difficulty relaxing or anyone seeking a deeper exploration of the relationship between body, emotions and the nervous system.",
+
+      "Benefits may include nervous system regulation, reduced physical and emotional tension, increased body awareness, a greater sense of presence and support for the body's natural capacity to restore balance.",
+
+      "*Each session includes an initial consultation dedicated to understanding your needs, your current state and your goals for the session. During your first appointment, this conversation may last up to approximately 30 minutes to allow for a deeper holistic assessment (physical, emotional and energetic), if desired. Follow-up sessions generally include a shorter consultation (10–15 minutes). The advertised duration includes both the consultation and the hands-on therapeutic work.",
 
       "*After completing your online booking, you will receive a message within 24 hours with instructions for paying the 50% deposit, unless you are using a membership or gift card.",
 
       "*Appointments may be rescheduled or cancelled up to 48 hours before the session. For cancellations or rescheduling requests made less than 48 hours in advance, the session will be deducted from your membership or gift card, or the 50% deposit will be retained for individual bookings.",
     ],
   isGroup: true,
-  price: "400lei",
-  duration: "60min",
-  reserveLink: "https://app.simplymeet.me/harmoniaoptima/recharge",
-},
-{
-  name: "FLOW",
-  summary: "Bodywork • Full Body",
-  description:
-    [
-      "FLOW is a bodywork experience where technique, intuition and presence merge into a fluid, continuous process guided entirely by your body's needs. It is designed for those seeking more than relaxation and who are ready to surrender to the natural rhythm of the session.",
-
-      "The session begins with a brief conversation to understand how you are feeling and to tailor the experience to your body. Every session is unique and intuitively guided rather than following a fixed protocol, allowing your body to lead the process.",
-
-      "Throughout the 90-minute session, we work on the entire body using an integrated combination of bodywork techniques, fascial work, deep tissue therapy, joint mobilisations, stretching and intuitive touch. The movements flow naturally from one to another, creating a seamless, expressive and deeply restorative experience.",
-
-      "FLOW is recommended for those who have previously experienced bodywork or who are looking for an authentic, dynamic and integrative approach. It is ideal for improving mobility, freedom of movement, flexibility and developing a deeper connection with your body.",
-
-      "Benefits may include reduced muscular tension, improved mobility and posture, nervous system regulation, enhanced body awareness and a profound sense of presence and flow.",
-
-      "*Each session includes a brief consultation to better understand your needs and establish the direction of the treatment. The advertised duration includes both this conversation and the hands-on bodywork session.",
-
-      "*After completing your online booking, you will receive a message within 24 hours with instructions for paying the 50% deposit, unless you are using a membership or gift card.",
-
-      "*Appointments may be rescheduled or cancelled up to 48 hours before the session. For cancellations or rescheduling requests made less than 48 hours in advance, the session will be deducted from your membership or gift card, or the 50% deposit will be retained for individual bookings.",
-    ],
-  isGroup: true,
-  price: "600lei",
+  price: "700lei",
   duration: "90min",
-  reserveLink: "https://app.simplymeet.me/harmoniaoptima/flow",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/e-motionsomaticrelease",
 },
 {
   name: "MATERNITY",
@@ -133,23 +113,21 @@ services:
   reserveLink: "https://app.simplymeet.me/harmoniaoptima/regulate",
 },
 {
-  name: "RELEASE",
-  summary: "Somatic Therapy • Full Body",
+  name: "FLOW",
+  summary: "Bodywork • Full Body",
   description:
     [
-      "RELEASE is the Somatic Therapy experience within the Tiberiu Bozi Method, created for those who wish to explore the profound connection between the body, the nervous system and life experiences. Beyond relaxation, this session provides a safe space where the body can activate its own natural self-regulation mechanisms.",
+      "FLOW is a bodywork experience where technique, intuition and presence merge into a fluid, continuous process guided entirely by your body's needs. It is designed for those seeking more than relaxation and who are ready to surrender to the natural rhythm of the session.",
 
-      "The session begins with a conversation to better understand your current state, your intention for the session and your personal goals. Every experience is fully personalised and guided by your body's responses rather than a fixed protocol.",
+      "The session begins with a brief conversation to understand how you are feeling and to tailor the experience to your body. Every session is unique and intuitively guided rather than following a fixed protocol, allowing your body to lead the process.",
 
-      "Depending on your individual needs, the session may include exercises inspired by Trauma Release Exercises (TRE®), conscious breathing, mindful movement, gentle stretching, acupressure and other somatic approaches that support the body's natural ability to reduce accumulated tension and restore balance.",
+      "Throughout the 90-minute session, we work on the entire body using an integrated combination of bodywork techniques, fascial work, deep tissue therapy, joint mobilisations, stretching and intuitive touch. The movements flow naturally from one to another, creating a seamless, expressive and deeply restorative experience.",
 
-      "In some cases, the body may respond with spontaneous shaking or neurogenic tremors. This is a natural physiological response of the nervous system, also observed in approaches such as Trauma Release Exercises (TRE®), through which the body may reduce stored tension and support its own self-regulation processes.",
+      "FLOW is recommended for those who have previously experienced bodywork or who are looking for an authentic, dynamic and integrative approach. It is ideal for improving mobility, freedom of movement, flexibility and developing a deeper connection with your body.",
 
-      "RELEASE is recommended for individuals experiencing chronic stress, emotional overload, persistent physical tension, difficulty relaxing or anyone seeking a deeper exploration of the relationship between body, emotions and the nervous system.",
+      "Benefits may include reduced muscular tension, improved mobility and posture, nervous system regulation, enhanced body awareness and a profound sense of presence and flow.",
 
-      "Benefits may include nervous system regulation, reduced physical and emotional tension, increased body awareness, a greater sense of presence and support for the body's natural capacity to restore balance.",
-
-      "*Each session includes an initial consultation dedicated to understanding your needs, your current state and your goals for the session. During your first appointment, this conversation may last up to approximately 30 minutes to allow for a deeper holistic assessment (physical, emotional and energetic), if desired. Follow-up sessions generally include a shorter consultation (10–15 minutes). The advertised duration includes both the consultation and the hands-on therapeutic work.",
+      "*Each session includes a brief consultation to better understand your needs and establish the direction of the treatment. The advertised duration includes both this conversation and the hands-on bodywork session.",
 
       "*After completing your online booking, you will receive a message within 24 hours with instructions for paying the 50% deposit, unless you are using a membership or gift card.",
 
@@ -158,7 +136,7 @@ services:
   isGroup: true,
   price: "600lei",
   duration: "90min",
-  reserveLink: "https://app.simplymeet.me/harmoniaoptima/e-motionsomaticrelease",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/flow",
 },
 {
   name: "RITUAL",
@@ -187,19 +165,17 @@ services:
   reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicritual",
 },
 {
-  name: "REBORN",
-  summary: "Signature Bodywork",
+  name: "RECHARGE",
+  summary: "Bodywork • Two Key Areas",
   description:
     [
-      "REBORN is the signature experience of the Tiberiu Bozi Method and represents the most complete bodywork session I offer. The 120-minute format allows every stage of the experience to unfold naturally, respecting your body's own rhythm without feeling rushed.",
+      "RECHARGE is a 60-minute bodywork session designed to restore balance where your body needs it most. Depending on your individual needs, we typically work on two key areas of the body or one entire half of the body.",
 
-      "The session begins with a conversation dedicated to understanding your current state and your body's needs. Every experience is intuitively designed rather than following a fixed protocol, allowing techniques and rhythm to adapt continuously to your body's responses.",
+      "The session begins with a brief conversation to understand how you are feeling and to establish the focus of your treatment. Every session is fully personalised and adapted to your body rather than following a fixed protocol.",
 
-      "Throughout the session we work on the entire body using an integrative approach that may include bodywork techniques, fascial work, joint mobilisations, stretching, acupressure and intuitive touch. The extended duration allows deeper exploration of areas requiring more attention while preserving the fluidity of the overall experience.",
+      "Through a combination of bodywork techniques, fascial work, acupressure and gentle mobilisations, the session helps reduce muscular tension, relax the nervous system and restore a greater sense of vitality and balance.",
 
-      "REBORN is recommended for those seeking the complete Tiberiu Bozi Method, whether as a first experience or as part of an ongoing wellbeing journey.",
-
-      "Benefits may include deep relaxation, reduced muscular tension, improved mobility, nervous system regulation, enhanced body awareness and a profound sense of balance, vitality and reconnection.",
+      "RECHARGE is ideal if you want to dedicate more time to your body without booking a full-body session. It is perfect for regular maintenance, recovery after demanding periods or for anyone looking to integrate bodywork into their ongoing wellbeing routine.",
 
       "*Each session includes a brief consultation to better understand your needs and establish the direction of the treatment. The advertised duration includes both this conversation and the hands-on bodywork session.",
 
@@ -208,69 +184,39 @@ services:
       "*Appointments may be rescheduled or cancelled up to 48 hours before the session. For cancellations or rescheduling requests made less than 48 hours in advance, the session will be deducted from your membership or gift card, or the 50% deposit will be retained for individual bookings.",
     ],
   isGroup: true,
-  price: "700lei",
-  duration: "120min",
-  reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonicreborn",
+  price: "400lei",
+  duration: "60min",
+  reserveLink: "https://app.simplymeet.me/harmoniaoptima/recharge",
 },
 {
-  name: "ARRIVE Membership • 20% OFF",
-  summary: "2 Sessions / Week",
+  name: "REBORN Membership • 20% OFF",
+  summary: "1 Session Every 2 Weeks",
   description:
     [
-      "ARRIVE Membership is designed for those who want to make bodywork part of their weekly routine. Through focused 30-minute sessions, you can regularly care for a key area of your body and help prevent the build-up of tension before it becomes discomfort.",
+      "REBORN Membership is designed for those who wish to experience the complete Tiberiu Bozi Method on a consistent basis. It offers the deepest and most comprehensive bodywork experience while supporting a long-term journey of wellbeing and self-care.",
 
       "Membership Details:",
 
-      "- 6 ARRIVE sessions (30 minutes each).",
+      "- 6 REBORN sessions (120 minutes each).",
 
-      "- Save 20% compared to booking individual sessions. Membership price: 960 lei (instead of 1200 lei).",
+      "- Save 20% compared to booking individual sessions. Membership price: 3360 lei (instead of 4200 lei).",
 
-      "- Recommended frequency: 2 sessions per week.",
+      "- Recommended frequency: 1 session every 2 weeks.",
 
-      "- Valid for 4 weeks from the date of purchase.",
+      "- Valid for 8 weeks from the date of purchase.",
 
       "- Full payment is required before your first appointment.",
 
-      "ARRIVE Membership is ideal for regular maintenance, prevention and anyone looking for an accessible way to integrate bodywork into their lifestyle.",
+      "REBORN Membership is the best choice for those committed to an ongoing process of recovery, regulation and reconnection through the complete Tiberiu Bozi Method.",
 
       "*Appointments may be rescheduled with at least 48 hours' notice.",
 
       "*Unused sessions cannot be carried over after the membership expires.",
     ],
   isGroup: true,
-  price: "960lei",
-  duration: "6 x 30min",
-  reserveLink: "https://wa.link/v3ry6g",
-},
-{
-  name: "RECHARGE Membership • 20% OFF",
-  summary: "1 Session / Week",
-  description:
-    [
-      "RECHARGE Membership is designed for those who want to maintain their physical wellbeing through regular bodywork sessions. It offers the ideal balance between consistency and flexibility, helping you restore energy and prevent the accumulation of tension.",
-
-      "Membership Details:",
-
-      "- 6 RECHARGE sessions (60 minutes each).",
-
-      "- Save 20% compared to booking individual sessions. Membership price: 1920 lei (instead of 2400 lei).",
-
-      "- Recommended frequency: 1 session per week.",
-
-      "- Valid for 6 weeks from the date of purchase.",
-
-      "- Full payment is required before your first appointment.",
-
-      "RECHARGE Membership is perfect for those who wish to maintain their body, improve recovery and make bodywork part of their weekly wellbeing routine.",
-
-      "*Appointments may be rescheduled with at least 48 hours' notice.",
-
-      "*Unused sessions cannot be carried over after the membership expires.",
-    ],
-  isGroup: true,
-  price: "1920lei",
-  duration: "6 x 60min",
-  reserveLink: "https://wa.link/bztmca",
+  price: "3360lei",
+  duration: "6 x 120min",
+  reserveLink: "https://wa.link/lwa3wa",
 },
 {
   name: "FLOW Membership • 20% OFF",
@@ -305,34 +251,64 @@ services:
   reserveLink: "https://wa.link/peko4i",
 },
 {
-  name: "REBORN Membership • 20% OFF",
-  summary: "1 Session Every 2 Weeks",
+  name: "RECHARGE Membership • 20% OFF",
+  summary: "1 Session / Week",
   description:
     [
-      "REBORN Membership is designed for those who wish to experience the complete Tiberiu Bozi Method on a consistent basis. It offers the deepest and most comprehensive bodywork experience while supporting a long-term journey of wellbeing and self-care.",
+      "RECHARGE Membership is designed for those who want to maintain their physical wellbeing through regular bodywork sessions. It offers the ideal balance between consistency and flexibility, helping you restore energy and prevent the accumulation of tension.",
 
       "Membership Details:",
 
-      "- 6 REBORN sessions (120 minutes each).",
+      "- 6 RECHARGE sessions (60 minutes each).",
 
-      "- Save 20% compared to booking individual sessions. Membership price: 3360 lei (instead of 4200 lei).",
+      "- Save 20% compared to booking individual sessions. Membership price: 1920 lei (instead of 2400 lei).",
 
-      "- Recommended frequency: 1 session every 2 weeks.",
+      "- Recommended frequency: 1 session per week.",
 
-      "- Valid for 8 weeks from the date of purchase.",
+      "- Valid for 6 weeks from the date of purchase.",
 
       "- Full payment is required before your first appointment.",
 
-      "REBORN Membership is the best choice for those committed to an ongoing process of recovery, regulation and reconnection through the complete Tiberiu Bozi Method.",
+      "RECHARGE Membership is perfect for those who wish to maintain their body, improve recovery and make bodywork part of their weekly wellbeing routine.",
 
       "*Appointments may be rescheduled with at least 48 hours' notice.",
 
       "*Unused sessions cannot be carried over after the membership expires.",
     ],
   isGroup: true,
-  price: "3360lei",
-  duration: "6 x 120min",
-  reserveLink: "https://wa.link/lwa3wa",
+  price: "1920lei",
+  duration: "6 x 60min",
+  reserveLink: "https://wa.link/bztmca",
+},
+{
+  name: "ARRIVE Membership • 20% OFF",
+  summary: "2 Sessions / Week",
+  description:
+    [
+      "ARRIVE Membership is designed for those who want to make bodywork part of their weekly routine. Through focused 30-minute sessions, you can regularly care for a key area of your body and help prevent the build-up of tension before it becomes discomfort.",
+
+      "Membership Details:",
+
+      "- 6 ARRIVE sessions (30 minutes each).",
+
+      "- Save 20% compared to booking individual sessions. Membership price: 960 lei (instead of 1200 lei).",
+
+      "- Recommended frequency: 2 sessions per week.",
+
+      "- Valid for 4 weeks from the date of purchase.",
+
+      "- Full payment is required before your first appointment.",
+
+      "ARRIVE Membership is ideal for regular maintenance, prevention and anyone looking for an accessible way to integrate bodywork into their lifestyle.",
+
+      "*Appointments may be rescheduled with at least 48 hours' notice.",
+
+      "*Unused sessions cannot be carried over after the membership expires.",
+    ],
+  isGroup: true,
+  price: "960lei",
+  duration: "6 x 30min",
+  reserveLink: "https://wa.link/v3ry6g",
 },
 {
   name: "Harmonic Union",
