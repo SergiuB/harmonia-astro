@@ -90,7 +90,7 @@ description:
   
   "Symphony of the Cells continues the process through the systematic application of essential oils, using Symphony of the Cells™ protocols created to support the body’s different systems and its natural processes of balance and regulation.",
   
-  "The Harmonic Focus Massage brings the body into a profound state of relaxation and presence through techniques adapted to your individual needs, combining elements of holistic massage, fascial work, and the release of accumulated tension stored within the body.",
+  "The RECHARGE Massage brings the body into a profound state of relaxation and presence through techniques adapted to your individual needs, combining elements of holistic massage, fascial work, and the release of accumulated tension stored within the body.",
   
   "The experience is completed with Cranio Relief — Facial Journey, a craniosacral and facial therapy experience with Kobido-inspired elements, dedicated to deep relaxation, tension release, and reconnecting with a state of inner calm and safety.",
   
