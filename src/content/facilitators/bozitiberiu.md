@@ -457,7 +457,7 @@ services:
           "Un pachet unic, creat pentru a aduce corpul și mintea într-o stare profundă de echilibru și armonie.",
           "✨ Zyto Scan (60 min) – o diagnoză subtilă a corpului, care analizează nivelurile energetice, funcționale, emoționale și mentale, pentru a descoperi exact unde există dezechilibre.",
           "✨ Simfonia Celulelor (30 min) – aplicarea sistematică a uleiurilor esențiale, direcționată pe baza diagnozei, pentru a susține vindecarea și realinierea corpului.",
-          "✨ Harmonic Reborn (90 min) – masaj holistic adaptat în funcție de nevoile tale, care aduce corpul în homeostază și eliberează tensiunile profunde.",
+          "✨ RELEASE (90 min) – masaj holistic adaptat în funcție de nevoile tale, care aduce corpul în homeostază și eliberează tensiunile profunde.",
           "🌿 Cele trei etape se completează natural, creând o experiență personalizată, intensă și transformatoare, care te ajută să beneficiezi la maximum exact acolo unde corpul și mintea ta au nevoie.",
           "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
           "*Reprogramările sau anulările, indiferent de motiv, trebuie efectuate cu cel puțin 48 de ore înainte de sesiune. În cazul reprogramărilor sau anulărilor cu mai puțin de 48 de ore înainte, se va pierde sesiunea dacă dețineți un giftcard sau un abonament, iar în cazul plăților individuale, avansul de 50% nu va fi returnat.",
@@ -477,7 +477,7 @@ description:
       
  "Simfonia Celulelor continuă procesul prin aplicarea sistematică a uleiurilor esențiale, utilizând protocoalele Symphony of the Cells™, concepute pentru a susține diferitele sisteme ale corpului și procesele sale naturale de echilibrare și reglare.",
       
-      "Masajul Harmonic Focus aduce corpul într-o stare profundă de relaxare și prezență prin tehnici adaptate nevoilor tale, combinând elemente de masaj holistic, lucru fascial și eliberare a tensiunilor acumulate în corp.",
+      "Masajul RECHARGE aduce corpul într-o stare profundă de relaxare și prezență prin tehnici adaptate nevoilor tale, combinând elemente de masaj holistic, lucru fascial și eliberare a tensiunilor acumulate în corp.",
       
       "Experiența este completată de Cranio Relief — Facial Journey, o călătorie cranio-sacrală și facială cu elemente Kobido, dedicată relaxării profunde, eliberării tensiunilor și reconectării cu o stare de calm și siguranță interioară.",
       
@@ -507,7 +507,7 @@ description:
       "Ce include:",
       "ZYTO Scan – 60 min",
 "Simfonia Celulelor – 30 min",
-"Harmonic Focus – 60 min",
+"RECHARGE – 60 min",
 "Acupunctură – 60 min",
 "sau Acupunctură + Ventuze / dacă este recomandat",
       
@@ -537,7 +537,7 @@ description:
           "Ce Include Pachetul",
           "Zyto, Harmonic Spa, Simfonia Celulelor – Delia te ghidează printr-o experiență completă de armonizare și regenerare. Scanarea Zyto analizează starea energetică, emoțională, mentală și fizică, oferind o imagine clară asupra dezechilibrelor subtile. Harmonic Spa aduce relaxare profundă prin Gua Sha, masajul capului și Ear Candling, iar Simfonia Celulelor, prin aplicarea uleiurilor esențiale Doterra, susține echilibrul emoțional și regenerarea celulară.",
           "QiNeiZang - Alina Carmina foloseste o tehnică de masaj abdominal profundă, care se concentrează pe organele interne. Acest tratament ajută la detoxifierea organismului, îmbunătățirea funcționării organelor și eliberarea blocajelor energetice.",
-          "Harmonic Reborn - Tiberiu Bozi oferă un masaj holistic complet si complex ce integrează diverse tehnici pentru a aduce relaxare profundă și revitalizare. Harmonic Reborn este conceput pentru a echilibra corpul, mintea și spiritul, oferind o experiență de vindecare completă.",
+          "REBORN - Tiberiu Bozi oferă un masaj holistic complet si complex ce integrează diverse tehnici pentru a aduce relaxare profundă și revitalizare. Harmonic Reborn este conceput pentru a echilibra corpul, mintea și spiritul, oferind o experiență de vindecare completă.",
           "Rezervă-ți acum locul pentru a experimenta o transformare holistică unică și profundă.",
           "Contactează-ne pentru a afla mai multe detalii și pentru a face o programare. Vindecarea ta completă este la un pas distanță!",
           "*După efectuarea programării pe website, veți primi un mesaj în termen de 24 de ore pentru achitarea avansului de 50%, dacă nu dețineți un abonament sau giftcard.",
