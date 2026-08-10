@@ -199,7 +199,7 @@ services:
           "What the package includes",
           "Zyto, Harmonic Spa, Symphony of Cells – Delia guides you through a complete harmonization and regeneration experience. The Zyto scan analyzes energetic, emotional, mental and physical states, offering a clear picture of subtle imbalances. Harmonic Spa brings deep relaxation through Gua Sha, head massage and ear candling, while Symphony of Cells, using doTERRA essential oils, supports emotional balance and cellular regeneration.",
           "QiNeiZang – Alina Carmina uses a deep abdominal massage technique focusing on internal organs. This treatment helps detoxify the body, improve organ function and release energetic blockages.",
-          "Harmonic Reborn – Tiberiu Bozi offers a full and complex holistic massage integrating various techniques to bring deep relaxation and revitalization. Harmonic Reborn is designed to balance body, mind and spirit for a complete healing experience.",
+          "REBORN – Tiberiu Bozi offers a full and complex holistic massage integrating various techniques to bring deep relaxation and revitalization. Harmonic Reborn is designed to balance body, mind and spirit for a complete healing experience.",
           "Book now to experience a unique and profound holistic transformation.",
           "Contact us to learn more details and to make a booking. Your complete healing is one step away!",
           "*After booking through the website you will receive a message within 24 hours to pay a 50% deposit if you do not have a subscription or gift card.",
