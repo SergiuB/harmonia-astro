@@ -55,7 +55,7 @@ services:
 
     "ZYTO Scan – 60 min",
     "Symphony of the Cells – 30 min",
-    "Harmonic Focus – 60 min",
+    "RECHARGE – 60 min",
     "Acupuncture – 60 min",
     "or Acupuncture + Cupping Therapy, if recommended",
 
