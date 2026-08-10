@@ -54,7 +54,7 @@ description:
       "Ce include:",
       "ZYTO Scan – 60 min",
 "Simfonia Celulelor – 30 min",
-"Harmonic Focus – 60 min",
+"RECHARGE – 60 min",
 "Acupunctură – 60 min",
 "sau Acupunctură + Ventuze / dacă este recomandat",
       
