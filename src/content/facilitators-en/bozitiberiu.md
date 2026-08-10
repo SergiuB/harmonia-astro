@@ -497,7 +497,7 @@ services:
 
       "Symphony of the Cells® – 30 min",
 
-      "Harmonic Focus – 60 min",
+      "RECHARGE – 60 min",
 
       "Acupuncture – 60 min",
 
