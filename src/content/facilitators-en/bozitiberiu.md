@@ -446,7 +446,7 @@ services:
       isGroup: true,
       price: "1100lei",
       duration: "3h",
-      reserveLink: "https://wa.link/hc8cvw",
+      reserveLink: "https://wa.link/59gjys",
     },
           {
   name: "ROOT TERRApy",
