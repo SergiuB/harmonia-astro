@@ -331,7 +331,7 @@ services:
           "A unique package designed to bring body and mind into deep balance and harmony.",
           "✨ Zyto Scan (60 min) — a subtle diagnostic that analyzes energetic, functional, emotional and mental levels to reveal imbalances.",
           "✨ Symphony of the Cells (30 min) — systematic essential oil applications guided by the diagnosis to support healing and realignment.",
-          "✨ Harmonic Reborn (90 min) — a tailored holistic massage that brings the body into homeostasis and releases deep tension.",
+          "✨ REGULATE (90 min) — a tailored holistic massage that brings the body into homeostasis and releases deep tension.",
           "🌿 These three stages combine naturally to create a personalized, transformative experience that targets exactly what your body and mind need.",
           "*After booking via the website, you will receive a message within 24 hours with instructions for paying a 50% deposit if you do not hold a subscription or gift card.",
           "*Rescheduling or cancellations must be made at least 48 hours before the session. Less than 48 hours' notice results in forfeiture for gift card/subscription holders; deposits are non-refundable for individual payments.",
@@ -355,7 +355,7 @@ services:
 
     "ZYTO Scan – 60 min",
     "Symphony of the Cells – 30 min",
-    "Harmonic Focus – 60 min",
+    "RECHARGE – 60 min",
     "Acupuncture – 60 min",
     "or Acupuncture + Cupping Therapy, if recommended",
 
@@ -385,7 +385,7 @@ description:
   
   "Symphony of the Cells continues the process through the systematic application of essential oils, using Symphony of the Cells™ protocols created to support the body’s different systems and its natural processes of balance and regulation.",
   
-  "The Harmonic Focus Massage brings the body into a profound state of relaxation and presence through techniques adapted to your individual needs, combining elements of holistic massage, fascial work, and the release of accumulated tension stored within the body.",
+  "The RECHARGE Massage brings the body into a profound state of relaxation and presence through techniques adapted to your individual needs, combining elements of holistic massage, fascial work, and the release of accumulated tension stored within the body.",
   
   "The experience is completed with Cranio Relief — Facial Journey, a craniosacral and facial therapy experience with Kobido-inspired elements, dedicated to deep relaxation, tension release, and reconnecting with a state of inner calm and safety.",
   
@@ -412,7 +412,7 @@ reserveLink: "https://wa.link/kzxk2i",
           "What's included",
           "Zyto, Harmonic Spa, Symphony of the Cells — Delia guides you through a complete harmonization and regeneration journey. The Zyto scan analyzes energetic, emotional, mental and physical balance. Harmonic Spa provides deep relaxation through Gua Sha, head massage and ear candling, while Symphony of the Cells uses essential oil applications to support emotional balance and cellular regeneration.",
           "QiNeiZang — a deep abdominal massage technique (offered by Alina Carmina) focusing on internal organs to aid detoxification, improve organ function and release energetic blockages.",
-          "Harmonic Reborn — a comprehensive holistic massage by Tiberiu Bozi that integrates diverse techniques to bring deep relaxation and revitalization, balancing body, mind and spirit.",
+          "REBORN — a comprehensive holistic massage by Tiberiu Bozi that integrates diverse techniques to bring deep relaxation and revitalization, balancing body, mind and spirit.",
           "Reserve your place now to experience a unique and transformative holistic journey.",
           "Contact us to learn more and book your session. Complete healing is within reach!",
           "*After booking via the website, you will receive a message within 24 hours with instructions for paying a 50% deposit if you do not hold a subscription or gift card.",
