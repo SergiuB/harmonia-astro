@@ -117,7 +117,7 @@ description:
       
     "Simfonia Celulelor continuă procesul prin aplicarea sistematică a uleiurilor esențiale, utilizând protocoalele Symphony of the Cells™, concepute pentru a susține diferitele sisteme ale corpului și procesele sale naturale de echilibrare și reglare.",
       
-      "Masajul Harmonic Focus aduce corpul într-o stare profundă de relaxare și prezență prin tehnici adaptate nevoilor tale, combinând elemente de masaj holistic, lucru fascial și eliberare a tensiunilor acumulate în corp.",
+      "Masajul RECHARGE aduce corpul într-o stare profundă de relaxare și prezență prin tehnici adaptate nevoilor tale, combinând elemente de masaj holistic, lucru fascial și eliberare a tensiunilor acumulate în corp.",
       
       "Experiența este completată de Cranio Relief — Facial Journey, o călătorie cranio-sacrală și facială cu elemente Kobido, dedicată relaxării profunde, eliberării tensiunilor și reconectării cu o stare de calm și siguranță interioară.",
       
