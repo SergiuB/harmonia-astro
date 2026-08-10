@@ -430,118 +430,105 @@ services:
   duration: "90min",
   reserveLink: "https://app.simplymeet.me/harmoniaoptima/harmonic2",
 },
-{
-  name: "Harmonic Alignment",
-  summary: "Holistic Experience • Full Body",
-  description:
-    [
-      "Harmonic Alignment is a comprehensive holistic experience that combines complementary therapeutic approaches into a personalised journey of wellbeing. Rather than focusing on a single technique, this experience is designed to explore the body from multiple perspectives and create the conditions for greater balance, awareness and vitality.",
-
-      "The session begins with an in-depth conversation to better understand your current physical, emotional and lifestyle needs. Based on this assessment, the experience is tailored specifically to you, allowing the session to evolve naturally according to your body's responses.",
-
-      "Depending on your needs, Harmonic Alignment may integrate bodywork, aromatherapy, breathing techniques, fascial work, mobility, acupressure, somatic practices and other holistic approaches available within the Tiberiu Bozi Method.",
-
-      "This experience is ideal for those looking for a personalised, integrative approach rather than a standard treatment. Every session is unique, offering the time and flexibility needed to address multiple aspects of wellbeing.",
-
-      "Benefits may include deep relaxation, nervous system regulation, improved mobility, increased body awareness and a greater sense of physical, emotional and mental balance.",
-
-      "*Each session includes an in-depth consultation. The advertised duration includes both the consultation and the therapeutic experience.",
-
-      "*After completing your online booking, you will receive a message within 24 hours with instructions for paying the 50% deposit, unless you are using a membership or gift card.",
-
-      "*Appointments may be rescheduled or cancelled up to 48 hours before the session. For cancellations or rescheduling requests made less than 48 hours in advance, the session will be deducted from your membership or gift card, or the 50% deposit will be retained for individual bookings.",
-    ],
-  isGroup: true,
-  price: "1100lei",
-  duration: "3h",
-  reserveLink: "https://wa.link/4hj55q",
-},
-{
-  name: "RESET TERRApy",
-  summary: "Holistic Program • Full Body",
-  description:
-    [
-      "RESET TERRApy is a multidisciplinary holistic experience created by the Harmonia Terra team for those seeking a complete reset of body and mind. By combining complementary therapies into one carefully designed journey, this program supports the body's natural ability to restore balance and vitality.",
-
-      "Each stage of the experience builds upon the previous one, creating a seamless and personalised therapeutic process. Every participant receives an approach tailored to their current needs.",
-
-      "The program may include bodywork, aromatherapy, wellness assessment, acupuncture and other complementary therapies delivered by multiple practitioners working together as one integrated team.",
-
-      "RESET TERRApy is ideal for those looking for more than a single therapy session. It offers a complete holistic experience where different therapeutic perspectives come together to support long-term wellbeing.",
-
-      "*Each therapy includes a short introductory consultation. The advertised duration includes both the consultation and the therapeutic experience.",
-
-      "*After completing your online booking, you will receive a message within 24 hours with instructions regarding the required 50% deposit.",
-
-      "*Appointments may be rescheduled or cancelled up to 48 hours before the session.",
-    ],
-  isGroup: true,
-  price: "1100lei",
-  duration: "4h",
-  reserveLink: "https://wa.link/kzxk2i",
-},
-{
+   {
+      name: "Harmonic Alignment",
+      summary: "Holistic Package : Full body",
+      description:
+        [
+          "A unique package designed to bring body and mind into deep balance and harmony.",
+          "✨ Zyto Scan (60 min) — a subtle diagnostic that analyzes energetic, functional, emotional and mental levels to reveal imbalances.",
+          "✨ Symphony of the Cells (30 min) — systematic essential oil applications guided by the diagnosis to support healing and realignment.",
+          "✨ REGULATE (90 min) — a tailored holistic massage that brings the body into homeostasis and releases deep tension.",
+          "🌿 These three stages combine naturally to create a personalized, transformative experience that targets exactly what your body and mind need.",
+          "*After booking via the website, you will receive a message within 24 hours with instructions for paying a 50% deposit if you do not hold a subscription or gift card.",
+          "*Rescheduling or cancellations must be made at least 48 hours before the session. Less than 48 hours' notice results in forfeiture for gift card/subscription holders; deposits are non-refundable for individual payments.",
+        ],
+      isGroup: true,
+      price: "1100lei",
+      duration: "3h",
+      reserveLink: "https://wa.link/hc8cvw",
+    },
+          {
   name: "ROOT TERRApy",
-  summary: "Holistic Program • Full Body",
-  description:
-    [
-      "Find the cause. Restore balance. Reconnect with yourself.",
+  summary: "Holistic Package : Full Body",
+  description: [
+    "Discover the root cause. Restore balance. Reconnect with yourself.",
 
-      "ROOT TERRApy is an integrative therapeutic experience created by the Harmonia Terra team for those seeking more than symptom relief. By combining functional wellness assessment, personalised aromatherapy, holistic bodywork and Traditional Chinese Medicine, this experience aims to identify underlying imbalances while supporting the body's natural self-regulation processes.",
+    "ROOT TERRApy is an integrative therapeutic protocol created by the Harmonia Terra team for those seeking more than temporary symptom relief. By combining functional assessment, personalized aromatherapy, holistic bodywork, and Traditional Chinese Medicine, this experience is designed to identify underlying imbalances and support the body's natural self-regulation processes.",
 
-      "Each stage complements the next, creating a deeply personalised journey tailored to your individual needs.",
+    "Each stage naturally complements the next, creating a personalized and comprehensive experience tailored to your individual needs.",
 
-      "What's Included:",
+    "What's Included:",
 
-      "ZYTO Wellness Scan – 60 min",
+    "ZYTO Scan – 60 min",
+    "Symphony of the Cells – 30 min",
+    "RECHARGE – 60 min",
+    "Acupuncture – 60 min",
+    "or Acupuncture + Cupping Therapy, if recommended",
 
-      "Symphony of the Cells® – 30 min",
+    "Investment",
 
-      "RECHARGE – 60 min",
+    "Individual Service Value: 1,300 RON",
+    "ROOT TERRApy Experience: 1,000 RON",
 
-      "Acupuncture – 60 min",
+    "*Each session begins with a brief consultation to better understand your current condition, needs, and the direction of your personalized protocol. The duration displayed includes both the consultation and the therapeutic experience.",
 
-      "or Acupuncture + Cupping Therapy (when recommended).",
+    "*After booking through our website, you will receive a message within 24 hours with payment instructions for the 50% deposit, unless you have an active membership or gift card.",
 
-      "Investment:",
-
-      "Individual service value: 1,300 lei",
-
-      "ROOT TERRApy: 1,000 lei",
-
-      "*Each therapy includes a short introductory consultation. The advertised duration includes both the consultation and the therapeutic experience.",
-
-      "*After completing your online booking, you will receive a message within 24 hours with instructions regarding the required 50% deposit.",
-
-      "*Appointments may be rescheduled or cancelled up to 48 hours before the session.",
-    ],
+    "*Rescheduling or cancellations, regardless of the reason, must be made at least 48 hours before your appointment. If a session is cancelled or rescheduled with less than 48 hours' notice, the session will be considered used for gift card or membership holders. For individual bookings, the 50% deposit is non-refundable.",
+  ],
   isGroup: true,
-  price: "1000lei",
+  price: "1000 RON",
   duration: "3h 30min",
   reserveLink: "https://wa.link/aq8cyu",
 },
-{
-  name: "7 Stars TERRApy",
-  summary: "Personalised Holistic Program",
-  description:
-    [
-      "7 Stars TERRApy is the most comprehensive holistic experience offered at Harmonia Terra. It brings together multiple therapists and complementary therapies into a fully personalised one-day wellbeing journey.",
-
-      "Rather than following a predefined protocol, every edition is carefully designed around your individual needs, allowing each specialist to contribute from their area of expertise.",
-
-      "This immersive experience may include bodywork, acupuncture, aromatherapy, wellness assessment, somatic therapy, breathing practices and other complementary approaches, creating a truly multidisciplinary therapeutic journey.",
-
-      "7 Stars TERRApy is designed for those who wish to dedicate an entire day to their wellbeing and experience the collective expertise of the Harmonia Terra team.",
-
-      "*Each experience includes consultations with the practitioners involved.",
-
-      "*After completing your booking, you will receive further information regarding payment and scheduling.",
-    ],
-  isGroup: true,
-  price: "1650lei",
-  duration: "7h",
-  reserveLink: "https://wa.link/32mm10",
+        {
+name: "RESET TERRApy",
+summary: "Holistic Package : Full Body",
+description:
+[
+"RESET TERRApy is an approximately 4-hour holistic package created to support nervous system regulation, body reconnection, and the restoration of physical, emotional, and mental balance. The experience combines holistic assessment, applied aromatherapy, therapeutic touch, and deep relaxation techniques in a fluid process of reset and integration.",
+  "The protocol begins with a Zyto Scan & Interpretation — a holistic assessment that offers insight into the body’s energetic, functional, and emotional imbalances. Based on this evaluation, the direction of the entire experience is tailored accordingly.",
+  
+  "Symphony of the Cells continues the process through the systematic application of essential oils, using Symphony of the Cells™ protocols created to support the body’s different systems and its natural processes of balance and regulation.",
+  
+  "The RECHARGE Massage brings the body into a profound state of relaxation and presence through techniques adapted to your individual needs, combining elements of holistic massage, fascial work, and the release of accumulated tension stored within the body.",
+  
+  "The experience is completed with Cranio Relief — Facial Journey, a craniosacral and facial therapy experience with Kobido-inspired elements, dedicated to deep relaxation, tension release, and reconnecting with a state of inner calm and safety.",
+  
+  "The four stages naturally complement one another, creating a deeply holistic experience of reset, integration, and recalibration for both the body and nervous system.",
+  
+  "*Each session includes a short initial consultation dedicated to understanding your needs, current state, and the direction of the protocol. The displayed duration includes both this introductory discussion and the effective therapeutic experience.",
+  
+  "*After completing your booking through the website, you will receive a message within 24 hours regarding the 50% deposit payment, unless you already own a membership or gift card.",
+  
+  "*Rescheduling or cancellations, regardless of the reason, must be made at least 48 hours before the session. In the case of rescheduling or cancellations made less than 48 hours in advance, the session will be considered lost if you own a gift card or membership, and for individual payments, the 50% deposit will not be refunded.",
+],
+isGroup: true,
+price: "1100lei",
+duration: "4h",
+reserveLink: "https://wa.link/kzxk2i",
 },
+    {
+      name: "7 Stars TERRApy",
+      summary: "Personalized holistic package",
+      description:
+        [
+          "Experience supreme healing for body, mind and soul.",
+          "We present our premium holistic therapy package: 7 Stars TERRApy. This exclusive package combines traditional and modern techniques for profound, comprehensive healing. You will receive 7 hours of specialist treatments designed to bring harmony across all aspects of your life.",
+          "What's included",
+          "Zyto, Harmonic Spa, Symphony of the Cells — Delia guides you through a complete harmonization and regeneration journey. The Zyto scan analyzes energetic, emotional, mental and physical balance. Harmonic Spa provides deep relaxation through Gua Sha, head massage and ear candling, while Symphony of the Cells uses essential oil applications to support emotional balance and cellular regeneration.",
+          "QiNeiZang — a deep abdominal massage technique (offered by Alina Carmina) focusing on internal organs to aid detoxification, improve organ function and release energetic blockages.",
+          "REBORN — a comprehensive holistic massage by Tiberiu Bozi that integrates diverse techniques to bring deep relaxation and revitalization, balancing body, mind and spirit.",
+          "Reserve your place now to experience a unique and transformative holistic journey.",
+          "Contact us to learn more and book your session. Complete healing is within reach!",
+          "*After booking via the website, you will receive a message within 24 hours with instructions for paying a 50% deposit if you do not hold a subscription or gift card.",
+          "*Rescheduling or cancellations must be made at least 48 hours before the session. Less than 48 hours' notice results in forfeiture for gift card/subscription holders; deposits are non-refundable for individual payments.",
+        ],
+      price: "1650lei",
+      duration: "7h",
+      reserveLink: "https://wa.link/32mm10",
+    },
 {
   name: "RESPIRO",
   summary: "Urban Holistic Retreat",
