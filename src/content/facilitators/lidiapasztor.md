@@ -35,7 +35,7 @@ Sistemul nervos parasimpatic se activează starea de rest and digest, ceea ce ex
         ], 
         price: "70 lei", 
         duration: "75 min", 
-        reserveLink: "https://wa.link/umxo23",
+        reserveLink: "https://wa.link/coa8of",
         },
          { 
     name: "Abonament Yin Yoga",
@@ -60,7 +60,7 @@ Sistemul nervos parasimpatic se activează starea de rest and digest, ceea ce ex
         ], 
         price: "230 lei", 
         duration: "4 x 75 min", 
-        reserveLink: "https://wa.link/umxo23",
+        reserveLink: "https://wa.link/coa8of",
         },
               { 
     name: "Abonament Yin Yoga",
@@ -85,7 +85,7 @@ Sistemul nervos parasimpatic se activează starea de rest and digest, ceea ce ex
         ], 
         price: "390 lei", 
         duration: "8 x 75 min", 
-        reserveLink: "https://wa.link/umxo23", 
+        reserveLink: "https://wa.link/coa8of", 
         },
   ]
 location: "Harmonia Terra - Strada Cercului 18, București" #optional
@@ -95,7 +95,7 @@ contact: {
     phone: "0742850859",
     instagram: "https://www.instagram.com/yogawithlidia?stkn=ZTRvZWszd3EyMW5t",
     facebook: "https://www.facebook.com/share/18HzMJVNzd/",
-    whatsapp: "https://wa.link/umxo23", #optional
+    whatsapp: "https://wa.link/coa8of", #optional
   }
 ---
 
