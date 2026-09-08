@@ -28,7 +28,7 @@ services:
 Fascia — țesutul care înfășoară mușchii și organele — se hidratează și devine mai elastică.
 Sistemul nervos parasimpatic se activează starea de rest and digest, ceea ce explică senzația profundă de calm de la final.",
           "🧡Cum se simte, concret:",
-          "Primele minute într-o postură pot fi ușor incomode — nu dureroase, ci „prezente". Corpul nu e obișnuit să stea atât de mult într-un singur loc. E normal. Respirația te ajută să treci prin acel prag, iar apoi, de cele mai multe ori, urmează o relaxare mult mai profundă decât te-ai fi așteptat.",
+          "Primele minute într-o postură pot fi ușor incomode — nu dureroase, ci prezente. Corpul nu e obișnuit să stea atât de mult într-un singur loc. E normal. Respirația te ajută să treci prin acel prag, iar apoi, de cele mai multe ori, urmează o relaxare mult mai profundă decât te-ai fi așteptat.",
           "Nu ai nevoie de experiență sau de flexibilitate — orice postură poate fi adaptată cu suporturi, pentru orice nivel.",
           "Te rog să ajungi cu câteva minute mai devreme să ai timp să te schimbi.",
           "Te aștept cu bucurie 🤗",
@@ -51,9 +51,9 @@ Sistemul nervos parasimpatic se activează starea de rest and digest, ceea ce ex
           "👭Ce se întâmplă în corp:",
           "Articulațiile primesc stimulare blândă, care le hrănește și le menține sănătoase.
 Fascia — țesutul care înfășoară mușchii și organele — se hidratează și devine mai elastică.
-Sistemul nervos parasimpatic se activează (starea de „rest and digest"), ceea ce explică senzația profundă de calm de la final.",
+Sistemul nervos parasimpatic se activează starea de rest and digest, ceea ce explică senzația profundă de calm de la final.",
           "🧡Cum se simte, concret:",
-          "Primele minute într-o postură pot fi ușor incomode — nu dureroase, ci „prezente". Corpul nu e obișnuit să stea atât de mult într-un singur loc. E normal. Respirația te ajută să treci prin acel prag, iar apoi, de cele mai multe ori, urmează o relaxare mult mai profundă decât te-ai fi așteptat.",
+          "Primele minute într-o postură pot fi ușor incomode — nu dureroase, ci prezente. Corpul nu e obișnuit să stea atât de mult într-un singur loc. E normal. Respirația te ajută să treci prin acel prag, iar apoi, de cele mai multe ori, urmează o relaxare mult mai profundă decât te-ai fi așteptat.",
           "Nu ai nevoie de experiență sau de flexibilitate — orice postură poate fi adaptată cu suporturi, pentru orice nivel.",
           "Te rog să ajungi cu câteva minute mai devreme să ai timp să te schimbi.",
           "Te aștept cu bucurie 🤗",
@@ -76,9 +76,9 @@ Sistemul nervos parasimpatic se activează (starea de „rest and digest"), ceea
           "👭Ce se întâmplă în corp:",
           "Articulațiile primesc stimulare blândă, care le hrănește și le menține sănătoase.
 Fascia — țesutul care înfășoară mușchii și organele — se hidratează și devine mai elastică.
-Sistemul nervos parasimpatic se activează (starea de „rest and digest"), ceea ce explică senzația profundă de calm de la final.",
+Sistemul nervos parasimpatic se activează starea de rest and digest, ceea ce explică senzația profundă de calm de la final.",
           "🧡Cum se simte, concret:",
-          "Primele minute într-o postură pot fi ușor incomode — nu dureroase, ci „prezente". Corpul nu e obișnuit să stea atât de mult într-un singur loc. E normal. Respirația te ajută să treci prin acel prag, iar apoi, de cele mai multe ori, urmează o relaxare mult mai profundă decât te-ai fi așteptat.",
+          "Primele minute într-o postură pot fi ușor incomode — nu dureroase, ci prezente. Corpul nu e obișnuit să stea atât de mult într-un singur loc. E normal. Respirația te ajută să treci prin acel prag, iar apoi, de cele mai multe ori, urmează o relaxare mult mai profundă decât te-ai fi așteptat.",
           "Nu ai nevoie de experiență sau de flexibilitate — orice postură poate fi adaptată cu suporturi, pentru orice nivel.",
           "Te rog să ajungi cu câteva minute mai devreme să ai timp să te schimbi.",
           "Te aștept cu bucurie 🤗",
@@ -99,26 +99,23 @@ contact: {
   }
 ---
 
-De când mă știu, am fost profund conectată la lumea din jurul meu, mai senzitiva/sensibila la mediul in care traiesc. Am descoperit că emoțiile și stările psiho-emoționale pot să se somatizeze și să se manifeste prin diverse afecțiuni fizice, iar de multe ori medicii nu reușeau să descopere cauzele adevărate ale acestor probleme. De-a lungul timpului am trecut printr-un carusel de trairi care si-au spus cuvantul pe mai multe planuri. Așa am început călătoria mea de vindecare, în momentul în care am decis că vreau să îmi asum responsabilitatea propriei vindecări si transformări.
+Acum mai bine de 12 ani, am intrat pentru prima dată într-o sală de yoga din Cluj. Nu pentru că eram flexibilă sau pasionată de mișcare, ci pentru că mă durea spatele, corpul îmi era înțepenit, iar stresul își lăsase amprenta asupra mea.
 
-Primul moment de realizare a fost destul de devreme, în momentul in care am început cu dansul sportiv și mișcarea. Stările au început să se liniștească în momentul în care am început să practic sport de performanța, practicat aproape 8 ani. După o bună perioadă de pauză în care au revenit anumite afecțiuni, am realizat cât de importantă este mișcarea pentru mine.
+Îmi amintesc și acum prima clasă. Respirația părea mai grea decât orice postură, corpul îmi tremura la cele mai simple mișcări, iar a doua zi mă durea fiecare mușchi. Nu a fost ușor. Și totuși, ceva m-a făcut să mă întorc.
+Puțin câte puțin, durerile au început să se diminueze. Corpul meu a devenit mai puternic și mai mobil, iar mintea mai liniștită.
 
-În timp, am explorat multe forme de dans și mișcare (dintre care am ajuns sa și predau) – de la dans social latino, dans contemporan, diferite dansuri din cultura hip-hop, axis syllabus, contact improvisation, terapie prin dans, la diverse forme de mișcare precum calisthenics, natural movement, play-fight, pilates, tae-bo – în același timp am descoperit și puterea practicii și transformării interioare prin yoga, qigong, zen, meditații osho, vegetalism/șamanism, reiki. Am înțeles în timp cum flexibilitatea, tonusul și libertatea de mișcare a corpului este în strânsă legătură cu flexibilitatea, tonusul și libertatea gândirii, a stărilor și a emoțiilor.
+Atunci am înțeles că yoga nu schimbă doar felul în care te miști, ci și felul în care trăiești.
+Transformarea pe care am trăit-o m-a inspirat să urmez o formare acreditată de profesor de Hatha Yoga după ce m-am mutat în București.
+De atunci, yoga mă însoțește în fiecare zi și a devenit o parte din cine sunt.
 
-Toate aceste căutări personale m-au purtat prin mai multe metode din medicina alternativă și terapii complementare, studiate și aplicate pe mine: terapie prin masaj, sound healing și muzică, tehnici de respirație și meditație, terapie prin dans, fitoterapie/plante medicinale, nutriție integrativă și naturopatie, aromaterapie, ayurveda, legătura dintre afecțiuni și stările psiho-emoționale și altele asemenea.
+Cu timpul, am simțit că nu mai caut doar un corp puternic și flexibil, ci și mai multă liniște, prezență și echilibru interior. Așa am ajuns în Grecia, unde am urmat formarea în Yin Yoga – o practică ce m-a învățat puterea încetinirii și a ascultării propriului corp.
 
-În 2011 am început să practic terapia manuală, iar această pasiune m-a purtat pe un drum al învățării continue. Am studiat reflexoterapia, masajul somatic și de relaxare, limfatic, anticelulitic, cursul de technician/terapeut masseur. În 2013 am descoperit MMT (Mixed Manual Therapy) o metodă terapeutică complexă - un mix de tehnici manuale terapeutice puse la comun din diverse stiluri: masaj terapeutic thailandez, yumeiho, masajul rusesc, shiatsu. După 3 ani de studiu intens am început să aplic aceste tehnici în cadrul Fundației Varuna, iar de atunci am continuat să explorez noi practici, precum masajul fascial și deep tissue, masajul visceral al abdomenului Chi Nei Ttsang, terapia prin puncte de acupresură, meridianele miofasciale și ajustări fasciale, bucati din osteopatie și craniosacral, și explorarea continuă.
+Astăzi predau pentru oamenii care se regăsesc în povestea mea: cei care au dureri de spate, se simt obosiți, stresați și trăiesc într-un ritm accelerat.
 
-Yoga am început să studiez din 2010, și să practic asana din 2013, iar mai târziu m-am atestat ca și instructor la o școală înregistratâ Yoga Alliance. În timp, prin practica yoga, s-au petrecut multe schimbări în mine, atât fizic cât și pe celelalte planuri,”în interior și în afară”. Cel mai constant sentiment este acea prezența în tihnă, acea stare de a fi, dincolo de a fi cineva, o stare catre armonie, bunăstare.
+Cred că yoga este pentru fiecare corp, nu doar pentru cei flexibili. Nu trebuie să fii într-o anumită formă ca să începi. Trebuie doar să fii dispus să-ți oferi puțin timp și puțină răbdare.
 
-Toate acestea m-au ajutat să mă cunosc mai bine, să mă uit la mine în mod sincer, să mă accept așa cum sunt, atât cât pot, și să schimb acolo unde se poate cât se poate, m-au învățat blandețea față de mine și cei din jur, mi-au deschis și schimbat percepția și m-au ajutat să descopăr cu uimire și fascinație cât de complex și interconectat este totul (și fiinta umana).
+La clasele mele îmi doresc să te ghidez spre o reconectare cu tine însuți, cu mai multă blândețe, prezență și autenticitate. Să pleci cu un corp mai relaxat, o minte mai liniștită și sentimentul că ai făcut ceva bun pentru tine.
 
-Aliniamentul Postural a venit ca o completare perfectă pentru tot ce am învățat până atunci. Am înțeles, din nou, că reeducarea posturală nu este doar despre corp, ci și despre o reeducare interioară. Acum stiu că, atunci când corpul , mintea și inima sunt în armonie, putem experimenta o schimbare profundă. Căutarea unui echilibru, unei armonii, între minte, corp si inimă, mă ghidază în fiecare zi, iar ceea ce fac, fac din suflet.
+Dacă te regăsești în povestea mea, poate că și călătoria ta poate începe cu o singură clasă.
 
-Mă pasionează în deosebi să ghidez oamenii să-și recâștige echilibrul și sănătatea prin terapii care nu doar că aliniază corpul, ci întreaga ființă. Învataturile din călătoria mea de auto-descoperire și vindecare sunt ceva ce îmi doresc să împărtășesc și cu tine. Studiind toate aceste practici am adoptat un sistem care îmi permite să lucrez cu fiecare în mod unic și personalizat. Fiecare metodă pe care am învățat-o mi-a adus un nou unghi asupra ființarii in acest trup, iar astăzi le integrez pentru a oferi o abordare mai ampla, care merge dincolo de relaxare, concentrându-se pe recuperare și vindecare, pentru a te ajuta să îmbrațisezi și să treci prin limitările fizice și psiho-emoționale, să îți îmbunătățești postura și să îți recâștigi mobilitatea.
-
-Știu că schimbarea este o călătorie personală și că fiecare om are propriul său drum. Însă există întotdeauna o cale prin care putem găsi echilibrul și îmbunătăți starea fizică, emoțională, energetică, mentală si mintală.
-
-Terapiile pe care le ofer sunt dedicate celor care vor să simtă o transformare reală. Fie că este vorba despre eliberarea durerilor, restabilirea posturii corecte sau reconectarea cu sinele, fiecare sesiune este un pas către armonie și echilibru. Împreună vom lucra pentru ca tu să te simți mai bine, mai ușor și mai aliniat cu tine însuți.
-
-Dacă ești pregătit să faci schimbarea, te invit să pășești alături de mine într-o călătorie de aliniere, auto-descoperire și armonizare!
+🌿 Pentru că yoga nu înseamnă posturi perfecte. Înseamnă să te simți din nou acasă în propriul tău corp.
