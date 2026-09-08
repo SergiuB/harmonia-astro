@@ -35,7 +35,7 @@ The parasympathetic nervous system is activated, the state of rest and digest, w
         ], 
         price: "70 lei", 
         duration: "75 min", 
-        reserveLink: "wa.link/m6ovxk",
+        reserveLink: "https://wa.link/f0ip7o",
         },
          { 
     name: "Yin Yoga Pass",
@@ -60,7 +60,7 @@ The parasympathetic nervous system is activated, the state of rest and digest, w
         ], 
         price: "230 lei", 
         duration: "4 x 75 min", 
-        reserveLink: "wa.link/m6ovxk",
+        reserveLink: "https://wa.link/f0ip7o",
         },
               { 
     name: "Yin Yoga Pass",
@@ -85,7 +85,7 @@ The parasympathetic nervous system is activated, the state of rest and digest, w
         ], 
         price: "390 lei", 
         duration: "8 x 75 min", 
-        reserveLink: "wa.link/m6ovxk", 
+        reserveLink: "https://wa.link/f0ip7o", 
         },
   ]
 location: "Harmonia Terra - Strada Cercului 18, București" #optional
@@ -95,7 +95,7 @@ contact: {
     phone: "0742850859",
     instagram: "https://www.instagram.com/yogawithlidia?stkn=ZTRvZWszd3EyMW5t",
     facebook: "https://www.facebook.com/share/18HzMJVNzd/",
-    whatsapp: "wa.link/m6ovxk", #optional 
+    whatsapp: "https://wa.link/f0ip7o", #optional 
   } 
 ---
  
