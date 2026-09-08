@@ -2,7 +2,7 @@
 name: "Lidia Pasztor"
 featuredIndex: 5
 images: ["../images/lidia/lidia.png"]
-tags: ["Instructor", "Yin", "Yoga"]
+tags: ["Yin", "Yoga", "Instructor"]
 activities:
   [
     "group-yoga",
