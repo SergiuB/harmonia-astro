@@ -26,7 +26,7 @@ services:
           "👭Ce se întâmplă în corp:",
           "Articulațiile primesc stimulare blândă, care le hrănește și le menține sănătoase.
 Fascia — țesutul care înfășoară mușchii și organele — se hidratează și devine mai elastică.
-Sistemul nervos parasimpatic se activează (starea de „rest and digest"), ceea ce explică senzația profundă de calm de la final.",
+Sistemul nervos parasimpatic se activează starea de rest and digest, ceea ce explică senzația profundă de calm de la final.",
           "🧡Cum se simte, concret:",
           "Primele minute într-o postură pot fi ușor incomode — nu dureroase, ci „prezente". Corpul nu e obișnuit să stea atât de mult într-un singur loc. E normal. Respirația te ajută să treci prin acel prag, iar apoi, de cele mai multe ori, urmează o relaxare mult mai profundă decât te-ai fi așteptat.",
           "Nu ai nevoie de experiență sau de flexibilitate — orice postură poate fi adaptată cu suporturi, pentru orice nivel.",
@@ -35,7 +35,7 @@ Sistemul nervos parasimpatic se activează (starea de „rest and digest"), ceea
         ], 
         price: "70 lei", 
         duration: "75 min", 
-        reserveLink: "https://wa.link/umxo23" 
+        reserveLink: "https://wa.link/umxo23",
         },
          { 
     name: "Abonament Yin Yoga",
@@ -60,7 +60,7 @@ Sistemul nervos parasimpatic se activează (starea de „rest and digest"), ceea
         ], 
         price: "230 lei", 
         duration: "4 x 75 min", 
-        reserveLink: "https://wa.link/umxo23" 
+        reserveLink: "https://wa.link/umxo23",
         },
               { 
     name: "Abonament Yin Yoga",
@@ -85,7 +85,7 @@ Sistemul nervos parasimpatic se activează (starea de „rest and digest"), ceea
         ], 
         price: "390 lei", 
         duration: "8 x 75 min", 
-        reserveLink: "https://wa.link/umxo23" 
+        reserveLink: "https://wa.link/umxo23", 
         },
   ]
 location: "Harmonia Terra - Strada Cercului 18, București" #optional
