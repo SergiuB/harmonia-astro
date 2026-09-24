@@ -238,7 +238,7 @@ services:
       "*Unused sessions cannot be carried over after the membership expires.",
     ],
   isGroup: true,
-  price: "3360lei",
+  price: "~4200lei~ *3360lei*",
   duration: "6 x 120min",
   reserveLink: "https://wa.link/lwa3wa",
 },
