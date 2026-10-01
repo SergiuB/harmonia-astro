@@ -21,7 +21,7 @@ services:
       isGroup: true,
       price: "300lei",
       duration: "60min",
-      reserveLink: "https://app.simplymeet.me/dragoscrisan/dragoscrisan-90-1762357083469",
+      reserveLink: "https://wa.link/egy5iv,
     },
     {
       name: "Workshop Constelații familiale și sistemice",
@@ -57,7 +57,7 @@ services:
           isGroup: true,
       price: "600lei",
       duration: "150min",
-      reserveLink: "https://app.simplymeet.me/dragoscrisan/1772036607",
+      reserveLink: "https://wa.link/egy5iv",
     },
   ]
 location: "Harmonia Terra - Strada Cercului 18" #optional
