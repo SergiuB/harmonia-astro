@@ -21,7 +21,7 @@ services:
       isGroup: true,
       price: "300lei",
       duration: "60min",
-      reserveLink: "https://wa.link/egy5iv,
+      reserveLink: "https://wa.link/egy5iv",
     },
     {
       name: "Workshop Constelații familiale și sistemice",
