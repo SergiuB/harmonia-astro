@@ -39,7 +39,7 @@ services:
       isGroup: true,
       price: "400 lei",
       duration: "1 day / 10:00 - 18:00",
-      reserveLink: "https://app.simplymeet.me/dragoscrisan/1770058491",
+      reserveLink: "https://wa.link/56cs8x",
     },
     {
       name: "Individual Family & Systemic Constellations Session",
