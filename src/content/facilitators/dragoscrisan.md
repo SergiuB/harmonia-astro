@@ -39,7 +39,7 @@ services:
           isGroup: true,
       price: "400lei",
       duration: "1 zi / 10:00 - 18:00",
-      reserveLink: "https://app.simplymeet.me/dragoscrisan/1770058491",
+      reserveLink: "https://wa.link/egy5iv",
     },
      {
       name: "Sesiune individuală de Constelații familiale și sistemice",
