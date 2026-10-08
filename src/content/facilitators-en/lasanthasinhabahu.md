@@ -11,6 +11,7 @@ services:
       summary: "Massage : Full Body",
       description:
         [
+        "The treatment begins with a foot care ritual: the feet are gently soaked and cleansed in water, followed by a delicate sea salt exfoliation. The feet are then rinsed and carefully dried, preparing the body for the therapy that follows.",
           "A deep and focused massage designed to release muscular tension, work on deeper layers of muscle and fascia, and support the body in letting go of accumulated tension.",
         ],
            isGroup: true,
@@ -23,6 +24,7 @@ services:
       summary: "Massage : Full Body",
       description:
         [
+                "The treatment begins with a foot care ritual: the feet are gently soaked and cleansed in water, followed by a delicate sea salt exfoliation. The feet are then rinsed and carefully dried, preparing the body for the therapy that follows.",
           "A relaxing full-body massage designed to help release accumulated stress and tension, encouraging a deeper sense of relaxation and balance.",
         ],
            isGroup: true,
@@ -35,6 +37,7 @@ services:
       summary: "Massage : Full Body",
       description:
         [
+                "The treatment begins with a foot care ritual: the feet are gently soaked and cleansed in water, followed by a delicate sea salt exfoliation. The feet are then rinsed and carefully dried, preparing the body for the therapy that follows.",
           "A signature full-body treatment combining therapeutic and relaxing massage techniques, adapted to the body's needs to create a balanced and restorative experience.",
         ],
            isGroup: true,
@@ -47,6 +50,7 @@ services:
       summary: "Massage : Feet",
       description:
         [
+                "The treatment begins with a foot care ritual: the feet are gently soaked and cleansed in water, followed by a delicate sea salt exfoliation. The feet are then rinsed and carefully dried, preparing the body for the therapy that follows.",
           "A dedicated foot massage designed to release tension, stimulate the feet and provide a deeply relaxing experience. The treatment begins with a gentle foot ritual.",
         ],
            isGroup: true,
