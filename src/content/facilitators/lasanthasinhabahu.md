@@ -11,8 +11,8 @@ services:
       summary: "Masaj : Întregul corp",
       description:
         [
-          "Un masaj profund și concentrat, conceput pentru a elibera tensiunea musculară, a lucra asupra straturilor profunde ale mușchilor și fasciei și a ajuta corpul să elibereze tensiunea acumulată.",
-          "Fiecare tratament începe cu un ritual de îngrijire și pregătire a picioarelor. Tălpile sunt înmuiate și curățate în apă, apoi uscate cu grijă. Urmează o exfoliere delicată cu sare de mare, după care picioarele sunt clătite și uscate. Ritualul pregătește corpul pentru terapia care urmează.",
+          "Acest tratament începe cu un ritual de îngrijire și pregătire a picioarelor. Tălpile sunt înmuiate și curățate în apă, apoi uscate cu grijă. Urmează o exfoliere delicată cu sare de mare, după care picioarele sunt clătite și uscate. Ritualul pregătește corpul pentru terapia care urmează.",
+              "Un masaj profund și concentrat, conceput pentru a elibera tensiunea musculară, a lucra asupra straturilor profunde ale mușchilor și fasciei și a ajuta corpul să elibereze tensiunea acumulată.",
         ],
            isGroup: true,
               price: "400lei",
@@ -24,8 +24,8 @@ services:
       summary: "Masaj : Întregul corp",
       description:
         [
-          "Un masaj relaxant pentru întregul corp, conceput pentru a ajuta la eliberarea stresului și a tensiunii acumulate, susținând o stare profundă de relaxare și echilibru.",
-          "Fiecare tratament începe cu un ritual de îngrijire și pregătire a picioarelor. Tălpile sunt înmuiate și curățate în apă, apoi uscate cu grijă. Urmează o exfoliere delicată cu sare de mare, după care picioarele sunt clătite și uscate. Ritualul pregătește corpul pentru terapia care urmează.",
+          "Acest tratament începe cu un ritual de îngrijire și pregătire a picioarelor. Tălpile sunt înmuiate și curățate în apă, apoi uscate cu grijă. Urmează o exfoliere delicată cu sare de mare, după care picioarele sunt clătite și uscate. Ritualul pregătește corpul pentru terapia care urmează.",
+            "Un masaj relaxant pentru întregul corp, conceput pentru a ajuta la eliberarea stresului și a tensiunii acumulate, susținând o stare profundă de relaxare și echilibru.",
         ],
            isGroup: true,
               price: "375lei",
@@ -37,8 +37,8 @@ services:
       summary: "Masaj : Întregul corp",
       description:
         [
-          "Un tratament Signature pentru întregul corp, care combină tehnici de masaj terapeutic și de relaxare, adaptate nevoilor corpului pentru a crea o experiență echilibrată și regeneratoare.",
-                    "Fiecare tratament începe cu un ritual de îngrijire și pregătire a picioarelor. Tălpile sunt înmuiate și curățate în apă, apoi uscate cu grijă. Urmează o exfoliere delicată cu sare de mare, după care picioarele sunt clătite și uscate. Ritualul pregătește corpul pentru terapia care urmează.",
+                    "Acest tratament începe cu un ritual de îngrijire și pregătire a picioarelor. Tălpile sunt înmuiate și curățate în apă, apoi uscate cu grijă. Urmează o exfoliere delicată cu sare de mare, după care picioarele sunt clătite și uscate. Ritualul pregătește corpul pentru terapia care urmează.",
+                          "Un tratament Signature pentru întregul corp, care combină tehnici de masaj terapeutic și de relaxare, adaptate nevoilor corpului pentru a crea o experiență echilibrată și regeneratoare.",
         ],
            isGroup: true,
               price: "350lei",
@@ -50,8 +50,8 @@ services:
       summary: "Masaj : Picioare",
       description:
         [
-          "Un masaj dedicat picioarelor, conceput pentru a elibera tensiunea, a stimula picioarele și a oferi o experiență profund relaxantă. Tratamentul începe cu un ritual delicat pentru picioare.",
-                    "Fiecare tratament începe cu un ritual de îngrijire și pregătire a picioarelor. Tălpile sunt înmuiate și curățate în apă, apoi uscate cu grijă. Urmează o exfoliere delicată cu sare de mare, după care picioarele sunt clătite și uscate. Ritualul pregătește corpul pentru terapia care urmează.",
+                    "Acest tratament începe cu un ritual de îngrijire și pregătire a picioarelor. Tălpile sunt înmuiate și curățate în apă, apoi uscate cu grijă. Urmează o exfoliere delicată cu sare de mare, după care picioarele sunt clătite și uscate. Ritualul pregătește corpul pentru terapia care urmează.",
+                          "Un masaj dedicat picioarelor, conceput pentru a elibera tensiunea, a stimula picioarele și a oferi o experiență profund relaxantă. Tratamentul începe cu un ritual delicat pentru picioare.",
         ],
            isGroup: true,
               price: "460lei",
