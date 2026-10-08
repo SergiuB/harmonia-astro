@@ -94,8 +94,8 @@ services:
 location: "Harmonia Terra" #optional
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
 contact: {
-    email: "", #optional
-    phone: "",
+    email: "contact@harmoniaworld.org", #optional
+    phone: "+40 745 255 365",
     instagram: "", #optional
   }
 ---
