@@ -32,7 +32,7 @@ services:
           "🔁 Recommended frequency: 1 session/week or every 2 weeks",
         ],
       isGroup: true,
-      price: "300 lei",
+      price: "280 lei",
       duration: "45min+",
       reserveLink: "https://wa.link/4qcqs2",
     },
