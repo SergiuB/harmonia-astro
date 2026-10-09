@@ -32,7 +32,7 @@ services:
           "🔁 Frecvență recomandată: 1 sesiune/săptămână sau la 2 săptămâni",
         ],
       isGroup: true,
-      price: "300lei",
+      price: "280lei",
       duration: "45min+",
       reserveLink: "https://wa.link/4qcqs2",
     },
