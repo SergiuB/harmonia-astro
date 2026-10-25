@@ -262,7 +262,7 @@ services:
 location: "Harmonia Terra - Strada Cercului 18 / Sambodhi Studio - Strada Popa Rusu, Bucharest" #optional
 locationUrl: "https://maps.app.goo.gl/pc7JtBoy2rN24LvGA" #optional
 contact: {
-    email: "karmina_me@yahoo.com", #optional
+    email: "into_harmony@protonmail.com", #optional
     phone: "0748557325",
     instagram: "https://www.instagram.com/alina._.carmina?igsh=ZG16MjdrejZ0bzAx&utm_source=qr",
     facebook: "https://www.facebook.com/carmin.carmi",
