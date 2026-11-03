@@ -1,6 +1,6 @@
 ---
 name: "Lasantha Sinhabahu"
-featuredIndex: 4
+featuredIndex: 5
 images: ["../images/lasantha/lasantha.png"]
 tags: ["Terapeut Spa", "Maseur"]
 activities: ["masaj"]
