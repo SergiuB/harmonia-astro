@@ -155,6 +155,10 @@
     "id": "reiki",
     "nameKey": "activity.reiki"
   },
+    {
+    "id": "reflexoterapie",
+    "nameKey": "activity.reflexoterapie"
+  },
   {
     "id": "scanare-zyto",
     "nameKey": "activity.scanareZyto"
