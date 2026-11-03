@@ -18,7 +18,7 @@ services:
       isGroup: true,
       price: "400lei",
       duration: "90min",
-      reserveLink: "https://wa.link/b7xy94",
+      reserveLink: "https://wa.link/clsypt",
     },
     {
       name: "Reflexoterapie + Masaj Întregul Corp + Terapie Manuală",
@@ -32,7 +32,7 @@ services:
       isGroup: true,
       price: "500lei",
       duration: "120min",
-      reserveLink: "https://wa.link/b7xy94",
+      reserveLink: "https://wa.link/clsypt",
     },
     {
       name: "Relaxare Musculară Profundă a Spatelui",
@@ -46,7 +46,7 @@ services:
       isGroup: true,
       price: "300lei",
       duration: "50min",
-      reserveLink: "https://wa.link/b7xy94",
+      reserveLink: "https://wa.link/clsypt",
     },
     {
       name: "Masaj Întregul Corp",
@@ -60,7 +60,7 @@ services:
       isGroup: true,
       price: "400lei",
       duration: "90min",
-      reserveLink: "https://wa.link/b7xy94",
+      reserveLink: "https://wa.link/clsypt",
     },
     {
       name: "Reflexoterapie",
@@ -74,7 +74,7 @@ services:
       isGroup: true,
       price: "300lei",
       duration: "60min",
-      reserveLink: "https://wa.link/b7xy94",
+      reserveLink: "https://wa.link/clsypt",
     },
   ]
 location: "Harmonia Terra, București | Constanța, România" #optional
