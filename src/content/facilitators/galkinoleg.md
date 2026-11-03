@@ -1,7 +1,7 @@
 ---
 name: "Oleg Galkin"
 featuredIndex: 4
-images: ["../images/oleg.png"]
+images: ["../images/oleg/oleg.png"]
 tags: ["Kinesiolog Aplicat", "Terapeut Manual", "Instructor SJ-DTR"]
 activities: ["masaj", "alte-servicii","masaj-holistic","reflexoterapie"]
 services:
